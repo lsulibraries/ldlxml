@@ -19,14 +19,13 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-                
+
                 <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
                     <xsl:apply-templates select="title"/>
                     <xsl:apply-templates select="photographer"/>
                     <xsl:element name="originInfo">
                         <xsl:apply-templates select="date"/>
                     </xsl:element>
-                    <!--<xsl:call-template name="virtual"/>-->
                     <xsl:apply-templates select="physical-description"/>
                     <xsl:apply-templates select="subjects"/>
                     <xsl:call-template name="recordInfo"/>
@@ -45,23 +44,7 @@
         </xsl:element>
     </xsl:template>
 
-    <xsl:template name="virtual">
-        <xsl:element name="relatedItem">
-            <!-- see the following for an example http://library.princeton.edu/departments/tsd/metadoc/mods/relateditem.html           -->
-            <xsl:attribute name="type">host</xsl:attribute>
-            <xsl:element name="typeOfResource">
-                <xsl:attribute name="collection">yes</xsl:attribute>still image</xsl:element>
-            <xsl:element name="titleInfo">
-                <xsl:attribute name="type">uniform</xsl:attribute>
-                <xsl:attribute name="authority">?????</xsl:attribute>
-                <xsl:element name="title">
-                    <xsl:value-of select="digital-collection"/>
-                </xsl:element>
-            </xsl:element>
-        </xsl:element>
-    </xsl:template>
-
-    <xsl:template match="physical-description">
+      <xsl:template match="physical-description">
         <!--this section may need to recoded based on the structure of each collections' physical description field-->
         <xsl:element name="physicalDescription">
             <xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+);\s?([0-9\sa-zA-Z.&quot;]+)'"/>
