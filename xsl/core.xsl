@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
-    <xsl:output indent="yes"/>
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
+    xmlns="http://www.loc.gov/mods/v3">
 
-    <xsl:template match="/">
-        <xsl:element name="modsCollection">
-            <xsl:apply-templates/>
-        </xsl:element>
-    </xsl:template>
+    <xsl:output indent="yes"/>
+    
     <xsl:template match="/records">
         <xsl:apply-templates/>
     </xsl:template>
 
     <xsl:template match="record">
-        <xsl:element name="mods">
-            <xsl:apply-templates select="title"/>
-            <xsl:apply-templates select="photographer"/>
-            <xsl:call-template name="src"/>
-            <!--<xsl:call-template name="virtual"/>-->
-            <xsl:apply-templates select="physical-description"/>
-            <xsl:apply-templates select="subjects"/>
-            <xsl:call-template name="recordInfo"/>
-            <xsl:call-template name="access"/>
-            <xsl:call-template name="location"/>
-        </xsl:element>
+        <xsl:result-document method="xml" href="{item-number}_{title}.xml">
+            <modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                
+                <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
+                    <xsl:apply-templates select="title"/>
+                    <xsl:apply-templates select="photographer"/>
+                    <xsl:call-template name="src"/>
+                    <!--<xsl:call-template name="virtual"/>-->
+                    <xsl:apply-templates select="physical-description"/>
+                    <xsl:apply-templates select="subjects"/>
+                    <xsl:call-template name="recordInfo"/>
+                    <xsl:call-template name="access"/>
+                    <xsl:call-template name="location"/>
+                </xsl:element>
+            </modsCollection>
+        </xsl:result-document>
     </xsl:template>
 
     <xsl:template match="title">
         <xsl:element name="titleInfo">
             <xsl:element name="title">
-                <xsl:value-of select="replace(., '(\s\s+)', ' ')"/>
+                <xsl:value-of select="replace(., '(\s\s+)', 'SplitMods.xsl ')"/>
             </xsl:element>
         </xsl:element>
     </xsl:template>
