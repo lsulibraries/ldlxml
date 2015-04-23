@@ -13,12 +13,11 @@
          <namePart type="date">1833-1917</namePart>
          <role>
             <roleTerm type="code" authority="marcrelator">pht</roleTerm>
-            <roleTerm type="text" authority="marcrelator">Photographer
-                        </roleTerm>
+            <roleTerm type="text" authority="marcrelator">Photographer </roleTerm>
          </role>
       </name>
       <originInfo>
-         <dateCreated>1889</dateCreated>
+         <dateCreated>1890-1899</dateCreated>
       </originInfo>
       <physicalDescription>
          <note type="content">1 photographic print on cabinet card</note>
@@ -30,7 +29,7 @@
       <subject>
          <topic authority="LoC">African Americans--Photographs.</topic>
       </subject>
-      <identifier>511303</identifier>
+      <identifier>511307</identifier>
       <note type="ownership">Louisiana State University Libraries, Special Collections
             (http://www.lib.lsu.edu/special).</note>
       <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright of the original
