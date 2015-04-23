@@ -150,5 +150,4 @@
     <xsl:template match="date-created"/>
     <xsl:template match="date-modified"> </xsl:template>
 
-    
 </xsl:stylesheet>
