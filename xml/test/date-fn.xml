@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dates>
+
+    <date>2014</date>
+    
+    <date>2014?</date>
+    <date>2014-?</date>
+    <date>2014-2015</date>
+    <date>2014-2015?</date>
+    
+    <date>2014, 2015-2016</date>
+    <date>2014, 2015-2016?</date>
+    
+    <date>2014-2015,n.d.</date>
+    <date>2014-2015, n.d.</date>
+    <date>2014-2015, Unknown</date>
+    <date>2014-2015, Unknown date</date>
+    <date>01/1999</date>
+
+    <!--    should all fail-->
+<!--    <date>Unknown</date>
+    <date>Unknown date between 2015-2020</date>
+    <date>approximately 2015</date>
+    <date>01/199</date>
+    <date>unknown</date>
+    <date>N.D.</date>
+    <date>Unknown date</date>
+    <date>Unknown Date</date>
+    <date>unknown date</date>
+    <date>unknown Date</date>
+    <date>n.d.</date>-\->-->
+</dates>
