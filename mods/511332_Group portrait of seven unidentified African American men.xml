@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Group portrait of seven unidentified African American men</title>
+      </titleInfo>
+      <name>
+         <namePart>Porter's News Photos (New Orleans, La.)</namePart>
+      </name>
+      <originInfo>
+         <dateCreated encoding="w3cdtf" keyDate="yes">1945-1955</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 Photograph</note>
+         <form>Photograph/Pictorial Works</form>
+      </physicalDescription>
+      <typeOfResource>still image</typeOfResource>
+      <subject>
+         <topic authority="LoC">African Americans--Photographs.</topic>
+      </subject>
+      <identifier>511332</identifier>
+      <note type="ownership">Louisiana State University Libraries, Special Collections
+            (http://www.lib.lsu.edu/special).</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright of the original
+            material is retained in accordance with U.S. copyright laws. Permission to reproduce
+            this image must be requested through the Special Collections Division, Louisiana State
+            University Libraries.</accessCondition>
+      <accessCondition type="use and reproduction">E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this image here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the 'Item number' or
+            'Item URL' in your request.</accessCondition>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>M:22</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

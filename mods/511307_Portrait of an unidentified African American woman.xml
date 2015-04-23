@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Portrait of an unidentified African American woman</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lytle, Andrew David</namePart>
+         <namePart type="date">1833-1917</namePart>
+         <role>
+            <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+            <roleTerm type="text" authority="marcrelator">Photographer
+                        </roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated encoding="w3cdtf" keyDate="yes">1890-1899</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 photographic print on cabinet card</note>
+         <extent>10 x 15
+            cm</extent>
+         <form>Photograph/Pictorial Works</form>
+      </physicalDescription>
+      <typeOfResource>still image</typeOfResource>
+      <subject>
+         <topic authority="LoC">African Americans--Photographs.</topic>
+      </subject>
+      <identifier>511307</identifier>
+      <note type="ownership">Louisiana State University Libraries, Special Collections
+            (http://www.lib.lsu.edu/special).</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright of the original
+            material is retained in accordance with U.S. copyright laws. Permission to reproduce
+            this image must be requested through the Special Collections Division, Louisiana State
+            University Libraries.</accessCondition>
+      <accessCondition type="use and reproduction">E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this image here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the 'Item number' or
+            'Item URL' in your request.</accessCondition>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>M:22</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>
