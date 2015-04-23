@@ -2,14 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:lsu="http://lsu.edu"
+    xmlns="http://www.loc.gov/mods/v3"
     exclude-result-prefixes="xs"
     version="2.0">
-
-    <xsl:template match="/">
-        <xsl:element name="dates">
-            <xsl:apply-templates/>
-        </xsl:element>
-    </xsl:template>
 
     <xsl:template match="date">
         <xsl:variable name="raw" select="."/>
@@ -69,8 +64,8 @@
                         <xsl:analyze-string select="$lsu:date-lower" regex="{$lsu:date-incl-nd}">
                             <xsl:matching-substring>
                                 <xsl:element name="dateCreated">
-                                    <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
-                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
+                                    <!--<xsl:attribute name="encoding">w3cdtf</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>-->
                                     <xsl:value-of select="regex-group(1)"/>
                                     <xsl:value-of>?-</xsl:value-of>
                                     <xsl:value-of select="regex-group(2)"/>
@@ -83,8 +78,8 @@
                         <xsl:analyze-string select="$lsu:date-lower" regex="{$lsu:date-incl-unk}">
                             <xsl:matching-substring>
                                 <xsl:element name="dateCreated">
-                                    <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
-                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
+                                    <!--<xsl:attribute name="encoding">w3cdtf</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>-->
                                     <xsl:value-of select="regex-group(1)"/>
                                     <xsl:value-of>?-</xsl:value-of>
                                     <xsl:value-of select="regex-group(2)"/>

@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
     xmlns="http://www.loc.gov/mods/v3">
+    <xsl:import href="util-date.xsl"/>
 
     <xsl:output indent="yes"/>
     
@@ -147,22 +148,12 @@
                         <xsl:element name="namePart">
                             <xsl:value-of select="."/>
                         </xsl:element>
-
                     </xsl:if>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:element>
     </xsl:template>
 
-
-
-    <!-- not needed if creator defines type (as in photographer=still image
-    <xsl:template match="type">
-        <xsl:element name="typeOfResource">
-            <xsl:value-of select="."/>
-        </xsl:element>
-    </xsl:template>
--->
     <xsl:template match="subjects">
         <xsl:for-each select="tokenize(.,';')">
             <xsl:element name="subject">
@@ -173,40 +164,6 @@
             </xsl:element>
         </xsl:for-each>
        
-    </xsl:template>
-<!-- Make sure this works with all possible date formats/ranges -->
-    <xsl:template match="date">
-        <xsl:variable name="regex" select="'([0-9]+)-([0-9]+),\s?(n.d.)'"/>
-
-        <xsl:choose>
-            <xsl:when test="matches(., $regex)">
-
-                <xsl:variable name="dateform" select="."/>
-
-                <xsl:analyze-string select="$dateform" regex="{$regex}">
-
-                    <xsl:matching-substring>
-                        <dateCreated>
-                            <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
-                            <xsl:attribute name="keyDate">yes</xsl:attribute>
-                            <xsl:value-of select="regex-group(1)"/>
-                            <xsl:value-of>?-</xsl:value-of>
-                            <xsl:value-of select="regex-group(2)"/>
-                            <xsl:value-of>?</xsl:value-of>
-                        </dateCreated>
-
-                    </xsl:matching-substring>
-                </xsl:analyze-string>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:element name="dateCreated">
-                    <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
-                    <xsl:attribute name="keyDate">yes</xsl:attribute>
-                    <xsl:value-of select="."/>
-                </xsl:element>
-
-            </xsl:otherwise>
-        </xsl:choose>
     </xsl:template>
 
     <xsl:template name="access">

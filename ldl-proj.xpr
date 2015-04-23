@@ -10,6 +10,36 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/_core.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>core</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/util-date.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>date-fn1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/core.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -25,11 +55,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xml/Mingoexport.xml</String>
+                                    <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/test/util-date.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Mingoexport</String>
+                                        <String>date-fn1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -45,6 +75,21 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>date-fn1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../../../../../../../media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xml/Mingoexport.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Mingoexport</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -182,7 +227,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/test/date-fn.xsl</String>
+                                    <String>file:/media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xsl/util-date.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>file:/media/jpeak5/S/Departments/Digital%20Services/Internal/LDL/ldlxml/xml/test/date-fn.xml</String>
