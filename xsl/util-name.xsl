@@ -23,29 +23,61 @@
     
     <xsl:template name="lsu:namePart">
         <xsl:param name="rawName" as="xs:string"/>
-        
+        <xsl:variable name="lsu:lower" select="lower-case(.)"/>
+        <xsl:variable name="lsu:family-in-name" select="'family'"/>
+        <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
+        <xsl:choose>
+            <xsl:when test="matches($lsu:lower,$lsu:family-in-name)">
+                <name type="family">
+                    <namePart>
+                        <xsl:value-of select="."/>
+                    </namePart>
+                </name>
+            </xsl:when>
+            <xsl:when test="lsu:two-words"></xsl:when>
         <!--   Separate family names from other types of name (if = family)-->
         <!--   Fix this (copied from util-date). These values are invalid and should throw an error     -->
-        <xsl:variable name="lsu:nd-strict"       select="'^n\.d\.$'"/>
-        <xsl:variable name="lsu:unk-strict"      select="'^unknown$'"/>
-        <xsl:variable name="lsu:unk-date-strict" select="'^unknown date$'"/>
-        <xsl:variable name="lsu:unk-date-leading-zero"   select="'^0.{1,5}$'"/>
-        
-        
-        <xsl:choose>
-            <xsl:when test="matches($lsu:date-lower, $lsu:nd-strict) or 
-                matches($lsu:date-lower, $lsu:unk-strict) or 
-                matches($lsu:date-lower, $lsu:unk-date-strict) or
-                matches($lsu:date-lower, $lsu:unk-date-leading-zero)"
-                >
-                <xsl:value-of select="error(QName('http://lib.lsu.edu', 'Source metadata missing date.'))"/>
-            </xsl:when>
         </xsl:choose>
-        <!--  end error block-->
-    <!-- Separate family names from other types of name (if = family)-->
     
     <!-- Separate corportate names with multiple words from other names (if [word] /s [word)=corporate) -->
     
     <!-- If personal, do this...-->
-    
+            <xsl:variable name="regex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
+            
+            <xsl:choose>
+                <xsl:when test="matches(., $regex)">
+                    <xsl:attribute name="type">personal</xsl:attribute>
+                    <xsl:attribute name="usage">primary</xsl:attribute>
+                    <xsl:variable name="photog" select="."/>
+                    
+                    <xsl:analyze-string select="$photog" regex="{$regex}">
+                        
+                        <xsl:matching-substring>
+                            <namePart>
+                                <xsl:value-of select="regex-group(1)"/>
+                            </namePart>
+                            <namePart type="date">
+                                <xsl:value-of select="regex-group(2)"/>
+                            </namePart>
+                        </xsl:matching-substring>
+                    </xsl:analyze-string>
+                    <xsl:element name="role">
+                        <xsl:element name="roleTerm">
+                            <xsl:attribute name="type">code</xsl:attribute>
+                            <xsl:attribute name="authority">marcrelator</xsl:attribute>pht</xsl:element>
+                        <xsl:element name="roleTerm">
+                            <xsl:attribute name="type">text</xsl:attribute>
+                            <xsl:attribute name="authority">marcrelator</xsl:attribute>Photographer </xsl:element>
+                    </xsl:element>
+                    
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:if test="compare(upper-case(.), 'Unknown')">
+                        <xsl:element name="namePart">
+                            <xsl:value-of select="."/>
+                        </xsl:element>
+                    </xsl:if>
+                </xsl:otherwise>
+            </xsl:choose>
+    </xsl:template>
 </xsl:stylesheet>
