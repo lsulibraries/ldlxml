@@ -27,9 +27,7 @@
                 <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
                     <xsl:apply-templates select="title"/>
                     <xsl:apply-templates select="photographer"/>
-                    <xsl:element name="originInfo">
-                        <xsl:call-template name="date"/>
-                    </xsl:element>
+                    <xsl:call-template name="originInfo"/>
                     <xsl:apply-templates select="physical-description"/>
                     <xsl:apply-templates select="subjects"/>
                     <xsl:call-template name="recordInfo"/>
@@ -152,6 +150,7 @@
     <xsl:template match="item-url"/> 
     <xsl:template match="collection-url"/> 
     <xsl:template match="date-created"/>
+    <xsl:template name="originInfo"/>
     <xsl:template match="date-modified"> </xsl:template>
 
 </xsl:stylesheet>
