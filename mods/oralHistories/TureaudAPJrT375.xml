@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <mods>
+        <titleInfo>
+            <title>LSU History Oral History Project: Integration at LSU</title>
+            <subTitle>Alexander Pierre Tureaud Jr. oral history interview, 1993</subTitle>
+        </titleInfo>
+        <name type="personal" usage="primary">
+            <namePart>Tureaud, Alexander Pierre</namePart>
+            <namePart type="date">1935 or 6-</namePart>
+            <role>
+                <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+                <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            </role>
+            <description>Alexander Pierre Tureaud Jr. is one of six children born to Alexander
+                Pierre Tureaud Sr. and Lucille Dejoie Tureaud. He attended Joseph S. Clark High School
+                in New Orleans and attempted to enroll at Louisiana State University in 1953, but his
+                application was denied because he was African American. His father, a prominent civil
+                rights attorney, filed suit against the university to have him admitted. Tureaud became
+                the first African American to enroll at Louisiana State University as an undergraduate.
+                He attended LSU for six weeks until the ruling was overturned and he was forced to leave
+                the university. He finished college at Xavier University and became an educator in New
+                York.</description>
+        </name>
+        <name type="personal">
+            <namePart>Emanuel-Wallace, Rachel</namePart>
+            <role>
+                <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+                <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <dateCreated>1993</dateCreated>
+        </originInfo>
+        <physicalDescription>
+            <form>1 sound cassette</form>
+            <extent>(1 hour, 7 minutes)</extent>
+        </physicalDescription>
+        <physicalDescription>
+            <form>Abstract</form>
+            <extent>
+                2 leaves
+            </extent>
+        </physicalDescription>
+        <physicalDescription>
+            <form>Transcript</form>
+            <extent>
+                32 leaves
+            </extent>
+        </physicalDescription>
+        <typeOfResource>sound recording</typeOfResource>
+        <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/integration/Tureaud_A.P._Jr._T375.abs.pdf">Tureaud discusses the six weeks he spent as an undergraduate at Louisiana State
+            University in 1953 including his father's legal proceedings to have him admitted, the
+            treatment he faced from students and professors, his disappointment in missing out on a
+            typical college experience, and his loneliness and isolation while at LSU. He recounts
+            many specific instances of racism, harassment, and discrimination, but also discusses
+            some positive moments.</abstract>
+        <subject>
+            <topic>Tureaud, Alexander Pierre, 1935 or 6---Interviews.</topic>
+            <topic>Tureaud, Alexander Pierre, 1899-1972.</topic>
+            <topic>Louisiana State University and Agricultural and Mechanical College--Students.</topic>
+            <topic>African American college students--Louisiana--Baton Rouge.</topic>
+            <topic>College students--Louisiana--Baton Rouge--Social life and customs.</topic>
+            <topic>College integration--Louisiana--Baton Rouge.</topic>
+            <topic>African Americans--Civil rights--Louisiana--Baton Rouge.</topic>
+            <topic>African Americans--Segregation--Louisiana--Baton Rouge.</topic>
+            <topic>African Americans--Louisiana--Baton Rouge--Social conditions--To 1964.</topic>
+            <topic>Civil rights movements--Louisiana--Baton Rouge.</topic>
+        </subject>
+        <identifier>Mss. 4700.0245</identifier>
+        <note type="ownership">Louisiana State University Libraries, Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+        <accessCondition type="restriction on access">Physical rights are retained by the LSU
+            Libraries. Copyright is retained by Louisiana State University in accordance with U.S.
+            copyright laws.</accessCondition>
+        <accessCondition type="use and reproduction">E-mail lsudiglib@lsu.edu with questions or
+            comments. See instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the 'Item number' or
+            'Item URL' in your request.</accessCondition>
+        <location>
+            <physicalLocation>LUU</physicalLocation>
+            <physicalLocation>LSU Libraries</physicalLocation>
+            <url>http://www.lib.lsu.edu</url>
+            <holdingSimple>
+                <copyInformation>
+                    <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+                    <shelfLocator>L:4700.0245</shelfLocator>
+                </copyInformation>
+            </holdingSimple>
+        </location>
+    </mods>
+</modsCollection>

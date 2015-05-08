@@ -6,7 +6,10 @@
     exclude-result-prefixes="xs"
     version="2.0">
 
-    <xsl:template match="date">
+    <xsl:template name="date">
+        <!-- will sometimes need to be changed to match "dateCreated" or other date field name ???
+        other option is to get rid of this and instead tell the collection-specific xslt which fields to apply this to,
+        like we were planning to do with the name fields-->
         <xsl:variable name="raw" select="."/>
         <xsl:message>
             Processing date:

@@ -6,15 +6,19 @@
     <!--  imports   -->
     <xsl:import href="util-date.xsl"/>
     <xsl:import href="util-photographer.xsl"/>
-    
     <xsl:output indent="yes"/>
     
     <xsl:template match="/records">
         <xsl:apply-templates/>
     </xsl:template>
-
+<xsl:template name="filename"/>
     <xsl:template match="record">
-        <xsl:result-document method="xml" href="{item-number}_{title}.xml">
+        <xsl:variable name="filename-tmp">
+            <xsl:call-template name="filename"/>
+        </xsl:variable>
+        <!-- titles vary greatly from appropriate file names, so I removed this for testing 
+        <xsl:result-document method="xml" href="{item-number}_{title}.xml">-->
+        <xsl:result-document method="xml" href="{$filename-tmp}.xml">
             <modsCollection xmlns="http://www.loc.gov/mods/v3"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,7 +28,7 @@
                     <xsl:apply-templates select="title"/>
                     <xsl:apply-templates select="photographer"/>
                     <xsl:element name="originInfo">
-                        <xsl:apply-templates select="date"/>
+                        <xsl:call-template name="date"/>
                     </xsl:element>
                     <xsl:apply-templates select="physical-description"/>
                     <xsl:apply-templates select="subjects"/>

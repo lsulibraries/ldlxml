@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cues>
+
+    <!-- At least one 'transcript' or 'annotation' emlement must present in a 'cue' element. -->
+    <cue>
+        <speaker>Alexander P. Tureaud, Jr.</speaker>
+        <!-- 'start' and 'end' elements are start time and end time in seconds for the cue. -->
+        <start>0.000</start>
+        <end>?</end>
+        <transcript>I am A. P. Tureaud. South Salem, New York, and it's a beautiful sunny
+            day.</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+       <speaker> Rachel Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Interview with A. P. Tureaud, Jr., April 25, 1993.
+            You were the first [African American] student to be enrolled in the undergraduate
+            program at LSU [Louisiana State University] in Baton Rouge in 1953. How . . . Describe
+            the steps before you entered the campus.</transcript>
+        <annotation/>
+        </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>In terms of selection or in terms of
+            the legal procedures?</transcript>
+        </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Legal procedures.</transcript>
+        <annotation/>
+        </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>[0:54]</start>
+        <end>[2:50]</end>
+        <transcript>Well, as I recall . . . because that's been a long time ago. When I was a junior
+            . . . I'll make this sort of brief, but when I was a junior in high school, I had
+            dreamed of college from the time I was very little because my mom and dad talked about
+            the fun they had and their wonderful experiences at Howard [University]. And there was a
+            natural expectation that all of us would go to college. My oldest sister was in college
+            at Xavier [University]. I was the second child, so my turn was coming up. I was always
+            very sensitive to the fact that . . . I knew that although my father was a busy man and
+            had a . . . was known for his legal work, I always felt that there wasn't a lot of money
+            to spend, and he had to make do. So, I kept thinking about, well, what would be the
+            appropriate thing to do because I had another sister coming behind me in two years and
+            then there were three more behind her. So, I was always thinking what would be the best
+            college at the best price and so forth and so on. My dream, and I didn't say this to
+            anyone, may have been to go to Howard because they were both Howard graduates. But, I
+            had also always been involved with him. With all of the other cases that he petitioned
+            LSU for, he would always take us with him. You know, with the other law suits and we
+            were always around Southern's campus [Southern University] and always around LSU. He
+            used to say, "Boy, LSU is a wonderful school. Look at these buildings. Look at the
+            faculty. Look at . . . We should have some of this. We should be here!” You know, “Why
+            should this not be ours just as well? Why couldn't we benefit from these
+            things?"</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>[2:51]</start>
+        <end>?</end>
+        <transcript> So, I thought, well heck, the best school closest home to me is LSU, at a
+            terrific price. I could have gone to Xavier. I could have gone to Dillard [University].
+            I could have gone . . . I guess I could have even gone to Howard, but I didn't want to,
+            I guess, make it difficult for them financially. We never discussed it a lot. I just
+            said, "I’d like to apply to LSU." He never asked me. He never recruited me, and I don't
+            think he was displeased when I said it. When I said it, I didn't think it was going to
+            be an issue. My father always gave you the feeling that you could do what you wanted to
+            do and it was going to be okay. When I said, "Is this possible?" He said, "Oh yeah,
+            we'll work it out." And that was it. Being the person he was, we always worked it out,
+            or he always helped you work it out or made things possible. So I thought, well it'll be
+            a little problem for a few days and then it'll go away and I'll be able to go to LSU. We
+            were in New York. He filed the petition . . . I applied, he filed the petition, and we
+            were in New York at a Knights of Peter Claver, or some kind of business I know we were
+            on. Then the stuff hit the newspaper and we had to go back and start the trial. When I
+            was in high school, my guidance counselor heard that. He called me to the side one day.
+            He was a very nice man, Mr. Blakeley[?]. He said, "What is this a joke? [laughs] You're
+            applying to LSU?" I said, "No, it's not a joke."</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>What high school was that?</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>?</start>
+        <end>[5:00}</end>
+        <transcript>This was Clark. Joyce and Joseph Clark High School [Joseph S. Clark High School]
+            in New Orleans [Louisiana]. He had to work with all of the kids in their junior year to
+            get them ready for the senior year for applications. I told him, I said, "No it's not a
+            joke. I'm going to LSU." He said, "Well, you know the problems there?" I said, "Yeah,” I
+            said, “but things are changing,” and so forth. He knew my dad and so forth, so he
+            supported that. But, it wasn't a big deal. </transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker> Tureaud </speaker>
+        <start>[5:01]</start>
+        <end>?</end>
+        <transcript>I sent the papers in. Then, of course, I got the letter back that said they
+            wouldn't take me because I was a Negro or colored, and I should go to one of the black
+            state schools at the state . . . the excellent state schools for black kids and so
+            forth. That's how it got started. I really never felt it was a big deal. But, my father
+            never said, "Gee, we're proud . . . This is a big deal, we want you . . ." No, it was
+            just like, “Okay that's great." He never . . . He never made a big deal out of these
+            things. He felt that this is the course things should take. This is the way it should
+            happen. There wasn't a whole lot of discussion about it. We never discussed it a lot.
+            Even my mom never discussed it a whole lot. </transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Saying that you knew of his previous lawsuits against LSU, or Roy Wilson and
+            Daryle Foister and Lutrill Payne. Something . . . I mean, you knew that the
+            undergraduate programs had not been integrated. Because of your . . . seeing your dad
+            work, you don't think that had an influence on it? </transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Oh sure, yeah. I think by seeing it work . . . Also, I think [Ernest N. "Dutch"]
+            Morial and [Robert] Collins had also been admitted to law school, and some of the other
+            graduate programs people had . . . He had helped them get into graduate
+            school.</transcript>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Were you aware of, once these students were enrolled, of their contact with your
+            father on what . . . how things were going for them?</transcript>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>[6:42]</start>
+        <end>?</end>
+        <transcript>Oh yes, he constantly maintained contact with them. He would also drive up to
+            the campus if they were having problems of one kind or another and needed support. He
+            was more than . . . more than just their lawyer. He was like a support system. In some
+            ways, without sounding mushy, he was really like a parent supporting their kid in an
+            environment or young person in an environment. Because a lot of those graduate students
+            were well into their adulthood, they weren't right out of high school. He was very
+            supportive.</transcript>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>In other words, you had seen the campus. Now a student coming onto a college
+            campus, they do a visit. They go look at the dorms. They usually have tours, campus
+            tours. Of course, this is out now and even then for white students there was a staff
+            person or students on the campus that introduced you. When you were making your
+            selection, you had been on the campus before with your father, but, of course, these
+            courtesies weren't afforded to black students that may be thinking about coming to LSU.
+            What was your feeling when you arrived on the campus knowing that you were getting ready
+            to enroll in a program?</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>You mean prior to the legal . . . to the suit?</transcript>
+        <annotation/>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript> No after you were admitted.</transcript>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>?</start>
+        <end>?</end>
+        <transcript>Oh, after I was admitted, oh well . . . </transcript>
+    </cue>
+    <cue>
+        <speaker>Emanuel-Wallace</speaker>
+        <transcript>The first day.</transcript>
+    </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>[8:26]</start>
+        <transcript>Well that was a . . . That was horror story because what happened was, we packed
+            the car from New Orleans and you know the typical excitement. The other thing, too, is
+            that I didn't have the opportunity, as you said, to go . . . to be oriented, to be
+            recruited, and to be courted by the university or encouraged to come. It was, "No, don't
+            come. You're not welcome, go somewhere else," so that all of the other social amenities
+            and support systems that other students had, I didn't have. The only support system I
+            had were my parents, and they were right there. We loaded up the car with all the
+            typical things including a typewriter and a pillow and all that stuff, got to LSU, and
+            then were refused . . . I was refused admittance. They told me to come back the
+            following day, so I had to go all the way back. I don't remember now exactly why. There
+            was some legal glitch, or whatever. Also, I was met by the president of the university
+            or the chancellor, whatever he was called, and then the vice-president or the
+            vice-chancellor. You knew that you weren't going to be having a typical orientation. The
+            press was there to get the maximum amount of publicity out of it. It was . . . that was
+            the most difficult part was the beginning. We went back the next day and I was admitted.
+            I did live in the dormitory. The students did . . . had queued up outside of my room. I
+            had been escorted from the president's office to the stadium where I lived and . . .
+        </transcript>
+    </cue>
+    <cue>
+        <speaker> Emanuel-Wallace</speaker>
+        <start>?</start>
+        <end>10:27</end>
+        <transcript>By . . .</transcript>
+    </cue>
+    
+        <cue><speaker>Tureaud</speaker>
+        <start>[10:28]</start>
+        <transcript>By the president or the vice-president I
+            think it was . . . whatever. No policemen involved. When I got to the room they had
+            assigned me to, which was the top floor of the stadium, which was the third or fourth
+            floor up, there must have been fifty students standing, waiting outside of my door with
+            scissors to clip your hair. Because it . . . the freshmen thing is they cut all your
+            hair off. They were joking and laughing and carrying . . . having a good time. I
+            thought, oh, this is great. This is just what I wanted. I thought, they're going to be
+            my friends. They came in. My father was very excited. He thought this . . . We all
+            thought this was a welcome party. They came in a talked and cut my hair and talked,
+            joked to each other and so forth. After I thought about it, I realized they were not
+            talking to me, they were talking about me. It was like I was an inanimate object
+            [laughs] that they were performing this ritual on. I was trying to say, "Well, what's
+            your name?” and “Where do you eat?" And I . . . Well, they just ignored that. They were
+            just engaging with each other. I didn't realize it until after. Of course, I looked like
+            Ichabod Crane or some waif by the time they finished chopping all my hair off. I had to
+            go to a barber shop to have it evened out, and my parents took me. We found a barber
+            shop nearby. Of course, we realized there were white barber shops, so we had to find a
+            black barber shop in town. We went to a black barber shop, the guy buzzed my head
+            through. Then I went back. I was anxious to get back to the campus and find all of these
+            guys who had been cutting my hair and start making some friends. They were gone. They
+            were gone. The idea was, we did what we had to do and we're out of here. None of them
+            spoke to me and none of them acknowledged that they were there. I shooed my parents
+            away. "Oh go! Go home quick! I got to get back!” And, “All those guys are there, and I'm
+            going to start making friends." </transcript>
+        </cue>
+        <cue>
+            <speaker>Turead</speaker>
+            <start>[12:36]</start>
+            <transcript>When I got back to the room and when my parents dropped me off, I was
+                absolutely alone. That dormitory . . . the section I was in was totally deserted,
+                and I sat there like in a funk about, well, where did everybody go? I thought, well,
+                they probably had something to do, I must have missed some event or something and
+                maybe . . . Well no, I . . . that was a . . . That was a severe blow. Then as I
+                thought about it, they really didn't engage in any activity with me. That was . . .
+                That was hard. Then the next . . . I think it was the next day the vice-president
+                came around and said he was taking me to my classes to make sure that everything
+                would be okay. I said, "You don't have to do that." He said, "No it's . . . I'm
+                going to do this," and so forth and so on. "If you have any problems, come directly
+                to me." I kept saying to him, "Don't treat me this way. Just let me blend in and be
+                like everybody else." He did take me around, and I'm sure the professors didn't want
+                me in the class because I'm sure it was going to be disruptive. From that moment on,
+                the nightmare began. I was there, like, six weeks.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Did you know about the tradition of shaving . . . </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript>Yes. I knew about the head business. I had read all I could and I mean I had
+                . . . You know, LSU was always in the news. You always saw pictures of the pajama
+                parties for the freshmen at football games and all these traditions that they had
+                then and the little purple and gold beanies that they wore. I wanted to have mine. I
+                was very much into getting into the social activities of college life which I had
+                heard was so much fun because my parents were both in sororities and fraternities
+                and all the social . . . Everybody had always told you, "College is the best time of
+                your life. You grow so much. You learn so much." I was anticipating that in addition
+                to the academic stuff. But it just didn't happen. From that moment on, I realized
+                that I was in for a very unusual experience.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Describe your teachers, the professors.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[14:49]</start>
+            <transcript>Well, I remember I was taking liberal arts law, and I remember I was taking
+                Spanish, and I had math, and writing, and I was in the Air Force ROTC, which I chose
+                because I had to. I didn't have any interest in it. I remember I also was taking . .
+                . I had a physical education course. And, ugh, I had to pass . . . everybody had to
+                pass a swimming test. This was the old student union, I don't remember the name of
+                it, but it was an outdoor pool. You got directions on paper about doing everything.
+                You had to report . . . when you had your P.E. class, you had to report to the
+                swimming pool, and you had to either swim the pool successfully or you had to take
+                swimming. It was like a big deal, "First Black to Swim in Pool," [ laughs] splashed
+                all over the front pages of the . . . What's the school newspaper?</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>The Reveille.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> The Reveille, yeah. So every day . . . It must have been boring for some of
+                those students, there was something about this black undergraduate who was the first
+                to swim in the pool. Then there were things like people writing letters to the
+                editor because my dorm room was right across from where Mike the Tiger, the school
+                mascot's cage was because it was near the stadium, and somebody wrote an article,
+                "Let's have a Roman Holiday. We'll put Tureaud in the stadium and bring Mike in and
+                feed him to the lions.” That kind of thing, and a great deal of
+                isolation.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[16:25]</start>
+            <transcript>The professors were . . . It was like I didn't exist. One woman was
+                particularly awful. She was an older woman. She announced my first day that . . .
+                Not to me, she never . . . People talked about me as though, as I said, I was an
+                inanimate object. She said to her class this was the first time she had ever taught
+                a nigra. I was shocked. And she just didn't know how she was going to get through
+                this experience. She taught me math. Nobody sat near me. The kids sat all around me.
+                If I sat in the corner, they would move to the opposite side of the room. If I sat
+                in the middle, they would move to the sides. I never sat in the same place or
+                whatever. But it . . . You were just playing head trips all the time. You were
+                trying to figure out how you were going to make today work. It got to be very, very
+                lonely and depressing. Most of the professors just ignored me. One or two of them .
+                . . then this particular woman, she didn't even want to correct my papers. She
+                didn't want to touch the papers. I noticed that she would . . . It seemed that she
+                was being more critical. I guess in math you're either right or wrong, but she
+                seemed to be more critical of my work. I got some help with my math and before the
+                six weeks was over, did very well. I was doing very poorly in the beginning in the
+                math. I also had to partner up with somebody in gym because the first part of the
+                semester . . . I had passed the swimming test. We were playing racquet ball, and you
+                had to have a partner. I remember this guy . . . If they didn't . . . If the
+                professor or the teacher didn't mention my name, many of them didn't know who I was
+                because there were a lot of international students at LSU, and many of them looked
+                more swarthy than I did. Of course with your hair all shaved off you couldn't tell
+                too much anyway. I remember this guy standing next to me saying, "I've been looking
+                around here waiting for that nigger to come in, and I don't see him. I hope I don't
+                get him as my partner. My friends will give me a hard time." I said, "Well, there
+                are a few niggers here, but they're not black." He didn't know what I was talking
+                about. [Tureaud and Wallace laugh] He ended up getting me, and I don't know if he
+                ever heard the name. I wasn't going to say, "Well, I'm the black person here." I
+                just thought, "Goodness gracious, how long is it going to take for this to, for them
+                to get over this thing?"</transcript>
+        </cue> 
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[19:04]</start>
+            <transcript> But the professors were very disinterested, and nobody was supportive. The
+                only people that were supportive was the Newman Club, the Catholic Center. They made
+                contact with me and asked me to come over, and I'd go over once or twice a week, but
+                nobody in the dorm was. There was Dutch Morial and Robert Collins there. There was
+                also a few graduate students. There was a couple, a very wonderful couple, husband
+                and wife, that lived on campus, and they knew who I was and we made contact. She was
+                pregnant at the time, very pregnant. They were getting a master's. I used to pal
+                around with them. They lived in the Quonset huts they had on the back side of the
+                campus by the back . . . by the stadium. There were two apartments in a Quonset hut,
+                back-to-back apartments. She said that people used to bang on the walls for them,
+                and they were both getting master's degrees in music. I know she was. Maybe he was
+                getting something in business. They were lovely. I used to go over to their
+                apartment, and we would have dinner sometimes. She was really abused. They called
+                her black cow, and, "What are you having a baby mule or a gorilla?" She was afraid
+                that she wasn't going to get to go the hospital soon enough. She used to joke and
+                say, "There is a pair of scissors on the table. If I'm delivering my baby tie a knot
+                around the umbilical cord." I used to say, "I don't know nothing about birthing
+                babies." [laughs] But I lost track of them. But it was . . . It was a terrible . . .
+                It was probably the hardest thing I've ever done. </transcript>
+
+        </cue> 
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <start> ? </start>
+            <end>[20:50]</end>
+            <transcript> Now, you talk about her being afraid, and you mention the loneliness and
+                isolation, were you afraid?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[20:51]</start>
+            <transcript>No, I wasn't afraid. Somehow or another, I never felt physical harm.
+                Although the students were vocal in the dorm and did things in the dorm like banging
+                on the walls and playing radios. Somebody tied a part of a dead cat's body to my
+                door knob on Halloween. But I was . . . I never felt afraid for my life or that
+                somebody would try to hurt me. She, as a woman, did. I didn't get the same sense of
+                fear from her husband. Guys would particularly follow her and say all kinds of nasty
+                things to her. She said sometimes she was so upset she couldn't go to class. She was
+                a beautiful woman but . . . . No, I was never afraid, I was just so lonely all the
+                time. I was accustomed to being around people. I came from a big family and I liked
+                interacting with people. I always liked talking to the professors and having an
+                experience, and I never had that. I didn't know how long I could . . . I just didn't
+                know how long I could take it. Yet, I felt the pressure to stay and see the thing
+                through. I just kept thinking I can't go through . . . I was in a five year liberal
+                arts law program. I couldn't take five . . . I just kept saying, "I'm not going to
+                be able to make this for five years, but it'll get better." It didn't get much
+                better. I required a lot of support from my family, and they were there for me. They
+                also . . . My mother and father came up. We had friends in Baton Rouge, friends who
+                had friends in Baton Rouge. I could go visit with them, and through Kara Russo[?]
+                who was in . . . She's got a master's in social work. She had some cousins or
+                whatever, and I met a young man my age who is now a dentist in Chicago, Mark Smith.
+                I used to go over to his house. It wasn't far from campus, and have dinner with
+                them. Sometimes he'd come stay on campus. But it wasn't . . . I was never
+                comfortable . . . I was never . . . I never made any friends at LSU. The professors
+                . . . I wasn't . . . I couldn't concentrate on the academic parts the way I should
+                have. I was just distracted all the time, and then the noise in the dorm.
+            </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <start>[23:15]</start>
+            <transcript> And you say you made no friends at all, no professor. You said just the
+                Newman Center.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <annotation>[Agrees]</annotation>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>As a . . . something white . . . </transcript>
+        </cue> 
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> Yeah, right, right.</transcript>
+        </cue> 
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> . . . on the campus. Contact with white people, that was . . .
+            </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> The only place that . . .</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>[?]</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[23:31]</start>
+            <transcript> Yeah. No, I made no . . . I made no friends. I mean people . . . Even the
+                professors . . . I would go . . . I remember, I was having some trouble in Spanish.
+                They were going too fast for me. I used to have to go listen to the tapes and all of
+                that. I know a lot of it was I couldn't concentrate. I was trying to . . . I like
+                getting to know people . . . I feel much more comfortable. I can do better in a
+                course if I develop a relationship with the professor and try to understand what
+                they want and what . . . to help me. It was like, “Well, go listen to the tapes,”
+                or, “Find a study group.” How was I going to make a study group? Nobody wanted to be
+                near me. Or, “do this,” or, “do that.” There wasn't the same kind of reaching out or
+                whatever. Some of them were younger people who had come from other parts of the
+                country. They weren't all just southerners. It was a very . . . It was a very lonely
+                experience.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Did you get called on in class to answer questions or . . . </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript>No, I wasn't badgered or I wasn't . . . I wasn't highlighted. If I
+                volunteered . . . Sometimes, I know, I would raise my hand and depending upon the
+                professor, they would ignore me or call on me. I was trying to think of one . . . if
+                there was any one experience, one course that I liked. I think . . . Oh, I had this
+                terrible course in world history or civilizations of the world or something, one of
+                these big survey courses with . . . It goes all the way back to Egyptians and all of
+                that. All those names, Amenhotep[?] and all that stuff. It was a big lecture hall
+                with about two or three hundred students in it, and you had the TAs [teaching
+                assistants] there and everything. A lot of it was just unconnected. I mean, I
+                expected an enriching, warm experience. Maybe it got to be that later on, but the
+                whole thing was not what I expected it to be. Now, maybe it was just too large. Of
+                course, I wasn't connected to anything, so I felt even more isolated. It wasn't my
+                greatest academic moment.</transcript>
+            <annotation> [break in tape]</annotation>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <start>[25:47]</start>
+            <transcript>Later black students in the whole process of desegregation that I've talked
+                to mentioned that their parents told them when they talked about social problems or
+                the fact that they had no interaction on the campus, they would mention, "Well,
+                you're going there to get an education." Was that . . . How did your parents talk
+                about . . . talk to you if . . . when you told them about the social problems you
+                were having?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript>[Agrees] They were . . . They were first very supportive. I knew that I
+                could call upon them anytime of the day. We didn't talk a lot about it. You were
+                just expected to do what you had to do. I can remember one . . . several things. One
+                was that . . . I remember one time I must have been there several weeks or two or
+                three weeks, I hadn't spoke, nobody had spoken to me for days. I was just very
+                lonely and I called my mom. She actually got on the bus and came to Baton Rouge and
+                spent the day with me. She left five kids at home. [pause] That meant a lot to me
+                because I knew they were there. I knew that I couldn't keep demanding that kind of
+                support from them. But they also . . . For example, my dad. I had bought a little
+                jalopy, in my . . . the summer before I went to LSU. The car was really just . . .
+                wasn't adequate. He felt that it was important for me then to have the ability to
+                leave when I wanted to. We only had one car, so he switched cars. [laughs] I got his
+                little car, and he got my little jalopy. Now, can you imagine my family of . . . all
+                those kids, five more kids, my mom and dad, trying to use the little jalopy that I
+                had bought? My father had to go to court. He had to go to work. They had to do
+                shopping. For like two or three weeks, I had their car and they had my car. [laughs]
+                But that's what . . . And everybody . . . It was okay because they knew I had to get
+                out of there when I needed to. I could come home to Baton Rouge . . . from Baton
+                Rouge whenever I wanted to. It wasn't discussed, or it wasn't said, "Oh, grow up and
+                accept your responsibility." It was, "No, you need the best car you can have right
+                now." I felt like, wait a minute I can't take the family car and leave this little
+                car. But that's what they did. They just did what had to be done, and it was
+                important. It got me through.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[29:06]</start>
+            <transcript>I'd come home on Fridays. I remember one time I even cut a few Saturday
+                classes because I just couldn't stay any longer. There was just no way . . . Then, I
+                dreaded going back. I mean, going back was like going back into a firing squad. But
+                I met Kara Russo, and we'd go back together. She lived off campus with friends and
+                with some relatives or cousins or whatever. I thought, well maybe that's . . . that
+                would be helpful for me. That's when I got to meet Mark Smith, and I'd go over to
+                his house. So . . . Maybe if I had had to stay there longer, I could have worked
+                some of these things out, but the first six weeks were . . . Then I was asked to
+                leave but . . . That was the roughest time of my life and it was the social pieces.
+                They . . . My parents never separated the social development from the academic
+                development. You're a whole person and you grow. College is a time where . . . All
+                of life is growth, but college was a time to grow and to be interested in lots of
+                things and to meet lots of people. That was the richness of LSU that I went there
+                for. And I was not, at that point, able to participate in it. My parents had a very
+                interesting approach to things. They didn't . . . There wasn't a whole lot of
+                sitting down analyzing the situation. They just . . . They were very simple people
+                with simple taste, very direct. They were people who just did it. They just . . .
+                And we grew up . . . I grew up in that expectation. Just go ahead and do what you
+                have to do. </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Had you had white friends before that in New Orleans?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[30:54]</start>
+            <transcript> Well, not . . . I never had any really . . . any really close white friends
+                because first of all, I didn't go to school with white children. The few white
+                children that lived in the neighborhood . . . There was one white family that lived
+                where our properties backed up to one another. Either the fence had blown down or
+                there was no fence. I remember, at one point, the fence had blown down from a
+                hurricane or something. We were then ten, eleven, and twelve, we played together,
+                but that family moved out. The other thing was the neighborhood I lived in, and the
+                community in which I grew up, there were so many children. There were so many social
+                experiences. Our house was the neighborhood youth center. Everybody came to play
+                there. We had pool table, ping pong table, a paved back yard. There was basketball,
+                there was skating, there were just . . . There must have been thirty kids on my
+                block. Then plus my own friends in the neighborhood and my sister's friends and all
+                of that stuff. So, no, I didn't have close white friends. We had also travelled all
+                of our lives. We had been east, we had been to the West Coast, we had been all
+                around. My father was very involved, so was my mother, with other people. They
+                weren't all black people. So, I was accustomed to being in a mixed environment, not
+                as a steady social experience, but I wasn't intimidated or uncomfortable around
+                people of diverse backgrounds or even people from other countries. I think I had a
+                good preparation for that.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[32:41]</start>
+            <transcript> Also, from the time I was very little, my father became more active
+                politically in the community and in town. I was taken to all of these events with
+                him where there would be the mayor and there would be politicians who were white or
+                black ministers. I was always . . . I was like the son who was always being groomed
+                to be sort of a social person. You were expected to be able to say hello to people
+                and be polite and be gracious from the time I was little. Then, I travelled out of
+                the area to Philadelphia, New York, sometimes by myself from the time I was eight or
+                nine years old. So, that was not an issue and I . . . We were all experienced in a
+                broader social circle and that was the fun of it. My parents loved meeting people
+                from different places, and they had also been people who had travelled themselves
+                when they were young and had gone away to school. So, that was never an issue. New
+                Orleans is a very international community, so the meeting of people at LSU and all
+                that was not an issue. </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Were there . . . Did you come across any black employees on the
+                campus?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start> [34:15]</start>
+            <transcript> Yeah. That was a very interesting experience and in many ways touching. I
+                particularly remember the women who worked in the cafeteria where I ate. They were
+                very quiet, but they were very supportive. They would smile or wink at you. Some of
+                them would actually come up and say, "We're very happy you're here." But quietly,
+                they didn't want any of the white staff to hear it or the white kids to hear it, I
+                guess. But they were proud and very supportive. My most touching moment - I don't
+                know if I can say this because it chokes me up - but my most touching moment at LSU,
+                and I'll never forget it was . . . this . . . I told you . . . I mentioned this to
+                you once before. One morning, I came out . . . I couldn't sleep, and I came out just
+                to be outside and to get away from that crazy dormitory with all the noise and
+                stuff. It was like six o'clock in the morning, and I was coming out of the dorm. I
+                don't know where I was going, but there was this black man out there sitting in a
+                truck. He had on bib overalls and he had a little boy with him. As I came out the
+                entrance, he walked over to me and . . . big smile on his face and he said . . . He
+                asked me if I was A. P. Tureaud. I said, "Yes." He said, "I thought you were." He
+                said that he had been to the campus a few times, but he hadn't seen me. He lived
+                somewhere in the Baton Rouge area, and he had brought his son who was six or seven
+                years old to meet me because he wanted his kid to remember that this was
+                possible.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[36:09]</start>
+            <transcript> That also made me realize that I had a responsibility to help other people
+                realize that what I was doing was possible for everyone. Because I didn't go into
+                this thing with a mission, and I wasn't there to be a pioneer. I just wanted to go
+                to school. But I realized . . . And I knew that would happen, that it would take on
+                a different meaning for black people because people had come up to me . . . At home,
+                people would say, "We're very proud of you," and things like that, but this was a .
+                . . This man and this little boy, that just meant so much to me. It put more
+                responsibility on me because I was trying to figure out how to get out of there. I
+                mean, the experience was so bad. But then, I thought, "Well, I can't leave because
+                I'll be disappointing everyone." It put me in a more . . . It created conflict for
+                me. I then said to myself, "Well I just can't leave." My folks had told me I could
+                leave any time I wanted to. My father said, "You are a person. You’re an individual.
+                Yes, the case is important, but you're not a case; you're a person. We love you, and
+                if it gets too rough, you just say you want out, and we'll get you out." I just
+                couldn't figure that . . . I couldn't do that. I figured I don't know how I'm going
+                to be able to take it. I then started to feel that I was in a conflictual situation
+                that I couldn't resolve. I just said, "Time will tell. Something's got to get
+                better. Something's got to change, but I shouldn't go. It sure would be nice to be
+                at Xavier University in New Orleans with all my friends, enjoying themselves,
+                working hard but having a good time, and not be under all this
+                pressure."</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> Do you recall going to pay your fees?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[38:10]</start>
+            <transcript> I think that was all taken care of through the admission with the vice-
+                president. [laughs] My father signed a check. I filled out the . . . I mean all of
+                that admission stuff was done as an exception to the rule. I didn't have a whole lot
+                of that to do.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>You talked about the Reveille, the university press. During your six weeks
+                there, were there other media persons that came? </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript>Yeah. I had a lot of contact with the black press. I used to get calls from
+                Ebony. I remember . . . I had made up my mind that I was not going to be a media
+                person. I didn't want media attention because I really felt that if I could let this
+                thing settle in in a typical way, I would be accepted as a student more quickly than
+                all of the publicity surrounding being the first black undergraduate. So, I avoided
+                the white press. I avoided the black press. The Reveille did whatever they wanted to
+                do because I didn't even know who they were half of them. I didn't know whether they
+                were reporters or just students, and so they kind of made up their own things as
+                they went along. Because nobody sat around and interviewed me, because I was not
+                interested in that. I wasn't available to them.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[39:45]</start>
+            <transcript> The same thing happened. I wasn't hounded or followed around. The first few
+                days there were people I knew were from the media. I could see them taking pictures,
+                and sometimes they'd ask me questions. I said to a few of them, "Look, I would
+                really like to make this work. Why don't you kindly just leave me alone? I don't
+                want to be impolite, but just kindly leave me alone because as long as you follow me
+                around, people aren't going to want to be a part of that." Even some white kids
+                might want to be friendly but they couldn't have their friends . . . They would be
+                ostracized if they got too close to me too quickly. Until people got to know me and
+                so forth, many people were just standing back waiting. But I . . . that was
+                something I decided to do. My parents supported me on that. I remember talking to
+                some . . . a reporter kept calling me from Johnson Publications who wanted to do a
+                spread in Ebony, or whatever, about my sitting in class and walking through the
+                campus, you know how they do those feature stories. I told him I just didn't want to
+                do that because that would just keep the thing going and keep me in an unnatural
+                situation.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[41:00]</start>
+            <transcript> Being the focus of that kind of attention is not what students do. Students
+                go to school and students get into the campus life. And I . . . I was foolish enough
+                to think I would be invited to join a fraternity. I mean, I wanted all of that. I
+                wanted everything that everybody else had. I was so intimidated by the whole process
+                because they started talking about . . . There was a game, it was homecoming or
+                whatever and all the freshmen go there in pajamas. They still do that? Well, they
+                did when I was there, and this got to be a big thing in the press. First time this
+                would happen and, “Will he go? Won't he go?” I thought, I'm not going to put myself
+                through that. I mean, if this was such a big deal to them, I just won't be there. I
+                left the day of that event, and I went home because I just didn't want to have to do
+                that . . . that was not . . . It wouldn't be pleasant for me, so I
+                left.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> Do you remember talking to . . . trying to talk to any of the students
+                yourself?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[42:08]</start>
+            <transcript> Nobody even wanted to talk to me. Someone told me at the Newman Center . .
+                . Oh, I know what it was. It was a priest at the Newman Center once gave . . . said
+                mass after I had been there a few weeks. I did go to mass. He said that he . . . He
+                did a sermon, and the idea was that I was getting the silent treatment. The word was
+                out that the way you break it . . . or break his spirit is not talk to him. Just
+                nobody engage in any conversation. It seemed like a reasonably well-organized
+                conspiracy that nobody would talk to me. People just didn't talk. I'd go into the
+                dining room, nobody would come over. I didn't force myself on people either. I
+                didn't just go into a table where people were, whatever, and sit next to them. I'd
+                kind of sit by myself. If people wanted to come over, they could come over. None of
+                that ever happened. One or two of the . . . It was very nice. One or two of the
+                black employees invited me to come spend the weekend with them. "If you're lonely
+                come to our house, we'll take good care of you." I thanked them. Maybe I would have
+                done that, but the idea was to make friends on campus where I was living, where I
+                wanted to be a part of the school. And of course six weeks is not a long period of
+                time, it seemed like an eternity to me. At seventeen, I thought this would never
+                end. But I was very happy when that . . . there was a mistrial and I had to leave.
+                My father came up and told me, "I've got some real good news for you." I said,
+                "Hallelujah. Get me out of here." So, that was . . . </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>He just came to your dorm? There was no pre-announcement . . . </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> He called me.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> . . . that you knew about? Oh.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[43:54]</start>
+            <end>[45:59}</end>
+            <transcript> No, he called and he said, "I'm coming up to the university this evening
+                after office hours, and I'll . . . if it's okay I'll spend the night." I said, "Oh,
+                that'll be great." I said, "Why are you coming?" He said, "Well, I have some news
+                for you." I thought, good news or bad news? He said, "Well, I think it's good news
+                for you. I don't know about the case, but it's good news for you." I didn't ask him
+                what it was. I was just happy he was coming, and he told me. We talked . . . We did
+                talk about that, what it meant and if I left where was I going to go? I wanted to be
+                in school. He said he had made arrangements for me to go to Xavier. This was like on
+                a Friday or Thursday and that I could enter Xavier on a Monday. I thought, what are
+                they going to think when I show up on Monday six weeks into the semester? I'm not
+                going to be welcomed. I mean, I'll be welcomed there because I knew I would be
+                welcome, but how am I going to catch up with all this work? What do the professors
+                think? What kind of grades will I get trying to catch up after missing six weeks?"
+                You're a freshman, school is all new and it's hard. It's not high school. That was a
+                problem transferring into Xavier. Some of the professors, even though they were glad
+                I was there or at least I'm sure were happy that I wasn't being so isolated and so
+                forth, a few of them were like, "Who do you think you are?" I had to kind of . . . I
+                really worked hard. That was the hardest time, to come . . . It was hard enough
+                being at LSU. Then I was still . . . I was still really recovering from that
+                emotional experience. It took me a whole year. I was afraid also, I had to go back.
+                I mean, I kept saying, "What happens if I have to go back?" My father said, "Look .
+                . ." My mother was the one who said . . . She used to always say this, "You cross
+                that bridge when you get there. We're not there yet. Don't worry about it." I was so
+                happy to be . . .</transcript>
+            <annotation>[End Tape 375, Side A. Begin Tape 375, Side B.] </annotation>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <start> [46:00]</start>
+            <transcript>You mentioned your fear about going . . . thinking that you might have to go
+                back if the case was reversed or whatever. Obviously . . . and you said it took a
+                year for you to get over that. You were emotionally scarred?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[46:29]</start>
+            <transcript>Yeah, I was traumatized by the experience. It was just . . . It was just so
+                hard to be in the middle of a college campus as lively, as enriched, as extensive as
+                LSU is . . . or was and is, and to be almost treated like an alien. To see people
+                rushing off to go some place together, just to go out to eat, a simple thing like
+                that, or to be rushed by a fraternity, or to have a date, or to just sit around and
+                talk and be silly. I had none of that.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>What about the international students?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript>Well . . .</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Did you have any contact with them?</transcript>
+        </cue>
+        <cue><speaker>Tureaud</speaker><transcript> I had no contact with
+            them. Now, they . . . First of all, the international students were not as . . . They
+            weren't the same kind of international students they are there now. I'm sure there was
+            some from certain countries. I don't know if there were Egyptians there and those kinds
+            of people, but they were not basically black internationals. They were . . . I remember
+            one thing, we had just come through the Korean [War] experience, and I was very angry
+            that there were Koreans there who didn't have a problem. I was American citizen and a
+            tax payer and here I am having the problem. I thought, gee, I didn't expect it to be . .
+            . I mean, I don't think life is just fair because it's supposed to be fair, but it was
+            just kind of a real injustice. That I was supporting . . . and my family was supporting
+            foreign national kids by being there.</transcript></cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[48:34]</start>
+            <transcript> No, they didn't become friendly, and yet I . . . they moved through the
+                school with more ease than I did. I'm sure they had their rough moments too, people
+                . . . Because I think a lot of times we're not as accepting of differences, but
+                there were a large number of people from other countries there. And that's fine. I
+                think that enriches the campus. But hey, how about me? I'm a citizen, I'm a
+                taxpayer. [laughs] No, they didn't reach out to me. Now, maybe they were somewhat
+                afraid to as well with all the publicity.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>You know, I was just thinking about something. You mentioned isolation. Was
+                it any discussion on . . . I know that the cases were class action cases . . .
+            </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> [Agrees] </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>It was not representing just one person. </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> One person, right, right.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> Had . . . Then, I think about Robert Collins coming with Ernest Morial, and
+                then, later, six students coming.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[49:38]</start>
+            <transcript> Came after me, yeah. They entered together, yeah.</transcript>
+        </cue>
+        
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> Was there any discussion of trying to find more than one person to go with
+                you?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> With me? </transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>Yeah.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> That never came up. That never came up. That would have been marvelous. In
+                fact, I think they learned . . .</transcript>
+        </cue>
+                
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> From that experience. </transcript>
+        </cue>
+        
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> . . . from that experience and other experiences, that too much pressure on
+                one person . . . I mean, you go through all this legal action and then the one
+                person either drops out, or he can't take it, or he could get sick, or he could just
+                say, “The heck with this.” Then you've got to start all over from scratch. I think
+                they did learn from experience and also just recruiting someone to do
+                this.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[50:20]</start>
+            <transcript> You know, I just don't know why . . . I mean truly, I never . . . I never
+                sat down and planned that I would do this and it would be all this . . . this
+                traumatic experience. I just thought I would . . . this thing would be over in a few
+                days. People would get to know me, I'd find friends, and it would all work out. I
+                never expected the kind of . . . what it represented to white people in terms of
+                maybe . . . the losing control in terms of the civil rights process. Of course, how
+                hopeful it was to black people. I just didn't think people would pay that much
+                attention to it, because things were happening all around. I mean, this wasn't a
+                time when things were not happening, but yes, it was a traumatic
+                experience.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> I wonder if . . . How could you feel about telling another black student to
+                go through LSU? </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> Well. . . only . . . I mean, I wouldn't have encouraged anyone at that
+                point to do that unless they were in a group and had a support system. I often
+                thought of Dutch Morial and Robert Collins, at least they had each other. They may
+                not have always agreed on things. I mean, you don't always just because you're
+                roommates and so forth, but they had each other. They could share experiences. They
+                could go out to eat together. They could talk to people. You had a support system,
+                and they supported one another. They were also . . . They were also graduates. They
+                had been through undergraduate school. They had had all of those nurturing,
+                enriching, growing experiences as an undergraduate.</transcript>
+
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[52:26]</start>
+            <transcript> I was only seventeen years old, and it's enough just to get into college
+                and to figure out how to make it work. I didn't know how to study. I didn't know how
+                to manage my time. I was developing. This just consumed all my energy. I mean, just
+                surviving from day to day, keeping yourself happy and motivated, and thinking
+                tomorrow will be better. But that's not what I was there for. I mean, I wanted to be
+                enriched by the experience, and the emotional pieces were just so great. You were
+                never without this cloud over your head. I couldn't sleep at night. They were
+                banging on the walls. Then you just figure, when will this stop? There were more of
+                them then there were of me so they were persistent.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript> You mentioned one time about your math class and getting tutoring
+                assistance in math, setting the curve . . . </transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <transcript> Yeah. This was this old lady who had talked about she had never had . . .
+                She had never taught a nigra before and she didn't know how she was going to get
+                through this semester. I came home asking for some help if they could find somebody
+                to help me . . . tutor me in the math. Norman Francis, who's now president of Xavier
+                University, was in law school at Loyola [University]. On the weekends when I was
+                home trying to get up enough strength and to rebuild my energy, emotional energy to
+                go back, my father asked him to give me some time, help me with my math. Norman is a
+                wonderful teacher. He was a math major. He helped me, and it was so clear that . . .
+                He was just a wonderful teacher. He explained the areas that I didn't understand.
+                This woman didn't take any time to help explain anything to me.</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[54:48]</start>
+            <transcript> When they were taking . . . I don't know if it was a midterm or what, but
+                it was . . . We used to have these exams every other week or so. I remember the last
+                exam I took with her . . . took for her, she announced that I set the curve. My
+                grade went up from, like, a D minus, and I was starting to get into the area of
+                getting Bs. I was very pleased, and I noticed something that I kind of expected but
+                it was a revelation in a sense . . . or confirmation of a revelation, because in her
+                class the students sat the farthest away from me. As soon as she announced that I
+                had set the curve, I noticed people starting to move closer in to where I was
+                sitting. In fact, one person even asked me, "Could we study together?" He did it in
+                such a way, I wouldn't . . . I would have loved it, but he did it in such a way
+                like, “Oh, now you can help me." Not like, “You can be my friend,” or, “we can share
+                experiences together.” "Oh, oh, come over here and you can help me and we'll meet
+                and" . . . Well, I said, "No, thank you." If he had been friendlier and more in a
+                typical way approached me about studying together I would have welcomed
+                it.</transcript>
+        </cue>
+        <cue>
+            <start>[56:10]</start>
+            <transcript> There were people there who wanted to use you. You learn that lesson. I
+                knew that anyway from human experience. It was curious to see how people would let
+                the first black student help him if it's going to help their grade, they don't . . .
+                Then they wouldn't care what their friends felt. You had that kind of push and pull.
+                That was an interesting experience. The vice-president had sort of said to me, "If
+                you have any problems, you can come to me." But he didn't say it in a way that I was
+                convinced that he meant it. I think he said it in a way that he felt maybe he had to
+                say it. Maybe I . . . the kind of problems he meant was if anybody really tries to
+                hurt you physically. I don't think he meant about professors not treating you
+                appropriately. The other thing is, I didn't want to start continually complaining
+                about people because I figured I had to work it out at my level, not at his level. I
+                avoided anything that was sort of official.</transcript>
+        </cue>
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <annotation>[break in tape] [. . . ?]</annotation>
+            <transcript> Pamela Dean, Director of the T. Harry Williams Center for Oral History at
+                LSU, shared with me a letter . . . a copy of a letter from a former white
+                administrator at LSU who wrote about knowing when you came on campus in '53, and
+                described an incident where white students, male students threatened you with a
+                knife. His role was to, as a staff person, was to monitor your activities in the
+                dorm. So when he was called because of . . . He was notified that this was
+                occurring. He described coming . . . going over to the dorm and then finding some
+                guys and then later finding a knife in a lamp shade. Do you recall this
+                incident?</transcript>
+        </cue>
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start> [58:24]</start>
+            <transcript> I have no recollection of any incident involving a knife in the dormitory
+                or even being told that students were considering doing something this way. Never,
+                at any time. Never when I was at LSU was there any indication to me that anyone was
+                considering any aggressive behavior towards me. I have no recollection or knowledge
+                of that. In fact, the typical reaction to me in the dorm was, “Don't speak to him.
+                When you go into the toilet, or the shaving area, or the shower, if he goes in, you
+                come out.” I can remember always having this huge bathroom area to myself. If there
+                were six guys in the shower . . . It was just a big room with shower heads all
+                around, no partitions or anything, twelve people could shower in the space together.
+                If there were four or five guys showering, they'd be talking and joking and
+                laughing, and I walked in to take a shower, whether they were soaped down or not,
+                they would stop the showers, take their towels, go somewhere else. I couldn't change
+                that. I didn't say . . . I didn't make any comments or whatever. Or if I was shaving
+                or whatever, they just disappeared.</transcript>
+        </cue>
+        <cue>
+            <start>[1:00:10]</start>
+            <transcript> I have no recollection of any of that, and I never felt threatened in the
+                dorm. They did make noise to keep me up, but I have no recollection of that, and I'm
+                glad I didn't. Because that could have been another problem that would have . . . I
+                don't know when this incident might have happened, but I think if that kind of thing
+                had been know by me or by my family . . . Now, maybe they knew and they didn't share
+                it with me, but I would kind of doubt that because I think if you have a child in a
+                precarious situation, you prepare them for it, so maybe they never knew it either. I
+                wouldn't image the university would tell them. But that could have meant . . . At
+                least, when I left . . . I left because legally I couldn't stay. I didn't leave
+                because I was intimidated or threatened or whatever, and that could have had a
+                different kind of impact on the evolution of the case. So no, I never . . . I didn't
+                know that, and I'm surprised to hear it now.</transcript>
+        </cue>
+                        
+        <cue>
+            <speaker>Emanuel-Wallace</speaker>
+            <transcript>LSU had a number of attorneys representing them on your case . . . to be
+                admitted to the undergraduate school. Did you . . . You attended a deposition once,
+                and you had an opportunity to be . . . to hear what the attorneys from LSU had to
+                say about you and the case. Can you describe that?</transcript>
+        </cue> 
+        <cue>
+            <speaker>Tureaud</speaker>
+            <start>[1:01:52]</start>
+            <transcript> Yes, I remember that deposition, very . . . I remember the one that I went
+                to very well. I went with my father, and I think it was Bob Carter. I'm not sure who
+                else went, but I think it was the only one that I went to. The thing that I remember
+                most about it, because I didn't quite know what to expect, I'd never been to a
+                deposition before, was the presentation that Leander Perez made. My mother went. My
+                mother went. I remember that now. My mother went with me to that. Leander Perez in
+                either summarizing some information or whatever . . . He was very colorful. He was
+                dressed in a sort of a plantation beige outfit with a sort of a string tie, or
+                whatever. He was a very colorful character and used a lot of flamboyant language. He
+                was very dramatic and also could be very cruel and biting and sarcastic. He was
+                known around New Orleans and around Louisiana for his hatred, hatred of black people
+                and mistreatment of the people that worked for him or worked for his family and all
+                that kind of stuff. I had an intense dislike for him from what I knew about his
+                public image even before I saw him in court. When I saw him in court, I was
+                intrigued by his performance during the depositions. He was sort of the lead lawyer
+                in the case. I remember how many people there were representing the state. I mean,
+                and there were . . . they weren't always all at these various hearings and
+                depositions, but that day I think was the first day, there were a lot of them.
+                [1:04:08] One statement that he made that I'd never forget, because this was a long
+                time ago, was . . . He pointed to me, and walked in my direction, and looked right
+                dead at me, and said that, "There sits the only ungrateful nigra in the state of
+                Louisiana, because we have gone through great expense and trouble to build up fine
+                black universities in this state. Why is Mr. Tureaud not willing to avail himself of
+                this opportunity." He said it with such sarcasm and with such belief, it was just
+                very intimidating and it made me angry. Maybe I was, as young as I was,
+                personalizing that. Because a lot of what I did in this case, although it was me,
+                was symbolic. My parents had to help me with that. At seventeen, you're very
+                self-centered, and you think everything is you, you, you personally, you. They were
+                saying to me you're . . . He is talking about you, but he is talking about all black
+                people, and all black young men, and all black students. But you happen to represent
+                that and you have to be willing to accept and understand that. My mother and dad
+                said to me, "You don't have to go to this deposition. If they're going to upset you,
+                or you can't understand the meaning of what the action is, then don't go." I said,
+                "Okay for the time being I don't need to hear that because I'm not ready to deal
+                with it, and I won't go." I didn't go. I liked the options they gave me because I
+                didn't have to sit there and be, what I thought was, personally insulted. Now, as an
+                adult, I understand a lot better what they were saying, and I can understand a lot
+                better what he was trying to accomplish as a lawyer. But, at seventeen you just
+                think, "He's talking about me, and I don't like that." [1:06:29] So, in many ways
+                this experience at LSU helped mature me in a way that I would not have had the
+                opportunity to be matured at that age. It's another step in a person's evolution. I
+                always believe that adversity creates . . . builds character. Hopefully, that was a
+                way that my character was being built and developed through these challenges. But
+                seventeen, it was pretty hard to take, and since they told me I didn't have to go, I
+                didn't go. [laughs]</transcript>
+        </cue>
+        <cue><speaker>Emanuel-Wallace</speaker><end>[1:07:10]</end><transcript>Alright</transcript><annotation>
+                            [End Tape 375, Side B. End Session I.]</annotation></cue>
+</cues>
