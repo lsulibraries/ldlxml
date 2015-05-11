@@ -13,7 +13,7 @@
         <xsl:param name="raw"/>
         <xsl:message>
             Processing date:
-            <xsl:value-of select="."/>
+            <xsl:value-of select="$raw"/>
         </xsl:message>
 
         <!--instead of fn call-->
@@ -30,7 +30,7 @@
     <xsl:template name="lsu:dateCreated">
         <xsl:param name="rawDate" as="xs:string"/>
         <!--   lower case test value     -->
-        <xsl:variable name="lsu:date-lower" select="lower-case(.)"/>
+        <xsl:variable name="lsu:date-lower" select="lower-case($rawDate)"/>
 
 
         <!--        error block-->
@@ -101,7 +101,7 @@
                 <xsl:choose>
                     <xsl:when test="matches($lsu:date-lower, $lsu:acceptable-dates)">
                         <xsl:element name="dateCreated">
-                            <xsl:value-of select="."/>
+                            <xsl:value-of select="$rawDate"/>
                         </xsl:element>
                     </xsl:when>
                     <xsl:otherwise>

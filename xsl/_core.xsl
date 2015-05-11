@@ -25,7 +25,7 @@
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 
                 <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
-                    <xsl:apply-templates select="title"/>
+                    <xsl:call-template name="title"/>
                     <xsl:apply-templates select="photographer"/>
                     <xsl:call-template name="originInfo"/>
                     <xsl:apply-templates select="physical-description"/>
@@ -33,12 +33,13 @@
                     <xsl:call-template name="recordInfo"/>
                     <xsl:call-template name="access"/>
                     <xsl:call-template name="location"/>
+                    <xsl:call-template name="series"/>
                 </xsl:element>
             </modsCollection>
         </xsl:result-document>
     </xsl:template>
 
-    <xsl:template match="title">
+    <xsl:template name="title">
         <xsl:element name="titleInfo">
             <xsl:element name="title">
                 <xsl:value-of select="replace(., '(\s\s+)', 'SplitMods.xsl ')"/>
@@ -152,5 +153,5 @@
     <xsl:template match="date-created"/>
     <xsl:template name="originInfo"/>
     <xsl:template match="date-modified"> </xsl:template>
-
+    <xsl:template name="series"/>
 </xsl:stylesheet>

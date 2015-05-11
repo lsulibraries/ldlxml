@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
-    version="2.0">
+    version="2.0" xmlns="http://www.loc.gov/mods/v3">
    
     <!-- imports -->
     <xsl:import href="_core.xsl"/>
@@ -23,5 +23,16 @@
             <xsl:non-matching-substring/>
         </xsl:analyze-string>
 <!--        <xsl:result-document method="xml" href="{identifier}.xml"/>-->
+    </xsl:template>
+    
+    <xsl:template name="title">
+        <xsl:element name="titleInfo">
+            <xsl:element name="title">
+                <xsl:value-of select="series"/>
+            </xsl:element>
+            <xsl:element name="subtitle">
+                <xsl:value-of select="title"/>
+            </xsl:element>
+        </xsl:element>
     </xsl:template>
 </xsl:stylesheet>

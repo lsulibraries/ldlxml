@@ -23,6 +23,7 @@
     
     <xsl:template name="lsu:namePart">
         <xsl:param name="rawName" as="xs:string"/>
+        <xsl:param name="roleType" as="xs:string"/>
         <xsl:variable name="lsu:lower" select="lower-case(.)"/>
         <xsl:variable name="lsu:family-in-name" select="'family'"/>
         <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
