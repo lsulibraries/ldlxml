@@ -91,7 +91,7 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template name="physical-description">
+    <xsl:template name="physicalDescription">
         <!--<xsl:element name="physicalDescription">-->
             <!--<xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+)\s?'"/>-->
         <xsl:for-each select="tokenize(physical-description, '; ')">
