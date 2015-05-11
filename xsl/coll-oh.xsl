@@ -6,6 +6,10 @@
    
     <!-- imports -->
     <xsl:import href="_core.xsl"/>
+    <xsl:template name="name">
+        <xsl:call-template name="interviewer"/>
+    </xsl:template>
+    
 <!-- Things that appear to work -->
     <xsl:template name="title">
         <xsl:element name="titleInfo">
@@ -54,42 +58,14 @@
     </xsl:template>
    
     <xsl:template name="interviewer">
-        <xsl:param name="rawNames" select="interviewer"/>
-        <xsl:variable name="rawName" select="tokenize($rawNames,'; ')"/>
-        <xsl:variable name="typicalnameregex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
-
-        <xsl:element name="name">
-            <xsl:choose>
-                <xsl:when test="matches($rawName,$typicalnameregex)">
-                    <xsl:analyze-string select="$rawName" regex="{$typicalnameregex}">
-                        <xsl:matching-substring>
-                            <xsl:element name="namePart">
-                                <xsl:value-of select="regex-group(1)"/>
-                            </xsl:element>
-                            <xsl:element name="namePart">
-                                <xsl:attribute name="type">date</xsl:attribute>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </xsl:element>
-                        </xsl:matching-substring>
-                    </xsl:analyze-string>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:element name="namePart">
-                        <xsl:value-of select="rawName"/>
-                    </xsl:element>
-                </xsl:otherwise>
-                </xsl:choose>
-            <xsl:element name="role">
-                <xsl:element name="roleTerm">
-                    <xsl:attribute name="type">code</xsl:attribute>
-                    <xsl:value-of>ivr</xsl:value-of>
-                </xsl:element>
-                <xsl:element name="roleTerm">
-                    <xsl:attribute name="type">text</xsl:attribute>
-                    <xsl:value-of>Interviewer</xsl:value-of>
-                </xsl:element>
-            </xsl:element>
-        </xsl:element>
+        <xsl:variable name="rawNames" select="tokenize(interviewer,'; ')"/>
+        <xsl:for-each select="$rawNames">
+         <xsl:call-template name="util-name">
+            
+             <xsl:with-param name="roleterm" select="'Interviewer'"/>
+             <xsl:with-param name="raw" select="current()"/>
+         </xsl:call-template>
+        </xsl:for-each>
     </xsl:template>
     
     <xsl:template name="interviewee">
@@ -98,27 +74,7 @@
         <xsl:variable name="typicalnameregex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
         
         <xsl:element name="name">
-            <xsl:choose>
-                <xsl:when test="matches($rawName,$typicalnameregex)">
-                    <xsl:analyze-string select="$rawName" regex="{$typicalnameregex}">
-                        <xsl:matching-substring>
-                            <xsl:element name="namePart">
-                                <xsl:value-of select="regex-group(1)"/>
-                            </xsl:element>
-                            <xsl:element name="namePart">
-                                <xsl:attribute name="type">date</xsl:attribute>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </xsl:element>
-                        </xsl:matching-substring>
-                    </xsl:analyze-string>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:element name="namePart">
-                        <xsl:value-of select="$rawName"/>
-                    </xsl:element>
-                </xsl:otherwise>
-                <!-- Is there a way, after this has been done, to apply "usage=primary" to just the first one? -->
-            </xsl:choose>
+            
             <xsl:element name="role">
                 <xsl:element name="roleTerm">
                     <xsl:attribute name="type">code</xsl:attribute>
@@ -135,44 +91,28 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template name="physicalDescription">
-        <xsl:element name="physicalDescription">
-            <xsl:for-each select="tokenize(.,'; ')"/>
-            <xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+)\s?'"/>
-            <xsl:choose>
-                <xsl:when test="matches(., ';')">
-                    <xsl:analyze-string select="." regex="{$PhysDesc}">
-                        <xsl:matching-substring>
-                            <form>
-                                <xsl:value-of select="regex-group(1)"/>
-                            </form>
-                            <extent>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </extent>
-                        </xsl:matching-substring>
-                    </xsl:analyze-string>
-                </xsl:when>
-                <xsl:otherwise>
-                    <note>
-                        <xsl:attribute name="type">content</xsl:attribute>
-                        <xsl:value-of select="."/>
-                    </note>
-                </xsl:otherwise>
-            </xsl:choose>
-            <!-- move below to core? Why did it break when I just added another section that was nearly identical!?! -->
-            <xsl:choose>
-                <xsl:when test="empty(ancestor-or-self::record/photographer)"> </xsl:when>
-                <xsl:otherwise>
-                    <xsl:element name="form">Photograph/Pictorial Works</xsl:element>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:choose>
-                <xsl:when test="empty(ancestor-or-self::record/interviewee)"></xsl:when>
-                <xsl:otherwise>
-                    <xsl:element name="form">Oral History</xsl:element>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:element>
+    <xsl:template name="physical-description">
+        <!--<xsl:element name="physicalDescription">-->
+            <!--<xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+)\s?'"/>-->
+        <xsl:for-each select="tokenize(physical-description, '; ')">
+            <xsl:message>
+                <xsl:value-of select="current()"/>
+            </xsl:message>
+            <xsl:analyze-string select="current()" regex="([0-9a-zA-Z\s,]+)\s\(([0-9a-zA-Z\s,]+)">
+                <xsl:matching-substring>
+                    <xsl:element name="physicalDescription">
+                        <note type="content">
+                            <xsl:value-of select="regex-group(1)"/>
+                        </note>
+                        <extent>
+                            <xsl:value-of select="regex-group(2)"/>
+                        </extent>
+                        <xsl:element name="form">Oral History</xsl:element>
+                    </xsl:element>
+                </xsl:matching-substring>
+                <xsl:non-matching-substring/>
+            </xsl:analyze-string>
+        </xsl:for-each>
         <xsl:element name="typeOfResource">sound recording</xsl:element>
     </xsl:template>
     

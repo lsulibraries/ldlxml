@@ -7,8 +7,12 @@
     version="2.0">
     
     <!-- copied from util-date -->
-    <xsl:template match="name">
-        <xsl:variable name="raw" select="."/>
+    <xsl:template name="util-name">
+        <xsl:param name="raw"/>
+        <xsl:param name="roleterm"/>
+        <xsl:param name="usage" as="xs:string">
+            <xsl:text></xsl:text>
+        </xsl:param>
         <xsl:message> Processing name: <xsl:value-of select="."/>
         </xsl:message>
 
@@ -16,7 +20,10 @@
 
         <xsl:call-template name="lsu:namePart">
             <xsl:with-param name="rawName" select="$raw"/>
+            <xsl:with-param name="roleType" select="$roleterm"/>
+            <xsl:with-param name="usage" select="$usage"/>
         </xsl:call-template>
+       
     </xsl:template>
     
     
@@ -24,6 +31,9 @@
     <xsl:template name="lsu:namePart">
         <xsl:param name="rawName" as="xs:string"/>
         <xsl:param name="roleType" as="xs:string"/>
+        <xsl:param name="usage" as="xs:string">
+            <xsl:text></xsl:text>
+        </xsl:param>
         <xsl:variable name="lsu:lower" select="lower-case(.)"/>
         <xsl:variable name="lsu:family-in-name" select="'family'"/>
         <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
@@ -33,6 +43,9 @@
                     <namePart>
                         <xsl:value-of select="."/>
                     </namePart>
+                    <xsl:call-template name="role">
+                        <xsl:with-param name="roleterm" select="$roleType"/>
+                    </xsl:call-template>
                 </name>
             </xsl:when>
             <xsl:when test="lsu:two-words"></xsl:when>
@@ -47,8 +60,11 @@
             
             <xsl:choose>
                 <xsl:when test="matches(., $regex)">
+                    <xsl:element name="name">
                     <xsl:attribute name="type">personal</xsl:attribute>
-                    <xsl:attribute name="usage">primary</xsl:attribute>
+                    <xsl:attribute name="usage">
+                        <xsl:value-of select="$usage"/>
+                    </xsl:attribute>
                     <xsl:variable name="photog" select="."/>
                     
                     <xsl:analyze-string select="$photog" regex="{$regex}">
@@ -60,6 +76,9 @@
                             <namePart type="date">
                                 <xsl:value-of select="regex-group(2)"/>
                             </namePart>
+                            <xsl:call-template name="role">
+                                <xsl:with-param name="roleterm" select="$roleType"/>
+                            </xsl:call-template>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
                     
@@ -71,15 +90,24 @@
                             <xsl:attribute name="type">text</xsl:attribute>
                             <xsl:attribute name="authority">marcrelator</xsl:attribute>Photographer </xsl:element>
                     </xsl:element>-->
-                    
+                    </xsl:element>
                 </xsl:when>
                 <xsl:otherwise>
+                    <xsl:element name="name">
                     <xsl:if test="compare(upper-case(.), 'Unknown')">
                         <xsl:element name="namePart">
                             <xsl:value-of select="."/>
                         </xsl:element>
                     </xsl:if>
+                    </xsl:element>
                 </xsl:otherwise>
             </xsl:choose>
+    </xsl:template>
+    <xsl:template name="role">
+        <xsl:param name="roleterm"/>
+        <xsl:element name="roleTerm">
+            <xsl:attribute name="type">text</xsl:attribute>
+            <xsl:value-of select="$roleterm"/>
+        </xsl:element>
     </xsl:template>
 </xsl:stylesheet>

@@ -5,7 +5,7 @@
 
     <!--  imports   -->
     <xsl:import href="util-date.xsl"/>
-    <xsl:import href="util-photographer.xsl"/>
+    <xsl:import href="util-name.xsl"/>
     <xsl:output indent="yes"/>
     
     <xsl:template match="/records">
@@ -26,9 +26,11 @@
 
                 <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
                     <xsl:call-template name="title"/>
-                    <xsl:apply-templates select="photographer"/>
+                    <xsl:call-template name="name"/>
+                    <!--
+                    <xsl:apply-templates select="photographer"/>-->
                     <xsl:call-template name="originInfo"/>
-                    <xsl:apply-templates select="physical-description"/>
+                    <xsl:call-template name="physical-description"/>
                     <xsl:apply-templates select="subjects"/>
                     <xsl:call-template name="recordInfo"/>
                     <xsl:call-template name="access"/>
@@ -42,12 +44,12 @@
     <xsl:template name="title">
         <xsl:element name="titleInfo">
             <xsl:element name="title">
-                <xsl:value-of select="replace(., '(\s\s+)', 'SplitMods.xsl ')"/>
+                <xsl:value-of select="replace(., '(\s\s+)', ' ')"/>
             </xsl:element>
         </xsl:element>
     </xsl:template>
 
-      <xsl:template match="physical-description">
+      <xsl:template name="physical-description">
         <!--this section may need to recoded based on the structure of each collections' physical description field-->
         <xsl:element name="physicalDescription">
             <xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+);\s?([0-9\sa-zA-Z.&quot;]+)'"/>
@@ -57,10 +59,12 @@
                         <xsl:matching-substring>
                             <note>
                                 <xsl:attribute name="type">content</xsl:attribute>
-                                <xsl:value-of select="regex-group(1)"/>
+                               <!-- <xsl:value-of select="regex-group(1)"/>-->
+                                <xsl:value-of select="replace(regex-group(1), '\s+', ' ')"/>
                             </note>
                             <extent>
-                                <xsl:value-of select="regex-group(2)"/>
+                               <!-- <xsl:value-of select="regex-group(2)"/>-->
+                                <xsl:value-of select="replace(regex-group(2), '\s+', ' ')"/>
                             </extent>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
@@ -154,4 +158,5 @@
     <xsl:template name="originInfo"/>
     <xsl:template match="date-modified"> </xsl:template>
     <xsl:template name="series"/>
+    <xsl:template name="name"/>
 </xsl:stylesheet>
