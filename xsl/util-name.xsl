@@ -62,14 +62,15 @@
                             </namePart>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
-                    <xsl:element name="role">
+                    
+                   <!-- <xsl:element name="role">
                         <xsl:element name="roleTerm">
                             <xsl:attribute name="type">code</xsl:attribute>
                             <xsl:attribute name="authority">marcrelator</xsl:attribute>pht</xsl:element>
                         <xsl:element name="roleTerm">
                             <xsl:attribute name="type">text</xsl:attribute>
                             <xsl:attribute name="authority">marcrelator</xsl:attribute>Photographer </xsl:element>
-                    </xsl:element>
+                    </xsl:element>-->
                     
                 </xsl:when>
                 <xsl:otherwise>
