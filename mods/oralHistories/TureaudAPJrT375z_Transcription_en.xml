@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cues>
+
+    <!-- At least one 'transcript' or 'annotation' emlement must present in a 'cue' element. -->
+    <cue>
+        <speaker>Alexander P. Tureaud, Jr.</speaker>
+        <!-- 'start' and 'end' elements are start time and end time in seconds for the cue. -->
+        <start>0.000</start>
+        <end>3.000</end>
+        <transcript>I am A. P. Tureaud. South Salem, New York, and it's a beautiful sunny
+            day.</transcript>
+        <annotation>???</annotation>
+    </cue>
+    <cue>
+       <speaker> Rachel Emanuel-Wallace</speaker>
+        <start>3.001</start>
+        <end>10.000</end>
+        <transcript>Interview with A. P. Tureaud, Jr., April 25, 1993.
+            You were the first [African American] student to be enrolled in the undergraduate
+            program at LSU [Louisiana State University] in Baton Rouge in 1953. How . . . Describe
+            the steps before you entered the campus.</transcript>
+        <annotation>???</annotation>
+        </cue>
+    <cue>
+        <speaker>Tureaud</speaker>
+        <start>10.001</start>
+        <end>12.000</end>
+        <transcript>In terms of selection or in terms of
+            the legal procedures?</transcript>
+        <annotation>???</annotation>
+        </cue>
+    
+</cues>

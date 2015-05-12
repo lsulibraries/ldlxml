@@ -8,6 +8,7 @@
     <xsl:import href="_core.xsl"/>
     <xsl:template name="name">
         <xsl:call-template name="interviewer"/>
+        <xsl:call-template name="interviewee"/>
     </xsl:template>
     
 <!-- Things that appear to work -->
@@ -41,7 +42,7 @@
     </xsl:template>
     
     <!-- Everything beyond here is not working properly -->
-    <xsl:template name="identifier">
+    <xsl:template name="recordInfo">
         <!-- is showing up, but empty -->
         <xsl:element name="identifier">
         <xsl:analyze-string select="cite-as" regex="[a-zA-Z,\.\s]+\s([0-9]+\.[0-9]+)">
@@ -51,46 +52,34 @@
             <xsl:non-matching-substring/>
         </xsl:analyze-string>
         </xsl:element>
-        <xsl:element name="shelfLocator">
-            <xsl:value-of>L:</xsl:value-of>
-            <xsl:value-of select="regex-group(1)"></xsl:value-of>
-        </xsl:element>
+        
     </xsl:template>
    
     <xsl:template name="interviewer">
         <xsl:variable name="rawNames" select="tokenize(interviewer,'; ')"/>
         <xsl:for-each select="$rawNames">
          <xsl:call-template name="util-name">
-            
              <xsl:with-param name="roleterm" select="'Interviewer'"/>
+             <xsl:with-param name="rolecode" select="'ivr'"/>
              <xsl:with-param name="raw" select="current()"/>
          </xsl:call-template>
         </xsl:for-each>
     </xsl:template>
     
     <xsl:template name="interviewee">
-        <xsl:param name="rawNames" select="interviewee"/>
-        <xsl:variable name="rawName" select="tokenize($rawNames,'; ')"/>
-        <xsl:variable name="typicalnameregex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
-        
-        <xsl:element name="name">
-            
-            <xsl:element name="role">
-                <xsl:element name="roleTerm">
-                    <xsl:attribute name="type">code</xsl:attribute>
-                    <xsl:value-of>ive</xsl:value-of>
-                </xsl:element>
-                <xsl:element name="roleTerm">
-                    <xsl:attribute name="type">text</xsl:attribute>
-                    <xsl:value-of>Interviewee</xsl:value-of>
-                </xsl:element>
-            </xsl:element>
-            <xsl:element name="description">
-                <xsl:value-of select="biographical-note"/>
-            </xsl:element>
+        <xsl:variable name="rawNames" select="tokenize(interviewee,'; ')"/>
+        <xsl:for-each select="$rawNames">
+            <xsl:call-template name="util-name">
+                <xsl:with-param name="roleterm" select="'Interviewee'"/>
+                <xsl:with-param name="rolecode" select="'ive'"/>
+                <xsl:with-param name="raw" select="current()"/>
+            </xsl:call-template>   
+        </xsl:for-each>
+        <xsl:element name="description">
+            <xsl:value-of select="biographical-note"/>
         </xsl:element>
-    </xsl:template>
-    
+    </xsl:template> 
+        
     <xsl:template name="physicalDescription">
         <!--<xsl:element name="physicalDescription">-->
             <!--<xsl:variable name="PhysDesc" select="'([0-9a-zA-Z\s,]+)\s?'"/>-->
@@ -115,5 +104,29 @@
         </xsl:for-each>
         <xsl:element name="typeOfResource">sound recording</xsl:element>
     </xsl:template>
-    
+    <xsl:template name="location">
+        <xsl:element name="location">
+            <xsl:element name="physicalLocation">LUU</xsl:element>
+            <xsl:element name="physicalLocation">LSU Libraries</xsl:element>
+            <xsl:element name="url">http://www.lib.lsu.edu</xsl:element>
+            <xsl:element name="holdingSimple">
+                <!--will need to be edited for each collection; can add an if statement based on identifier that changes the shelfLocator based on content-->
+                <xsl:element name="copyInformation">
+                    <xsl:element name="subLocation">Hill Memorial Library, Special
+                        Collections</xsl:element>
+                    <xsl:element name="shelfLocator">
+                        <xsl:value-of>L:
+                        <xsl:analyze-string select="cite-as" regex="[a-zA-Z,\.\s]+\s([0-9]+\.[0-9]+)">
+                            <xsl:matching-substring>
+                                <xsl:value-of select="regex-group(1)"/>
+                            </xsl:matching-substring>
+                            <xsl:non-matching-substring/>
+                        </xsl:analyze-string>
+                        </xsl:value-of>
+                    </xsl:element>
+                    <!-- Once we have EAD information, we could add it to a holdingExternal element here -->
+                </xsl:element>
+            </xsl:element>
+        </xsl:element>
+    </xsl:template>
 </xsl:stylesheet>

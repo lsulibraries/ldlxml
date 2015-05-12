@@ -31,7 +31,7 @@
                     <xsl:apply-templates select="photographer"/>-->
                     <xsl:call-template name="originInfo"/>
                     <xsl:call-template name="physical-description"/>
-                    <xsl:apply-templates select="subjects"/>
+                    <xsl:call-template name="subjects"/>
                     <xsl:call-template name="recordInfo"/>
                     <xsl:call-template name="access"/>
                     <xsl:call-template name="location"/>
@@ -98,7 +98,7 @@
         </xsl:element>
     </xsl:template>
 
-    <xsl:template match="subjects">
+    <xsl:template name="subjects">
         <xsl:for-each select="tokenize(.,';')">
             <xsl:element name="subject">
                 <xsl:element name="topic">

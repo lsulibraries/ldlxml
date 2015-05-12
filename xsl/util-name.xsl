@@ -10,6 +10,7 @@
     <xsl:template name="util-name">
         <xsl:param name="raw"/>
         <xsl:param name="roleterm"/>
+        <xsl:param name="rolecode"/>
         <xsl:param name="usage" as="xs:string">
             <xsl:text></xsl:text>
         </xsl:param>
@@ -21,6 +22,7 @@
         <xsl:call-template name="lsu:namePart">
             <xsl:with-param name="rawName" select="$raw"/>
             <xsl:with-param name="roleType" select="$roleterm"/>
+            <xsl:with-param name="roleCode" select="$rolecode"/>
             <xsl:with-param name="usage" select="$usage"/>
         </xsl:call-template>
        
@@ -31,6 +33,7 @@
     <xsl:template name="lsu:namePart">
         <xsl:param name="rawName" as="xs:string"/>
         <xsl:param name="roleType" as="xs:string"/>
+        <xsl:param name="roleCode" as="xs:string"/>
         <xsl:param name="usage" as="xs:string">
             <xsl:text></xsl:text>
         </xsl:param>
@@ -78,6 +81,7 @@
                             </namePart>
                             <xsl:call-template name="role">
                                 <xsl:with-param name="roleterm" select="$roleType"/>
+                                <xsl:with-param name="rolecode" select="$roleCode"/>
                             </xsl:call-template>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
@@ -105,9 +109,14 @@
     </xsl:template>
     <xsl:template name="role">
         <xsl:param name="roleterm"/>
+        <xsl:param name="rolecode"/>
         <xsl:element name="roleTerm">
             <xsl:attribute name="type">text</xsl:attribute>
             <xsl:value-of select="$roleterm"/>
         </xsl:element>
+        <xsl:element name="roleTerm">
+            <xsl:attribute name="type">code</xsl:attribute>
+            <xsl:value-of select="$rolecode"/>
+            </xsl:element>
     </xsl:template>
 </xsl:stylesheet>
