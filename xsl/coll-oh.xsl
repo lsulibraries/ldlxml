@@ -5,7 +5,7 @@
     version="2.0" xmlns="http://www.loc.gov/mods/v3">
    
     <!-- imports -->
-    <xsl:import href="_hard_core.xsl"/>
+    <xsl:import href="skeleton.xsl"/>
     <xsl:template name="name">
         <xsl:call-template name="interviewer"/>
         <xsl:call-template name="interviewee"/>
