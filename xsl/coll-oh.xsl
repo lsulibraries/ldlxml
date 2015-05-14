@@ -5,7 +5,7 @@
     version="2.0" xmlns="http://www.loc.gov/mods/v3">
    
     <!-- imports -->
-    <xsl:import href="_core.xsl"/>
+    <xsl:import href="_hard_core.xsl"/>
     <xsl:template name="name">
         <xsl:call-template name="interviewer"/>
         <xsl:call-template name="interviewee"/>
@@ -73,11 +73,13 @@
                 <xsl:with-param name="roleterm" select="'Interviewee'"/>
                 <xsl:with-param name="rolecode" select="'ive'"/>
                 <xsl:with-param name="raw" select="current()"/>
+                <xsl:with-param name="description">
+                    <xsl:lit name="description">
+                        <xsl:value-of select="biographical-note"/>
+                    </xsl:lit>
+                </xsl:with-param>
             </xsl:call-template>   
         </xsl:for-each>
-        <xsl:element name="description">
-            <xsl:value-of select="biographical-note"/>
-        </xsl:element>
     </xsl:template> 
         
     <xsl:template name="physicalDescription">

@@ -14,6 +14,7 @@
         <xsl:param name="usage" as="xs:string">
             <xsl:text></xsl:text>
         </xsl:param>
+        <xsl:param name="description"/>
         <xsl:message> Processing name: <xsl:value-of select="."/>
         </xsl:message>
 
@@ -24,6 +25,7 @@
             <xsl:with-param name="roleType" select="$roleterm"/>
             <xsl:with-param name="roleCode" select="$rolecode"/>
             <xsl:with-param name="usage" select="$usage"/>
+            <xsl:with-param name="description" select="$description"/>
         </xsl:call-template>
        
     </xsl:template>
@@ -35,8 +37,9 @@
         <xsl:param name="roleType" as="xs:string"/>
         <xsl:param name="roleCode" as="xs:string"/>
         <xsl:param name="usage" as="xs:string">
-            <xsl:text></xsl:text>
+            <xsl:text/>
         </xsl:param>
+        <xsl:param name="description"/>
         <xsl:variable name="lsu:lower" select="lower-case(.)"/>
         <xsl:variable name="lsu:family-in-name" select="'family'"/>
         <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
@@ -50,28 +53,29 @@
                         <xsl:with-param name="roleterm" select="$roleType"/>
                     </xsl:call-template>
                 </name>
+                <xsl:value-of select="$description"/>
             </xsl:when>
-            <xsl:when test="lsu:two-words"></xsl:when>
-        <!--   Separate family names from other types of name (if = family)-->
-        <!--   Fix this (copied from util-date). These values are invalid and should throw an error     -->
+            <xsl:when test="lsu:two-words"/>
+            <!--   Separate family names from other types of name (if = family)-->
+            <!--   Fix this (copied from util-date). These values are invalid and should throw an error     -->
         </xsl:choose>
-    
-    <!-- Separate corportate names with multiple words from other names (if [word] /s [word)=corporate) -->
-    
-    <!-- If personal, do this...-->
-            <xsl:variable name="regex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
-            
-            <xsl:choose>
-                <xsl:when test="matches(., $regex)">
-                    <xsl:element name="name">
+
+        <!-- Separate corportate names with multiple words from other names (if [word] /s [word)=corporate) -->
+
+        <!-- If personal, do this...-->
+        <xsl:variable name="regex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
+
+        <xsl:choose>
+            <xsl:when test="matches(., $regex)">
+                <xsl:element name="name">
                     <xsl:attribute name="type">personal</xsl:attribute>
                     <xsl:attribute name="usage">
                         <xsl:value-of select="$usage"/>
                     </xsl:attribute>
                     <xsl:variable name="photog" select="."/>
-                    
+
                     <xsl:analyze-string select="$photog" regex="{$regex}">
-                        
+
                         <xsl:matching-substring>
                             <namePart>
                                 <xsl:value-of select="regex-group(1)"/>
@@ -85,8 +89,8 @@
                             </xsl:call-template>
                         </xsl:matching-substring>
                     </xsl:analyze-string>
-                    
-                   <!-- <xsl:element name="role">
+
+                    <!-- <xsl:element name="role">
                         <xsl:element name="roleTerm">
                             <xsl:attribute name="type">code</xsl:attribute>
                             <xsl:attribute name="authority">marcrelator</xsl:attribute>pht</xsl:element>
@@ -94,29 +98,32 @@
                             <xsl:attribute name="type">text</xsl:attribute>
                             <xsl:attribute name="authority">marcrelator</xsl:attribute>Photographer </xsl:element>
                     </xsl:element>-->
-                    </xsl:element>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:element name="name">
+                    <xsl:value-of select="$description"/>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="name">
                     <xsl:if test="compare(upper-case(.), 'Unknown')">
                         <xsl:element name="namePart">
                             <xsl:value-of select="."/>
                         </xsl:element>
                     </xsl:if>
-                    </xsl:element>
-                </xsl:otherwise>
-            </xsl:choose>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template name="role">
         <xsl:param name="roleterm"/>
         <xsl:param name="rolecode"/>
-        <xsl:element name="roleTerm">
-            <xsl:attribute name="type">text</xsl:attribute>
-            <xsl:value-of select="$roleterm"/>
-        </xsl:element>
-        <xsl:element name="roleTerm">
-            <xsl:attribute name="type">code</xsl:attribute>
-            <xsl:value-of select="$rolecode"/>
+        <xsl:element name="role">
+            <xsl:element name="roleTerm">
+                <xsl:attribute name="type">text</xsl:attribute>
+                <xsl:value-of select="$roleterm"/>
             </xsl:element>
+            <xsl:element name="roleTerm">
+                <xsl:attribute name="type">code</xsl:attribute>
+                <xsl:value-of select="$rolecode"/>
+            </xsl:element>
+        </xsl:element>
     </xsl:template>
 </xsl:stylesheet>
