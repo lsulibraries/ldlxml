@@ -105,7 +105,7 @@
     </xsl:template>
     <xsl:template name="restrictions">
         <xsl:attribute name="type">restriction on access</xsl:attribute>
-        <xsl:call-template name="restrictions"/>
+<!--        <xsl:call-template name="restrictions"/>-->
         <xsl:value-of select="copyright"/>
     </xsl:template>
     <xsl:template name="access">
