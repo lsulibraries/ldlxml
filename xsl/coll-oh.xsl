@@ -55,13 +55,14 @@
     </xsl:template>
     <!-- These two templates (interviewee and interviewer) seem to be interfering with each other -->
     <xsl:template name="interviewer">
-       <!-- <xsl:variable name="rawNames" select="tokenize(interviewer,'; ')"/>-->
-        <xsl:for-each select="tokenize(interviewer,'; ')">
-         <xsl:call-template name="util-name">
-             <xsl:with-param name="roleterm" select="'Interviewer'"/>
-             <xsl:with-param name="rolecode" select="'ivr'"/>
-             <xsl:with-param name="raw" select="current()"/>
-         </xsl:call-template>
+        <xsl:variable name="rawNames" select="tokenize(interviewer,'; ')"/>
+        <!--        <xsl:for-each select="tokenize(interviewer,'; ')">-->
+        <xsl:for-each select="$rawNames">
+            <xsl:call-template name="util-name">
+                <xsl:with-param name="roleterm" select="'Interviewer'"/>
+                <xsl:with-param name="rolecode" select="'ivr'"/>
+                <xsl:with-param name="raw" select="current()"/>
+            </xsl:call-template>
         </xsl:for-each>
     </xsl:template>
     

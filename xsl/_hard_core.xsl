@@ -4,7 +4,7 @@
 
     <!--  imports   -->
     <xsl:import href="defaults.xsl"/>
-    <xsl:import href="util.xsl"/>
+<!--    <xsl:import href="util.xsl"/>-->
     <xsl:import href="util-date.xsl"/>
     <xsl:import href="util-name.xsl"/>
     <xsl:output indent="yes"/>

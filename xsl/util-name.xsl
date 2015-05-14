@@ -37,7 +37,9 @@
         <xsl:param name="usage" as="xs:string">
             <xsl:text/>
         </xsl:param>
+        
         <xsl:param name="description" as="xs:string"/>
+
         <xsl:variable name="lsu:lower" select="lower-case(.)"/>
         <xsl:variable name="lsu:family-in-name" select="'family'"/>
         <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
@@ -107,6 +109,10 @@
                             <xsl:value-of select="."/>
                         </xsl:element>
                     </xsl:if>
+                    <xsl:call-template name="role">
+                        <xsl:with-param name="roleterm" select="$roleType"/>
+                        <xsl:with-param name="rolecode" select="$roleCode"/>
+                    </xsl:call-template>
                 </xsl:element>
             </xsl:otherwise>
         </xsl:choose>
@@ -120,7 +126,7 @@
                 <xsl:attribute name="authority">marcrelator</xsl:attribute>
                 <xsl:value-of select="$roleterm"/>
             </xsl:element>
-            <xsl:element name="roleCode">
+            <xsl:element name="roleTerm">
                 <xsl:attribute name="type">code</xsl:attribute>
                 <xsl:attribute name="authority">marcrelator</xsl:attribute>
                 <xsl:value-of select="$rolecode"/>
