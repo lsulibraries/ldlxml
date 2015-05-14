@@ -27,9 +27,7 @@
             <xsl:with-param name="usage" select="$usage"/>
             <xsl:with-param name="description" select="$description"/>
         </xsl:call-template>
-       
     </xsl:template>
-    
     
     
     <xsl:template name="lsu:namePart">
@@ -39,10 +37,11 @@
         <xsl:param name="usage" as="xs:string">
             <xsl:text/>
         </xsl:param>
-        <xsl:param name="description"/>
+        <xsl:param name="description" as="xs:string"/>
         <xsl:variable name="lsu:lower" select="lower-case(.)"/>
         <xsl:variable name="lsu:family-in-name" select="'family'"/>
         <xsl:variable name="lsu:two-words" select="'[(A-Za-z)+\s]+'"/>
+        <!--   Separate family names from other types of name (if = family)-->
         <xsl:choose>
             <xsl:when test="matches($lsu:lower,$lsu:family-in-name)">
                 <name type="family">
@@ -51,16 +50,20 @@
                     </namePart>
                     <xsl:call-template name="role">
                         <xsl:with-param name="roleterm" select="$roleType"/>
+                        <xsl:with-param name="rolecode" select="$roleCode"/>
                     </xsl:call-template>
+                    <xsl:element name="description">
+                        <xsl:value-of select="$description"/>
+                    </xsl:element>
                 </name>
-                <xsl:value-of select="$description"/>
             </xsl:when>
             <xsl:when test="lsu:two-words"/>
-            <!--   Separate family names from other types of name (if = family)-->
-            <!--   Fix this (copied from util-date). These values are invalid and should throw an error     -->
         </xsl:choose>
 
-        <!-- Separate corportate names with multiple words from other names (if [word] /s [word)=corporate) -->
+        <!-- Separate corportate names with multiple words from other names (if [word] /s [word)=corporate)
+        ????
+        ????
+        -->
 
         <!-- If personal, do this...-->
         <xsl:variable name="regex" select="'([a-zA-Z\s,]+),\s([0-9?-]+)'"/>
@@ -72,6 +75,8 @@
                     <xsl:attribute name="usage">
                         <xsl:value-of select="$usage"/>
                     </xsl:attribute>
+                    <!-- I don't think we can just get rid of line 79 and 80, but we need to change the name of this variable
+                        and possibly be more specific about what it selects-->
                     <xsl:variable name="photog" select="."/>
 
                     <xsl:analyze-string select="$photog" regex="{$regex}">
@@ -90,15 +95,9 @@
                         </xsl:matching-substring>
                     </xsl:analyze-string>
 
-                    <!-- <xsl:element name="role">
-                        <xsl:element name="roleTerm">
-                            <xsl:attribute name="type">code</xsl:attribute>
-                            <xsl:attribute name="authority">marcrelator</xsl:attribute>pht</xsl:element>
-                        <xsl:element name="roleTerm">
-                            <xsl:attribute name="type">text</xsl:attribute>
-                            <xsl:attribute name="authority">marcrelator</xsl:attribute>Photographer </xsl:element>
-                    </xsl:element>-->
-                    <xsl:value-of select="$description"/>
+                    <xsl:element name="description">
+                        <xsl:value-of select="$description"/>
+                    </xsl:element>
                 </xsl:element>
             </xsl:when>
             <xsl:otherwise>
@@ -118,10 +117,12 @@
         <xsl:element name="role">
             <xsl:element name="roleTerm">
                 <xsl:attribute name="type">text</xsl:attribute>
+                <xsl:attribute name="authority">marcrelator</xsl:attribute>
                 <xsl:value-of select="$roleterm"/>
             </xsl:element>
-            <xsl:element name="roleTerm">
+            <xsl:element name="roleCode">
                 <xsl:attribute name="type">code</xsl:attribute>
+                <xsl:attribute name="authority">marcrelator</xsl:attribute>
                 <xsl:value-of select="$rolecode"/>
             </xsl:element>
         </xsl:element>
