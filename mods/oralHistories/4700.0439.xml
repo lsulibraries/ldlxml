@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Alumni</title>
+         <subTitle>Pat Cheramie oral history interview, 1994</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Campbell, Melisse.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Cheramie, Pat</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1944-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Born in 1944 on the west bank of New Orleans, Pat Cheramie became the
+            first in her family to attend college. She graduated from LSU in 1966 with a degree in
+            journalism and went on to work at WBRZ in Baton Rouge, where she remained for over
+            twenty-five years and served as station manager.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1994</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>38 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana
+            State University (Baton Rouge, La.).--School of Journalism.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University
+            (Baton Rouge, La.)--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">WBRZ-TV (Television station : Baton Rouge, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Television stations--Louisiana--Baton Rouge--Management.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Television
+            advertising--Louisiana--Baton Rouge--Marketing.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women college students--United
+            States--Social life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Greek letter societies--Louisiana--Baton
+            Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">American newspapers--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <identifier>Mss. 4700.0439</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0439</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

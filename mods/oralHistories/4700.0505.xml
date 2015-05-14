@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Alumni</title>
+         <subTitle>Estelle Skolfield Williams oral history interview, 1994</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Williams, Estelle Skolfield</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1908-1999</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Estelle Skolfield Williams (1908-1999) was an LSU alumna, LSU English
+            instructor, and wife of T. Harry Williams.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1994</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">3 sound cassettes</note>
+         <extent>4</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>184
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Williams, Estelle Skolfield, 1908-1999--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Williams, T. Harry--(Thomas
+            Harry), 1909-1979.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Skolfield family.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and
+            Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Oral history--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College teachers'
+            spouses--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th
+            century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0505</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0505</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

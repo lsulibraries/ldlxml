@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Miles Edward Richardson oral history interview, 2000-2006.</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Abraham, Jennifer,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Richardson, Miles</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1932-2011</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Miles Edward Richardson was born in Palestine, Tex., to Mark Carl and
+            Florence Adams Richardson in 1932. He dropped out of high school in December 1949, a few
+            months before he was due to graduate, and immediately joined the U.S. Air Force.
+            Richardson stayed in the Air Force for four years, serving in the Korean War while he
+            was stationed in Okinawa, Japan, for two years. After leaving the service, he slowly
+            began taking college classes and eventually wound up at Stephen F. Austin State College,
+            where he completed his B.S. in biology and history in 1957. That same year, he started
+            the master's program in anthropology at Louisiana State University. After only one year
+            there, Richardson transferred to the Ph.D. program at Tulane University. While a student
+            at Tulane, he married a fellow student, Valerie Woodger. Richardson was able to go to
+            Colombia on a medical grant and he did his dissertation fieldwork in San Pedro,
+            Colombia, in 1962-63. For the next two years, while completing his Ph.D. at Tulane in
+            the summers, he taught at Indiana State College (now Indiana University of
+            Pennsylvania). Richardson earned his Ph.D. from Tulane in the spring of 1965 and started
+            teaching at LSU that fall. He remained at LSU as a professor of anthropology for the
+            next forty years. He was Departmental Chair (1970-72) and Acting Chair (1986-87). He
+            held the Fred B. Kniffen Professorship and the Doris Z. Stone Professorship and served
+            in numerous professional organizations including the Society for Humanistic Anthropology
+            and the Southern Anthropological Society. Throughout his career, he conducted fieldwork
+            in the southern U.S. and Latin America and authored several books and numerous scholarly
+            articles, as well as several poems and short stories. Richardson died at the age of 79
+            on November 14, 2011.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2000-2006.</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>1 hour, 30 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">3digital audio files</note>
+         <extent>3 hours,
+            12 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>6 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>50 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Richardson, Miles, 1932-2011--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Richardson, Valerie Thorn Woodger,
+            1937-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">La Violette, Forrest Emmanuel, 1904-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Haag, William George, 1910-2000.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana
+            State University and Agricultural and Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State
+            University and Agricultural and Mechanical College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Stephen F. Austin State
+            College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Tulane University--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Air
+            Force--History--Korean War, 1950-1953.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Anthropology--Research--Colombia.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Anthropology--Research--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Civil
+            rights--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Farm life--Texas--Palestine.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Civil rights
+            movements--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College students--Political
+            activity--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Vietnam War, 1961-1975--Protest
+            movements--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Palestine (Tex.)--Social life and customs--20th
+            century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cali
+            (Colombia)--Description and travel.</topic>
+      </subject>
+      <identifier>Mss. 4700.1503</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1503</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

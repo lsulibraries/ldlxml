@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Alumni</title>
+         <subTitle>Lloyd Funchess oral history interview, 1976</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Newell, Ralph.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Funchess, Lloyd V. </namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1976</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1 hour</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>26 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--School of Music.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Music--Instruction and study.</topic>
+      </subject>
+      <identifier>Mss. 4700.0020</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            interviewee and interviewer and/or their heirs in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0020</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

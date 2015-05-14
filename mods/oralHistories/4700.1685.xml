@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Hurricane Betsy Survivors Oral History Project</title>
+         <subTitle>Lucille D. Duminy oral history interview, 2003</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Mwendo, Nilima,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Duminy, Lucille D., 1928-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>2003</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>3 hours, 6 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstracts</note>
+         <extent>4 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">
+            Transcripts</note>
+         <extent>117 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Duminy, Lucille D., 1928---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Charity Hospital (New Orleans, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Small Business Administration.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American
+            neighborhoods--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Louisiana--New
+            Orleans--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster
+            victims--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Evacuation of civilians--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricane Camille, 1969.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Ninth Ward (New Orleans, La.)</topic>
+      </subject>
+      <identifier>Mss. 4700.1685</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            interviewer and Louisiana State University in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1685</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

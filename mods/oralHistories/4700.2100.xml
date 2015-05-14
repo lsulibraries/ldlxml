@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Bayou Lafourche Oral History Project</title>
+         <subTitle>Brenda Dardar Robichaux oral history interview, 2010</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Hayward, David,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Robichaux, Brenda Dardar</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1958-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Brenda Dardar Robichaux was born and raised in a Houma Indian community
+            just south of the corporation limits of Golden Meadow, Louisiana. Her grandfather,
+            Ernest Dardar, was a traiteur, or healer, and her father was a fisherman. The youngest
+            child in her family, she was among the first Indian students to integrate Bayou
+            Lafourche public schools, and she worked for the parish school district early in her
+            career. She served as the Principal Chief of the United Houma Nation (1997-2010), and is
+            an outspoken advocate for minority rights. She has also served on numerous boards
+            (Second Harvest, Inter-Tribal Council of Louisiana, National Indian Education
+            Association, Rockefeller Philanthropy Gulf Coast Ecological Health and Community Renewal
+            Fund Advisory Group, New Orleans Jazz &amp; Heritage) and has won many awards for her
+            service from local and national organizations (Times Picayune, Ms. Foundation, National
+            Coalition on Black Civic Participation, United Houma Nation). She is married to former
+            state senator Michael Robichaux and has three children: Josh, Jason, and
+            Felicite.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>29 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>3 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>4
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Robichaux, Brenda Dardar, 1958---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Dardar, Ernest.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Catholic
+            Church--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Houma Indians--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Indian healers--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum industry and
+            trade--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Whites--Louisiana--Lafourche Parish--Relations with
+            Indians.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Golden Meadow (La.)--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lafourche Parish (La.)--Social
+            life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lafourche, Bayou (La.)--Economic conditions.</topic>
+      </subject>
+      <identifier>Mss. 4700.2100</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2100</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

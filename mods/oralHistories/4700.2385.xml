@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisiana Cooperative Extension Oral History Project</title>
+         <subTitle>Kenneth Roberts oral history interview, 2014</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Winnie, Wyatt</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1975-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Roberts, Kenneth</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1944-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Kenneth Roberts was born on September 19, 1944, in New Orleans,
+            Louisiana. He is the son of well-known meteorologist Nash C. Roberts and Lydia Leblanc.
+            He grew up in Metairie, Louisiana. He attended public schools and participated in the
+            4-H club in high school. He started his academic career at the University of New Orleans
+            before transferring to Louisiana State University where he earned his bachelor's and
+            master's degrees in agricultural economics. After receiving his master's degree, Roberts
+            moved to Oregon where he attended Oregon State University. His Ph.D. is in natural
+            resource economics. Upon graduation from OSU, Roberts worked as a natural resource
+            economist and program director for the Clemson University Sea Grant program. He then
+            spent a year working for the National Sea Grant office as a program monitor before
+            returning to South Carolina. In 1978, Roberts returned to Louisiana as a Marine
+            Extension resource economist for Louisiana Sea Grant. In 2001, he became the associate
+            vice chancellor and associate director of Extension for the Louisiana State University
+            Ag Center. He retired from the LSU Ag Center in the fall of 2006.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2014</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>1 hour, 21 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>7 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract
+           </note>
+         <extent>2 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Roberts, Kenneth, 1944---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Roberts, Nash C., 1918-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">4-H Youth
+            Development Program (U.S.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana Sea Grant College Program.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">National Sea Grant
+            College Program (U.S.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">South Carolina Sea Grant Program.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fisheries--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fishers--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fishery extension work--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Vietnamese
+            Americans--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cambodian Americans--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Marine sciences--Economic
+            aspects--Louisiana.</topic>
+      </subject>
+      <identifier>Mss. 4700.2385</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2385</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

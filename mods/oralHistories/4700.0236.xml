@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Sororities at LSU</title>
+         <subTitle>Marion Ferguson oral history interview, 1993</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Campbell, Melisse.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Ferguson, Marion</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1922-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Ferguson was born on 18 May 1922 in Shreveport, La. Her father was a
+            stockbroker and her mother a homemaker. She married John Ferguson. She attended
+            Centenary College for two years, majoring in history and minoring in English, before
+            completing her B.S. at LSU. Ferguson was instrumental in bringing the Zeta Tau Alpha
+            Society to LSU, and she played an integral part in the building of their sorority house.
+            Ferguson also served as Panhellenic director for LSU in the late 1940s and as president
+            of the Zeta Tau Alpha House Corporation Board in the 1960s.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1993</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>2 hours</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>74 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Centenary College of Louisiana--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge,
+            La.).--Office of Greek Affairs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Zeta Tau Alpha.--Delta Kappa Chapter (Louisiana State
+            University)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women college students--United States--Social life and customs--20th
+            century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Greek letter societies--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women--Societies and
+            clubs--Louisiana.</topic>
+      </subject>
+      <identifier>Mss. 4700.0236</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            intervieweeﾠ and interviewer and/or their heirs in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0236</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

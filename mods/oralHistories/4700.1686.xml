@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Hurricane Betsy Survivors Oral History Project</title>
+         <subTitle>Dorothy Mackey Prevost oral history interview, 2003</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Mwendo, Nilima,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Prevost, Dorothy Mackey</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1931-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Dorothy Mackey Prevost is a New Orleans native and survivor of Hurricane
+            Betsy. She lived in the Lower Ninth Ward her entire life, attended McCarty Elementary
+            School and Booker T. Washington High School, and worked as a seamstress. She married
+            Charles Prevost in 1953 and had two daughters, Tessie and Tory. Tessie was one of the
+            first African-American students to integrate McDonogh 19 School in the
+            1960s.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2003</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1 hour, 30 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>3 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript
+           </note>
+         <extent>72 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Prevost, Dorothy Mackey, 1931---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Schiro, Victor H.--(Victor Hugo),
+            1904-1992.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Small Business Administration.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American
+            neighborhoods--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Louisiana--New
+            Orleans--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Segregation--Louisiana--New
+            Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster victims--Louisiana--New
+            Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Evacuation of civilians--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Levees--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Ninth Ward (New
+            Orleans, La.)</topic>
+      </subject>
+      <identifier>Mss. 4700.1686</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            interviewer and Louisiana State University in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1686</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Theodore McMullan oral history interview, 1992</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Bishop, James M.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>McMullan, T. N. 1908-2000</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1992</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>43
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">McMullan, T. N.--(Theodore Newton), 1908-2000--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">McMullan family.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">McIlhenny family.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Middleton, Troy H.--(Troy Houston), 1889-1976.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Williams, T.
+            Harry--(Thomas Harry), 1909-1979.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Taylor, Cecil Grady, 1909-1999.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Spaht, Carlos G.,
+            1906-2002.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Borth, Daniel.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University
+            Library.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Library.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State
+            University and Agricultural and Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University
+            (Baton Rouge, La.)--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Army--Intelligence specialists.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Academic
+            libraries--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College administrators--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Marching bands--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <identifier>Mss. 4700.0141</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            LSU Libraries in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0141</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisianans in the Military Oral History Project</title>
+         <subTitle>Joseph Emile Dupont Jr. oral history interview, 2001-2002.</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Abraham, Jennifer,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Dupont, Joseph Emile</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1922-2005</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Joseph Emile Dupont Jr. was born on February 2, 1922, in Plaquemine, La.
+            He graduated from Plaquemine High School in 1940 and joined the U.S. Marine Corps.
+            Dupont served in the Pacific Theater during World War II, fighting at the Battle of
+            Corregidor where he was taken prisoner by the Japanese in May 1942. He was held captive
+            at Cabanatuan, Palawan Island, and Manila in the Philippines until January 1945. After
+            returning to the United States, he married Angela Hannon on September 5, 1946. They
+            moved back to Plaquemine and had six children. Dupont worked in the Iberville Parish
+            Department of Veterans Affairs as a veterans' service officer until retiring in 1980. He
+            died in 2005.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2001-2002.</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">6 sound cassettes</note>
+         <extent>9 hours</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>8 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>364
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Dupont, Joseph Emile, 1922-2005--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Marine
+            Corps--History--World War, 1939-1945.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana.--Dept. of Veterans' Affairs--Officials
+            and employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bilibid Prison (Manila, Philippines)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cabanatuan (Philippines :
+            Concentration camp)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Palawan Barracks (Concentration camp)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War,
+            1939-1945--Atrocities--Philippines--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War,
+            1939-1945--Campaigns--Philippines--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War,
+            1939-1945--Philippines--Prisoners and prisons, Japanese--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Veterans--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bataan, Battle of, Philippines,
+            1942--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Palawan Massacre, Philippines, 1944.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Ex-prisoners
+            of war--Rehabilitation--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Depressions--1929--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Floods--Mississippi River Valley.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">River life--Louisiana--Plaquemine.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Corregidor Island
+            (Philippines)--History, Military--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Plaquemine (La.)--Social life and
+            customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Manila (Philippines)--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Shanghai
+            (China)--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">China--History--1937-1945.</topic>
+      </subject>
+      <identifier>Mss. 4700.1409</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1409</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

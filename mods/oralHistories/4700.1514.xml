@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>McKinley High School Oral History Project: Baton Rouge Bus Boycott</title>
+         <subTitle>Mary Edith Moody oral history interview, 2002</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Horn, Amy,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Moody, Mary Edith</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1926-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Mary Edith Moody was born on July 29, 1926, in Baton Rouge, La. She
+            graduated from Southern University Laboratory School and earned degrees from Southern
+            University, Louisiana State University, and the Interdenominational Theological Center
+            in Atlanta, Ga. Moody taught English and business education at the Louisiana State
+            School for the Blind for more than 30 years. She became a minister in 1972 and has
+            served at several African Methodist Episcopal churches in the Baton Rouge
+            area.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2002</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>34 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>18
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Moody, Mary Edith, 1926---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Jemison, T. J.--(Theodore Judson)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Parks,
+            Rosa, 1913-2005.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">King, Martin Luther, Jr., 1929-1968.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American women civil
+            rights workers--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Civil
+            rights--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus
+            lines--Ridership--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus occupants--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Segregation in transportation--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Race
+            relations.</topic>
+      </subject>
+      <identifier>Mss. 4700.1514</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1514</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

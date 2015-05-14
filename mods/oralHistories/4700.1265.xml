@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Harold V. Andersen oral history interview, 1999</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Schiebout, Judith A.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Picou, Edward B.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Andersen, Harold Veral</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1907-2000</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>"Harold V. Anderson was born in 1907 outside of Cumberland, Iowa. His
+            father, Perry, a cattle buyer, and mother, Pauline, moved the family to Yuma, Colorado,
+            around 1910. Andersen started high school in Yuma in 1921 and graduated in 1925. He
+            attended the University of Denver for one year on a scholarship, but could not afford to
+            continue his studies there. Throughout the 1920s and '30s, Andersen continued his
+            education at various institutions (when funding allowed) and held multiple jobs, working
+            as a carpenter, lab supervisor, and field archaeologist to name a few. While working in
+            a coal mine in Utah in 1927, he lost half of his thumb in an accident. He earned a B.A.
+            in Geology from the University of Nebraska in 1940 and soon took a job with the Alabama
+            Geological Survey. He enlisted in the Army Corps of Engineers during World War II in
+            1942 and served briefly in Europe. His engineering unit was sent back to California to
+            train for the invasion of Japan, but the war ended before they were deployed. He was
+            discharged in 1946 after achieving the rank of captain. A visit to Louisiana State
+            University that same year led to a graduate assistantship in their burgeoning Geology
+            Department. His dissertation research, completed in tandem with another student, James
+            Morgan, focused on a foraminiferal assemblage found in mud lump clays from the
+            Mississippi River. In 1950, four months after receiving his Ph.D., he was recalled to
+            military duty during the Korean War. He spent the next two years working on a technical
+            manual called ""Geology and Its Military Application."" After his service, he returned
+            to teaching at LSU and retired in 1977 as Professor Emeritus of the Geology and
+            Geophysics Department. Andersen passed away on June 28, 2000 at age
+            92."</description>
+      </name>
+      <originInfo>
+         <dateCreated>1999</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">3 sound cassettes</note>
+         <extent>2 hours, 12 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>56
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Andersen, Harold Veral, 1907-2000--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Neagu, Theodor.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Neagu, Mircea.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Department of Geology and
+            Geophysics--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Archaeological assemblages--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Archaeology--Fieldwork--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Archaeology--Fieldwork--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fossils--Colorado.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fossils--Louisiana--Mississippi River Delta.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Geology--Fieldwork--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Geology--Fieldwork--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Military geology.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Natural history museums--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Paleo-Indians--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Paleontology--Fieldwork--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Paleontology--Fieldwork--United States.</topic>
+      </subject>
+      <identifier>Mss. 4700.1265</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1265</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

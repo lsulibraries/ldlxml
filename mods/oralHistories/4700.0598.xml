@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>British Voices from South Asia Oral History Project</title>
+         <subTitle>Sir Charles Dalton, Brigadier and Mrs. Herbert Dinwiddie oral history interview,
+            1978</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>De Caro, F.A., 1943-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Jordan, R. A.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Dalton, Charles James George</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1902-1989</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Sir Charles Dalton was commissioned into the Royal Artillery in 1921. He
+            was awarded the OBE in 1941 and the CBE in 1954. Dalton was made Companion of the Bath
+            in 1954 and knighted in 1967. Brigadier Herbert Dinwiddie served in the Indian Army
+            beginning in 1918.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1978</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>1 hour, 5 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>17
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Dalton, Charles James George, 1902-1989--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Dinwiddie,
+            Herbert--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India.--Army--Military life.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">British--India--Social life and
+            customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Corruption--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Rugs, Persian--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Economic
+            conditions--1918-1947.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Politics and government--1919-1947.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Social
+            conditions--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0598</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Copyright and property rights are assigned to the interviewees and jointly to the
+            Centre of South Asian Studies at the University of Cambridge and the Louisiana State
+            University and A &amp; M College Libraries and its successor agencies.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0598</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisianans in the Military Oral History Project</title>
+         <subTitle>"Frank L. ""Dusty"" Rhoades oral history interview, 1999"</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Rost, Jude Noah,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Rhoades, Frank L., 1921-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1999</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>3 hours</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>120
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Rhoades, Frank L., 1921---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana Polytechnic Institute.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana
+            Army Ammunition Plant (U.S.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Aerial operations, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World
+            War, 1939-1945--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bombers--Piloting--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">B-24
+            (Bomber)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Gas industry--Louisiana--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Machine shops--Louisiana--Bossier City.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Ordnance--Louisiana--Manufacture.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Aircraft industry--United States--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum pipeline industry--Texas--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum pipeline
+            industry--Alaska--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum pipeline industry--Saudi Arabia--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Saudi Arabia--Social life and customs--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.1171</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1171</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

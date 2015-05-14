@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Hurricane Betsy Survivors Oral History Project</title>
+         <subTitle>Lucy Boyer Thomas oral history interview, 2003</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Mwendo, Nilima,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Thomas, Lucy Boyer</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1923-2004</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Lucy Boyer Thomas was born in 1923, grew up in the Fazendeville village
+            near Chalmette, and attended school in New Orleans through the eleventh grade. She
+            studied nursing at UCLA and worked as a nurse in California and Louisiana. She married
+            Francis Thomas and they had five children. She lived in the Ninth Ward for more than
+            fifty years, surviving Hurricane Betsy. She died in 2004 at age
+            eighty-one.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2003</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>2 hours, 33 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstracts</note>
+         <extent>4 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">
+            Transcripts</note>
+         <extent>119 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Thomas, Lucy Boyer, 1923-2004--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Schiro, Victor H.--(Victor Hugo),
+            1904-1992.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">University of California, Los Angeles.--School of Nursing--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American neighborhoods--Louisiana--Saint Bernard Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American
+            neighborhoods--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Louisiana--Saint Bernard
+            Parish--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Louisiana--New Orleans--Social life
+            and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Disaster victims--Louisiana--New
+            Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Evacuation of civilians--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Farm life--Louisiana--Saint
+            Bernard Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Levees--Louisiana--New Orleans.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fazendeville (La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Ninth Ward (New Orleans, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Los
+            Angeles (Calif.)--Social life and customs--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.1687</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            interviewer and Louisiana State University in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1687</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

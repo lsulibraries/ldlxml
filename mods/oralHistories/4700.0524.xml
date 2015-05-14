@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Alvin Lee Bertrand oral history interview, 1995</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Besch, Everett Dickman</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Bertrand, Alvin Lee</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Alvin Lee Bertrand graduated from LSU with B.S. (1940) and Ph.D. (1948)
+            degrees and remained to teach, specializing in rural sociology.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1995</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">5 sound cassettes</note>
+         <extent>7</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>276
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Bertrand, Alvin Lee, 1918---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Smith, T. Lynn--(Thomas Lynn), 1903-1976</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Frey, Fred C.--(Frederick Charles), 1891-1980.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Efferson, J. Norman--(John Norman),
+            1912-1990.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College.--College
+            of Agriculture.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+            College.--Dept. of Sociology.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and
+            Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sociology, Rural--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Country life--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Rural health--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajun French dialect--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajuns--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">DeQuincy
+            (La.)--Social life and customs--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0524</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0524</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

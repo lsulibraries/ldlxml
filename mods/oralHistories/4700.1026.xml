@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>McKinley High School Oral History Project: Baton Rouge Bus Boycott</title>
+         <subTitle>Dupuy H. Anderson oral history interview, 1998</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Wallace, Dawn Deann,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Anderson, Dupuy H. 1918-1999</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1998</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1 hour, 24 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>24
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Anderson, Dupuy H.--(Dupuy Henry), 1918-1999--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Air
+            Force--African American officers.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton
+            Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus lines--Ridership--Louisiana--Baton
+            Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus occupants--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Racism--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">School
+            integration--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Segregation in education--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Segregation in
+            transportation--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Social life and
+            customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States--Race
+            relations.</topic>
+      </subject>
+      <identifier>Mss. 4700.1026</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1026</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

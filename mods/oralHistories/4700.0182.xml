@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Virginia Hamilton Vercher oral history interview, 1992-1993.</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Besch, Everett Dickman</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Vercher, Virginia Hamilton</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1922-1997</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Virginia Hamilton Vercher was born in York County near Fort Mill, South
+            Carolina, on January 8, 1922. She attended high school and two years of college, then
+            worked for six years at Duke Power Company. She moved to Louisiana with her husband, a
+            Shreveport native who worked for Ethyl Corporation in Baton Rouge. She worked for the
+            Louisiana State Department of Revenue for four years, and after becoming pregnant, spent
+            the next six years as a stay-at-home mom. She started working for Louisiana State
+            University in 1962 as a secretary to Dr. James Upp, Director of Agriculture Experiment
+            Stations, and she continued to work for Upp's successor, Doyle Chambers. She became the
+            secretary to Chancellor Cecil Taylor in 1966, and shortly thereafter, was asked by
+            Bernard Sliger to set up a Personnel Services office at LSU's Baton Rouge campus.
+            Vercher retired as Associate Director of Personnel Services in 1983. She passed away in
+            1997.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1992-1993.</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>92 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>31
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Vercher, Virginia Hamilton, 1922-1997--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Upp, James W.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sliger, Bernard
+            F.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Taylor, Cecil Grady, 1909-1999.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Pesson, Lynn Louis, 1927-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Efferson, J.
+            Norman--(John Norman), 1912-1990.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Reddoch, James Wilson, 1924-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana Agricultural
+            Experiment Station.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Office of Human
+            Resource Management.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Office of Academic
+            Affairs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+            College--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College
+            administrators--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <identifier>Mss. 4700.0182</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            LSU Libraries in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0182</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

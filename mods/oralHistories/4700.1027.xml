@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisiana Civil Rights Movement Oral History Project</title>
+         <subTitle>Lola Stallworth oral history interview, 1998</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>De Jong, Greta,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Stallworth, Lola</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Lola Stallworth was born on January 27, 1918, in Many, La. She received a
+            bachelor's degree from Grambling State University and a master's degree from Tuskegee
+            Institute. Stallworth was a school supervisor in Greensburg, La., and a member of the
+            Saint Helena Parish School Board. She died on July 7, 1999.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1998</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>42
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Stallworth, Lola, 1918-1999--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Stallworth family.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Project Head Start
+            (U.S.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Council on Aging and Adult Development (U.S.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Congress of Racial Equality.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Credit unions--Louisiana--Greensburg.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American banks--Louisiana--Greensburg.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Civil rights--Louisiana--Saint Helena Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African
+            Americans--Suffrage--Louisiana--Saint Helena Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Saint Helena Parish (La.)--Race
+            relations.</topic>
+      </subject>
+      <identifier>Mss. 4700.1027</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1027</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

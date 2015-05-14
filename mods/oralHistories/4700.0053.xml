@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title> Various Topics Oral History Projects</title>
+         <subTitle>Leni Riefenstahl oral history interview, 1979</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Culbert, David Holbrook.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Lozada, Gisela J.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Riefenstahl, Leni</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1979</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">3 sound cassettes</note>
+         <extent>3 hours</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>19 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Hitler, Adolf, 1889-1945--In motion pictures.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hitler, Adolf, 1889-1945.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hess,
+            Rudolf, 1894-1987.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Speer, Albert, 1905-1981.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Goebbels, Joseph, 1897-1945.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Propaganda,
+            German--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Motion picture industry--Government policy--Germany.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Documentary films--Production and direction--Germany.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">National socialism in motion
+            pictures.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Nazis.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Germany--Politics and government--1933-1945.</topic>
+      </subject>
+      <identifier>Mss. 4700.0053</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws. Only the English
+            language transcript may be used by researchers. German language transcript and recording
+            are restricted.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0053</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Michael Mulhern Centenarians Oral History Project</title>
+         <subTitle>Joseph Favret oral history interview, 1974</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Mulhern, Michael.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Favret, Joseph, born 1873</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1974</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>2 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">3 sound cassettes</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Favret, Joseph, born 1873--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Charles, Robert, 1865?-1900.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Maestri,
+            Robert Sidney, 1899-1974.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Spanish-American War, 1898--Cuba--Personal narratives,
+            American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Riots--Louisiana--New Orleans.</topic>
+      </subject>
+      <identifier>Mss. 4700.0015</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            interviewee and/or his heirs and Louisiana State University in accordance with U.S.
+            copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0015</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

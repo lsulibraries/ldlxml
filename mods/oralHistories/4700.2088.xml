@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Bayou Lafourche Oral History Project</title>
+         <subTitle>"Allen ""Al"" Danos, Jr. oral history interview, 2010"</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Donovan, Erin</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Shelby, Christina,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Danos, Allen</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1947?-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>"Allen ""Al"" Danos was born in Cut Off, La., around 1947 and attended
+            Holy Cross High School in New Orleans. In his early twenties he joined his father, Allen
+            Danos, Sr., in the family business, Danos and Curole Marine Contractors; he and his
+            brother Hank took over the company in the early 1970s. Since his retirement in the early
+            2000s Danos has become a board member of Nicholls State University Foundation, a board
+            member of the Houma-Thibodaux Diocese, and worked to develop tourism in Port Fourchon.
+            He is a practicing Catholic, and lives in Cut Off with his wife. They have four children
+            and five grandchildren."</description>
+      </name>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>21 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>3 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>3
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Danos, Allen, Jr., 1947?---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Catholic Church--Louisiana--Lafourche
+            Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajuns--Louisiana--Lafourche Parish--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Oil field
+            equipment and supplies industry--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Offshore oil field equipment
+            industry--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum industry and trade--Social aspects--Nigeria.</topic>
+      </subject>
+      <identifier>Mss. 4700.2088</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2088</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

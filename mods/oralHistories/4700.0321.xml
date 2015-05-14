@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisiana Civil Rights Movement Oral History Project</title>
+         <subTitle>Johnnie Jones, Sr. oral history interview, 1993-1995.</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Hebert, Mary J.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Jones, Johnnie</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1919-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Johnnie Jones, Sr. was born in Laurel Hill, La., in 1919. After
+            completing sixth grade, he worked for Ransom Lumber Company in Woodville, Miss., where
+            he lived with his boss, Mr. Hergen, and tutored Hergen's son, Buddy. Jones later was
+            sent to live with his uncle in Scotlandville, La., to begin his high school education at
+            Southern University Demonstration School. He went on to Southern University for a year
+            and a half until he was drafted into the U.S. Army to serve in World War II. He was one
+            of the first African-American warrant officers and he took part in the D-Day invasion,
+            landing in the third wave at Omaha Beach. After the war, Jones returned to Southern
+            University to finish his bachelor's degree in psychology. After graduating, he married
+            Sebell Chase and worked for two years at the post office. He then went on to Southern
+            University Law School and earned his law degree in 1953. Jones' legal career included
+            several landmark civil rights cases.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1993-1995.</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">16 sound cassettes</note>
+         <extent>17 hours, 29 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>708
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Jones, Johnnie, 1919---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Tureaud, Alexander Pierre, 1899-1972.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Jemison, T. J.--(Theodore Judson)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cox, B. Elton--(Benjamin Elton), 1931-2011.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Southern
+            University and A &amp; M College.--Demonstration High School.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Southern University and A
+            &amp; M College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">National Association for the Advancement of Colored People.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Congress of Racial Equality.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Actions and defenses--Louisiana--Cases.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American
+            children--Education--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American civil rights workers--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American soldiers.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African
+            Americans--Segregation--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Civil rights movements--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">School integration--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Segregation in
+            transportation--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Participation, African American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Campaigns--France--Normandy.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana--Race relations.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Laurel
+            Hill (La.)</topic>
+      </subject>
+      <identifier>Mss. 4700.0321</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0321</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

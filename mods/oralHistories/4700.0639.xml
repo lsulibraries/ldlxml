@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Military Tradition at LSU</title>
+         <subTitle>Wilbur Joffrion oral history interview, 1995</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Hebert, Mary J.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Joffrion, Wilbur</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Wilbur Joffrion was born on November 8, 1924, in Alexandria, La. His
+            parents, A. Bush Joffrion and Clara Hope Flower, were also native Louisianians. He
+            attended Louisiana State University, like many in his family, for three semesters
+            (1942-1943) and studied chemical engineering. During that time, he served as a ROTC
+            company commander. Joffrion was also a member of the Delta Kappa Epsilon fraternity. In
+            1943, Joffrion entered West Point and was graduated in 1946. He married Beebe Grace in
+            1951 and together they had four children. Joffrion obtained a master's degree in
+            education with a minor in political science from Tulane University in 1953. He then
+            taught at West Point. During his eleven years of active duty, Joffrion was stationed in
+            Germany and Korea. In 1958, he entered the insurance business and transferred to the
+            U.S. Army Reserve. As a reservist, he was assigned to Baton Rouge, Little Rock, and New
+            Orleans, and he retired 1981 as a brigadier general.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1995</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1 hour</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>54 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">United States.--Army--Military life.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Army.--Reserve Officers'
+            Training Corps.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+            College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States Military Academy--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States Military
+            Academy--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Korean War, 1950-1953--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Alexandria
+            (La.)--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Germany--History--1945-1955.</topic>
+      </subject>
+      <identifier>Mss. 4700.0639</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0639</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

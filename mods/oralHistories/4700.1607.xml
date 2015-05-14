@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>McKinley High School Oral History Project: Old South Baton Rouge Social
+            Organizations</title>
+         <subTitle>Freddie Pitcher oral history interview, 2002</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Clark, Nita</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Grimes, Courtney</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Ng-A-Fook, Nicholas A., 1975-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Pitcher, Freddie</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1945-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Freddie Pitcher was born in Baton Rouge, La., on April 28, 1945, to
+            Freddie Pitcher Sr. and Lucy Ingram Pitcher. He graduated from McKinley High School
+            (1962) and Southern University (B.A., 1966; J.D., 1973). He co-founded the law firm of
+            Pitcher, Tyson, Avery, and Cunningham and was elected Baton Rouge's first
+            African-American city court judge in 1983. Pitcher also was elected judge of the 19th
+            Judicial District Court (1987) and the First Circuit Court of Appeals (1992). He became
+            a full professor and chancellor of the Southern University Law Center in
+            2003.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2002</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>57 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>22
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Pitcher, Freddie, 1945---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">McKinley High School (Baton Rouge, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American neighborhoods--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Education
+            (Secondary)--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Discrimination in housing--Louisiana--Baton
+            Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Law firms--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Race discrimination--Louisiana--Baton
+            Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
+      </subject>
+      <identifier>Mss. 4700.1607</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1607</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

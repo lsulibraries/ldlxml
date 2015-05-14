@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Bayou Lafourche Oral History Project</title>
+         <subTitle>Harold Adams and Louise Adams oral history interview, 2010</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Smith, Melissa Michi,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Adams, Harold</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1946?-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Harold Adams was born around 1946 in Golden Meadow, La., to Andrew Adams
+            and Letucia Johnfroe Adams. He grew up on Bobs Lane and attended Golden Meadow School
+            and Nicholls State University as a commuter student. He married his wife, Louise Adams,
+            in 1969; they were both teachers. Adams taught at Golden Meadow School, returned to
+            Nicholls to get a master's degree in guidance and psychology, then was asked to be
+            assistant principal of Golden Meadow. A year later he was promoted to principal, a
+            position in which he stayed until he became a supervisor with federal programs, and
+            retired from education after 33 years. Harold and Louise Adams are practicing Catholics,
+            have two children and a number of grandchildren.; Louise Adams was born in Larose, La.,
+            to a family of grocers. She attended Nicholls State University and was a teacher. She
+            married Harold Adams in 1969.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>1 hour, 5 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>5 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index
+           </note>
+         <extent>6 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Adams, Harold, 1946?---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Adams, Louise, 1947?---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Nicholls
+            State University--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Catholic Church--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Automobiles--Social aspects--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajuns--Louisiana--Golden
+            Meadow--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Levees--Louisiana--Lafourche
+            Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum industry and trade--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">School
+            principals--Louisiana--Golden Meadow.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Teachers--Louisiana--Golden Meadow.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Teaching--Louisiana--Golden Meadow.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Golden Meadow (La.)--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
+      </subject>
+      <identifier>Mss. 4700.2352</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2352</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

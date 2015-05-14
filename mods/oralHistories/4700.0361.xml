@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Elsie Mae Stallworth Hebert oral history interview, 1993</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Campbell, Melisse Lynn</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Hebert, Elsie Mae Stallworth</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1925-2012</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Elsie Hebert was born in 1925 to Oscar and Iva Mae Boone; she was an only
+            child. She attended Monte Sano Elementary School and Baker High School. Hebert received
+            a bachelor's degree in journalism from Louisiana State University in 1945 and continued
+            her studies there, receiving a master's degree in 1948. After working as a reporter and
+            editor for various newspapers and news programs and teaching for several years at
+            Nicholls State University, she returned to LSU in 1966. She was hired to teach in the
+            English Department and soon became the faculty adviser to the Reveille. She later
+            transitioned into a teaching position with the journalism school where she taught for
+            thirty-five years. She earned a doctorate from the University of Texas at Austin during
+            her first few years as a journalism professor at LSU. She was married to A. Otis Hebert
+            and had two sons. Hebert passed away in 2012.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1993</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>58 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>40 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>2
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Hebert, Elsie Mae Stallworth, 1925-2012--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University
+            and Agricultural and Mechanical College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton
+            Rouge, La.).--Dept. of English--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge,
+            La.).--School of Journalism--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Reveille.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College student newspapers and
+            periodicals--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Journalism, College--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Journalism--Study and teaching (Higher)--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women--Education
+            (Higher)--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <identifier>Mss. 4700.0361</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0361</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Bayou Lafourche Oral History Project</title>
+         <subTitle>"John B. ""J.B."" Barnes, Jr. oral history interview, 2010"</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Tannehill, Mary,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Barnes, J. B. 1923?-2012</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>44 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>3 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>4
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Barnes, J. B.--(John B.), Jr., 1923?-2012--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Israelite Baptist Church
+            (Lockport, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American Baptists--Louisiana--Lockport.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African American
+            Christians--Louisiana--Conduct of life.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Child rearing--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Country life--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Country life--Louisiana--Clinton.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Gospel
+            music--Louisiana--Lockport.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Plantation overseers--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Racism
+            in the workplace--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sugar--Manufacture and
+            refining--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sugarcane industry--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lafourche, Bayou (La.)--Economic
+            conditions.</topic>
+      </subject>
+      <identifier>Mss. 4700.2102</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2102</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

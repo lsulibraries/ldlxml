@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: SGA Past Presidents</title>
+         <subTitle>Horace Wilkinson IV oral history interview, 2000</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Abraham, Jennifer,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Wilkinson, Horace</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1941-2012?</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Horace Wilkinson IV comes from a long line of Louisiana plantation
+            owners. He attended Port Allen Elementary School, graduated from University High School
+            in Baton Rouge, and attended the University of the South for a year before transferring
+            to Louisiana State University. His father, Horace Wilkinson III, died suddenly in 1961
+            and his mother, Elizabeth Ann Scales Wilkinson, later remarried. Wilkinson was student
+            body president of LSU from April to November 1962, and president of Alpha Tau Omega
+            fraternity. After graduating from LSU, he worked at Louisiana National Bank for nine
+            years. He was married but later separated from his wife. He has a son, Horace Wilkinson
+            V, and a daughter, Virginia Carter Wilkinson.</description>
+      </name>
+      <originInfo>
+         <dateCreated>2000</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>1 hour, 52 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>3 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">
+            Transcript</note>
+         <extent>75 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Wilkinson, Horace, 1941-2012?--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Wilkinson, Horace, d. 1961.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Williams,
+            T. Harry--(Thomas Harry), 1909-1979.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Middleton, Troy H.--(Troy Houston), 1889-1976.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Pourciau, Kerry Louis, 1951-1994.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Wilkinson family.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and
+            Agricultural and Mechanical College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College students--Louisiana--Baton
+            Rouge--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">College student government--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Sugar plantations--Social
+            aspects--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Central business districts--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Rich
+            people--Massachusetts--Cape Cod--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana--Politics and
+            government--1951-</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cape Cod (Mass.)--Social life and customs--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.1266</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1266</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Military Tradition at LSU</title>
+         <subTitle>Aubrey Williams oral history interview, 1997</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Pleasants, Julian M.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Williams, Aubrey L. </namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1997</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>3 hours</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>96
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Williams, Aubrey L.--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Brooks, Cleanth, 1906-1994.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Warren, Robert
+            Penn, 1905-1989.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Porter, Katherine Anne, 1890-1980.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Tigert, John James, 1882-1965.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bly, Council.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Mack, Maynard, 1909-2001</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Johns, Charley.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and
+            Agricultural and Mechanical College.--Dept. of English.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and
+            Agricultural and Mechanical College--Students.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University and
+            Agricultural and Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Yale University.--Dept. of English.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">University of Florida.--Dept. of English.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Florida.--Legislature.--Legislative
+            Investigation Committee.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Southern review.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Reveille.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Military
+            education--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Nuremberg War Crime Trials, Nuremberg, Germany,
+            1946-1949.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Affirmative action programs in education--Florida.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Education,
+            Higher--Florida.</topic>
+      </subject>
+      <identifier>Mss. 4700.0899</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            T. Harry Williams Center for Oral History and the Samuel Proctor Oral History Program in
+            accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0899</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

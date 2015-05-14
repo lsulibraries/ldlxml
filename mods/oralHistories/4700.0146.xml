@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+         <subTitle>Franziska Heberle oral history interview, 1992</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Pugh, Nina Nichols</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1925-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Heberle, Franziska</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1900-1997</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Franziska Heberle, a German immigrant and the daughter of Ferdinand
+            Tonnes, studied social welfare and worked for the Louisiana State Public Welfare
+            Administration. She was married to Louisiana State University professor of sociology,
+            Rudolf Heberle, and had three children.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1992</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1 hour</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>64
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Heberle, Franziska, 1900-1997--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Heberle, Klaus--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Heberle,
+            Rudolf, b. 1896.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Humphrey, Hubert H.--(Hubert Horatio), 1911-1978.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State
+            University and Agricultural and Mechanical College--Faculty.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Immigrants--United
+            States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Germans--United States.</topic>
+      </subject>
+      <identifier>Mss. 4700.0146</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            interviewer and heirs and Louisiana State University in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0146</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

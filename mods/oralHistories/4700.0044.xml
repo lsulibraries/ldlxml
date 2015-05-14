@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Atchafalya Basin Oral History Project</title>
+         <subTitle>Nelson and Lottie McQuiston oral history interview, 1979</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>McQuiston, Lottie.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Hebert, Sue.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">McQuiston, Nelson</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1897-1986</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Nelson and Lottie McQuiston were married in 1921 and lived in the
+            Atchafalaya Basin area of Louisiana. They resided in Baker, Louisiana, at the time of
+            this interview.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1979</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>2 p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">McQuiston, Nelson, 1897-1986--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Traditional medicine--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Spanish moss--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lumbering--Louisiana--Atchafalaya Basin.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Fishing--Louisiana--Atchafalaya Basin.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Human geography--Louisiana--Atchafalaya Basin.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Atchafalaya Basin (La.)--Social conditions.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Atchafalaya Basin (La.)--History.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Atchafalaya Floodway (La.)</topic>
+      </subject>
+      <identifier>Mss. 4700.0044</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws. </accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0044</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

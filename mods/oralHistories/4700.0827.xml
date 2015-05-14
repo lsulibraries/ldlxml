@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisianans in the Military Oral History Project</title>
+         <subTitle>Ralph Sims oral history interview, 1997</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Foster, Adele.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Sims, Ralph</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1916-2009</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>"Ralph Sims was born in Donaldsonville, La. in 1916. He joined the Army
+            Air Corps during World War II and was a tailgunner in a B-17 ""Flying Fortress."" Sims's
+            wife, Eliza, worked as a secretary at Ethyl Corporation in Baton Rouge during the war.
+            Returning home after his first tour, he continued to work at WJBO radio in Baton Rouge.
+            Leaving radio, he worked for Crawford Corporation and Fidelity National Bank. He retired
+            from the bank in 1982 and remained active in Louisiana Rotary Club. Ralph Sims passed
+            away on Feb 13, 2009."</description>
+      </name>
+      <originInfo>
+         <dateCreated>1997</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">2 sound cassettes</note>
+         <extent>2 hours, 35 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>96
+            p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Manship, Charles S., Sr.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Rotary Club (Baton Rouge, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United
+            States.--Army.--Air Corps--Aerial gunners.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Rotary International.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">WJBO (Radio Station :
+            Baton Rouge, La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Flight crews--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Aerial
+            operations, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">B-17 bomber.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bombing, Aerial--Germany--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Journalism, Military--United States.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bank
+            marketing--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Civic leaders--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Donaldsonville (La.)--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--History--20th
+            century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0827</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0827</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

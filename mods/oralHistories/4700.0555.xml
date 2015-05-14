@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Military Tradition at LSU</title>
+         <subTitle>Robert Badon oral history interview, 1995</subTitle>
+      </titleInfo>
+      <name type="personal" usage="">
+         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1953-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+         <description/>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Badon, Robert</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1896-1998</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Robert Badon was born in Breaux Bridge, Louisiana and educated in St.
+            Martinville. He worked as a New Orleans public service employee, a county agent, and a
+            school teacher. He was a veteran of World War I and graduated from Louisiana State
+            University with a degree in agriculture in 1918.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1995</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>1</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent> 41
+            p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Badon, Robert, 1896-1998.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Roosevelt, Theodore,
+            1858-1919--Travel--Louisiana--Iberia Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Agricultural extension work--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Saint Martin Parish (La.)--History--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0555</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0555</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>McKinley High School Oral History Project: Baton Rouge Bus Boycott</title>
+         <subTitle>Patricia Ann Robinson oral history interview, 1998</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Porche, Erin,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Robinson, Patricia Ann</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1957-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Patricia Ann Robinson was born in 1957 to James and Ella May Robinson.
+            She grew up in South Baton Rouge where she attended McKinley Junior and Senior High
+            School. She went on to major in Business at Southern University. At the time of this
+            interview, she was Director of Special Projects with the Louisiana Department of
+            Economic Development.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1998</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>33 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>20 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>2
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Robinson, Patricia Ann, 1957---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">McKinley High School (Baton Rouge,
+            La.)</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Southern University and A &amp; M College.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">African Americans--Civil
+            rights--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus
+            lines--Ridership--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Bus occupants--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Segregation in transportation--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Racism--Louisiana--Baton
+            Rouge.</topic>
+      </subject>
+      <identifier>Mss. 4700.1045</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1045</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

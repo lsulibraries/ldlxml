@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Bayou Lafourche Oral History Project</title>
+         <subTitle>Loyman P. Melancon oral history interview, 2010</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Ford, Bruce,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Melancon, Loyman P., 1934-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>2010</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 digital audio file</note>
+         <extent>1 hour, 13 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Abstract</note>
+         <extent>5 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index
+           </note>
+         <extent>7 leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Melancon, Loyman P., 1934---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">BP Deepwater Horizon Explosion and Oil
+            Spill, 2010.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajun French dialect--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cajuns--Louisiana--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Food--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Oyster
+            fisheries--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum industry and
+            trade--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Trapping--Louisiana--Lafourche Parish.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Cut Off
+            (La.)--Social life and customs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Lafourche Parish (La.)--Social life and
+            customs.</topic>
+      </subject>
+      <identifier>Mss. 4700.2092</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.2092</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

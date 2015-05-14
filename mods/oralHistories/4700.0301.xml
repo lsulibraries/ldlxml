@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Sororities at LSU</title>
+         <subTitle>Julia Waits Farris oral history interview, 1993</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Campbell, Melisse.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Farris, Julia Waits</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1935-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Farris was born in Greenville, Miss. on 1 January 1935 and grew up one of
+            six children in nearby Leland. Her father was an attorney and her mother a housewife.
+            She followed her father to college at Ole Miss, where she majored in home economics and
+            graduated in 1956. She joined the Phi Mu Sorority and after her graduation served one
+            year as a field secretary for the society. She went to work in the Dean of Women's
+            Office at Ole Miss, where she remained for 10 years before coming to LSU to serve as the
+            assistant dean of women, working specifically with Panhellenic, sororities, and sorority
+            housing, and other student organizations. She worked for LSU for 20 years before
+            retiring in August 1987.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1993</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>40 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>28
+            p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">University of Mississippi--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">University of Mississippi--Societies, etc.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University
+            (Baton Rouge, La.)--Societies, etc.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton Rouge,
+            La.).--Office of Greek Affairs.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Phi Mu Fraternity.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Greek letter
+            societies--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Greek letter societies--Mississippi--Oxford.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women--Societies and clubs--Louisiana--Baton Rouge.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women--Societies and
+            clubs--Mississippi--Oxford.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women college students--United States--Social life and
+            customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Oxford (Miss.)--Social life and customs--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0301</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            intervieweeﾠ and interviewer and/or their heirs in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0301</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

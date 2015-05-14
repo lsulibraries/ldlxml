@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>British Voices from South Asia Oral History Project</title>
+         <subTitle>Philip Mason oral history interview, 1978</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>De Caro, F.A., 1943-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Jordan, R. A.,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Mason, Philip</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1906-1999</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Philip Mason joined the Indian Civil Service in 1928 and served as
+            Assistant Magistrate in the United Provinces, Under-Secretary in the War Department,
+            Deputy Commissioner in the Himalayan district of Garhwal, Deputy Secretary in the
+            Defense and War Department, Secretary to the Chiefs of Staff Committee, and Joint
+            Secretary to the War Department. He ended his career when India gained independence. He
+            was a well-known writer of many books, many focusing on India.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1978</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">3 sound cassettes</note>
+         <extent>2 hours, 30 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Index</note>
+         <extent>22
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Mason, Philip, 1906-1999--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Indian Civil Service.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">British--India--Social life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Anglo-Indians--India--Social
+            life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Women--India--Social life and customs--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Amusements--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Clubs--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Courts--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Interpersonal relations and
+            culture--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Judges--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Social classes--India.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Social classes--Great Britain.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Economic conditions--1918-1947.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Politics and government--1919-1947.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">India--Social conditions--20th century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0589</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Copyright and property rights are assigned to the interviewee and jointly to the
+            Centre of South Asian Studies at the University of Cambridge and the Louisiana State
+            University and A &amp; M College Libraries and its successor agencies.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0589</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

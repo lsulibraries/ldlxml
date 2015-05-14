@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>Louisianans in the Military Oral History Project</title>
+         <subTitle>Buddy Boudreaux oral history interview, 1999</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Rost, Jude Noah,</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name type="personal" usage="primary">
+         <namePart xmlns:lsu="http://lsu.edu">Boudreaux, Buddy</namePart>
+         <namePart xmlns:lsu="http://lsu.edu" type="date">1917-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+         <description>Buddy Boudreaux was born in Donaldsonville, La., on December 27, 1917, to
+            Edward Boudreaux Sr. and Rena Landry Boudreaux. He attended public grammar and high
+            schools in Baton Rouge, La. Boudreaux served in the U.S. Army Air Corps between 1943 and
+            1945, playing in a seven-piece jazz ensemble at officers' clubs, USO shows, and other
+            venues in North Africa and Italy. After the war, he graduated from the University of
+            California at Berkeley and returned to Baton Rouge, working for Exxon for 40 years. He
+            was also a popular jazz musician in the Baton Rouge and New Orleans
+            areas.</description>
+      </name>
+      <originInfo>
+         <dateCreated>1999</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>52 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>36
+            leaves</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">Boudreaux, Buddy, 1917---Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Army Air Forces--Airmen.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">United States.--Army Air Forces--Bands.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Interpersonal relations and culture--Africa,
+            North.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Interpersonal relations and culture--Italy.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Military training
+            camps--Florida--Saint Petersburg.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">V-E Day, 1945--Italy.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Africa,
+            North--Personal narratives, American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Italy--Personal narratives,
+            American.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">World War, 1939-1945--Campaigns--Italy.</topic>
+      </subject>
+      <identifier>Mss. 4700.1138</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+            Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.1138</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods>
+      <titleInfo>
+         <title>LSU History Oral History Project: Alumni</title>
+         <subTitle>John J. McKeithen oral history interview, 1993</subTitle>
+      </titleInfo>
+      <name>
+         <namePart>Carleton, Mark T.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>McKeithen, John J. 1918-1999</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated>1993</dateCreated>
+      </originInfo>
+      <physicalDescription>
+         <note type="content">1 sound cassette</note>
+         <extent>2 hours, 7 minutes</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <physicalDescription>
+         <note type="content">Transcript</note>
+         <extent>69
+            p</extent>
+         <form>Oral History</form>
+      </physicalDescription>
+      <typeOfResource>sound recording</typeOfResource>
+      <subject>
+         <topic authority="LoC">McKeithen, John J.--(John Julian), 1918-1999--Interviews.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">McKeithen, W. Fox.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Duke, David Ernest.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana.--Legislature.--House of Representatives.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana
+            State University (Baton Rouge, La.)--Employees.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana State University (Baton
+            Rouge, La.).--Board of Supervisors.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Universities and colleges--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Petroleum
+            industry and trade--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Race discrimination--Louisiana.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Louisiana--History--20th century.</topic>
+      </subject>
+      <subject>
+         <topic authority="LoC">Caldwell Parish (La.)--History--20th
+            century.</topic>
+      </subject>
+      <identifier>Mss. 4700.0334</identifier>
+      <note type="ownership">Louisiana State University Libraries Special Collections
+            (http://www.lib.lsu.edu/special)</note>
+      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+            interviewer and heirs and Louisiana State University in accordance with U.S. copyright
+            laws.</accessCondition>
+      <accessCondition type="use and reproduction"/>
+      <location>
+         <physicalLocation>LUU</physicalLocation>
+         <physicalLocation>LSU Libraries</physicalLocation>
+         <url>http://www.lib.lsu.edu</url>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>Hill Memorial Library, Special
+                        Collections</subLocation>
+               <shelfLocator>L:
+                        4700.0334</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>
