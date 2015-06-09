@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <mods>
+        <titleInfo>
+            <title></title>
+        </titleInfo>
+        <!-- Essential Metadata Includes: 
+        Title and piece identification-
+        •Journal Title
+        •Additional Title (monograph titles)
+        •Print OCLC#
+        •Print ISSN
+        •Series
+        •Volume
+        •Issue
+        •Part
+        •Publication Date
+        Page specific information-
+        •Number of Pages
+        •Title Pagination
+        •Missing Pages, Covers, Foldouts, etc.
+        •Scanned Front Covers
+        •Scanned Back Covers
+        •Additional Pages
+        Project administrative data-
+        •Scanned Date
+        •Print Archive Date
+        •Completed
+        -->
+        
+        <!--  Desired fields include:
+            Information about images-
+        •Percentage overall of images (estimate)
+        •Color images
+        •Photographs
+        •Plates
+        •Other images
+        Condition Information-
+        •Highlighting/Underlining
+        •Insect Damage
+        •Loose (pages, covers, bindings)
+        •Marginalia
+        •Mold Damage
+        •Obscured Text Block
+        •Rebacked
+        •Rehoused poorly
+        •Repaired poorly
+        •Repaired soundly
+        •Tight Binding
+        •Torn
+        •Warped/Cockled
+        •Yellowed/Browning pages
+        •Reprint
+        •Binding pattern variations
+        •Printing Errors
+        •Acidic Paper
+        •Alkaline Paper
+        •Brittle Paper
+        •Faded
+        •Foxed-->
+    </mods>
+</modsCollection>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.0">
+    <!-- correct title and author capitalization ?-->
+    <titleInfo>
+      <!-- was <title>MARK TWAIN'S THEORIES OF MORALITY</title>--> 
+      <title>Mark Twain's Theories of Morality</title>
+    </titleInfo>
+    
+    <!-- added usage element, corrected capitalization, and changed role to author -->
+    <name type="personal" usage="primary">
+      <!-- was <namePart>FLOWERS, FRANK C.</namePart> -->
+      <namePart type="given">Frank C.</namePart>
+      <namePart type="family">Flowers</namePart>
+      <!-- optional element: <namePart type="date"></namePart>-->
+      <!-- changed role from creator to author and added a code -->
+      <role>
+        <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+      </role>
+    </name>
+    <!-- TDL makes a "Thesis Advisor" mandatory; same rules as name above, but marcrelator="Thesis advisor" -->
+    <!-- TDL recommends names of committee members; same rules as name above, but marcrelator="Committee member"-->
+    
+    <!-- do we want this in the "native" name field, in a publisher field, or in the name type=degree grantor recommended by TDL? -->
+    <name type="corporate">
+      <namePart>Louisiana State University and Agricultural &amp; Mechanical College</namePart>
+      <!-- TDL recommends including a <namePart> with the degree department after the "granting institution" -->
+      <role>
+        <roleTerm authority="marcrelator" type="text">Degree grantor</roleTerm>
+        <!-- I think we should also add a type="code" any time we use a type="text" -->
+      </role>
+      
+    </name>
+  <!-- does this meet DPLA requirements; TDL recommends using the DCMI Type vocabulary -->
+    <typeOfResource>text</typeOfResource>
+    
+    <!-- could this become a more "publisher" like field:check the Sheet Music mapping option -->
+    <originInfo>
+      <!-- TDL recommends dateCreated for the date the student graduates or the degree is conferred (if I remember correctly, this is also preferred by DPLA -->
+      <!-- TDL recommends using dateIssued (ie.published) for the date the ETD is released to the public -->
+      <!-- we should use ISO 8601 for our encoding standard -->
+      <dateIssued encoding="marc">1941</dateIssued><!--should we change this to ISL 8601?-->
+      <!-- issuance not recommended by TDL, but "other valid subelements or attributes with the <mods:originInfo> element may be used" -->
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language> <!-- meets TDL standard automatically -->
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <!-- this is the flip side of the ones that include a text, but not a code; do we want to always include both, and add a language text? -->
+    </language>
+    <!-- added form, internetMediaType, and digital origin to physical description (are these correct; I guessed) -->
+    <physicalDescription>
+      <form>electronic</form>
+      <internetMediaType>application/pdf</internetMediaType> <!-- TDL recommends taking this information from www.iana.org/assignments/media‐types/index.html -->
+      <digitalOrigin>digitized microfilm</digitalOrigin>
+      <!-- could also be "born digital", "digitized other analog", or "reformatted digital"-->
+      <!-- TDL does not give instructions for extent, but I think we should at least change the formatting to RDA-compliant 239 pages -->
+      <extent>239 p.</extent>
+    </physicalDescription>
+    <!-- TDL recommends putting the full text of the abstract in <abstract lang="eng"> and putting "Not available" if there is not abstract text -->
+    <abstract lang="eng">Not available</abstract>
+    <!-- can these become a more specific field? -->
+    
+    <!-- should we add a subject genre for theses and dissertations?
+          also, can we run the subjects through OpenRefine and try to cluster and check 
+          against something like LCSH?-->
+    <subject>
+      <topic>Philosophy</topic>
+    </subject>
+    
+    <!-- TDL recommends a locally defined, unique standard number; our "native" MODS use identifier for a second url,
+      so I think we should consider using the recordIdentifier or creating a new Identifier; does anyone
+    know where the recordIdentifier comes from in the MARC and whether it is unique?-->
+    <identifier>AAI0000418</identifier>
+  
+  <!-- no changes needed unless we want to add something like AltRepGroup to describe the different urls (ours
+  in the repository, the proquest, and the uri?-->
+    <location>
+      <url>http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:0000418</url>
+    </location>
+    
+    <note>Source: Dissertation Abstracts International, Volume: 04-01, page: 2700.</note>
+    <note>Thesis (Ph.D.)--Louisiana State University and Agricultural &amp; Mechanical College, 1941.</note>
+    
+   <!--TDL recommends this, but we don't have this data
+     <extension>
+      <etd:degree>
+        <etd:name>Doctor of Philosophy</etd:name>
+        <etd:level>Doctoral</etd:level>
+        <etd:discipline>Educational Administration</etd:discipline>
+      </etd:degree>
+    </extension>
+    -->
+    
+    <!-- added genre due to TDL recommendation -->
+    <genre authority="marcgt">thesis</genre>
+    
+    
+    <!-- Do we want to keep this data? Should it be included in PREMIS/METS once we get that online?
+    TDL recommends using these elements like so:
+    
+    <mods:recordInfo>
+<mods:recordContentSource authority="marcorg">TxCM</mods:recordContentSource>
+<mods:recordCreationDate encoding="iso8601">2005‐08‐26</mods:recordCreationDate>
+<mods: recordChangeDate encoding="iso8601">2005‐08‐26</mods:recordChangeDate>
+<mods:recordIdentifier>12345678</mods:recordIdentifier>
+</mods:recordInfo>
+    -->
+    <recordInfo>
+      <recordContentSource authority="marcorg">MiAaPQ</recordContentSource>
+      <recordCreationDate encoding="marc">140908</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20140908111845.5</recordChangeDate>
+      <recordIdentifier>AAI0000418</recordIdentifier>
+    </recordInfo>
+    
+    <!-- None of the information below is included in TDL's recommendations; Do we want to keep it? Should it be edited? -->
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Dissertation Abstracts International</title>
+      </titleInfo>
+      <part>
+        <text>04-01.</text>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:0000418</identifier>
+    
+  </mods>
+</modsCollection>
