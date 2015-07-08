@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0" xmlns="http://www.loc.gov/mods/v3">
@@ -104,10 +104,20 @@
         </xsl:for-each>
         <xsl:element name="typeOfResource">sound recording</xsl:element>
     </xsl:template>
-    <xsl:template name="restrictions">
+    <xsl:template name="abstract">
+        <xsl:element name="abstract">
+            <xsl:attribute name="xlink:href"><xsl:value-of select="abstract-"/></xsl:attribute>
+            <xsl:value-of select="summary"/>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template name="restrictions-on-access">
         <xsl:attribute name="type">restriction on access</xsl:attribute>
 <!--        <xsl:call-template name="restrictions"/>-->
         <xsl:value-of select="copyright"/>
+    </xsl:template>
+    <xsl:template name="contact-and-ordering-information">
+        <xsl:attribute name="type">use and reproduction</xsl:attribute>
+        <xsl:value-of select="contact-and-ordering-information-"></xsl:value-of>
     </xsl:template>
     <xsl:template name="access">
         <xsl:element name="note">
@@ -116,11 +126,11 @@
         </xsl:element>
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">restriction on access</xsl:attribute>
-            <xsl:call-template name="restrictions"/>
+            <xsl:call-template name="restrictions-on-access"/>
         </xsl:element>
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">use and reproduction</xsl:attribute>
-            <xsl:value-of select="contact-and-ordering-information"/>
+            <xsl:call-template name="contact-and-ordering-information"/>
         </xsl:element>
     </xsl:template>
     <xsl:template name="location">

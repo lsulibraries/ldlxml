@@ -23,11 +23,9 @@
 
         <xsl:result-document method="xml" href="{$filename-tmp}.xml">
 
-            <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-
-                <xsl:element name="mods" namespace="http://www.loc.gov/mods/v3">
 
                     <!-- Call templates for each section to be included in the MODS output. -->
                     <xsl:call-template name="title"/>
@@ -41,8 +39,9 @@
                     <xsl:call-template name="access"/>
                     <xsl:call-template name="location"/>
                     <xsl:call-template name="series"/>
-                </xsl:element>
-            </modsCollection>
+                    <xsl:call-template name="abstract"/>
+                
+            </mods>
         </xsl:result-document>
     </xsl:template>
 
@@ -65,4 +64,5 @@
     <xsl:template match="repository-collection-guide"/>
     <xsl:template name="series"/>
     <xsl:template name="title"/>
+    <xsl:template name="abstract"/>
 </xsl:stylesheet>

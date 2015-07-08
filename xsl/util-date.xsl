@@ -7,22 +7,22 @@
     version="2.0">
 
     <xsl:template name="date">
-        <!-- will sometimes need to be changed to match "dateCreated" or other date field name ???
-        other option is to get rid of this and instead tell the collection-specific xslt which fields to apply this to,
-        like we were planning to do with the name fields-->
+        <!-- gives feedback while running about what date is being processed -->
         <xsl:param name="raw"/>
         <xsl:message>
             Processing date:
             <xsl:value-of select="$raw"/>
         </xsl:message>
-
+        
+        <!-- will sometimes need to be changed to match other date field names (such as dateIssued);other option is to get rid of this 
+            and instead tell the collection-specific xslt which fields to apply this to, like we were planning to do with the name fields
+             will also need the collection specific xslt to describe which dates will be the "key" date for each collection-->
+        
         <!--instead of fn call-->
         
           <xsl:call-template name="lsu:dateCreated">
               <xsl:with-param name="rawDate" select="$raw"/>
           </xsl:call-template>
-        
-        
     </xsl:template>
 
 
