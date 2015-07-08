@@ -1,131 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>British Voices from South Asia Oral History Project</title>
-         <subTitle>Sir George and Lady Abell oral history interview, 1978</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>De Caro, F.A., 1943-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Jordan, R. A.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Abell, George Edmond Brackenbury</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1904-1989</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>George Abell entered the Indian Civil Service in 1928 and spent nineteen
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>British Voices from South Asia Oral History Project</title>
+      <subTitle>Sir George and Lady Abell oral history interview, 1978</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Jordan, R. A.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Abell, George Edmond Brackenbury</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1904-1989</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>George Abell entered the Indian Civil Service in 1928 and spent nineteen
             years in India. He later held an important place in the Indian Civil Service in the
             years prior to independence, serving as Private Secretary to the last two viceroys: Lord
             Wavell and Lord Mountbatten. Lady Abell was from the Butler family; her uncle was the
             governor of the United Provinces of Burma and another uncle was governor of the Central
             Provinces.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1978</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>1 hour, 38 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>18
+   </name>
+   <originInfo>
+      <dateCreated>1978</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>1 hour, 38 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>18
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Abell, George Edmond Brackenbury, 1904-1989--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">India.--Army--Military
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Abell, George Edmond Brackenbury, 1904-1989--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">India.--Army--Military
             life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Indian Civil Service.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">British--India--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women--India--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agriculture--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Land
+   </subject>
+   <subject>
+      <topic authority="LoC">Indian Civil Service.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">British--India--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women--India--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agriculture--India.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Land
             tenure--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Courts--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Household employees--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">India-Pakistan Conflict,
+   </subject>
+   <subject>
+      <topic authority="LoC">Courts--India.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Household employees--India.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">India-Pakistan Conflict,
             1947-1949.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Interpersonal relations and culture--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Police--India.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Great
+   </subject>
+   <subject>
+      <topic authority="LoC">Interpersonal relations and culture--India.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Police--India.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Great
             Britain--Officials and employees--Training of.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">India--Economic conditions--1918-1947.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">India--Politics and government--1919-1947.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">India--Social conditions--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tibet Region--Foreign relations--India.</topic>
-      </subject>
-      <identifier>Mss. 4700.0590</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">India--Economic conditions--1918-1947.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">India--Politics and government--1919-1947.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">India--Social conditions--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tibet Region--Foreign relations--India.</topic>
+   </subject>
+   <identifier>Mss. 4700.0590</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Copyright and property rights are assigned to the interviewees and jointly to the
+   <accessCondition type="restriction on access">Copyright and property rights are assigned to the interviewees and jointly to the
             Centre of South Asian Studies at the University of Cambridge and the Louisiana State
             University and A &amp; M College Libraries and its successor agencies.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0590</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/britishvoices/T865.ind.pdf;&#xA;            http://lib.lsu.edu/services/oralhistory/abstracts/britishvoices/T866.ind.pdf"/>
+</mods>

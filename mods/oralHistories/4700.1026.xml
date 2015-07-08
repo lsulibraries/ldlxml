@@ -1,107 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Baton Rouge Bus Boycott</title>
-         <subTitle>Dupuy H. Anderson oral history interview, 1998</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Wallace, Dawn Deann,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Anderson, Dupuy H. 1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1998</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 24 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>24
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Baton Rouge Bus Boycott</title>
+      <subTitle>Dupuy H. Anderson oral history interview, 1998</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Wallace, Dawn Deann,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Anderson, Dupuy H. 1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Dupuy H. Anderson graduated from McKinley High School in Baton Rouge,
+            La., in 1935, received a B.S. degree from Southern University in Baton Rouge, and a
+            D.D.S. degree from Meharry Medical College in Nashville, Tenn. He enlisted in 1941 and
+            served with the U.S. Air Force, rising to the rank of major. He participated in the 1953
+            Baton Rouge bus boycott and filed suit to desegregate the undergraduate division of
+            Louisiana State University. His daughter, Freya Anderson Rivers, was one of six
+            African-American undergraduates to integrate LSU in 1964.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1998</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 24 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>24
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Anderson, Dupuy H.--(Dupuy Henry), 1918-1999--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Air
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Anderson, Dupuy H.--(Dupuy Henry), 1918-1999--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Air
             Force--African American officers.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton
             Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bus lines--Ridership--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Bus lines--Ridership--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bus occupants--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Racism--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">School
+   </subject>
+   <subject>
+      <topic authority="LoC">Bus occupants--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Racism--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">School
             integration--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Segregation in education--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Segregation in
+   </subject>
+   <subject>
+      <topic authority="LoC">Segregation in education--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Segregation in
             transportation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States--Race
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States--Race
             relations.</topic>
-      </subject>
-      <identifier>Mss. 4700.1026</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1026</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1026</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/4_boycott/Anderson_Dupuy_T1513.pdf">Dupuy H. Anderson discusses his childhood in a mixed neighborhood and memories of
+            public school segregation in Baton Rouge; discrimination and segregation in the U.S. Air
+            Force that resulted in his being refused assignments; and his experiences with racism
+            and segregation in social gatherings, trains, hospitals, and schools across the South.
+            He explains his interest in school desegregation, the motivations and concerns of
+            African Americans for desegregation, and his observations of integration in Atlanta,
+            Mississippi, and California. Anderson also describes his participation in the Baton
+            Rouge bus boycott of 1953, including the leadership of veterans, peoples' providing free
+            rides for African-American commuters, and the limited success of the effort.</abstract>
+</mods>

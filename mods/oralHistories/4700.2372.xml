@@ -1,93 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Sea Grant Coastal Change Oral Histories Project</title>
-         <subTitle>Denis Rodrigue oral history interview, 2012</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Benoit, Roy,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Rodrigue, Denis</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1928-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Denis Rodrigue was born in Chackbay, Louisiana, and was the ninth of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Sea Grant Coastal Change Oral Histories Project</title>
+      <subTitle>Denis Rodrigue oral history interview, 2012</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Benoit, Roy,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Rodrigue, Denis</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1928-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Denis Rodrigue was born in Chackbay, Louisiana, and was the ninth of
             twelve children. She has been a Catholic nun since she was 19-years-old and currently
             lives in the Mount Carmel Mother House next to Mount Carmel Academy.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2012</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 5 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">
+   </name>
+   <originInfo>
+      <dateCreated>2012</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 5 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">
             Transcript</note>
-         <extent>37 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Rodrigue, Denis, 1928---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Coast changes--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Country
+      <extent>37 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Rodrigue, Denis, 1928---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Coast changes--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Country
             life--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Farm life--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Nuns--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Chackbay (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Farm life--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Nuns--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Chackbay (La.)--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche
             Parish (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.2372</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2372</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2372</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/lasg/Rodrigue_Denis_T4297.abs.pdf">Rodrigue describes her childhood in Chackbay; her mother, father, and all of her
+            brothers and sisters; and when each one save the last three younger than her passed
+            away. She goes on to describe her life as a nun in great detail and the joy she finds in
+            teaching.</abstract>
+</mods>

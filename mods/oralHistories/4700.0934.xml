@@ -1,112 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Baton Rouge History and Culture Oral History Project</title>
-         <subTitle>Richard Alden McEwen oral history interview, 1998</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>McEwen, Richard A.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1998</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">6 sound cassettes</note>
-         <extent>8</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>202
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Baton Rouge History and Culture Oral History Project</title>
+      <subTitle>Richard Alden McEwen oral history interview, 1998</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>McEwen, Richard A.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Richard Alden McEwen studied landscape architecture at Iowa State
+            University and planned army camp sites during World War II. He was a city planner in St.
+            Louis, Missouri; Santa Fe, New Mexico; and Richmond, California, before becoming
+            planning director for Baton Rouge, Louisiana in 1953. He retired in
+            1980.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1998</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">6 sound cassettes</note>
+      <extent>8</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>202
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">McEwen, Richard A.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">McHugh, Tom Ed.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Riverside Centroplex (Baton
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">McEwen, Richard A.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">McHugh, Tom Ed.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Riverside Centroplex (Baton
             Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Parking.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">City
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Parking.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">City
             planning--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">City planning--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Land
+   </subject>
+   <subject>
+      <topic authority="LoC">City planning--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Land
             subdivision--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Urban renewal--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Housing
+   </subject>
+   <subject>
+      <topic authority="LoC">Urban renewal--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Housing
             rehabilitation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Streets--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Road
+   </subject>
+   <subject>
+      <topic authority="LoC">Streets--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Road
             drainage--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sewerage--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum
+   </subject>
+   <subject>
+      <topic authority="LoC">Sewerage--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum
             chemicals industry--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Politics and
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Politics and
             government--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0934</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0934</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0934</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/brhistory/McEwen_Richard_alltapes.abs.pdf">McEwen discusses his education; his city planning work in St. Louis, Santa Fe,
+            Richmond, and Baton Rouge; the development of early subdivisions in Baton Rouge; street,
+            drainage, and sewer projects; the Baton Rouge Planning Commission and City Council;
+            urban renewal and the building of the Riverside Centroplex; the influence of
+            petrochemical companies on the development of Baton Rouge; improvement of substandard
+            housing; Mayor Tom Ed McHugh's Horizon Plan for Baton Rouge in the 1980s; and McEwen's
+            role in developing a parking plan for Louisiana State University in 1982.</abstract>
+</mods>

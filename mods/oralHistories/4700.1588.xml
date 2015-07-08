@@ -1,106 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Social
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Social
             Organizations</title>
-         <subTitle>J.W. Vaughn oral history interview, 2002</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Clark, Nita,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Vaughn, J. W., 1930-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2002</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>32 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>18
+      <subTitle>J.W. Vaughn oral history interview, 2002</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Clark, Nita,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Vaughn, J. W., 1930-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>J.W. Vaughn was born in Baton Rouge, La., on February 4, 1930. He holds
+            two master's degrees, one in secondary education and another in administration and
+            supervision. He is a retired public school supervisor and president of Vaughn and
+            Nunnery Consulting Firm. Vaughn serves on many community organizations, including the
+            Board of Deacons at Mt. Zion First Baptist Church, the Baton Rouge Metropolitan Lions
+            Club, Alpha Phi Alpha Fraternity, and the Freemasons. He is also founder of the Black
+            Achievers Program at the YMCA.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2002</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>32 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>18
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Vaughn, J. W., 1930---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Alpha Phi Alpha Fraternity.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Vaughn, J. W., 1930---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Alpha Phi Alpha Fraternity.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge
             Metropolitan Lions Club.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Freemasons--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Charities--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Community
+   </subject>
+   <subject>
+      <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Freemasons--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Charities--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Community
             education--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Community life--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Freemasonry--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Human services--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mentoring--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Social participation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Voluntarism--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Volunteers--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.1588</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Community life--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Freemasonry--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Human services--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Mentoring--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Social participation--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Voluntarism--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Volunteers--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.1588</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1588</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/5_social/Vaughn_J.W._T3169.abs.pdf">Vaughn discusses his service with community organizations, programs offered by
+            these groups, and their aims.</abstract>
+</mods>

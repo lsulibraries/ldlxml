@@ -1,122 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: SGA Past Presidents</title>
-         <subTitle>Roger Houston Ogden oral history interview, 1994</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Ogden, Roger Houston</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1994</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">5 sound cassettes</note>
-         <extent>10 hours, 32 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: SGA Past Presidents</title>
+      <subTitle>Roger Houston Ogden oral history interview, 1994</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Ogden, Roger Houston</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Roger Ogden was born in 1946 in Denver, Colorado to Roger Hadfield Ogden
+            and Mary Catherine Schneider. His parents moved to Shreveport, Louisiana, just after his
+            birth. Ogden started his elementary education at A.C. Steere School in Shreveport, and
+            continued in Lafayette at Hamilton Laboratory School, part of Southwestern Louisiana
+            Institute. He graduated from Lafayette High School in 1964 and entered LSU that same
+            year, joining Kappa Sigma Fraternity and serving as Freshman Class President. He served
+            as a Senatorial Intern to Russell Long in the summer of 1967 and was LSU Student Body
+            President from 1967-1968. He graduated from LSU in 1968 with a B.S. in Business. He was
+            awarded the Rotary International Fellowship for Graduate Study at the University of
+            London School of Economics and Political Science, but was unable to pursue the
+            fellowship due to the Selective Service Board denying him permission to travel abroad.
+            He soon went on to Tulane University Law School, graduating in 1971. He worked in
+            corporate litigation for several years with Lemle, Kelleher, Kohlmeyer and Matthews Law
+            Firm in New Orleans. In 1975, with LSU classmate James Maurin, he founded Maurin-Ogden,
+            Inc., a real estate development company. Ogden served on the LSU Board of Supervisors,
+            LSU Alumni Association, LSU Foundation, and was involved with the university in many
+            other ways. He is active in countless civic and professional organizations, and has a
+            large art collection that was the basis for the Ogden Museum of Southern Art in New
+            Orleans. Ogden is divorced from Ann Waits; the couple had one son,
+            Field.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1994</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">5 sound cassettes</note>
+      <extent>10 hours, 32 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">
             Transcript</note>
-         <extent>272 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Ogden, Roger Houston--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Russell B.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+      <extent>272 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Ogden, Roger Houston--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Russell B.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             (Baton Rouge, La.)--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Board of
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Board of
             Supervisors.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--College of Business
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--College of Business
             Administration.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">LSU Alumni Association.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Art, American--Southern States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Art--Collectors and collecting--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Civic
+   </subject>
+   <subject>
+      <topic authority="LoC">LSU Alumni Association.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Art, American--Southern States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Art--Collectors and collecting--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Civic
             improvement--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College sports--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">College sports--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             student government--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter societies--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter societies--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lawyers--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Real estate developers--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Real estate
+   </subject>
+   <subject>
+      <topic authority="LoC">Lawyers--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Real estate developers--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Real estate
             development--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War, 1961-1975--Protest movements--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War, 1961-1975--Protest movements--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0519</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0519</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0519</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/sga/Ogden_Roger_AllTapes.pdf">Ogden provides a detailed biography of his life, from his early years and education
+            in Shreveport and Lafayette, Louisiana, through his time at Louisiana State University,
+            to his successes as a lawyer and later as a real estate developer. He focuses primarily
+            on his undergraduate years at LSU, discussing his campaigns and tenures as Freshman
+            Class and Student Body President; procedures of Student Government Association and
+            Student Assembly; the end of compulsory ROTC for male students; the political climate on
+            campus in the mid to late 1960s; Vietnam War protests on campus; student leaders; Greek
+            organizations; fraternity houses; fraternity hazing and pledging; dormitories; student
+            activities on and off campus; athletics; university administrators; his favorite
+            professors, and much more. Ogden goes into great detail about his experiences as
+            Senatorial intern to Russell Long in the summer of 1967, and gives his insights into
+            Long's character and motivations. He recounts his time as a lawyer in New Orleans in the
+            early 1970s, his transition into real estate development, and his first few residential
+            and commercial development projects. Ogden discusses the origin of his collection of
+            southern art and touches on many other topics such as racism, integration and
+            desegregation, civil rights; the oil and gas business in Texas and Louisiana; his
+            parents' backgrounds, LSU's Business School, civic improvement projects in New Orleans,
+            and his continued involvement with LSU through the Alumni Association and as a member of
+            the Board of Supervisors.</abstract>
+</mods>

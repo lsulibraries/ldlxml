@@ -1,112 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Gillis Long Oral History Project</title>
-         <subTitle>Floyd and Margery Long oral history interview, 1986</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Long, Margery</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Long, Floyd</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1986</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>3 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>141
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Gillis Long Oral History Project</title>
+      <subTitle>Floyd and Margery Long oral history interview, 1986</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Long, Margery</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Long, Floyd</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Floyd Long is Gillis Long's brother. Margery Long is Floyd Long's wife.
+            Gillis Long (1923-1985) was representative for the 8th U.S. Congressional District of
+            Louisiana in 1963-1965 and 1973-1985. He ran unsuccessfully for governor of Louisiana in
+            1964 and 1971.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1986</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>3 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>141
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Long, Floyd--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Margery--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Gillis William,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Long, Floyd--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Margery--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Gillis William,
             1923-1985.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Catherine Small, 1924-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Earl Kemp, 1895-1960.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Russell B.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long family.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Catherine Small, 1924-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Earl Kemp, 1895-1960.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Russell B.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long family.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College student government--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--Louisiana--Winn Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Europe--Personal
+   </subject>
+   <subject>
+      <topic authority="LoC">College student government--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--Louisiana--Winn Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Europe--Personal
             narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--Politics and government.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.1177</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--Politics and government.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
+   </subject>
+   <identifier>Mss. 4700.1177</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1177</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/gillis/Long_Floyd_&amp;_Margery.pdf">Floyd and Margery Long recount memories of Gillis Long's life as well as reading
+            from his letters. They discuss the history of the Long family, growing up in Winn Parish
+            during the Depression, Gillis Long's attendance and political campaigning at Louisiana
+            State University, his service in Europe during World War II, his relationships with Earl
+            and Russell Long, his close ties to black voters, his health problems, Catherine Long's
+            political participation, and Gillis Long's political career.</abstract>
+</mods>

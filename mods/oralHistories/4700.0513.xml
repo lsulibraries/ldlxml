@@ -1,110 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Acadian Handicraft Oral History Project</title>
-         <subTitle>Emeritte O. Perret oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Rabalais, Pamela Pace</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Olivier, Yvonne</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Perret, Emeritte O. </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>37
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Acadian Handicraft Oral History Project</title>
+      <subTitle>Emeritte O. Perret oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Rabalais, Pamela Pace</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Olivier, Yvonne</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Perret, Emeritte O. </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Emeritte O. Perret was the cousin of Louise V. Olivier, division field
+            representative for the Acadian Handicraft Project.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>37
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Perret, Emeritte O.--(Emeritte Olivier)--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Olivier, Louise.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kane,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Perret, Emeritte O.--(Emeritte Olivier)--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Olivier, Louise.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Kane,
             Harnett T.--(Harnett Thomas), 1910-1984</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acadian Handicraft Project.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acadian
+   </subject>
+   <subject>
+      <topic authority="LoC">Acadian Handicraft Project.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Acadian
             Bicentennial Celebration.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">International Eucharistic Congress--(31st :--1932 :--Dublin,
+   </subject>
+   <subject>
+      <topic authority="LoC">International Eucharistic Congress--(31st :--1932 :--Dublin,
             Ireland)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Folk festivals--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acadians--Louisiana--Social life and customs--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Folk festivals--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Acadians--Louisiana--Social life and customs--20th
             century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Martinville (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Grand Coteau
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Martinville (La.)--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Grand Coteau
             (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Centennial celebrations,
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Centennial celebrations,
             etc.</topic>
-      </subject>
-      <identifier>Mss. 4700.0513</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0513</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University and the University of South Carolina in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0513</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/acadian/Perret_Emeritte_T735.abs.pdf">Perret discusses family history along with personal details of Louise V. Olivier's
+            life including relationships between Alex Melancon and Harnet Kane as well as attending
+            the Eucharistic Congress in Ireland. She also describes her observations of Olivier's
+            work with the individuals that made the handicrafts as well as the organization of the
+            festivals that she attended.</abstract>
+</mods>

@@ -1,111 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>Velton P. Guidry oral history interview, 2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Lambert, Joshua</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Jovicic, Stefan,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Guidry, Velton P., 1930-2011</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 24 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>5 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>Velton P. Guidry oral history interview, 2010</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Lambert, Joshua</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Jovicic, Stefan,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Guidry, Velton P., 1930-2011</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Velton Guidry was born in 1930 and lived in Galliano, Louisiana. He was
+            one of seven children of Gracien and Augusta Choest Guidry. Velton Guidry was married to
+            Gertrude ""Gertie"" Kiger Guidry, and had two sons, Lenard and Jeffrey. He served in the
+            U.S. Army, was a fisherman since he was 13, and was an amateur genealogist later in
+            life, focusing on local Cajun culture. He was a parishioner at St. Joseph Catholic
+            Church in Galliano and died on May 27, 2011."</description>
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 24 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>5 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index
            </note>
-         <extent>7 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Guidry, Velton P., 1930-2011--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Lafourche
+      <extent>7 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Guidry, Velton P., 1930-2011--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Louisiana--Lafourche Parish--Genealogy.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Fishing--Louisiana--Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Louisiana--Lafourche Parish--Genealogy.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Fishing--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Food--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Oyster fisheries--Louisiana--Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Food--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Oyster fisheries--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shrimp industry--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Trapping--Louisiana--Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Shrimp industry--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Trapping--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Barataria Bay (La.)--Description and travel.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish
+   </subject>
+   <subject>
+      <topic authority="LoC">Barataria Bay (La.)--Description and travel.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish
             (La.)--Genealogy.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2096</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
+   </subject>
+   <identifier>Mss. 4700.2096</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2096</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Guidry_Velton_T3942.pdf">Guidry discusses his family's genealogy and his interest in Cajun genealogy and
+            historical research in general. He tells about his education to the seventh grade, which
+            included corporal punishment, and his Catholic upbringing. His mother worked in a shrimp
+            factory and his father was a fisherman. His large family was somewhat isolated from the
+            poverty of the depression because they grew so much of their own food and his mother was
+            very resourceful. Guidry discusses shrimping as a teenager, trapping, and oystering. He
+            recounts childhood games and beginning to fish at 13. He recalls a childhood vacation to
+            Barataria Bay, which included harvesting bigorneaux (saltwater snails), a visit to Fort
+            Livingston, and encountering an alligator. He recalls working on the water during World
+            War II and seeing submarines and other wartime activity. Guidry also discusses the role
+            of the church in the community (history and physical construction) and in his current
+            life.</abstract>
+</mods>

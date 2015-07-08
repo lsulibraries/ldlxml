@@ -1,91 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Paul C. Young et al. oral history interview, 1980</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Young, Paul Campbell</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1892-1991</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Professor emeritus Paul C. Young was born in 1892 in White, Texas. He
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Paul C. Young et al. oral history interview, 1980</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Young, Paul Campbell</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1892-1991</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Professor emeritus Paul C. Young was born in 1892 in White, Texas. He
             attended North Texas Normal College, Nashville Bible School, the University of
             Louisville, and Bowdoin College in Maine. He graduated cum laude in 1918 and began his
             career as a school teacher at Florida State College for Women (Florida State
             University). He served as an LSU psychology professor from 1925 to 1960. He died in
             1991.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1980</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>58
+   </name>
+   <originInfo>
+      <dateCreated>1980</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>58
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and
             Mechanical College.--School of Music--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge Opera Association.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Music--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Opera--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Marching
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge Opera Association.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Music--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Opera--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Marching
             bands--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0067</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0067</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and heirs and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0067</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Young_Paul_et_al_T75.abs.pdf">This interview was conducted with Paul Young and some former LSU Music School
+            faculty and students. They discuss Music School faculty and performances in the 1920s
+            and 1930s, the Baton Rouge Opera Association, the LSU band, and Huey Long's influence on
+            both the band and Music School.</abstract>
+</mods>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Hurricane Betsy Survivors Oral History Project</title>
-         <subTitle>Ida Belle Joshua oral history interview, 2003</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Mwendo, Nilima,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Joshua, Ida Belle</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1927-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Ida Belle Joshua is a native of New Orleans, La., and survivor of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hurricane Betsy Survivors Oral History Project</title>
+      <subTitle>Ida Belle Joshua oral history interview, 2003</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Mwendo, Nilima,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Joshua, Ida Belle</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1927-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Ida Belle Joshua is a native of New Orleans, La., and survivor of
             Hurricane Betsy. She moved to the Ninth Ward in 1949 with her husband, Isaac Joshua Sr.
             They have three children. Before Hurricane Betsy, she worked as a hair dresser. After
             the storm, she attended the University of New Orleans, Atlanta University (now Clark
@@ -35,95 +35,104 @@
             begun having it repaired before it was demolished. She and several other residents sued
             the city of New Orleans and achieved their goal of preventing the city from demolishing
             homes without proper notification and hearings for homeowners.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2003</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassettes</note>
-         <extent>1 hour, 34 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">
+   </name>
+   <originInfo>
+      <dateCreated>2003</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassettes</note>
+      <extent>1 hour, 34 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">
             Transcript</note>
-         <extent>57 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Joshua, Ida Belle, 1927---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Copeland, Sherman.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Alfred Lawless
+      <extent>57 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Joshua, Ida Belle, 1927---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Copeland, Sherman.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Alfred Lawless
             Elementary School (New Orleans, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American neighborhoods--Louisiana--New
+   </subject>
+   <subject>
+      <topic authority="LoC">African American neighborhoods--Louisiana--New
             Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--New Orleans--Social conditions.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Community
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--New Orleans--Social conditions.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Community
             activists--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Disaster
+   </subject>
+   <subject>
+      <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Disaster
             victims--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Grants-in-aid--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane
+   </subject>
+   <subject>
+      <topic authority="LoC">Grants-in-aid--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane
             Betsy, 1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Political
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Political
             participation--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Urban renewal--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ninth
+   </subject>
+   <subject>
+      <topic authority="LoC">Urban renewal--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ninth
             Ward (New Orleans, La.)</topic>
-      </subject>
-      <identifier>Mss. 4700.1684</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1684</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewer and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1684</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/hurricanebetsy/Joshua_IdaBelle_T3336.abs.pdf">Ida Belle Joshua tells of arriving in the Ninth Ward neighborhood in 1949 and
+            watching it develop as a community. She described the community as African Americans
+            working in civil service positions with dreams and hopes for the future. Joshua provides
+            details of Hurricane Betsy's devastation, rescue efforts, federal assistance, and
+            community activism. She gives her opinion on what should have been done differently
+            following Hurricane Betsy and discusses the recent deterioration of the community
+            because of the lack of activism and community effort.</abstract>
+</mods>

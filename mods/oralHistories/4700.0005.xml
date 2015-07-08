@@ -1,71 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>WJBO Radio Interviews</title>
-         <subTitle>Jane Ellis radio interview, 1975</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Harris, Jim.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Ellis, Jane Self</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1931-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Jane Ellis worked as a counselor at the Baton Rouge Mental Health Center,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>WJBO Radio Interviews</title>
+      <subTitle>Jane Ellis radio interview, 1975</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Harris, Jim.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Ellis, Jane Self</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1931-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Jane Ellis worked as a counselor at the Baton Rouge Mental Health Center,
             in the 1970s. She received her Master of Social Work degree from Louisiana State
             University in 1969.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1975</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>30 min</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>1 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Ellis, Jane Self, 1931-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Family social work--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0005</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </name>
+   <originInfo>
+      <dateCreated>1975</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>30 min</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>1 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Ellis, Jane Self, 1931-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Family social work--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.0005</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0005</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/WJBO/Ellis_Jane_T5.index.pdf">"The interview is part of a series titled, ""Topic Today,"" produced by WJBO radio
+            station in the 1970s. The interview discusses the Parent Consultation Program and
+            reasons for its existence. It mentions the everyday crises dealt with by social
+            services; need for support groups among parents to deal with changing family roles, good
+            parent-child relationships, and stages of child development. Interview also mentions
+            effects of parental group meetings."</abstract>
+</mods>

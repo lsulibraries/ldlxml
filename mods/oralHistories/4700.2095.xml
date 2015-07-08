@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>"Garrett ""Hank"" Danos oral history interview, 2010"</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Eusea, Olivia</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Dixon, Ashley,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Danos, Garret</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1950?-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Hank Danos was born about 1950 in Larose, La., and grew up there and in
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>"Garrett ""Hank"" Danos oral history interview, 2010"</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Eusea, Olivia</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Dixon, Ashley,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Danos, Garret</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1950?-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Hank Danos was born about 1950 in Larose, La., and grew up there and in
             Cut Off, La. He has lived in Lafourche Parish for all his life but the years he attended
             Louisiana State University, where he earned a B.S. in Business Administration (1971). He
             is the CEO and President of Danos, which was founded by his father (as Danos and Curole
@@ -38,73 +39,84 @@
             Supervisors and a number of other state and national boards. He continues to serve as
             the head of Danos, which he now runs with his sons. He is a practicing Catholic and
             served in the National Guard.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>35 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>4 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>5
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>35 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>4 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>5
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Danos, Garret, 1950?---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricanes--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Oil field equipment
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Danos, Garret, 1950?---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricanes--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Oil field equipment
             and supplies industry--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Offshore oil field equipment industry--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and trade--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Larose (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cut Off (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2095</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Offshore oil field equipment industry--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and trade--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Larose (La.)--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cut Off (La.)--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
+   </subject>
+   <identifier>Mss. 4700.2095</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2095</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Danos_Garrett_Hank_T3941.pdf">Danos discusses his childhood in Larose and Cut Off, La., including his
+            grandfather's sugar cane farm and the slightly more populated neighborhood in Cut Off.
+            Danos recalls transportation options and the physical construction of the community, and
+            how it was changed. Danos says living in Bayou Lafourche is defined by pride of culture
+            and independence. He discusses the oil industry's growth, role, and his contributions
+            through Danos and Curole. He discusses hurricanes, his current approach to them, and the
+            role the floodgates have had on the local community. He describes his maternal
+            grandfather's house, as well as the house his parents built in Cut Off. He also recalls
+            food options on the bayou (groceries and restaurants), then and now.</abstract>
+</mods>

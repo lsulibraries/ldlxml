@@ -1,103 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Politics Oral History Project</title>
-         <subTitle>Brodie S. Crump oral history interview, 1976</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Baker, Lewis</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1953-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Crump, Brodie</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1976</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>2</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>59
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Politics Oral History Project</title>
+      <subTitle>Brodie S. Crump oral history interview, 1976</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Baker, Lewis</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Crump, Brodie</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Brodie S. Crump was the son of William Crump, the secretary and campaign
+            manager of Mississippi politician, Leroy Percy. Leroy Percy received his law degree from
+            the University of Virginia in 1881 and practiced law in his home town of Greenville,
+            Mississippi. He served as a U.S. Senator from 1910 to 1912 and with the Federal Reserve
+            Board branch in Saint Louis, Missouri, from 1914 until his death in
+            1929.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1976</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>2</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>59
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Crump, Brodie--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Percy, LeRoy, 1860-1929.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vardaman, James Kimble,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Crump, Brodie--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Percy, LeRoy, 1860-1929.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Vardaman, James Kimble,
             1861-1930.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bilbo, Theodore Gilmore, 1877-1947.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Parker, John Milliken, 1863-1939.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Roosevelt, Theodore, 1858-1919.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Percy, William Alexander, 1885-1942.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ku Klux Klan
+   </subject>
+   <subject>
+      <topic authority="LoC">Bilbo, Theodore Gilmore, 1877-1947.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Parker, John Milliken, 1863-1939.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Roosevelt, Theodore, 1858-1919.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Percy, William Alexander, 1885-1942.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ku Klux Klan
             (1915- )</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Floods--Mississippi River.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sunnyside Plantation (Miss.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Delta (Miss. :
+   </subject>
+   <subject>
+      <topic authority="LoC">Floods--Mississippi River.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sunnyside Plantation (Miss.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Delta (Miss. :
             Region)--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mississippi--Politics and
+   </subject>
+   <subject>
+      <topic authority="LoC">Mississippi--Politics and
             government--1865-1950.</topic>
-      </subject>
-      <identifier>Mss. 4700.0399</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0399</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0399</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/political/Crump_Brodie_T562_563_564.abs.pdf">Crump discusses the life and political career of Leroy Percy, including Percy's
+            relationships with James K. Vardaman, Theodore Roosevelt, Theodore Bilbo, John Parker,
+            and others; Sunnyside Plantation; Percy's opposition to the Ku Klux Klan; his interest
+            in road building and flood control; and his son, Will Percy.</abstract>
+</mods>

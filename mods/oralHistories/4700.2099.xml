@@ -1,113 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>John Doucet oral history interview, 2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Branton, Ryan,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Doucet, John P. </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 3 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>5 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>John Doucet oral history interview, 2010</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Branton, Ryan,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Doucet, John P. </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>John Doucet was born in 1962 in Golden Meadow, La., the son of Herman
+            Joseph Doucet, an oil field worker, and Dora Rebstock Doucet, a homemaker; he is one of
+            five children. In his youth he spent a significant amount of time with his
+            French-speaking grandparents, and a good deal of time with his family, but was rather
+            isolated from the larger community. His father passed away when Doucet was twelve, but
+            before his death encouraged Doucet to study science. Mentorship in middle school and
+            high school, along with a local, regional, and national recognition, laid the groundwork
+            for Doucet's scientific career. As a first-generation college student, Doucet studied
+            chemistry at Nicholls State University. After completing his doctoral studies in
+            biochemistry and molecular biology at Louisiana State University Medical Center in New
+            Orleans, he received a National Institute of Health fellowship to study genetics, also
+            at LSUMC. His team conducted research on Usher's syndrome, which disproportionately
+            affects people of Acadian descent. His team identified the genetic mutation that causes
+            Usher's, and his research has continued to focus on people of Acadian descent. Doucet
+            joined the biology department of Nicholls State in 1999. He has served as the head of
+            the Biology Department (three years) and honors program (nine years), and in 2012 was
+            selected to serve as Dean of the College of Arts and Sciences. Doucet became Louisiana's
+            first certified public health geneticist in 2010, and the first to serve on the national
+            Education Board of the American Society of Human Genetics. He has written over a dozen
+            plays about Louisiana's Cajun culture, and a number of history texts about Bayou
+            Lafourche. A practicing Catholic, Doucet served as an altar boy; as an adult he
+            continues to have a strong faith in God, which he believes can coexist with his
+            scientific research. He and his wife, also a Bayou Lafourche native, have two
+            children.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 3 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>5 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index
            </note>
-         <extent>7 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Doucet, John P.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Nicholls State University--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajun French dialect--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Health and hygiene--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Louisiana--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic scientists--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Dramatists, American--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Geneticists--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Grandparent and child--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Religion and science--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Usher's syndrome--Research--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Golden Meadow
+      <extent>7 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Doucet, John P.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Nicholls State University--Faculty.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajun French dialect--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Health and hygiene--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Louisiana--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic scientists--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Dramatists, American--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Geneticists--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Grandparent and child--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Religion and science--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Usher's syndrome--Research--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Golden Meadow
             (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and
             customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2099</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2099</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2099</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Doucet_John_T3945.pdf">"Doucet discusses his childhood growing up in Golden Meadow, how he interacted with
+            his father, who was often gone because of his work on the oil rigs, and losing his
+            father at age twelve. Doucet acknowledges how the community rallied to support him and
+            his brother, including mentors at school and in the extended family, but his family was
+            a close-knit one, and they rarely spent time with the larger community. Growing up
+            Doucet spent a good deal of time with his grandparents, who spoke Cajun French, and he
+            internalized their language such that he could reproduce many of their characteristics
+            in plays he wrote as an adult. He also discusses the role and history of French in his
+            family and on the bayou. The Doucets were very involved in the church, and Doucet served
+            as an altar boy. Science was important from an early age. After making a perfect score
+            in a third-grade science exam, Doucet's father, and later teachers, encouraged him to
+            pursue a career in science, which led him to many science fairs and eventually, a
+            doctorate in molecular biology at LSU Medical Center in New Orleans. He recalls his
+            first memories are of the 1965 Hurricane Betsy, which nearly flooded their house. His
+            post-doctoral genetic research of Usher's syndrome, which disproportionally affects
+            Acadians, led to the discovery of the genetic mutation responsible, and brought him back
+            to Acadian culture. He discusses how he got the job at Nicholls and how, since arriving
+            he has continued to conduct genetic research with Acadians and with other subjects of
+            South Louisiana interest, including local animals like love bugs and crawfish. Doucet
+            discusses the role of religion in his life, with particular emphasis on its intersection
+            with science, and the importance and definition of ""home"" in his life."</abstract>
+</mods>

@@ -1,107 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Military Tradition at LSU</title>
-         <subTitle>Joseph Dale oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Dale, Joseph</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1920-2002</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Joseph Dale graduated from LSU in 1942. He served as an artillery battery
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Military Tradition at LSU</title>
+      <subTitle>Joseph Dale oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Dale, Joseph</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1920-2002</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Joseph Dale graduated from LSU in 1942. He served as an artillery battery
             commander during World War II, as aide to two generals after the war, as an artillery
             officer during the Korean War, as a Regular Army advisor to a National Guard artillery
             unit, and as a military advisor to Iran. He later was Commandant of Cadets at LSU, as
             well as Director of Campus Safety and Director of the Employee Benefits
             Office.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>39
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>39
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Dale, Joseph, 1920-2002--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gavin, James M.--(James Maurice), 1907-1990</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Chamberlin, Stephen.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ridgway, Matthew B.--(Matthew Bunker), 1895-1993</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Dale, Joseph, 1920-2002--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Gavin, James M.--(James Maurice), 1907-1990</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Chamberlin, Stephen.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ridgway, Matthew B.--(Matthew Bunker), 1895-1993</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United
             States.--Army--Artillery.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army.--Reserve Officers' Training Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Artillery
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army.--Reserve Officers' Training Corps.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Artillery
             operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Korean War, 1950-1953--Artillery operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">War
+   </subject>
+   <subject>
+      <topic authority="LoC">Korean War, 1950-1953--Artillery operations, American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">War
             memorials--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Iran--History--Mohammad Reza Pahlavi,
+   </subject>
+   <subject>
+      <topic authority="LoC">Iran--History--Mohammad Reza Pahlavi,
             1941-1979</topic>
-      </subject>
-      <identifier>Mss. 4700.0731</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0731</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0731</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/ole_war_skule/Dale_Joseph_T1057_T1058.abs.pdf">Dale discusses his military service in World War II, the Korean War, and in
+            peacetime; his tenure as Commandant of Cadets at LSU; the effort to establish the LSU
+            War Memorial Commission; and other highlights of his military career.</abstract>
+</mods>

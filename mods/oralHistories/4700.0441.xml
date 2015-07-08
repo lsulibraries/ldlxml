@@ -1,96 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Alumni</title>
-         <subTitle>Virginia Lanier Martin Carmouche oral history interview, 1994</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Hebert, Mary J.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Carmouche, Virginia Lanier Martin</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1923-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Born Virginia Martin in Thibodaux, La., in 1923, Carmouche followed
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Alumni</title>
+      <subTitle>Virginia Lanier Martin Carmouche oral history interview, 1994</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Hebert, Mary J.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Carmouche, Virginia Lanier Martin</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1923-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Born Virginia Martin in Thibodaux, La., in 1923, Carmouche followed
             family tradition and attended LSU on a legislative scholarship. She graduated with the
             class of 1944 and went on to law school. She has been a member of the board of the LSU
             Foundation as well as being an active member of the LSU Alumni
             Association.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1994</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>3 hours, 45 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>113
+   </name>
+   <originInfo>
+      <dateCreated>1994</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>3 hours, 45 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>113
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Alumni and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Alumni and
             alumnae.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Law School.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Law School.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter
             societies--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Social aspects--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Thibodaux (La.)--Social life and customs--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Thibodaux (La.)--Social life and customs--20th
             century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics
             and government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.0441</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0441</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0441</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_alumni/Carmouche_Virginia_T628_T629_T676.abs.pdf">Carmouche reminisces about her family and growing up in Thibodaux, La. She
+            discusses her LSU experience, including campus life and as a member of Kappa Kappa
+            Gamma. Carmouche also reveals her law school experiences and how she met her husband.
+            Also included is a discussion of her family's involvement in politics.</abstract>
+</mods>

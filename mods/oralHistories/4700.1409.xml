@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Joseph Emile Dupont Jr. oral history interview, 2001-2002.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Abraham, Jennifer,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Dupont, Joseph Emile</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1922-2005</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Joseph Emile Dupont Jr. was born on February 2, 1922, in Plaquemine, La.
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Joseph Emile Dupont Jr. oral history interview, 2001-2002.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Abraham, Jennifer,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Dupont, Joseph Emile</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1922-2005</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Joseph Emile Dupont Jr. was born on February 2, 1922, in Plaquemine, La.
             He graduated from Plaquemine High School in 1940 and joined the U.S. Marine Corps.
             Dupont served in the Pacific Theater during World War II, fighting at the Battle of
             Corregidor where he was taken prisoner by the Japanese in May 1942. He was held captive
@@ -32,119 +32,145 @@
             moved back to Plaquemine and had six children. Dupont worked in the Iberville Parish
             Department of Veterans Affairs as a veterans' service officer until retiring in 1980. He
             died in 2005.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2001-2002.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">6 sound cassettes</note>
-         <extent>9 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>8 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>364
+   </name>
+   <originInfo>
+      <dateCreated>2001-2002.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">6 sound cassettes</note>
+      <extent>9 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>8 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>364
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Dupont, Joseph Emile, 1922-2005--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Marine
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Dupont, Joseph Emile, 1922-2005--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Marine
             Corps--History--World War, 1939-1945.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana.--Dept. of Veterans' Affairs--Officials
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana.--Dept. of Veterans' Affairs--Officials
             and employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bilibid Prison (Manila, Philippines)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cabanatuan (Philippines :
+   </subject>
+   <subject>
+      <topic authority="LoC">Bilibid Prison (Manila, Philippines)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cabanatuan (Philippines :
             Concentration camp)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Palawan Barracks (Concentration camp)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">Palawan Barracks (Concentration camp)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Atrocities--Philippines--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Campaigns--Philippines--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Philippines--Prisoners and prisons, Japanese--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Veterans--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bataan, Battle of, Philippines,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Veterans--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bataan, Battle of, Philippines,
             1942--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Palawan Massacre, Philippines, 1944.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ex-prisoners
+   </subject>
+   <subject>
+      <topic authority="LoC">Palawan Massacre, Philippines, 1944.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ex-prisoners
             of war--Rehabilitation--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Floods--Mississippi River Valley.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">River life--Louisiana--Plaquemine.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Corregidor Island
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Floods--Mississippi River Valley.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">River life--Louisiana--Plaquemine.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Corregidor Island
             (Philippines)--History, Military--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Plaquemine (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Plaquemine (La.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Manila (Philippines)--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shanghai
+   </subject>
+   <subject>
+      <topic authority="LoC">Manila (Philippines)--History--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Shanghai
             (China)--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">China--History--1937-1945.</topic>
-      </subject>
-      <identifier>Mss. 4700.1409</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">China--History--1937-1945.</topic>
+   </subject>
+   <identifier>Mss. 4700.1409</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1409</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Dupont_Joseph_T2037-2042.abs.pdf">"Session I concerns Dupont's early life; his inspiration for joining the Marine
+            Corps; boot camp in San Diego; and his passage through Hawaii, Guam, Midway Island, and
+            Manila. He talks at length about being stationed in Shanghai in 1941. The interview ends
+            with the Japanese attack on Manila, where he was in a hospital, on December 9, 1941.;
+            Session II deals with the period between December 1941 and May 1942, during which time
+            Dupont served on Corregidor in the Philippines. He describes details of life there while
+            under siege by the Japanese, the fighting on Bataan and Corregidor, and his eventually
+            being forced to surrender.; In Sessions III &amp; IV, Dupont describes conditions in
+            several prison camps in the Philippines, including Bilibid Prison in Manila, the
+            hospital at Bilibid Prison, and prison camps in Cabanatuan and Palawan Island. He
+            recounts details of hard labor including building an airfield in the jungle on Palawan
+            Island, lack of food and clothing, poor shelter, diseases, maltreatment by guards, and
+            encounters with wild animals. He describes the Battle of Manila, his subsequent
+            liberation from Bilibid Prison, readjusting to life after his freedom, and his
+            homecoming to Louisiana. He also discusses the ""hell ships,"" Japanese ships carrying
+            American prisoners of war that were sunk unknowingly by American submarines, and the
+            massacre of American POWs on Palawan Island on December 14, 1944.; Session V concerns
+            the postwar rehabilitation of Dupont and his close friends, all of whom had war-related
+            disabilities. He describes his homecoming, meeting and marrying his wife, creating a
+            life as a visually impaired veteran, and his work for the Department of Veterans
+            Affairs.; In Session VI, Dupont tells of his childhood in Plaquemine in the 1920s and
+            1930s, the Mississippi River flood of 1927, his family background, life along the river,
+            the Depression, his schooling, activities of teenagers, and joining the
+            Marines."</abstract>
+</mods>

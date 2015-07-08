@@ -1,102 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
-         <subTitle>Earline Cary-Williams oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Jourbert-Thompson, Rose,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Williams, Earline</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1915-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Earline Cary-Williams was born in Baton Rouge, La., on August 20, 1915,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
+      <subTitle>Earline Cary-Williams oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Jourbert-Thompson, Rose,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Williams, Earline</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1915-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Earline Cary-Williams was born in Baton Rouge, La., on August 20, 1915,
             and was baptized into Mount Zion First Baptist Church in 1931. She was Supervisor of
             Schools in East Feliciana Parish, La.; an English teacher at McKinley High School and
             Southern University in Baton Rouge, La.; principal at North Scotlandville Elementary
             School and Greenville Elementary School; Coordinator of Elementary Education at Southern
             University Laboratory School; and Associate Dean of the Southern University College of
             Education.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 16 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 16 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript
            </note>
-         <extent>37 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Cary-Williams, Earline, 1915---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bacoats, J. A.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Jemison, T.
+      <extent>37 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Cary-Williams, Earline, 1915---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bacoats, J. A.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Jemison, T.
             J.--(Theodore Judson)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             American Baptists--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Religious
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Religious
             life--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American churches--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African American churches--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton
             Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
-      </subject>
-      <identifier>Mss. 4700.0874</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0874</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0874</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/3_churches/Cary-Williams_Earline_T1252.pdf">Cary-Williams discusses the traditions, activities, outreach programs, ministries,
+            and community involvement of Mount Zion First Baptist Church, as well as the
+            organization of boards, groups, and programs within the church. She discusses current
+            and former pastors J.A. Bacoats, T.J. Jemison, Washington Taylor, Gardner C. Taylor, and
+            Charles Smith, as well as her participation in the selection process to hire Jemison as
+            pastor. She also recounts her memories of the Baton Rouge Bus Boycott of 1953 and
+            Jemison's leadership in the effort.</abstract>
+</mods>

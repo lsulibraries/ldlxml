@@ -1,89 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Volunteers of America Oral History Project</title>
-         <subTitle>Fred and Helen Belcher oral history interview, 1994</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Snowden, Randall.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Belcher, Helen</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1916-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Belcher, Fred</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1913-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Fred and Helen Belcher are the son and daughter-in-law of Arthur and
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Volunteers of America Oral History Project</title>
+      <subTitle>Fred and Helen Belcher oral history interview, 1994</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Snowden, Randall.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Belcher, Helen</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1916-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Belcher, Fred</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1913-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Fred and Helen Belcher are the son and daughter-in-law of Arthur and
             Corrie Belcher, founders of the Volunteers of America in Baton Rouge,
             Louisiana.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1994</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>69 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Volunteers of America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Salvation Army.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Floods--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Adoption--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Leprosy--Louisiana--Carville.</topic>
-      </subject>
-      <identifier>Mss. 4700.0721</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </name>
+   <originInfo>
+      <dateCreated>1994</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>69 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Volunteers of America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Salvation Army.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Floods--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Adoption--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Leprosy--Louisiana--Carville.</topic>
+   </subject>
+   <identifier>Mss. 4700.0721</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0721</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/voa/Belcher_Fred_and_Helen_T1048.abs.pdf">Interview describes the Salvation Army and Volunteers of America with a focus on
+            the community programs and projects including prison ministry, work with the black
+            community, New Orleans maternity home, the role of VOA in adoptions, and Hansen's
+            Disease Center at Carville, Louisiana. They also discuss racial composition of South
+            16th St., role of religion in the VOA, 1920s automobiles, and the flood of 1927. Time
+            period includes 1900s-1930s.</abstract>
+</mods>

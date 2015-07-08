@@ -1,127 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>John William Barker, Aline Barker and Dee Dee Gaubert oral history interview,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>John William Barker, Aline Barker and Dee Dee Gaubert oral history interview,
             2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Barker, Aline Herbert</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Gaubert, Dee Dee</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Drummond, Karrah,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Barker, J. W. 1923-2012</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 3 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>5 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Barker, Aline Herbert</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Gaubert, Dee Dee</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Drummond, Karrah,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Barker, J. W. 1923-2012</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"John ""Johnny"" William Barker was born in New Orleans in 1923, and was
+            one of seven children to Frank and Florence Barker. He spent his first years in a house
+            on Carrollton Avenue, across the street from the Notre Dame Seminary. His father, a
+            sugar trader, moved the family to the Clotilda Plantation, outside Lockport, La. Barker
+            attended St. Stanislaus High School and Louisiana State University, where he studied
+            agricultural engineering, and served in the U.S. Army during World War II, serving in
+            the Pacific Theater. He married Aline Herbert of Larose and the couple had six children
+            and numerous grandchildren. He is a fourth-generation sugarcane farmer and his
+            professional career included work with Valentine Sugars (where Aline also worked),
+            Bollinger Shipyards, and A.E. Staley. Barker lived at Clotilda Plantation until his
+            death in 2012."</description>
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 3 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>5 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index
            </note>
-         <extent>7 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Barker, J. W.--(John William), 1923-2012--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Barker, Aline
+      <extent>7 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Barker, J. W.--(John William), 1923-2012--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Barker, Aline
             Herbert--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gaubert, Dee Dee--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic
+   </subject>
+   <subject>
+      <topic authority="LoC">Gaubert, Dee Dee--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic
             Church--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Erosion--Louisiana--Lafourche, Bayou.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">French
+   </subject>
+   <subject>
+      <topic authority="LoC">Erosion--Louisiana--Lafourche, Bayou.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">French
             language--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and
             trade--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugar--Manufacture and
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugar--Manufacture and
             refining--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugarcane industry--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Clotilda Plantation (La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugarcane industry--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Clotilda Plantation (La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche
             Parish (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche, Bayou (La.)--Economic
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche, Bayou (La.)--Economic
             conditions.</topic>
-      </subject>
-      <identifier>Mss. 4700.2091</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2091</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2091</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Barker_John_et_al._T3937.pdf">Barker recounts his childhood in Lockport, La., which included working and playing
+            with other kids at the Clotilda Plantation. Barker discusses the sugarcane business,
+            then and now, throughout the interview. He briefly discusses his education, which
+            included an agricultural engineering degree from Louisiana State University, and his
+            time in the armed forces during World War II at Camp Claiborne, Guadalcanal, and Japan.
+            He discusses his concept of home and the role of Catholicism in his life. He and his
+            wife (Aline) and niece (Dee Dee Gaubert) discuss the changes in Bayou Lafourche's
+            commerce with the advent of the oil industry and topography due to erosion. Aline
+            discusses her family's background and the role of French in her life. They discuss
+            Valentine Sugar, both the processing of sugarcane and the development of paper
+            products.</abstract>
+</mods>

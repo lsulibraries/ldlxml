@@ -1,120 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Acadian Handicraft Oral History Project</title>
-         <subTitle>Gladys Clark oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Rabalais, Pamela Pace</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Olivier, Yvonne</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Clark, Gladys</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-2011</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Gladys Clark was born in Lafayette Parish, La., in 1918. She wove cotton
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Acadian Handicraft Oral History Project</title>
+      <subTitle>Gladys Clark oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Rabalais, Pamela Pace</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Olivier, Yvonne</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Clark, Gladys</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1918-2011</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Gladys Clark was born in Lafayette Parish, La., in 1918. She wove cotton
             craft items such as place mats and napkins for the Acadian Handicraft
             Project.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>75
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>75
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Clark, Gladys, 1918-2011--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Olivier, Louise.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acadian Handicraft
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Clark, Gladys, 1918-2011--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Olivier, Louise.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Acadian Handicraft
             Project.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lions Clubs International.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">International Rice Festival (Crowley, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cotton
+   </subject>
+   <subject>
+      <topic authority="LoC">Lions Clubs International.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">International Rice Festival (Crowley, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cotton
             weaving--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acadians--Louisiana--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cotton
+   </subject>
+   <subject>
+      <topic authority="LoC">Acadians--Louisiana--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cotton
             carding--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Looms--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Palmetto weaving--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Crowley
+   </subject>
+   <subject>
+      <topic authority="LoC">Looms--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Palmetto weaving--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Crowley
             (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Martinville (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Martinville (La.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafayette Parish (La.)--Social life and customs--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafayette Parish (La.)--Social life and customs--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0512</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0512</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University and the University of South Carolina in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0512</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/acadian/Clark_Gladys_T734.abs.pdf">Clark details her family history along with descriptions of weaving for the Acadian
+            Handicraft Project and traveling to demonstrate weaving in festivals around Louisiana
+            with Louise V. Olivier, a division field representative of the project.</abstract>
+</mods>

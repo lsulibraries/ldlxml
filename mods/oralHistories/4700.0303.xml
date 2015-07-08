@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Sororities at LSU</title>
-         <subTitle>Carolyn Simpson oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Campbell, Melisse.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Simpson, Carolyn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1931-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Carolyn Neal Simpson was born on 15 January 1931 in Ardmore, Okla.
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Sororities at LSU</title>
+      <subTitle>Carolyn Simpson oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Campbell, Melisse.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Simpson, Carolyn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1931-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Carolyn Neal Simpson was born on 15 January 1931 in Ardmore, Okla.
             Simpson attended Bartlesville College High School in Oklahoma and completed her freshman
             year of college at Monticello in Alton, Ill. She transferred to the University of Texas,
             pledged Kappa Alpha Theta, and graduated in August 1953. She moved to Baton Rouge in
@@ -32,62 +32,69 @@
             establish a Kappa Alpha Theta colony at LSU and assisted in the building of their house.
             She also held several other local, regional, and national posts in the
             sorority.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 15 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>63
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 15 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>63
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Students--Societies, etc.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kappa Alpha Theta.--Delta Kappa Chapter (Louisiana
+   </subject>
+   <subject>
+      <topic authority="LoC">Kappa Alpha Theta.--Delta Kappa Chapter (Louisiana
             State University)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women--Louisiana--Baton Rouge--Societies and clubs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women college students--United
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women--Louisiana--Baton Rouge--Societies and clubs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women college students--United
             States--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0303</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0303</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0303</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/sororities/Simpson_Carolyn_T425.abs.pdf">Simpson discusses her family background and her reasons for attending the
+            University of Texas and pledging Kappa Alpha Theta. She mentions her move to Baton Rouge
+            and her decision to organize an LSU chapter of Kappa Alpha Theta. She extensively talks
+            about planning for and building the sorority house and, when completed, its effects on
+            rush. She also gives her opinions on the state of sorority life today.</abstract>
+</mods>

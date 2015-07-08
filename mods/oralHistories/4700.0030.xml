@@ -1,80 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Politics Oral History Project</title>
-         <subTitle>Sam Houston Jones oral history interview, 1977</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Godfrey, James.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Jones, Sam Houston</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1897-1978</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Governor of Louisiana, 1940-1944.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1977</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>28 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Jones, Sam Houston, 1897-1978.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Schools--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Elections--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bridges--Louisiana--Calcasieu River.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bridges--Law and legislation--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Politics Oral History Project</title>
+      <subTitle>Sam Houston Jones oral history interview, 1977</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Godfrey, James.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Jones, Sam Houston</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1897-1978</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Governor of Louisiana, 1940-1944.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1977</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>28 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Jones, Sam Houston, 1897-1978.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Schools--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Elections--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bridges--Louisiana--Calcasieu River.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bridges--Law and legislation--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and
             government--1865-1950.</topic>
-      </subject>
-      <identifier>Mss. 4700.0030</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0030</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.ﾔ</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0030</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/political/Jones_Sam_Houston_T36.abs.pdf">In the interview, Jones discusses his political campaign of 1940; changes he made
+            while in office; Huey Long's political following; views on social welfare; government
+            corruption; Jones' second gubernatorial campaign; Jones' executive secretary, Cocheran;
+            Jones' wife's role in his career; his birth and family background; state senator W.D.
+            Cotton's role in bridge over Calcasieu River; development of schools and buildings
+            during his administration.</abstract>
+</mods>

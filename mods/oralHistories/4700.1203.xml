@@ -1,91 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Gillis Long Oral History Project</title>
-         <subTitle>Leo Coco and Gene Smith oral history interview, 1987</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Smith, Gene</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Coco, Leo</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1987</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>2 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>48
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Gillis Long Oral History Project</title>
+      <subTitle>Leo Coco and Gene Smith oral history interview, 1987</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Smith, Gene</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Coco, Leo</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Leo Coco and Gene Smith were members of Gillis Long's staff beginning in
+            the late 1970s. Gillis Long (1923-1985) was representative for the 8th U.S.
+            Congressional District of Louisiana in 1963-1965 and 1973-1985. He ran unsuccessfully
+            for governor of Louisiana in 1964 and 1971.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1987</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>2 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>48
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Coco, Leo--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Smith, Gene--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Gillis William,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Coco, Leo--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Smith, Gene--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Gillis William,
             1923-1985.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Congress.--House--Officials and employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Democratic Party
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Congress.--House--Officials and employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Democratic Party
             (U.S.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.1203</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
+   </subject>
+   <identifier>Mss. 4700.1203</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewees and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1203</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/gillis/Coco_&amp;_Smith.pdf">Leo Coco and Gene Smith discuss working on Gillis Long's Congressional staff,
+            individual staffers, Long's relationship with the mass media, Long's personality, his
+            work within the Democratic Party, his political habits and abilities, and his
+            health.</abstract>
+</mods>

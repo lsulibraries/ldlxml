@@ -1,106 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>William George Haag oral history interview, 1994</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Walker, Jesse Richard Anthony.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Haag, William George</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1910-2000</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Louisiana State University Boyd Professor Emeritus of Geography and
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>William George Haag oral history interview, 1994</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Walker, Jesse Richard Anthony.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Haag, William George</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1910-2000</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Louisiana State University Boyd Professor Emeritus of Geography and
             Anthropology.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1994</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>3 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>104
+   </name>
+   <originInfo>
+      <dateCreated>1994</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>3 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>104
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">White, Leslie A., 1900-1975.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Faulkner, William, 1897-1962--Friends and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">White, Leslie A., 1900-1975.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Faulkner, William, 1897-1962--Friends and
             associates.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Foundation for Historical Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tennessee Valley Authority--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Dept. of Geography and Anthropology.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">University of Mississippi--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Excavations (Archaeology)--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Archaeological surveying--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Archaeological surveying--West Indies.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Poverty
+   </subject>
+   <subject>
+      <topic authority="LoC">Foundation for Historical Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tennessee Valley Authority--History.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Dept. of Geography and Anthropology.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">University of Mississippi--History.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Excavations (Archaeology)--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Archaeological surveying--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Archaeological surveying--West Indies.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Poverty
             Point Site (La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Magnolia Mound Plantation (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">West
+   </subject>
+   <subject>
+      <topic authority="LoC">Magnolia Mound Plantation (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">West
             Indies--Antiquities.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Antiquities.</topic>
-      </subject>
-      <identifier>Mss. 4700.0453</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Antiquities.</topic>
+   </subject>
+   <identifier>Mss. 4700.0453</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0453</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Haag_William_T643_T644.abs.pdf">In the interview, Haag discusses his family history and grandfather's immigration;
+            his studies at the University of Kentucky; his work as an archaeologist for the
+            Tennessee Valley Authority; the Ph.D. program at the University of Michigan; service
+            during World War II; teaching at the University of Mississippi; social life at Oxford,
+            Miss.; his impressions of William Faulkner; and people who influenced his career.; Also
+            discussed are Leslie White's theories in Anthropology; Haag's career at LSU beginning in
+            the 1950s; the Poverty Point archaeological site; excavations at the Centroplex and
+            Magnolia Mound Plantation, Baton Rouge; research in the Antilles; involvement with the
+            Foundation for Historical Louisiana; service as State Archaeologist; publications;
+            friends, colleagues, and administrators at LSU; becoming a Boyd Professor Emeritus;
+            community involvement in New Roads, La.; and Civil War studies.</abstract>
+</mods>

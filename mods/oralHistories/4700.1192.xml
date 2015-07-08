@@ -1,93 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Gillis Long Oral History Project</title>
-         <subTitle>"J.W. ""Cotton"" Merchant oral history interview, 1987"</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Merchant, J. W.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1987</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>2 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>54
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Gillis Long Oral History Project</title>
+      <subTitle>"J.W. ""Cotton"" Merchant oral history interview, 1987"</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Huey, Gary</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Merchant, J. W.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"J.W. ""Cotton"" Merchant worked with Gillis Long in the early 1960s when
+            Long was a Congressman. Gillis Long (1923-1985) was representative for the 8th U.S.
+            Congressional District of Louisiana in 1963-1965 and 1973-1985. He ran unsuccessfully
+            for governor of Louisiana in 1964 and 1971."</description>
+   </name>
+   <originInfo>
+      <dateCreated>1987</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>2 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>54
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Merchant, J. W.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Gillis William, 1923-1985.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long family.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Congress.--House--Elections.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Congress.--House--Election
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Merchant, J. W.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Gillis William, 1923-1985.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long family.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Congress.--House--Elections.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Congress.--House--Election
             districts.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Apportionment (Election
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Apportionment (Election
             law)--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Race
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Race
             relations--Political aspects--History--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.1192</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1192</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1192</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/gillis/Merchant_JW.pdf">Merchant discusses civil rights and its influence on Louisiana politics, he and his
+            father's support of civil rights, Gillis Long's gubernatorial and Congressional
+            campaigns, Long's relationship with several Louisiana politicians, redistricting of the
+            8th U.S. Congressional District of Louisiana, political infighting in the Long family,
+            Gillis Long's political positions, his health, and his service to his
+            constituents.</abstract>
+</mods>

@@ -1,130 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Military Tradition at LSU</title>
-         <subTitle>Aubrey Williams oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Pleasants, Julian M.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Williams, Aubrey L. </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>3 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>96
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Military Tradition at LSU</title>
+      <subTitle>Aubrey Williams oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Pleasants, Julian M.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Williams, Aubrey L. </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Aubrey Williams was born in Jacksonville, Fla., in 1922. He attended
+            Louisiana State University before serving in the Army during World War II. He received a
+            B.A. degree from LSU (1947) and M.A. &amp; Ph.D. degrees from Yale University (1948,
+            1952). Williams taught English primarily at Yale (1950-58) and the University of Florida
+            (1958-60, 1961-86).</description>
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>3 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>96
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Williams, Aubrey L.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Brooks, Cleanth, 1906-1994.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Warren, Robert
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Williams, Aubrey L.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Brooks, Cleanth, 1906-1994.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Warren, Robert
             Penn, 1905-1989.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Porter, Katherine Anne, 1890-1980.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tigert, John James, 1882-1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bly, Council.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mack, Maynard, 1909-2001</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Johns, Charley.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+   </subject>
+   <subject>
+      <topic authority="LoC">Porter, Katherine Anne, 1890-1980.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tigert, John James, 1882-1965.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bly, Council.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Mack, Maynard, 1909-2001</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Johns, Charley.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College.--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Yale University.--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">University of Florida.--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Florida.--Legislature.--Legislative
+   </subject>
+   <subject>
+      <topic authority="LoC">Yale University.--Dept. of English.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">University of Florida.--Dept. of English.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Florida.--Legislature.--Legislative
             Investigation Committee.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Southern review.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Reveille.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Military
+   </subject>
+   <subject>
+      <topic authority="LoC">Southern review.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Reveille.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Military
             education--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Nuremberg War Crime Trials, Nuremberg, Germany,
+   </subject>
+   <subject>
+      <topic authority="LoC">Nuremberg War Crime Trials, Nuremberg, Germany,
             1946-1949.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Affirmative action programs in education--Florida.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Education,
+   </subject>
+   <subject>
+      <topic authority="LoC">Affirmative action programs in education--Florida.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Education,
             Higher--Florida.</topic>
-      </subject>
-      <identifier>Mss. 4700.0899</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0899</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             T. Harry Williams Center for Oral History and the Samuel Proctor Oral History Program in
             accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0899</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/ole_war_skule/Williams_Aubrey_T1279_T1280.abs.pdf">Williams discusses his experiences attending Louisiana State University including
+            his time spent studying journalism and working for the Morning Advocate; studying in the
+            English Department; student and fraternity life; military training; the Southern Review
+            and The Reveille; various faculty members; and anecdotes about Cleanth Brooks, Robert
+            Penn Warren, Katherine Anne Porter, and John J. Tigert. He describes his service in the
+            Army during World War II, including witnessing the Nuremberg Trials. Williams discusses
+            his attendance at Yale University including studying under Maynard Mack, teaching
+            courses, and spending a year on fellowship in England. He also discusses his teaching at
+            the University of Florida including the Johns Committee, the pressures of affirmative
+            action, the poor quality of its English students, the saga of Council Bly, and English
+            Department politics.</abstract>
+</mods>

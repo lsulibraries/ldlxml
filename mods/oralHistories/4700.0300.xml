@@ -1,80 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Sororities at LSU</title>
-         <subTitle>Jane Porter Middleton oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Campbell, Melisse Lynn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Middleton, Jane Porter</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1920-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Louisiana State University graduate of the class of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Sororities at LSU</title>
+      <subTitle>Jane Porter Middleton oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Campbell, Melisse Lynn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Middleton, Jane Porter</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1920-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Louisiana State University graduate of the class of
             1941.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>51 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Gordon, Helen.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>51 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Gordon, Helen.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Chi Omega Fraternity.--Phi Gamma Chapter (Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Chi Omega Fraternity.--Phi Gamma Chapter (Louisiana State
             University)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0300</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.0300</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and her heirs and Louisiana State University in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0300</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/sororities/Middleton_Jane_T421.abs.pdf">In the interview, Middleton describes her family background, her early education
+            and decision to attend LSU, her sorority rush experience, social life on campus, her
+            favorite teachers and classes, and Helen Gordon, Dean of Women.; Middleton recalls her
+            role in building Chi Omega's house at LSU, and the role of women in the establishment of
+            other sorority houses. She describes delays to the Chi Omega house's opening, furnishing
+            the house, and her opinion of Greek organizations.</abstract>
+</mods>

@@ -1,79 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Rudolf Heberle oral history interview, 1981</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Lindenfield, David.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Heberle, Rudolf</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1896-1991</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Native of Germany; Boyd Professor of Sociology at Louisiana State
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Rudolf Heberle oral history interview, 1981</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Lindenfield, David.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Heberle, Rudolf</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1896-1991</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Native of Germany; Boyd Professor of Sociology at Louisiana State
             University, Baton Rouge.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1981</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>30 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>4
+   </name>
+   <originInfo>
+      <dateCreated>1981</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>30 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>4
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Heberle, Rudolf, 1896-1991--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Heberle, Rudolf, 1896-1991--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sociology--Study and teaching
+   </subject>
+   <subject>
+      <topic authority="LoC">Sociology--Study and teaching
             (Higher)--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sociology--Study and teaching (Higher)--Germany.</topic>
-      </subject>
-      <identifier>Mss. 4700.0026</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Sociology--Study and teaching (Higher)--Germany.</topic>
+   </subject>
+   <identifier>Mss. 4700.0026</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0026</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Heberle_Rudolf_T30.abs.pdf">Rudolf Heberle compares the methods of teaching sociology at Louisiana State
+            University with teaching in Germany during the late 1930s. He also tells of the LSU
+            faculty caucus and their efforts to reform the university ca. 1939.</abstract>
+</mods>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>Richard Thomas Gibbens Robichaux oral history interview, 2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Foltz, Kristin,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Robichaux, Richard Thomas Gibbens</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1930-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>R. Gibbens Robichaux was born in 1930 in Thibodaux, Louisiana, son of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>Richard Thomas Gibbens Robichaux oral history interview, 2010</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Foltz, Kristin,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Robichaux, Richard Thomas Gibbens</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1930-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>R. Gibbens Robichaux was born in 1930 in Thibodaux, Louisiana, son of
             Alfred G. Robichaux, Sr. and Sara Day Gibbens Robichaux. He had one brother, Alfred G.
             Robichaux, Jr. (ca. 1928-2012) and was raised in Thibodaux, growing up in a house across
             the street from his grandparents (Eugene Godfrey Robichaux and Brigeitte Emma Thibodaux
@@ -40,69 +40,84 @@
             He is still involved in the church and music communities in his retirement. He has
             written a number of children's books, wrote a regular column for the Thibodaux Chamber
             of Commerce newsletter, and has released three CDs of music.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 3 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>5 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 3 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>5 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index
            </note>
-         <extent>7 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Robichaux, Richard Thomas Gibbens, 1930---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic
+      <extent>7 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Robichaux, Richard Thomas Gibbens, 1930---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic
             Church--Louisiana--Thibodaux.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">St. Joseph Co-Cathedral (Thibodaux, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United
+   </subject>
+   <subject>
+      <topic authority="LoC">St. Joseph Co-Cathedral (Thibodaux, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United
             States.--Air Force--Chaplain's assistants.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Organists--Louisiana--Thibodaux.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Thibodaux
+   </subject>
+   <subject>
+      <topic authority="LoC">Organists--Louisiana--Thibodaux.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Thibodaux
             (La.)--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Thibodaux (La.)--Social life and customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2094</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Thibodaux (La.)--Social life and customs.</topic>
+   </subject>
+   <identifier>Mss. 4700.2094</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewer and interviewee in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2094</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Robichaux_Gibbens_T3940.pdf">"Robichaux discusses his childhood in Thibodaux, including his semi-rural home life
+            (animals in the backyard), places to eat in Thibodaux (including a discussion of home
+            cooking), and the group of boys he termed the ""Hinkety-dinkety Club."" He discusses his
+            musical and parochial education, and how it led to his career as a chaplain's assistant
+            in the Air Force (stationed in Okinawa, Japan), and eventually to playing organ at St.
+            Joseph Co-Cathedral in Thibodaux. Robichaux reflects on Thibodaux's early days (even
+            before he was born, ca. 1900 through the 1940s), and how the damming of Bayou Lafourche
+            at Donaldsonville (1904) has changed the culture of the bayou. Robichaux briefly
+            discusses the sugarcane industry (the family was involved), and how World War II,
+            technology, and television changed the culture of Thibodaux from ""the simple life."" He
+            discusses the construction, growth, and restoration of St. Joseph Co-Cathedral, and also
+            enumerates the events (Masses, weddings, funerals) at which he has played the
+            organ."</abstract>
+</mods>

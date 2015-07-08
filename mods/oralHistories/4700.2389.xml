@@ -1,114 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Cooperative Extension Oral History Project</title>
-         <subTitle>Billy Cochran oral history interview, 2014</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Winnie, Wyatt</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1975-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Cochran, Billy J.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2014</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 5 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>6 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Cooperative Extension Oral History Project</title>
+      <subTitle>Billy Cochran oral history interview, 2014</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Winnie, Wyatt</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1975-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Cochran, Billy J.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Billy J. Cochran was born on December 10, 1933, in Darbun, Mississippi.
+            He is the son of Arville Alexander Cochran and Gertrude Lewis. He attended rural
+            Mississippi schools during his youth. In 1958 he graduated with a B.S. degree in
+            agricultural engineering from Mississippi State University. Upon graduation, he served
+            for a short time in the United States Army, and then returned to school at Texas A&amp;M
+            University. In 1962 he graduated with a master's degree in agricultural engineering. In
+            1964 he joined the faculty at Louisiana State University where he taught in the
+            Agricultural Engineering Department. During the early seventies, he took a sabbatical
+            from LSU and earned a Ph.D. in agricultural engineering from Oklahoma State University.
+            After retiring from LSU in 1983, he worked abroad with the International Rice Research
+            Institute and the Food and Agriculture Organization in Thailand. From 1992 to 1996 he
+            worked for the Louisiana Cooperative Extension Service as a solid waste specialist. He
+            lives in Baton Rouge, La., with his wife, Jintana.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2014</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 5 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>6 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract
            </note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Cochran, Billy J.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge,
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Cochran, Billy J.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge,
             La.)--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">International Rice Research
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">International Rice Research
             Institute.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mississippi State University--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Texas A &amp; M
+   </subject>
+   <subject>
+      <topic authority="LoC">Mississippi State University--Students.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Texas A &amp; M
             University--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Oklahoma State University--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural
+   </subject>
+   <subject>
+      <topic authority="LoC">Oklahoma State University--Students.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural
             engineering--Study and teaching (Higher)--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural
             extension work--Philippines.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural extension work--Thailand.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural extension work--Thailand.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural
             extension work--Research--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural consultants--United
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural consultants--United
             States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cotton farmers--Mississippi.</topic>
-      </subject>
-      <identifier>Mss. 4700.2389</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Cotton farmers--Mississippi.</topic>
+   </subject>
+   <identifier>Mss. 4700.2389</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2389</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/historycoopexten/Cochran_Bill_T4318.abs.pdf">Cochran begins the interview by discussing his parents' cotton farm. He also talks
+            about life in a rural school and moving to the city of Columbia where he had his first
+            job as a paperboy for the New Orleans Item. The interview then moves into a discussion
+            about his education at Mississippi State, Texas A&amp;M, and Oklahoma State
+            Universities. He documents his time as an LSU professor, an international consultant in
+            the field of agriculture, and his time as a solid waste specialist for the Louisiana
+            Cooperative Extension Service.</abstract>
+</mods>

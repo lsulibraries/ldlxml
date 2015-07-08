@@ -1,102 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Marian Baun oral history interview, 1998</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Hebert, Mary J.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Baun, Marian Reynard</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1915-2008</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Marian Reynard Baun was born in Springfield, Ohio, in 1915 and graduated
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Marian Baun oral history interview, 1998</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Hebert, Mary J.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Baun, Marian Reynard</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1915-2008</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Marian Reynard Baun was born in Springfield, Ohio, in 1915 and graduated
             from Ohio Wesleyan University and Ohio State University. She married Charles A. Reynard
             (1913-1959) in 1936. He was a professor of law at Louisiana State University between
             1951 and 1959. Marian Baun was a professor of psychology and associate chairman of the
             LSU Psychology Department between 1961 and 1981.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1998</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>3</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>109
+   </name>
+   <originInfo>
+      <dateCreated>1998</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>3</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>109
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Baun, Marian Reynard, 1915-2008--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Reynard, Charles A.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Baun, Marian Reynard, 1915-2008--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Reynard, Charles A.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University and Agricultural and Mechanical College--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             (Baton Rouge, La.)--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Dept. of
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Dept. of
             Psychology.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Organization for Public Education Now.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Civil
+   </subject>
+   <subject>
+      <topic authority="LoC">Organization for Public Education Now.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Civil
             rights--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">School integration--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Public schools--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">School integration--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Public schools--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women college students--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0998</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Women college students--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.0998</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0998</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Baun_Marian_T1454-T1456.abs.pdf">Marian Baun discusses her family background; her marriage to her first husband,
+            Charles Arthur Reynard; his legal education and teaching; his work for school
+            desegregation; political activity of LSU professors; her involvement with OPEN
+            (Organization for Public Education Now); efforts to change LSU campus regulations for
+            female students; her teaching in the Psychology Department and involvement in other
+            campus committees; and her volunteer work for public school support
+            organizations.</abstract>
+</mods>

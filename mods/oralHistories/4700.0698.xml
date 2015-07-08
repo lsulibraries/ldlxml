@@ -1,103 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Businesses</title>
-         <subTitle>Joseph Delpit oral history interview, 1996</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Carter, Nedra</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Carrell, Khary,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Delpit, Joseph</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1940-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Joseph Delpit was an African-American businessman in Baton Rouge, La. He
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Businesses</title>
+      <subTitle>Joseph Delpit oral history interview, 1996</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Carter, Nedra</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Carrell, Khary,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Delpit, Joseph</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1940-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Joseph Delpit was an African-American businessman in Baton Rouge, La. He
             was the first black elected official in Baton Rouge when he was chosen for a seat on the
             city council in 1967. He later was state representative for District
             67.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1996</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>45
+   </name>
+   <originInfo>
+      <dateCreated>1996</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>45
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Delpit, Joseph, 1940---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American business
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Delpit, Joseph, 1940---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American business
             enterprises--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Diners (Restaurants)--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American neighborhoods--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">Diners (Restaurants)--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American neighborhoods--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             Americans--Segregation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--Baton
             Rouge--Economic conditions--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Community development--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Community development--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Economic conditions--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0698</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Economic conditions--20th century.</topic>
+   </subject>
+   <identifier>Mss. 4700.0698</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws. If interview is used
             for personal profit Joseph Delpit will receive fifty percent of the obtained
             profit.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0698</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/2_businesses/Delpit_Joseph_T1025.pdf">"Delpit discusses the ""Chicken Shack,"" his family's business; other south Baton
+            Rouge businesses, theaters, and landmarks; the impact of integration and desegregation
+            on African-American businesses; and crime and the need for community
+            rebuilding."</abstract>
+</mods>

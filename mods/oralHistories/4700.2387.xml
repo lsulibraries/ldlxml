@@ -1,99 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Cooperative Extension Oral History Project</title>
-         <subTitle>William Richardson oral history interview, 2014</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Cramer, Jennifer A.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Richardson, William B., 1944-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2014</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>47 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>9 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Cooperative Extension Oral History Project</title>
+      <subTitle>William Richardson oral history interview, 2014</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Cramer, Jennifer A.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Richardson, William B., 1944-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>William Richardson was born in southeast Missouri in 1944 to William
+            Richardson, Sr. and Pauline Gunnin. He was raised on a soybean-cotton farm near Kennett,
+            Missouri. He attended Dearing public schools until he graduated from high school. After
+            high school, he attended Arkansas State University, where he earned a B.S. degree in
+            1966, and a master's degree in 1968. He received his doctorate degree in agricultural
+            education from the University of Missouri in 1972. From 1972 until 1984, he taught at
+            Purdue University, where he was recognized twice as an Outstanding Teacher, and once as
+            an Outstanding Academic Advisor by the University's Department of Education. He joined
+            the faculty of Louisiana State University as a professor in 1984. He has served in
+            various national and international leadership capacities as well as in numerous
+            administrative capacities and on many boards and committees. He's published numerous
+            articles and textbooks, and has served as the chairperson for various master's theses
+            and doctoral dissertations. He currently serves as Director of Louisiana Cooperative
+            Extension Service and LSU Vice-President for Agriculture and Dean for the College of
+            Agriculture.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2014</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>47 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>9 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Richardson, William B., 1944---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Arkansas State University--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Arkansas State University--Sports.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Farm life--Missouri.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural extension
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Richardson, William B., 1944---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Arkansas State University--Students.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Arkansas State University--Sports.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Farm life--Missouri.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural extension
             work--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">County agricultural agents--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">County agricultural agents--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             students--Political activity--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College athletes--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Discrimination in sports--Arkansas--Jonesboro.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kennett (Mo.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">College athletes--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Discrimination in sports--Arkansas--Jonesboro.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Kennett (Mo.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.2387</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2387</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2387</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/historycoopexten/Richardson_William_T4316.abs.pdf">Richardson begins the interview by speaking about his grandparents. He also
+            discusses life in rural Missouri and what it was like to live on a farm in the Kennett
+            area. This includes social outlets such as cruising, going to the movies, basic farm
+            chores, crops, and a typical workday on the farm. He also details his time at Arkansas
+            State University. He discusses mandatory ROTC service, the basketball team, and what
+            college campuses were like during the sixties and the Vietnam War era. Richardson notes
+            the differences between college athletes today and when he was in school, the political
+            awareness of students today versus his time in school, and what it was like to play with
+            the first black basketball player at Arkansas State University. He notes how those
+            experiences helped him to be more diverse as an administrator later in his career.
+            Richardson also discusses how people depended on extension agents for information.
+            County agents helped deliver information to the people in a much different manner than
+            today. Today's agents have more technology and other avenues to disseminate information,
+            though their motivations remain the same.</abstract>
+</mods>

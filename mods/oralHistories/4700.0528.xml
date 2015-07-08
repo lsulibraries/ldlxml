@@ -1,87 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Women's Council of Greater Baton Rouge Oral History Project</title>
-         <subTitle>Evelyn Fike oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Parker, Margaret</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Fike, Evelyn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1925-2008</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Evelyn Fike was an executive with the Gulf States Research
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Women's Council of Greater Baton Rouge Oral History Project</title>
+      <subTitle>Evelyn Fike oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Parker, Margaret</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Fike, Evelyn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1925-2008</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Evelyn Fike was an executive with the Gulf States Research
             Institute.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>33
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>33
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Fike, Evelyn, 1925-2008--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gulf States Research Institute.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Capital
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Fike, Evelyn, 1925-2008--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Gulf States Research Institute.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Capital
             Area Network (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sex discrimination against women--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sex
+   </subject>
+   <subject>
+      <topic authority="LoC">Sex discrimination against women--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sex
             discrimination in education--Iowa.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sex discrimination in employment--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mentoring in business--Louisiana.</topic>
-      </subject>
-      <identifier>Mss. 4700.0528</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Sex discrimination in employment--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Mentoring in business--Louisiana.</topic>
+   </subject>
+   <identifier>Mss. 4700.0528</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0528</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/womenscouncil/Fike_Evelyn_T766.abs.pdf">Fike discusses sexual discrimination in her high school in Iowa, the lack of career
+            opportunities for women in the 1940s, her work and problems with the Gulf States
+            Research Institute, her work as an executive, her role in forming the Capital Area
+            Network (an organization for Baton Rouge businesswomen), and her desire to be a mentor
+            for her female employees.</abstract>
+</mods>

@@ -1,76 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>George Matthes oral history interview, 1980</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Matthes, George</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1980</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>15 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>George Matthes oral history interview, 1980</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Matthes, George</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Educated in engineering, George ""Red"" Matthes joined LSU's staff as
+            the superintendent of buildings in 1929. In 1931, he became an engineering faculty
+            member in addition to serving in campus purchasing and as the interim comptroller. In
+            1947 he became head of the Mechanical Engineering Department, where he remained until
+            1961. He continued as an engineering professor until his retirement in
+            1969."</description>
+   </name>
+   <originInfo>
+      <dateCreated>1980</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>15 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Faculty.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University (Baton Rouge, La.).--Dept. of Mechanical Engineering.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University and Agricultural and Mechanical College--Buildings.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Campus
+   </subject>
+   <subject>
+      <topic authority="LoC">Campus
             planning--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0461</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0461</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and heirs and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0461</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Matthes_George_T653.abs.pdf">Matthes discusses his work with LSU's original architecture and landscaping, the
+            move from the old downtown campus to LSU's present site, and construction of some campus
+            buildings by the Works Progress Administration. He also reflects upon his time as a
+            faculty member and as interim comptroller.</abstract>
+</mods>

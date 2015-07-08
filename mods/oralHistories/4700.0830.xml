@@ -1,94 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Nell Byars oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Foster, Adele,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Byars, Nell</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1925-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Nell Byars was born in Shreveport, La., in 1925. She graduated from Baton
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Nell Byars oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Foster, Adele,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Byars, Nell</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1925-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Nell Byars was born in Shreveport, La., in 1925. She graduated from Baton
             Rouge High School and married Vance Byars in 1943. She kept the account books for his
             Baton Rouge medical practice that he began in 1960.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>37
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>37
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Byars, Nell, 1925---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Immigrants--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Italians--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Widows--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Weddings--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Wives--Effect of
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Byars, Nell, 1925---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Immigrants--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Italians--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Widows--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Weddings--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Wives--Effect of
             husband's employment on--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Physicians' spouses--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--History--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Physicians' spouses--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--History--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0830</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0830</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0830</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Byars_Nell.abs.pdf">Byars discusses her family; her father's immigration from Italy to Louisiana, his
+            shoe store, and his early death in a trolley accident; her home life and education in
+            Baton Rouge; the effects of the war on the preparation for her wedding; following her
+            husband to different posts and writing one another during the war; Baton Rouge during
+            the war; her husband's return and their life together after the war; and her husband's
+            medical education in New Orleans and practice in Baton Rouge.</abstract>
+</mods>

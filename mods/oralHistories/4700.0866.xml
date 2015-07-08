@@ -1,82 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
-         <subTitle>Nathaniel F. Harrison, Jr. oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Morrison, Tonetta B.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Harrison, Nathaniel F., 1950-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>48 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>24
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
+      <subTitle>Nathaniel F. Harrison, Jr. oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Morrison, Tonetta B.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Harrison, Nathaniel F., 1950-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Nathaniel Harrison, Jr. was born in Houma, La., in 1950. He moved to
+            Baton Rouge in 1965 to live with his uncle, Nicholas, a deacon at Mount Zion Baptist
+            Church. Harrison received a B.S. and Master's degree from Southern University and spent
+            his career at Southern working in various administrative positions. He has served in
+            many capacities at Mount Zion Baptist Church, most recently as a church
+            officer.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>48 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>24
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Harrison, Nathaniel F., Jr., 1950---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Jemison, T. J.--(Theodore
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Harrison, Nathaniel F., Jr., 1950---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Jemison, T. J.--(Theodore
             Judson)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American
+   </subject>
+   <subject>
+      <topic authority="LoC">Mount Zion First Baptist Church (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American
             Baptists--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Religious life--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Religious life--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American churches--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0866</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">African American churches--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.0866</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0866</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/3_churches/Harrison_Nathaniel_T1242.pdf">Harrison discusses many aspects of Mount Zion Baptist Church in Baton Rouge,
+            including the church's history, demographics, ministries and services, role in the
+            community, efforts to work with troubled youth and elderly parishioners, and the
+            changing role of the church in people's lives. He describes his personal involvement in
+            the church and work with Reverend Theodore J. Jemison.</abstract>
+</mods>

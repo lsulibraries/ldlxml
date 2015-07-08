@@ -1,170 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Alumni</title>
-         <subTitle>Thomas Fuller Ruffin oral history interview, 2000-2005.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Abraham, Jennifer,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Ruffin, Thomas F. </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2000-2005.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">5 sound cassettes</note>
-         <extent>6 hours, 23 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">2 digital audio files</note>
-         <extent>2
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Alumni</title>
+      <subTitle>Thomas Fuller Ruffin oral history interview, 2000-2005.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Abraham, Jennifer,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Ruffin, Thomas F. </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Thomas Fuller Ruffin was born in Shreveport, La., in 1925, and graduated
+            from C.E. Byrd High School. He served with the U.S. Navy during World War II in the
+            Atlantic, Caribbean, and Pacific, and continued to serve in China after the war. Ruffin
+            graduated from Louisiana State University with a B.S. in Mechanical Engineering in 1947.
+            He was the president of Ruffin Brick Co. and Ruffin Transportation, Inc., then worked
+            for four decades in the stock brokerage industry, retiring as Vice President of Smith
+            Barney, Inc. Ruffin served on the board of many organizations during his lifetime,
+            including the Volunteers of America, the LSU Athletic Council, and the Louisiana
+            Historical Association. He also served as National Vice President of the U.S. Jaycees.
+            Ruffin published over 75 articles on the history of the Ark-La-Tex area, and was the
+            author of ""Under Stately Oaks: A Pictorial History of LSU."" He was married to Joyce
+            Lucille Toler and after her death married Carol Miller Baker. Ruffin and Baker were
+            married for thirteen years until his death on April 30, 2009."</description>
+   </name>
+   <originInfo>
+      <dateCreated>2000-2005.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">5 sound cassettes</note>
+      <extent>6 hours, 23 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">2 digital audio files</note>
+      <extent>2
             hours, 16 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>9 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>214 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>16
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>9 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>214 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>16
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Ruffin, Thomas F.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ruffin, Joyce Lucille Toler.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Ruffin, Thomas F.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ruffin, Joyce Lucille Toler.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United
             States.--Navy--Military life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and
             Mechanical College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and
             Mechanical College.--Reserve Officers Training Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Acme Brick Company--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Redman Industries--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Merrill Lynch &amp; Co. (1973- )--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Frances I.
+   </subject>
+   <subject>
+      <topic authority="LoC">Acme Brick Company--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Redman Industries--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Merrill Lynch &amp; Co. (1973- )--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Frances I.
             du Pont Company--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Jaycees International.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">LSU Alumni Association.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Business
+   </subject>
+   <subject>
+      <topic authority="LoC">Jaycees International.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">LSU Alumni Association.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Business
             brokerage--Louisiana--Shreveport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--Louisiana--Shreveport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--Texas--Dallas.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Education--Louisiana--Shreveport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Military
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--Louisiana--Shreveport.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--Texas--Dallas.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Education--Louisiana--Shreveport.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Military
             education--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Voluntarism--Louisiana--Shreveport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Volunteer
+   </subject>
+   <subject>
+      <topic authority="LoC">Voluntarism--Louisiana--Shreveport.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Volunteer
             workers in community development--Louisiana--Shreveport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--China--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Veterans--United
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Veterans--United
             States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">China--Social
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">China--Social
             conditions--1912-1949.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Dallas (Tex.)--Social conditions--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Dallas
+   </subject>
+   <subject>
+      <topic authority="LoC">Dallas (Tex.)--Social conditions--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Dallas
             (Tex.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shreveport (La.)--Social
+   </subject>
+   <subject>
+      <topic authority="LoC">Shreveport (La.)--Social
             conditions--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shreveport (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">West (U.S.)--Description and travel.</topic>
-      </subject>
-      <identifier>Mss. 4700.1364</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Shreveport (La.)--Social life and customs--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">West (U.S.)--Description and travel.</topic>
+   </subject>
+   <identifier>Mss. 4700.1364</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1364</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_alumni/Ruffin_Thomas_all_tapes.abs.pdf">"Session I, which is transcribed, describes Ruffin's family and early life in
+            Shreveport and Dallas, an incident where he was severely burned as a child when his
+            nightgown caught on fire, his favorite teachers and subjects in elementary and high
+            school, traveling for school clubs and on a trip through the West with his extended
+            family, his hearing about the bombing of Pearl Harbor and losing friends in World War
+            II, and his attending LSU and the activities he participated in as a student there.;
+            Session II, which is transcribed, describes his youth and experience of the Depression
+            in Shreveport and Dallas, his father's employment with Acme Brick Company, recreation
+            and shopping in Shreveport and Dallas, transportation, his diverse neighborhood and
+            classmates at Alexander School in Shreveport, religious beliefs, downtown Shreveport,
+            Louisiana politicians and governors, C.E. Byrd and Fair Park High Schools in Shreveport,
+            his coursework at LSU and student life there in the early to mid-1940s, ROTC and
+            military service with the Navy, radar school and engineering classes at the University
+            of Illinois and Columbia University, his experiences in Los Angeles and New York while
+            enlisted, the perks of being in uniform during the war, his involvement with the
+            Jaycees, accounts of veterans from the Civil War and World Wars I &amp; II, and the
+            devastation in Europe after World War II.; Session III, which is transcribed, describes
+            classes and experiences at LSU before and after he served in World War II, military
+            training at LSU, campus buildings, dining and recreation around campus, downtown Baton
+            Rouge, urban transportation, the effect of students leaving for the war, dances, his
+            favorite classes and professors, military leaders at LSU, daily life in ROTC, and how
+            ROTC prepared him for the Navy.; Session IV, which is transcribed, relates recollections
+            of Navy service in Los Angeles, Honolulu, Shanghai, and Hong Kong; political strife in
+            China between Nationalists and Communists; people he befriended or helped in Hong Kong
+            and Shanghai, including a man who wrote on scrolls and a little boy who helped him
+            escape a fire fight; prostitution in China; people living on the streets and the high
+            death rate; his view of Chinese culture and customs; his duties on board ship and on
+            shore patrol; the process of being discharged from the Navy; providing medical aid to a
+            boy who later died of cholera; trying to resolve fights among enlisted men and between
+            enlisted men and locals; receiving mail on the ship; and his feelings on veterans of
+            different wars.; Session V, which is transcribed, describes his work for the Acme Brick
+            Company in Fort Worth and Shreveport; his involvement with the Jaycees in Shreveport and
+            the community issues they tackled; marrying his wife, Joyce Toler, and their honeymoon;
+            service as Jaycees state president then national vice president, including campaigning
+            for positions and campaigns he undertook like teen driving safety and anti-fly and
+            mosquito spraying; his meetings with several U.S. presidents; a story about Earl Long;
+            his positive experiences from the Jaycees and feeling that the organization has
+            weakened; and understanding other cultures and getting along with people he meets.;
+            Session VI, which is indexed, discusses his work with Redman Industries in California,
+            Merrill Lynch in San Antonio, and the Frances I. du Pont Company in Shreveport; his
+            experiences in the brokerage business, including changes over time, technology, buyouts
+            from other companies, female and minority employees, and stock strategies; service with
+            the LSU Alumni Association; his perception that Louisiana lags behind; service with
+            other organizations and boards; incidents of racism he's witnessed; information about
+            his family; his interest in history, articles he's written, and the research and
+            publishing of ""Under Stately Oaks; "" and interesting facts from LSU's
+            history."</abstract>
+</mods>

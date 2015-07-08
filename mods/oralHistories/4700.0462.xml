@@ -1,133 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Ordell Griffith oral history interview, 1994-1995.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Besch, Everett Dickman</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Coco, Quinn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Griffith, Ordell B., 1915-2010</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1994-1995.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">7 sound cassettes</note>
-         <extent>10 hours, 30 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>494 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Ordell Griffith oral history interview, 1994-1995.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Besch, Everett Dickman</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Coco, Quinn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Griffith, Ordell B., 1915-2010</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Ordell Griffith was an LSU graduate and former director of the Admissions
+            Office. She worked at LSU for over fifty years.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1994-1995.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">7 sound cassettes</note>
+      <extent>10 hours, 30 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>494 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">
             Index</note>
-         <extent>8 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Griffith, Ordell B., 1915-2010--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+      <extent>8 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Griffith, Ordell B., 1915-2010--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge,
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge,
             La.)--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Buildings.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Buildings.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College--Buildings.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Buildings.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             and Agricultural and Mechanical College--Admission.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton
             Rouge, La.)--Admission.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College administrators--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">College administrators--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             campuses--Louisiana--Baton Rouge--Design.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College integration--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College students--Louisiana--Baton Rouge--Conduct of life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Students,
+   </subject>
+   <subject>
+      <topic authority="LoC">College integration--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College students--Louisiana--Baton Rouge--Conduct of life.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Students,
             Foreign--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0462</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0462</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0462</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Griffith_Ordell_T654-T658_T687_T759.abs.pdf">Griffith discusses life in Baton Rouge in the early twentieth century and Louisiana
+            State University between the 1930s and 1980s. She discusses the design and buildings of
+            the LSU campus; several administrators, faculty members, and employees; admissions
+            procedures; the enrollment of foreign students; racial integration; and student
+            behavior. Griffith discusses admissions procedures at LSU and the handling of transfer
+            credits and credits from unaccredited or foreign universities. She talks about conflicts
+            with faculty, administrators and coaches over the admittance of students. She recounts
+            her experiences with various faculty and administrators during her many years at LSU
+            including John Hunter, Martin Woodin, Charles Coates, Albert Clary, Arthur Choppin,
+            General Troy Middleton, Carl Maddox and others.</abstract>
+</mods>

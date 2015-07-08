@@ -1,114 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>"John B. ""J.B."" Barnes, Jr. oral history interview, 2010"</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Tannehill, Mary,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Barnes, J. B. 1923?-2012</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>44 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>4
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>"John B. ""J.B."" Barnes, Jr. oral history interview, 2010"</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Tannehill, Mary,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Barnes, J. B. 1923?-2012</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"John B. ""J.B."" Barnes, Jr. was born in Clinton, La., around 1923 and
+            was raised with a rural lifestyle in Baton Rouge. His father died when he was still
+            young, so Barnes was raised by his mother and began to work and contribute to the
+            household at an early age. He moved to Lockport, La., in 1954 for a job at the Valentine
+            Sugar Company, where he worked on their Valite division and eventually became a
+            plantation overseer, managing the labor force of hundreds, both black and white. After
+            Valentine's closure in 1979 [1980], Barnes also worked as a water attendant at a sugar
+            house in Raceland. He was a member of St. John Baptist Church in Clinton and Israelite
+            Baptist Church in Lockport; he served as a church deacon and member of the choir at
+            Israelite Baptist. Barnes, son of John Barnes, Sr. and Anna Thomas Barnes, was one of
+            many children, and was married to Sally Barnes; the couple had five children and he
+            mentored many more. He passed away in 2012 and is survived by three sons, one daughter,
+            many grandchildren and great-grandchildren."</description>
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>44 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>4
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Barnes, J. B.--(John B.), Jr., 1923?-2012--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Israelite Baptist Church
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Barnes, J. B.--(John B.), Jr., 1923?-2012--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Israelite Baptist Church
             (Lockport, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American Baptists--Louisiana--Lockport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American
+   </subject>
+   <subject>
+      <topic authority="LoC">African American Baptists--Louisiana--Lockport.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American
             Christians--Louisiana--Conduct of life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Child rearing--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Country life--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Country life--Louisiana--Clinton.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gospel
+   </subject>
+   <subject>
+      <topic authority="LoC">Child rearing--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Country life--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Country life--Louisiana--Clinton.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Gospel
             music--Louisiana--Lockport.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Plantation overseers--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Racism
+   </subject>
+   <subject>
+      <topic authority="LoC">Plantation overseers--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Racism
             in the workplace--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugar--Manufacture and
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugar--Manufacture and
             refining--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugarcane industry--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche, Bayou (La.)--Economic
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugarcane--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugarcane industry--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche, Bayou (La.)--Economic
             conditions.</topic>
-      </subject>
-      <identifier>Mss. 4700.2102</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2102</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2102</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Barnes_John_B_T3948.pdf">Barnes discusses his childhood in Clinton and Baton Rouge, La., which involved
+            being raised by his widowed mother and working from a young age. The family grew their
+            own food and resources were scarce. As an adult Barnes helped raise a number of children
+            in Lafourche Parish, and he discusses, at length, how Christian tenets have helped guide
+            his life. He discusses the history and development of Israelite Baptist Church in
+            Lockport, explaining his role as deacon and as a member of the church choir. Barnes
+            sings two gospel songs. He discusses his professional career at Valentine Sugar in
+            Lockport, where he climbed to the rank of overseer/manager, which caused some strain as
+            Barnes is African American and many colleagues were white. After Valentine closed he
+            worked night shifts at a sugar mill in Raceland. He briefly discusses the non-church
+            community and changes in the physical community of Bayou Lafourche. Barnes's long
+            medical history is also discussed.</abstract>
+</mods>

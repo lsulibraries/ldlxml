@@ -1,107 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Alumni</title>
-         <subTitle>T. Earle Johnson oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Johnson, Thomas Earle</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1904-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>T. Earle Johnson graduated from LSU in 1926 and was an instructor of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Alumni</title>
+      <subTitle>T. Earle Johnson oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Johnson, Thomas Earle</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1904-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>T. Earle Johnson graduated from LSU in 1926 and was an instructor of
             speech until 1928. He received a master's degree from the University of Wisconsin and
             was a professor of speech at the University of Alabama from 1928 to
             1969.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">4 sound cassettes</note>
-         <extent>5</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>165
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">4 sound cassettes</note>
+      <extent>5</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>165
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Johnson, Thomas Earle, 1904---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Johnson family.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Roberts family.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Johnson, Thomas Earle, 1904---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Johnson family.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Roberts family.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long,
             Huey Pierce, 1893-1935.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Northwestern State College of Louisiana--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+   </subject>
+   <subject>
+      <topic authority="LoC">Northwestern State College of Louisiana--Students.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University and Agricultural and Mechanical College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University and Agricultural and Mechanical College--Football.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">University of
+   </subject>
+   <subject>
+      <topic authority="LoC">University of
             Alabama.--Dept. of Speech--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and trade--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Military
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and trade--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Military
             education--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ouachita Parish (La.)--History--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Ouachita Parish (La.)--History--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0100</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0100</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             LSU Libraries in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0100</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_alumni/Johnson_T.E._T125-T128.abs.pdf">Johnson discusses his family and childhood, his early education, his attendance at
+            the Louisiana State Normal College, his work as an elementary school teacher in
+            Naborton, La., the early oil industry in Louisiana, and his attendance at LSU in the
+            mid-1920s, including military training, social life, the hazing of freshmen, vandalism
+            by freshmen, fraternity initiation, alcohol consumption by students, and the popularity
+            of football. He also discusses his meeting Huey Long, his graduation from LSU, his work
+            as instructor of speech at LSU, and his tenure at the University of Alabama.</abstract>
+</mods>

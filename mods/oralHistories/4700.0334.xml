@@ -1,99 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Alumni</title>
-         <subTitle>John J. McKeithen oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Carleton, Mark T.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>McKeithen, John J. 1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>2 hours, 7 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>69
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Alumni</title>
+      <subTitle>John J. McKeithen oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Carleton, Mark T.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>McKeithen, John J. 1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>John J. McKeithen was born in Grayson, Caldwell Parish, La., in May 1918.
+            He graduated from LSU in 1940 and LSU Law School in 1942. McKeithen married Marjorie
+            Funderburk in 1942 and they had six children, including son Fox, who followed his father
+            into a life of politics. John McKeithen was elected to the Louisiana House of
+            Representatives and served as floor leader under Gov. Earl Long in 1947. He was elected
+            governor himself in 1963, running as a segregationist Democrat, and served two
+            consecutive terms in this office until 1972. McKeithen was appointed to the LSU Board of
+            Supervisors in 1981 by then Gov. Dave Treen. John J. McKeithen died in June 1999 at the
+            age of 81.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>2 hours, 7 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>69
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">McKeithen, John J.--(John Julian), 1918-1999--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">McKeithen, W. Fox.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Duke, David Ernest.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana.--Legislature.--House of Representatives.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">McKeithen, John J.--(John Julian), 1918-1999--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">McKeithen, W. Fox.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Duke, David Ernest.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana.--Legislature.--House of Representatives.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University (Baton Rouge, La.)--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton
             Rouge, La.).--Board of Supervisors.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Universities and colleges--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum
+   </subject>
+   <subject>
+      <topic authority="LoC">Universities and colleges--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum
             industry and trade--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Race discrimination--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Caldwell Parish (La.)--History--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Race discrimination--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--History--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Caldwell Parish (La.)--History--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0334</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0334</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewer and heirs and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0334</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_alumni/McKeithen_John_T473.abs.pdf">The interview covers the life, career, political beliefs, and connections of John
+            McKeithen up to 1993. Significant topics include race relations, development of the
+            Louisiana economic and environmental industry, state and federal politics and political
+            figures, and history and staff of LSU during the years of McKeithen's
+            involvement.</abstract>
+</mods>

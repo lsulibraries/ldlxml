@@ -1,118 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Military Tradition at LSU</title>
-         <subTitle>David A. Schorr oral history interview, 2001</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Ramirez, Dominica Dominguez</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1979-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Schorr, David A., 1944-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2001</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>51 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>36
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Military Tradition at LSU</title>
+      <subTitle>David A. Schorr oral history interview, 2001</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Ramirez, Dominica Dominguez</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1979-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Schorr, David A., 1944-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>David A. Schorr was born in New Orleans on August 4, 1944. He attended
+            Louisiana State University from 1961 to 1965, where he participated in ROTC and the
+            Arnold Air Society. He was commissioned in the U.S. Air Force in 1965 and stationed at
+            Truax Field in Madison, Wis., and Luke Air Force Base in Arizona. Schorr began working
+            for IBM in 1969 as an associated programmer at Kansas City Air Traffic Control Center,
+            assisting in the development of the FAA's Air Control Automation Project. He left IBM in
+            1981 to work for Lockheed Corporation at the Johnson Space Center in Houston, Tex.
+            Schorr was a computer programmer for the FAA in Minneapolis, Minn., between 1982 and
+            1986. He was employed at the Houston Air Traffic Control System at the time of the
+            interview.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2001</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>51 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>36
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Schorr, David A., 1944---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Benit, Henry J.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hope, Bob,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Schorr, David A., 1944---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Benit, Henry J.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hope, Bob,
             1903-2003--Travel--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural
             and Mechanical College--Students--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             and Agricultural and Mechanical College.--Reserve Officers Training Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Arnold Air
+   </subject>
+   <subject>
+      <topic authority="LoC">Arnold Air
             Society (Louisiana State University)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Air Force--Officers.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Air Force--Officers.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United
             States.--Federal Aviation Administration--Officials and employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">International
+   </subject>
+   <subject>
+      <topic authority="LoC">International
             Business Machines Corporation.--Federal Systems Division--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">International
+   </subject>
+   <subject>
+      <topic authority="LoC">International
             Business Machines Corporation.--General Systems Division--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lockheed
+   </subject>
+   <subject>
+      <topic authority="LoC">Lockheed
             Corporation--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Radar defense
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Radar defense
             networks--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Radar air traffic control systems--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+   </subject>
+   <subject>
+      <topic authority="LoC">Radar air traffic control systems--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University Campus (Baton Rouge, La. : 1926- )</topic>
-      </subject>
-      <identifier>Mss. 4700.1512</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1512</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1512</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/ole_war_skule/Schorr_David_T3077.abs.pdf">Schorr discusses his years as an undergraduate at Louisiana State University, his
+            participation in campus activities and fraternity life, and his experiences with the
+            ROTC. He describes his nearly four years of service with the U.S. Air Force as a radar
+            controller and computer programmer for the SAGE Air Defense System. His work on SAGE led
+            to employment with IBM and later with the FAA and Lockheed Corporation as a computer
+            programmer.</abstract>
+</mods>

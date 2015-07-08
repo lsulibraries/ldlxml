@@ -1,81 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Military Tradition at LSU</title>
-         <subTitle>Thomas Blakeney oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Carville, Ruth Thompson.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Blakeney, T. O. 1918-2001</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>2 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>70 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Blakeney, T. O.--(Thomas O.), 1918-2001--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">French, Arden Odell, 1906-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Reddoch, James Wilson, 1924-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Military Tradition at LSU</title>
+      <subTitle>Thomas Blakeney oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Carville, Ruth Thompson.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Blakeney, T. O. 1918-2001</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Colonel in the United States Army and commandant of LSU ROTC cadet
+            corps.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>2 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>70 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Blakeney, T. O.--(Thomas O.), 1918-2001--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">French, Arden Odell, 1906-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Reddoch, James Wilson, 1924-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College.--Reserve Officers Training Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Europe--Personal
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Europe--Personal
             narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War, 1961-1975--Protest movements--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War, 1961-1975--Protest movements--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0181</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0181</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0181</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/ole_war_skule/Blakeney_Thomas_T254-T256.abs.pdf">In the interview Blakeney describes his personal and educational background, his
+            early interest in the military, and his involvement in ROTC while a student at Louisiana
+            State University. He recounts his military assignments in the United States, Europe
+            during WWII, and Vietnam in the 1960s. He relates his views on ROTC at LSU; the effects
+            of Vietnam War protests on the program, and he offers recollections of Dean Arden French
+            and Dean James Reddoch of LSU. Focus dates: 1930s-1969.</abstract>
+</mods>

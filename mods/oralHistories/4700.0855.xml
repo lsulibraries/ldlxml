@@ -1,119 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
-         <subTitle>Bridgett Demery Jackson Brister oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Green, Shawnte</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Jacobi, Paula T.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Brister, Bridgett Demery Jackson</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>36
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
+      <subTitle>Bridgett Demery Jackson Brister oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Green, Shawnte</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Jacobi, Paula T.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Brister, Bridgett Demery Jackson</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Bridgett Demery Jackson Brister is a native of Baton Rouge, La. She
+            attended grammar school at St. Francis Xavier Catholic Church and high school at St.
+            Joseph's Academy. She also has been a parishioner at St. Paul Catholic Church in Baton
+            Rouge. Her service with St. Francis Xavier Catholic Church included participating with
+            home restorations for the Mississippi Redevelopment Alliance and with anti-racism
+            workshops for the People's Institute for Survival and Beyond.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>36
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Brister, Bridgett Demery Jackson--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Francis Xavier Catholic
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Brister, Bridgett Demery Jackson--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Francis Xavier Catholic
             Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Thomas More Catholic Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Baton Rouge--Clergy.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Thomas More Catholic Church (Baton Rouge, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Baton Rouge--Clergy.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Baton
             Rouge--Political activity.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American Catholics--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">African American Catholics--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             American churches--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Religious
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Religious
             life--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic elementary schools--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Express highways--Social aspects--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mass--Celebration.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Racism--Louisiana--Religious aspects--Catholic Church.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women--Religious
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic elementary schools--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Express highways--Social aspects--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Mass--Celebration.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Racism--Louisiana--Religious aspects--Catholic Church.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women--Religious
             aspects--Catholic Church.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Religion--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Interstate
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Religion--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Interstate
             10.</topic>
-      </subject>
-      <identifier>Mss. 4700.0855</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0855</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0855</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/3_churches/Brister_Bridgett_T1229.pdf">Brister discusses her life in St. Francis Xavier Catholic Church, including
+            attending grammar school, church bazaars, religious services, community involvement,
+            returning to the church after years away, and connecting to her faith. She discusses the
+            negative impact that the construction of Interstate 10 had on the parish community.
+            Brister describes how the first African-American priest at St. Francis Xavier attracted
+            young families and people from surrounding parishes. She notes the variation between
+            traditional Catholic Masses and those that are more Afrocentric and discusses how the
+            Church has changed over time to increase female participation and embrace Afrocentric
+            themes. She discusses the partnership between St. Francis Xavier and St. Thomas More
+            parishes, including their endeavors against racism and participation in political
+            events.</abstract>
+</mods>

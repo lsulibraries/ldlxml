@@ -1,93 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Cooperative Extension Oral History Project</title>
-         <subTitle>Denver Loupe oral history interview, 2014</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Winnie, Wyatt</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1975-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Loupe, Denver T., 1927-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2014</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 digital audio files</note>
-         <extent>2 hour, 8 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>11 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Cooperative Extension Oral History Project</title>
+      <subTitle>Denver Loupe oral history interview, 2014</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Winnie, Wyatt</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1975-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Loupe, Denver T., 1927-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Denver Loupe was born in 1927 in Gonzales, Louisiana, to Jack Loupe and
+            Linda Gaudin. He grew up on a farm in the Burnside community of Gonzales. During school
+            he was a member of 4-H and Future Farmers of America. He served as the first president
+            of the Ascension Parish 4-H Executive Committee. He attended Northwestern State
+            University for a year before entering the U.S. Navy. After returning from the navy,
+            Loupe returned to Northwestern State University for two more years before transferring
+            to Louisiana State University. He graduated from LSU with a degree in agriculture before
+            earning a master's degree and doctorate, also from LSU. The doctorate is in botany and
+            plant pathology. After earning his doctorate, he taught high school for three years in
+            Ascension Parish. Later he became an extension agent in St. James Parish. He also served
+            as a sugarcane specialist in St. James Parish from 1954 to 1978. During his time as a
+            sugarcane specialist he served as superintendent of the 4-H Plant Science Contest.
+            Beginning in 1972, Loupe headed the Plant Science Division of the Louisiana Extension
+            Program. In 1978 he was selected as director of Louisiana Cooperative Extension
+            Services. In the same year he established the Louisiana 4-H Foundation. He has served on
+            the National 4-H Council Board of Directors and as secretary-treasurer of the American
+            Society of Sugarcane Technologies. He has authored numerous
+            publications.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2014</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 digital audio files</note>
+      <extent>2 hour, 8 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>11 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract
            </note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Loupe, Denver T., 1927---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">4-H Youth Development Program (U.S.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Future Farmers of America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agriculture--Study and
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Loupe, Denver T., 1927---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">4-H Youth Development Program (U.S.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Future Farmers of America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agriculture--Study and
             teaching (Continuing education)--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural extension work--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">County agricultural agents--Louisiana--Saint James Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Livestock--Showing--Louisiana.</topic>
-      </subject>
-      <identifier>Mss. 4700.2384</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural extension work--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">County agricultural agents--Louisiana--Saint James Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Livestock--Showing--Louisiana.</topic>
+   </subject>
+   <identifier>Mss. 4700.2384</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2384</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/historycoopexten/Loupe_Denver_T4312_T4313.abs.pdf">Loupe provides a biography of his life, documenting his membership in 4-H and
+            Future Farmers of America during his school years, his service in the U.S. Navy,
+            graduation from Louisiana State University, and his service in the Louisiana Cooperative
+            Extension Service. The primary focus of the interview is Loupe's time in extension
+            services. He discusses his philosophy of education as an agent, field days and other
+            extension demonstrations, livestock shows and contests, and the changing technology in
+            the agricultural industry over time.</abstract>
+</mods>

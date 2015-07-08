@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>"Allen ""Al"" Danos, Jr. oral history interview, 2010"</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Donovan, Erin</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Shelby, Christina,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Danos, Allen</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1947?-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>"Allen ""Al"" Danos was born in Cut Off, La., around 1947 and attended
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>"Allen ""Al"" Danos, Jr. oral history interview, 2010"</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Donovan, Erin</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Shelby, Christina,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Danos, Allen</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1947?-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Allen ""Al"" Danos was born in Cut Off, La., around 1947 and attended
             Holy Cross High School in New Orleans. In his early twenties he joined his father, Allen
             Danos, Sr., in the family business, Danos and Curole Marine Contractors; he and his
             brother Hank took over the company in the early 1970s. Since his retirement in the early
@@ -38,66 +39,74 @@
             member of the Houma-Thibodaux Diocese, and worked to develop tourism in Port Fourchon.
             He is a practicing Catholic, and lives in Cut Off with his wife. They have four children
             and five grandchildren."</description>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>21 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>3
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>21 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>3
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Danos, Allen, Jr., 1947?---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Lafourche
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Danos, Allen, Jr., 1947?---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Louisiana--Lafourche Parish--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Oil field
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Louisiana--Lafourche Parish--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Oil field
             equipment and supplies industry--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Offshore oil field equipment
+   </subject>
+   <subject>
+      <topic authority="LoC">Offshore oil field equipment
             industry--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and trade--Social aspects--Nigeria.</topic>
-      </subject>
-      <identifier>Mss. 4700.2088</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and trade--Social aspects--Nigeria.</topic>
+   </subject>
+   <identifier>Mss. 4700.2088</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2088</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Danos_Allen_T3934.pdf">"Danos focuses largely on his professional career with Danos and Curole, discussing
+            domestic and international expansion efforts in the 1970s-1990s, with a particular focus
+            on his work in oil production in Nigeria. He discusses his interest in the ""boat"" side
+            of the business, and his activities since retirement in 2006. Danos discusses the
+            Catholic community, his home life, Cajun heritage and current culture, and his regular
+            gatherings with friends."</abstract>
+</mods>

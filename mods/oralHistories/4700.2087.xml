@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>Clyde Orgeron oral history interview, 2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Donovan, Erin</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Shelby, Christina,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Orgeron, Clyde</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Clyde Orgeron, b. 1947, is a Valentine, Louisiana native, the son of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>Clyde Orgeron oral history interview, 2010</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Donovan, Erin</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Shelby, Christina,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Orgeron, Clyde</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1947-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Clyde Orgeron, b. 1947, is a Valentine, Louisiana native, the son of
             Augustin Fortunate Orgeron and Nola Barrilleaux Orgeron, who were farmers. After
             graduating from public high school in 1966, he worked for Freeport Sulphur Company in
             Port Sulphur, Louisiana, and was then transferred to a rig off of Grand Isle, Louisiana.
@@ -40,76 +41,89 @@
             Port. Orgeron married in 1968; he and his wife had two children. He is a practicing
             Catholic. In his retirement he lives in Cut Off, Louisiana, and Magnolia,
             Mississippi.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>56 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>4 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>5
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>56 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>4 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>5
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Orgeron, Clyde, 1947---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic Church--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Freeport Sulphur Company--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana Offshore Oil Port--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajun
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Orgeron, Clyde, 1947---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic Church--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Freeport Sulphur Company--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana Offshore Oil Port--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajun
             French dialect--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Louisiana--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Louisiana--Social life and
             customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Offshore oil industry--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and
+   </subject>
+   <subject>
+      <topic authority="LoC">Offshore oil industry--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and
             trade--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and
             customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2087</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2087</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewer in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2087</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Orgeron_Clyde_T3933.pdf">"Orgeron discusses his childhood, growing up on a farm in Valentine, Louisiana. He
+            recounts his early career at the Freeport Sulphur Company, which eventually moved him
+            from Port Sulphur, Louisiana, to a 7/7 schedule on an offshore rig closer to Bayou
+            Lafourche. He took correspondence courses and advanced in the company; during his time
+            on land he and his wife were busy building a new home and starting a family. Orgeron
+            discusses how he came to work for the Louisiana Offshore Oil Port [LOOP]. He shares his
+            religious beliefs; as a practicing Catholic he goes to church every Sunday and is
+            involved in religious service groups. He discusses life on the bayou, both in regards to
+            flooding, how things were when he was a boy, and what has changed. Orgeron sings the
+            Cajun song ""Allons Danser Colinda"" and discusses his recent trip to Nova Scotia and
+            his connection with the people there."</abstract>
+</mods>

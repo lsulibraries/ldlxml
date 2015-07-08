@@ -1,73 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Atchafalya Basin Oral History Project</title>
-         <subTitle>Aldridge Leroy McMurray Sr. oral history interview, 1979</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Hebert, Sue.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>McMurray, Aldridge Leroy</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1979</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>74 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">McMurray, Aldridge Leroy, Sr.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">River boats--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Levees--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Pilots and pilotage--Mississippi River.</topic>
-      </subject>
-      <identifier>Mss. 4700.0043</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Atchafalya Basin Oral History Project</title>
+      <subTitle>Aldridge Leroy McMurray Sr. oral history interview, 1979</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Hebert, Sue.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>McMurray, Aldridge Leroy</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Master pilot on the Mississippi River and other rivers from the
+            1920s-1970s. Resident of Bayou Sorrel and Plaquemine, Louisiana, and an employee of
+            Standard Oil, later Esso.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1979</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>74 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">McMurray, Aldridge Leroy, Sr.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">River boats--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Levees--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Pilots and pilotage--Mississippi River.</topic>
+   </subject>
+   <identifier>Mss. 4700.0043</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and/or his heirs and Louisiana State University in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0043</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/suehebert/McMurray_AL.pdf">Interview deals with McMurray's early life and career as a river boat pilot on the
+            Mississippi. Focus dates of the interview are 1904-1967. McMurray recalls his father's
+            farming on Chopin Plantation, getting to school, the flood of 1927, and work on
+            government survey boats on the Mississippi.; He describes the government's methods of
+            controlling the River, life on the boats, and getting a pilot's license. Also mentioned
+            is the debate regarding levees and spillways. The interview was conducted as part of a
+            local history project for the Plaquemine area.</abstract>
+</mods>

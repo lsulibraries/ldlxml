@@ -1,103 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Dr. Vance Byars with Nell Byars oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Byars, Nell</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Foster, Adele</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1925-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Byars, Vance</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1923-2002</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Dr. Vance Byars (1923-2002) was born in Shreveport, La., and raised in
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Dr. Vance Byars with Nell Byars oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Byars, Nell</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Foster, Adele</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1925-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Byars, Vance</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1923-2002</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Dr. Vance Byars (1923-2002) was born in Shreveport, La., and raised in
             several places in East Texas while following his father's oilfield work. He attended
             Louisiana State University in 1939 and enlisted in the National Guard at age 16. He
             served in the Army during World War II and remained in the Reserves until
             1987.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>45 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>38
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>45 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>38
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Byars, Vance, 1923-2002--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Byars, Nell, 1925---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Middleton,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Byars, Vance, 1923-2002--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Byars, Nell, 1925---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Middleton,
             Troy H.--(Troy Houston), 1889-1976.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Oil fields--Texas.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Holocaust, Jewish
+   </subject>
+   <subject>
+      <topic authority="LoC">Oil fields--Texas.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Holocaust, Jewish
             (1939-1945)--Germany.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Atrocities--Germany.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">H{uml}urtgen Forest,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Atrocities--Germany.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">H{uml}urtgen Forest,
             Battle of, Germany, 1944.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ludendorff-Br{uml}ucke (Remagen, Germany)</topic>
-      </subject>
-      <identifier>Mss. 4700.0831</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Ludendorff-Br{uml}ucke (Remagen, Germany)</topic>
+   </subject>
+   <identifier>Mss. 4700.0831</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0831</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Byars_Vance&amp;Nell.abs.pdf">Byars discusses his early life and father's work, but primarily describes his
+            service during World War II. He discusses General Troy Middleton, the battle and
+            collapse of the Remagen bridge, German atrocities against Jews and American soldiers,
+            and the Battle of H{uml}urtgen Forest.</abstract>
+</mods>

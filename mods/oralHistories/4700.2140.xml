@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>Evelyn Cheramie Kuyrkendall oral history interview, 2010</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Delgado, Natalie,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Kuyrkendall, Evelyn Cheramie</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1950?-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Evelyn Cheramie Kuyrkendall was born in Galliano, Louisiana, around 1950.
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>Evelyn Cheramie Kuyrkendall oral history interview, 2010</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Delgado, Natalie,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Kuyrkendall, Evelyn Cheramie</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1950?-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Evelyn Cheramie Kuyrkendall was born in Galliano, Louisiana, around 1950.
             She attended the local public school from age six to eleven, then in 1961 moved to Baton
             Rouge to attend the Louisiana School for the Deaf, from which she graduated in 1968.
             After working as a flower delivery girl in Bayou Lafourche, in 1974 she moved to Las
@@ -34,81 +34,94 @@
             Flower Shop. She continues to do floral designs for special events, and serves as a
             house mother at the Louisiana School for the Deaf. Her daughter Jennifer interpreted
             most of the interview.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>51 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>4 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>6
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>51 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>4 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>6
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Kuyrkendall, Evelyn Cheramie, 1950?---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Kuyrkendall, Evelyn Cheramie, 1950?---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic
             Church--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana School for the Deaf.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Deaf--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Deaf--Education--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Deaf--Employment--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Florists--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Betsy,
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana School for the Deaf.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Deaf--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Deaf--Education--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Deaf--Employment--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Florists--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Betsy,
             1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shrimp industry--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Galliano (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Shrimp industry--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Galliano (La.)--Social life and
             customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
-      </subject>
-      <identifier>Mss. 4700.2140</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
+   </subject>
+   <identifier>Mss. 4700.2140</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2140</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/Kuyrkendall_Evelyn_T3932.pdf">Kuyrkendall grew up in Galliano, Louisiana, a small town in Lafourche Parish. She
+            discusses her childhood on the bayou, which she enjoyed, although she faced a few
+            challenges because of her hearing impairment (e.g., she couldn't hear threats, like
+            snakes, approaching). She recalls the transition of moving to the Louisiana School for
+            the Deaf in 1961. Kuyrkendall discusses her professional life: first at a shrimp
+            factory, then at a grocery store, and then her career as a florist, which she discusses
+            at length, including her year working in Las Vegas, getting her professional license,
+            and the floral shops she helped establish. Kuyrkendall discusses her Catholic faith, and
+            talks about the challenges of deaf people today, especially in regards to professional
+            opportunities. She also shares her recollections of Hurricane Betsy (1965), which
+            destroyed her family's home.</abstract>
+</mods>

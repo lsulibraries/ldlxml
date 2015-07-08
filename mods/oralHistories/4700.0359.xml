@@ -1,105 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Oscar G. Richard oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Besch, Everett Dickman</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Coco, Quinn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Richard, Oscar</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1921-2013</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Oscar G. Richard attended LSU in the late 1930s. He served in the Army
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Oscar G. Richard oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Besch, Everett Dickman</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Coco, Quinn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Richard, Oscar</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1921-2013</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Oscar G. Richard attended LSU in the late 1930s. He served in the Army
             Air Corps during World War II and was held as a prisoner of war in Germany after being
             shot down. He returned to Baton Rouge after the war where he became head of the LSU
             Office of Public Relations.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">4 sound cassettes</note>
-         <extent>5</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>326
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">4 sound cassettes</note>
+      <extent>5</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>326
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Richard, Oscar, 1921-2013--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Middleton, Troy H.--(Troy Houston),
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Richard, Oscar, 1921-2013--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Middleton, Troy H.--(Troy Houston),
             1889-1976.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army.--Air Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army.--Air Corps.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College.--Office of Public Relations.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University and Agricultural and Mechanical College--Public relations.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University and Agricultural and Mechanical College--Presidents.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University System.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Prisoners and prisons, German.</topic>
-      </subject>
-      <identifier>Mss. 4700.0359</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Prisoners and prisons, German.</topic>
+   </subject>
+   <identifier>Mss. 4700.0359</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and heirs and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0359</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Richard_Oscar_4700.0359.abs.pdf">Richard discusses his attendance at LSU; his service and imprisonment during World
+            War II; the work of the Office of Public Relations; the office's role in several campus
+            events, developments, and incidents; and the effect of the creation of the LSU System on
+            the office and the wider campus. Richard also evaluates several LSU chancellors,
+            especially Troy Middleton.</abstract>
+</mods>

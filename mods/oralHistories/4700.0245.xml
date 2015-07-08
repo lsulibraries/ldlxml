@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Integration at LSU</title>
-         <subTitle>Alexander Pierre Tureaud Jr. oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Emanuel-Wallace, Rachel,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Tureaud, Alexander Pierre</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1935</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Alexander Pierre Tureaud Jr. is one of six children born to Alexander
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Integration at LSU</title>
+      <subTitle>Alexander Pierre Tureaud Jr. oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Emanuel-Wallace, Rachel,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Tureaud, Alexander Pierre</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1935</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Alexander Pierre Tureaud Jr. is one of six children born to Alexander
             Pierre Tureaud Sr. and Lucille Dejoie Tureaud. He attended Joseph S. Clark High School
             in New Orleans and attempted to enroll at Louisiana State University in 1953, but his
             application was denied because he was African American. His father, a prominent civil
@@ -32,82 +32,90 @@
             He attended LSU for six weeks until the ruling was overturned and he was forced to leave
             the university. He finished college at Xavier University and became an educator in New
             York.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 7 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 7 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript
            </note>
-         <extent>32 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Tureaud, Alexander Pierre, 1935 or 6---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tureaud, Alexander Pierre,
+      <extent>32 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Tureaud, Alexander Pierre, 1935 or 6---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tureaud, Alexander Pierre,
             1899-1972.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American college students--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">African American college students--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             students--Louisiana--Baton Rouge--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             integration--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Civil rights--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Civil rights--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Segregation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Segregation--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             Americans--Louisiana--Baton Rouge--Social conditions--To 1964.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Civil rights
+   </subject>
+   <subject>
+      <topic authority="LoC">Civil rights
             movements--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0245</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0245</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0245</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/integration/Tureaud_A.P._Jr._T375.abs.pdf">Tureaud discusses the six weeks he spent as an undergraduate at Louisiana State
+            University in 1953 including his father's legal proceedings to have him admitted, the
+            treatment he faced from students and professors, his disappointment in missing out on a
+            typical college experience, and his loneliness and isolation while at LSU. He recounts
+            many specific instances of racism, harassment, and discrimination, but also discusses
+            some positive moments.</abstract>
+</mods>

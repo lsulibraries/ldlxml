@@ -1,85 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Four Corners, Louisiana, Oral History Project</title>
-         <subTitle>Louis Comeaux oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Patrick, Adrienne</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1954-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Comeaux, Louis</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1911-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Retired sugarcane sharecropper and life-long resident of Four Corners, an
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Four Corners, Louisiana, Oral History Project</title>
+      <subTitle>Louis Comeaux oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Patrick, Adrienne</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Comeaux, Louis</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1911-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Retired sugarcane sharecropper and life-long resident of Four Corners, an
             unincorporated community south of Franklin, Louisiana.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>45 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>3 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Sugarcane--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugar growing--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugar--Manufacture and
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>45 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>3 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Sugarcane--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugar growing--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugar--Manufacture and
             refining--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cooking, Cajun</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural laborers--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Mary
+   </subject>
+   <subject>
+      <topic authority="LoC">Cooking, Cajun</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural laborers--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Mary
             Parish (La.)--Social conditions.</topic>
-      </subject>
-      <identifier>Mss. 4700.0744</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0744</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0744</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/adriennelacour/Comeaux_Louis_T1080.abs.pdf">The interview records recollections of Comeaux's childhood as the son of a cane
+            farmer. He recalls his work in an Avery Island salt mine; farming as a sharecropper; the
+            routine of sugarcane planting and harvest; cane syrup production; farm labor; early
+            transportation; traditional Cajun foods including couche-couche and cracklins; the
+            boucherie; and social conditions in Four Corners.</abstract>
+</mods>

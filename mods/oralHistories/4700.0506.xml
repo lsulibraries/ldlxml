@@ -1,90 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Max Goodrich oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Campbell, Melisse Lynn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Goodrich, Max</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1905-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Max Goodrich (1905-1999) graduated from the University of Minnesota and
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Max Goodrich oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Campbell, Melisse Lynn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Goodrich, Max</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1905-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Max Goodrich (1905-1999) graduated from the University of Minnesota and
             came to LSU in 1937. He taught physics before becoming dean of the Graduate School in
             1961. He played a key role in bringing to LSU in 1965 a large National Science
             Foundation Development Grant that changed the complexion of the mathematics and physical
             science departments. He retired in 1973.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>46
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>46
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Goodrich, Max, 1905-1999--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Taylor, Cecil Grady, 1909-1999.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Goodrich, Max, 1905-1999--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Taylor, Cecil Grady, 1909-1999.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University and Agricultural and Mechanical College.--Dept. of Physics.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana
             State University (Baton Rouge, La.).--Graduate School.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Electrons--Scattering.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Induced
+   </subject>
+   <subject>
+      <topic authority="LoC">Electrons--Scattering.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Induced
             radioactivity.</topic>
-      </subject>
-      <identifier>Mss. 4700.0506</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0506</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0506</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Goodrich_Max_T726.abs.pdf">Goodrich discusses the LSU Physics Department, his research in electron scattering
+            in gases and artificial radioactivity, his tenure as dean of the Graduate School, and
+            his friendship with Chancellor Cecil Taylor.</abstract>
+</mods>

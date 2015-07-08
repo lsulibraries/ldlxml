@@ -1,101 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Richard E. Ammon Jr. oral history interview, 1999</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Pattillo, Laura Grace</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Ammon, Richard E.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1999</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 14 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Richard E. Ammon Jr. oral history interview, 1999</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Pattillo, Laura Grace</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1970-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Ammon, Richard E.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Richard E. Ammon Jr. was born in Richmond, Ind. He joined the U.S. Navy
+            in January 1955 after graduating from high school. Ammon spent the next 20 years serving
+            on a dozen Navy ships, sailing around the world several times over. One of his longest
+            assignments was with the U.S.S. Kidd from 1959 to 1963. He retired in December 1974 and
+            was residing in Winter Park, Fla., at the time of this interview.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1999</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 14 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript
            </note>
-         <extent>48 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Ammon, Richard E., Jr.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kidd, Isaac C.--(Isaac Campbell), 1919-1999.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Navy--Sea life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kidd (Destroyer)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bache (Destroyer)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">McCaffery
+      <extent>48 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Ammon, Richard E., Jr.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Kidd, Isaac C.--(Isaac Campbell), 1919-1999.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Navy--Sea life.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Kidd (Destroyer)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bache (Destroyer)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">McCaffery
             (Destroyer)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Destroyers (Warships)--United States--Maintenance and repair.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Port
+   </subject>
+   <subject>
+      <topic authority="LoC">Destroyers (Warships)--United States--Maintenance and repair.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Port
             cities--Mediterranean Region.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Salvage--Greece--Rhodes.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War, 1961-1975--Naval
+   </subject>
+   <subject>
+      <topic authority="LoC">Salvage--Greece--Rhodes.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War, 1961-1975--Naval
             operations, American.</topic>
-      </subject>
-      <identifier>Mss. 4700.1135</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1135</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1135</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Ammon_Richard_T1661.abs.pdf">Ammon discusses his 20 years of service with the U.S. Navy on twelve different
+            ships. He talks at length about his time on the U.S.S. Kidd, the U.S.S. Bache, and the
+            U.S.S. McCaffery. Ammon describes the poor condition of the U.S.S. Bache, the challenge
+            of repairing it, its sinking while anchored off Rhodes in 1968, and the work required to
+            salvage it. He also describes the relations among sailors aboard the U.S.S. McCaffery
+            during the Vietnam War.</abstract>
+</mods>

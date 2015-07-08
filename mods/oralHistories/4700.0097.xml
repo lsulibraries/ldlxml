@@ -1,83 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Robert H. Barrow oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Soderbergh, Peter A.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Barrow, Robert H.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">10 sound cassettes</note>
-         <extent>14 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>509
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Robert H. Barrow oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Soderbergh, Peter A.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Barrow, Robert H.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Commandant U. S. Marine Corps, Ret.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">10 sound cassettes</note>
+      <extent>14 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>509
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">United States.--Marine Corps--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Marine Corps--Recruiting,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">United States.--Marine Corps--History.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Marine Corps--Recruiting,
             enlistment, etc.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Marine Corps--Officers.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Marine Corps--Officers.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Campaigns--China--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Korean War,
+   </subject>
+   <subject>
+      <topic authority="LoC">Korean War,
             1950-1953--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War, 1961-1975--Personal narratives,
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War, 1961-1975--Personal narratives,
             American.</topic>
-      </subject>
-      <identifier>Mss. 4700.0097</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0097</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0097</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Barrow_Robert.abs.pdf">Interview discusses Robert H. Barrow's life and experiences while serving in the
+            Marine Corps from 1941 to his appointment as Commandant of the Marine Corps in 1978.
+            Topics include the following in chronological order: his family and educational
+            background in St. Francisville, Louisiana; life as a student at Louisiana State
+            University, Baton Rouge; the decision to join the Marine Corps following Pearl Harbor;
+            service in World War II in China; downsizing of the Corps following the war; his service
+            in the Korean War; the liberation of Seoul, Korea; general involvement in the Korean War
+            (Hill 1081, Battles of Hungnam, Pusan, Peleliu); his marriage and assignments following
+            the Korean War; his service in the Vietnam War; strategy, warfare, and tactics in
+            Vietnam; assignment to Parris Island; service as Deputy Chief of Staff of Manpower;
+            assignment and work as Commanding General of Fleet Marine Forces Atlantic until 1978;
+            and his apppointment and work as Commandant until his retirement in 1983.; Additionally,
+            topical subjects include Marines and married life; necessary qualities for a leader;
+            operations in Laos; recruit training reforms; Marine discipline; Ronald Reagan as
+            President; drug problems in the military; the image of the Marine Corps; the role of
+            women in the Corps; and the continued need of the Marines and profile of the Corps in
+            1992-1993.</abstract>
+</mods>

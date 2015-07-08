@@ -1,111 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Shadows on the Teche Oral History Project</title>
-         <subTitle>Steele Burden oral history interview, 1978</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Cox, Robert Ray.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Burden, Steele</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1900-1995</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Steele Burden worked for the city of Baton Rouge and LSU initially as a
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Shadows on the Teche Oral History Project</title>
+      <subTitle>Steele Burden oral history interview, 1978</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Cox, Robert Ray.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Burden, Steele</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1900-1995</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Steele Burden worked for the city of Baton Rouge and LSU initially as a
             gardener and later as a landscape architect. He played a pivotal role in the founding
             and development of the LSU Rural Life History Museum at Louisiana State University,
             Baton Rouge, La., by donating the museum's site, Windrush Plantation, his family's home.
             Burden was interviewed here because of his association with William Weeks Hall and his
             familiarity with the gardens of the Shadows-on-the-Teche in the late 1930s and
             40s.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1978</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 4 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript
+   </name>
+   <originInfo>
+      <dateCreated>1978</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 4 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript
            </note>
-         <extent>39 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Burden, Steele, 1900-1995--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hall, William Weeks, 1894-1958.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Weeks,
+      <extent>39 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Burden, Steele, 1900-1995--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hall, William Weeks, 1894-1958.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Weeks,
             David, 1786-1834.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">McIlhenny, Edward Avery, 1872-1949.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Koch, Richard, 1889-1971.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Wilson, Samuel, 1911-1993.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Knatt, J. Clement.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">National Trust for Historic Preservation
+   </subject>
+   <subject>
+      <topic authority="LoC">McIlhenny, Edward Avery, 1872-1949.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Koch, Richard, 1889-1971.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Wilson, Samuel, 1911-1993.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Knatt, J. Clement.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">National Trust for Historic Preservation
             in the United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gardens--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Shadows on the Teche Plantation (La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Avery
+   </subject>
+   <subject>
+      <topic authority="LoC">Gardens--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Shadows on the Teche Plantation (La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Avery
             Island (La.)</topic>
-      </subject>
-      <identifier>Mss. 4700.0004</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0004</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0004</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/robertcox/Burden_Steele_T514.pdf">Robert Ray Cox conducted this interview and others as part of his thesis research
+            on William Weeks Hall and the gardens of the Shadows-on-the-Teche plantation in New
+            Iberia, Louisiana. In this interview, Steele Burden describes his relationship with
+            William Weeks Hall, the great-grandson of David Weeks, the builder of the Shadows. He
+            speaks about Mr. Hall's personality and involvement in preserving the house and gardens.
+            He also recollects the features of the gardens and outdoor spaces, the types of plants
+            used, and the location of certain trees and plants on the grounds.</abstract>
+</mods>

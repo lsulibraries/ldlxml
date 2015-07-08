@@ -1,94 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Women at LSU</title>
-         <subTitle>Ellen Bryan Moore oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Hebert, Mary J.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Moore, Ellen Bryan</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1912-2000</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Ellen Bryan Moore was an LSU alumna, a member of the Women's Army Corps
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Women at LSU</title>
+      <subTitle>Ellen Bryan Moore oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Hebert, Mary J.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Moore, Ellen Bryan</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1912-2000</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Ellen Bryan Moore was an LSU alumna, a member of the Women's Army Corps
             during World War II, and former Register of State Lands.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>3</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>159
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>3</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>159
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Moore, Ellen Bryan, 1912-2000--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College.--University
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Moore, Ellen Bryan, 1912-2000--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Long, Huey Pierce, 1893-1935.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical College.--University
             Demonstration High School.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army.--Women's Army Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Prisons--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Prison wardens--Louisiana--Baton Rouge--Family
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army.--Women's Army Corps.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Prisons--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Prison wardens--Louisiana--Baton Rouge--Family
             relationships.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Depressions--1929--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Political
+   </subject>
+   <subject>
+      <topic authority="LoC">Depressions--1929--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Political
             campaigns--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Land titles--Registration and transfer--Louisiana.</topic>
-      </subject>
-      <identifier>Mss. 4700.0537</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Land titles--Registration and transfer--Louisiana.</topic>
+   </subject>
+   <identifier>Mss. 4700.0537</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0537</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/women/Moore_Ellen_T776_T777_T801.abs.pdf">Moore discusses her early life growing up in the warden's house of the state
+            penitentiary, her attendance at LSU's University Demonstration High School and later at
+            the university, teaching at Baton Rouge elementary schools and the Depression's impact
+            on that area, her service as a recruiter for the Women's Army Corps, her political
+            career, campaigning, Huey Long, and her work as Register of State Lands.</abstract>
+</mods>

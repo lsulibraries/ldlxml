@@ -1,120 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Hurricane Betsy Survivors Oral History Project</title>
-         <subTitle>Dolores D. Parker oral history interview, 2003</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Parker, Raymond</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1958-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Mwendo, Nilima,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Parker, Dolores D., 1937-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2003</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 34 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>3 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hurricane Betsy Survivors Oral History Project</title>
+      <subTitle>Dolores D. Parker oral history interview, 2003</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Parker, Raymond</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Mwendo, Nilima,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Parker, Dolores D., 1937-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Dolores D. Parker was born in Bayou Goula, La. The daughter of a
+            minister, she grew up moving around the state. She graduated from Clark High School in
+            New Orleans then earned a B.A. degree in elementary education from Dillard. She taught
+            in New Orleans public schools for 32 years and taught reading in an adult education
+            program. She is the mother of four children: Raymond, Raynelle, Raynette, and Raynard.
+            Raymond, who also contributes to this interview, is her oldest
+            child.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2003</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 34 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>3 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript
            </note>
-         <extent>91 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Parker, Dolores D., 1937---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Parker, Raymond, 1958---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American neighborhoods--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American
+      <extent>91 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Parker, Dolores D., 1937---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Parker, Raymond, 1958---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American neighborhoods--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American
             teachers--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--New Orleans--Social
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--New Orleans--Social
             life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Disaster
+   </subject>
+   <subject>
+      <topic authority="LoC">Disaster relief--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Disaster
             victims--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Evacuation of civilians--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Levees--Louisiana--New
+   </subject>
+   <subject>
+      <topic authority="LoC">Evacuation of civilians--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricanes--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Levees--Louisiana--New
             Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Public schools--Louisiana--New Orleans.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ninth Ward (New Orleans,
+   </subject>
+   <subject>
+      <topic authority="LoC">Public schools--Louisiana--New Orleans.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ninth Ward (New Orleans,
             La.)</topic>
-      </subject>
-      <identifier>Mss. 4700.1688</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1688</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewer and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1688</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/hurricanebetsy/Parker_Dolores_T3342.abs.pdf">Parker describes her childhood in various cities in Louisiana, attending her
+            segregated African-American high school in New Orleans in the 1950s, her positions at
+            various schools in New Orleans in the 1960s through 1991, raising four children on her
+            own after she divorced her husband, the Lower Ninth Ward neighborhood before and after
+            Hurricane Betsy, her family's experiences during the hurricane, and their rebuilding
+            process.</abstract>
+</mods>

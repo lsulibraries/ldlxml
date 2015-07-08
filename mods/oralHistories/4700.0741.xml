@@ -1,101 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Brusly Centennial Oral History Project</title>
-         <subTitle>Evanna Jackson-Hodges oral history interview, 1996</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Bourgeois, Joanne</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Hodges, Evanna</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1948-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Evanna Jackson-Hodges was born in Brusly, La., in 1948 to Evanna and
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Brusly Centennial Oral History Project</title>
+      <subTitle>Evanna Jackson-Hodges oral history interview, 1996</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Bourgeois, Joanne</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Hodges, Evanna</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Evanna Jackson-Hodges was born in Brusly, La., in 1948 to Evanna and
             Ferman Jackson. After attending segregated schools through the eleventh grade,
             Jackson-Hodges enrolled in the integrated Brusly Public School System. She was the only
             African American to attend Brusly High School in 1966. Jackson-Hodges graduted from
             Southern University in 1970. She moved to California and taught in the Stockton Unified
             School District for over 27 years. She later received a M.S. degree in educational
             administration.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1996</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>55
+   </name>
+   <originInfo>
+      <dateCreated>1996</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>55
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Jackson-Hodges, Evanna, 1948---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cohn High School (Port Allen, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Brusly High School (Brusly, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Education--Louisiana--West Baton
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Jackson-Hodges, Evanna, 1948---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cohn High School (Port Allen, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Brusly High School (Brusly, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Education--Louisiana--West Baton
             Rouge Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Public schools--Louisiana--West Baton Rouge Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Segregation in
+   </subject>
+   <subject>
+      <topic authority="LoC">Public schools--Louisiana--West Baton Rouge Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Segregation in
             education--Louisiana--West Baton Rouge Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">School integration--Louisiana--West
+   </subject>
+   <subject>
+      <topic authority="LoC">School integration--Louisiana--West
             Baton Rouge Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Brusly (La.)--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">West Baton Rouge Parish
+   </subject>
+   <subject>
+      <topic authority="LoC">Brusly (La.)--History--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">West Baton Rouge Parish
             (La.)--History--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0741</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0741</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewer and interviewee and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0741</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/brusly/Jackson-Hodges_Evanna_T1075.abs.pdf">Jackson-Hodges discusses her family, growing up in Brusly, and attending segregated
+            schools in Brusly and Cohn High School in Port Allen. She primarily discusses attending
+            Brusly High School in 1966, including her academic work and reception by white students,
+            teachers, and policemen. Jackson-Hodges also describes her attendance at Southern
+            University and teaching in a middle school for the Stockton Unified School
+            District.</abstract>
+</mods>

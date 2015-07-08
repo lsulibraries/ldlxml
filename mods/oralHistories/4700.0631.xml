@@ -1,102 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: History of the School</title>
-         <subTitle>Adolph Jerome Byrd oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Jones, Roderick,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Byrd, Adolph Jerome</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1922-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Adolph Jerome Byrd was born January 22, 1922, in Shreveport, La. He
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: History of the School</title>
+      <subTitle>Adolph Jerome Byrd oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Jones, Roderick,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Byrd, Adolph Jerome</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1922-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Adolph Jerome Byrd was born January 22, 1922, in Shreveport, La. He
             attended McKinley High School in Baton Rouge, La., from 1935 to 1942, often dropping out
             to work and support himself financially. Byrd attended Louisiana Negro Normal and
             Industrial School (now Grambling State University) beginning in 1942, but left to serve
             in World War II. He returned there after the war and earned a degree in elementary
             education in 1949. Byrd later completed master and doctoral degrees and taught in
             Louisiana for over 30 years.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>47 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>26
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>47 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>26
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Byrd, Adolph Jerome, 1922---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Robinson, Eddie.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">McKinley High School
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Byrd, Adolph Jerome, 1922---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Robinson, Eddie.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">McKinley High School
             (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Education (Secondary)--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American high school students--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">High school student
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Education (Secondary)--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American high school students--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">High school student
             activities--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">High school dropouts--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Child rearing--Social aspects--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Discipline of children--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">High school dropouts--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Child rearing--Social aspects--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Discipline of children--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Criminals--Rehabilitation--United States.</topic>
-      </subject>
-      <identifier>Mss. 4700.0631</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Criminals--Rehabilitation--United States.</topic>
+   </subject>
+   <identifier>Mss. 4700.0631</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0631</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/1_history/Byrd_Adolph_T915.pdf">Byrd discusses his attendance at McKinley High School, including academics, sports,
+            activities, influential teachers, older students, and graduates; his struggle to
+            complete high school because of the need to drop out for work; the role of the community
+            in raising children; disciplinary action he and other children received when they
+            misbehaved; the lack of discipline and respect among young people today; and the need to
+            rehabilitate nonviolent criminals.</abstract>
+</mods>

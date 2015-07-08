@@ -1,90 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Sororities at LSU</title>
-         <subTitle>Carolyn Steinmuller oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Campbell, Melisse.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Steinmuller, Carolyn</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1927-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Steinmuller was born on 15 August 1927 in Opelousas, La. In 1947,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Sororities at LSU</title>
+      <subTitle>Carolyn Steinmuller oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Campbell, Melisse.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Steinmuller, Carolyn</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1927-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Steinmuller was born on 15 August 1927 in Opelousas, La. In 1947,
             Steinmuller pledged Delta Gamma sorority, and she graduated in 1949. After several years
             of teaching, she returned to LSU to earn her masters degree. She married Al Steinmuller
             in the 1950s and became very active in Delta Gamma, serving as alumni president and
             house corporation president during the construction of the sorority's house on the LSU
             campus.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>40 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>40 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Students--Societies, etc.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Delta Gamma.--Gamma Zeta Chapter (Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Delta Gamma.--Gamma Zeta Chapter (Louisiana State
             University)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Greek letter societies--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women--Louisiana--Baton
             Rouge--Societies and clubs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women college students--United States--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Women college students--United States--Social life and
             customs--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Social life and customs--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0319</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0319</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0319</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/sororities/Steinmuller_Carolyn_T448.abs.pdf">Steinmuller discusses her family background and her decision to attend LSU. She
+            also details the procedures and her experiences with assisting to build the Delta Gamma
+            sorority house. Further, Steinmuller reminisces about annual rush parties, the New
+            Orleans women who joined the sorority, the quality of education at LSU, and the bringing
+            of The Art of the Eye exhibit to Baton Rouge.</abstract>
+</mods>

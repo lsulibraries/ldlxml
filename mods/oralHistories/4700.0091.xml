@@ -1,95 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Religion at LSU</title>
-         <subTitle>Charles Wood oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Woggon, Karla.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Wood, Charles</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1932-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Wood was born on 21 August 1932 in Syracuse, NY. He earned a bachelor of
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Religion at LSU</title>
+      <subTitle>Charles Wood oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Woggon, Karla.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Wood, Charles</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1932-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Wood was born on 21 August 1932 in Syracuse, NY. He earned a bachelor of
             arts in 1954 from Cornell University then spent two years in the army. In 1966 he
             received a masters of divinity from Virginia Theological Seminary and, in 1973,
             completed a masters in sacred theology and Old Testament at Nashota House Seminary in
             Nashota, Wi. He began work as the chaplain of the St. Alban's Episcopal Church, which is
             located on the LSU campus, in 1970.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>4 hours, 15 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>141
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>4 hours, 15 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>141
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Episcopal Church--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Alban's Episcopal Church (Baton
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Episcopal Church--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Alban's Episcopal Church (Baton
             Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--Students.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University (Baton Rouge, La.)--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Episcopalians--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Student protesters--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Church history.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Episcopalians--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Student protesters--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Church history.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton
             Rouge (La.)--Social life and customs--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0091</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0091</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0091</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/religion/Wood_Charles_T114_T161_T162.abs.pdf">Wood discusses his family and educational background. He recounts his decision to
+            become a minister and the student activism at LSU in the 1970s, including his reasons
+            for supporting student protesters. Wood also reminisces about his work as a counselor at
+            the medical health center, incidents he has dealt with throughout his career, and his
+            duties as pastor of St. Albans, including his day-to-day routine.</abstract>
+</mods>

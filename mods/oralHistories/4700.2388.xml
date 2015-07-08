@@ -1,95 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Cooperative Extension Oral History Project</title>
-         <subTitle>Dr. Paul Coreil oral history interview, 2014</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Caminita, Cristina M.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Coreil, Paul D. </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2014</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 40 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>14 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Cooperative Extension Oral History Project</title>
+      <subTitle>Dr. Paul Coreil oral history interview, 2014</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Caminita, Cristina M.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Coreil, Paul D. </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Paul Dean Coreil was born on September 9, 1955, in Ville Platte,
+            Louisiana. He is the son of Armand Bertrand Coreil and Juanita Smith. He grew up in
+            Ville Platte, where he attended high school at Sacred Heart Catholic School. In 1976 he
+            graduated with a B.S. in zoology from the University of Southwestern Louisiana. He later
+            attended Louisiana State University where he received a master's degree in wildlife
+            management in 1984 and a Ph.D. in vocational education in 1995. Coreil was involved in
+            the Louisiana Cooperative Extension Service for most of his career. In 1978 he was hired
+            as an assistant area agent for wildlife and fisheries. He also served as Parish Chairman
+            of Cameron Parish LCES, associate specialist of wetland and coastal resources in the
+            state LCES office, and as assistant director of the Louisiana Cooperative Extension
+            Service. In 2001 he was appointed Vice Chancellor and Director of Louisiana Cooperative
+            Extension Service. He retired from LCES in September 2013 and served for a short time as
+            the interim chancellor of LSU-Alexandria.</description>
+   </name>
+   <originInfo>
+      <dateCreated>2014</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 40 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>14 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract
            </note>
-         <extent>4 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Coreil, Paul D.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural extension work--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural extension work--Louisiana--Cameron
+      <extent>4 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Coreil, Paul D.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana Cooperative Extension Service.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural extension work--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural extension work--Louisiana--Cameron
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cotton farmers--Louisiana--Evangeline Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Coypu--Research--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Katrina, 2005.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Rita, 2005.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ville Platte (La.)--Social life and
+   </subject>
+   <subject>
+      <topic authority="LoC">Cotton farmers--Louisiana--Evangeline Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Coypu--Research--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Katrina, 2005.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Rita, 2005.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ville Platte (La.)--Social life and
             customs--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.2388</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2388</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2388</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/historycoopexten/Coreil_Paul_T4317.abs.pdf">Coreil begins the interview by discussing his parents, his early farm life, and
+            working on a farm as a teenager. He details his job as a student worker studying nutria
+            and how that led him to a job with extension services. He describes moving to Cameron
+            Parish, establishing a sea-grant extension program, and the challenges he faced while on
+            the job. These include the Endangered Species Act of the 1970s, a time when shrimpers
+            blockaded a federal ship channel, installing new phone lines in the parish extension
+            office, and how the first computers impacted extension. He also details how farmers now
+            utilize information on the Internet vs. getting it from county agents, the devastation
+            of Hurricanes Katrina and Rita, and how Louisiana Cooperative Extension played a vital
+            role in helping to recover from the storms. He describes what it takes to be successful
+            in extension services and discusses the future of the extension model.</abstract>
+</mods>

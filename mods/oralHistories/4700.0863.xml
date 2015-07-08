@@ -1,118 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
-         <subTitle>Fred C. Matthews, Jr. and Melvin Sambo, Sr. oral history interview, 1997</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Sambo, Melvin</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Taylor, LaVada U., 1914-1999,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Matthews, Fred C., 1906-2002</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1997</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>2 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>117
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Churches</title>
+      <subTitle>Fred C. Matthews, Jr. and Melvin Sambo, Sr. oral history interview, 1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Sambo, Melvin</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Taylor, LaVada U., 1914-1999,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Matthews, Fred C., 1906-2002</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Fred C. Matthews, Jr. moved to Baton Rouge with his father in 1920. He
+            worked for Exxon for more than thirty years and was a Trustee of Magnolia Hope Baptist
+            Church. Melvin Sambo, Sr. moved with his mother to Baton Rouge in 1935. He worked at the
+            Baton Rouge Rice Mill, Exxon, the University of California Hospital in San Francisco,
+            and in the construction business in Baton Rouge. He was a Deacon of Magnolia Hope
+            Baptist Church.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>2 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>117
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Matthews, Fred C., Jr., 1906-2002--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sambo, Melvin,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Matthews, Fred C., Jr., 1906-2002--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sambo, Melvin,
             1914-1999--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Clark, Felton Grandison, 1903-1970</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Magnolia Hope Baptist Church
+   </subject>
+   <subject>
+      <topic authority="LoC">Clark, Felton Grandison, 1903-1970</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Magnolia Hope Baptist Church
             (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Civilian Conservation Corps (U.S.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Exxon Corporation--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana.--Legislature.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Public works--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American
+   </subject>
+   <subject>
+      <topic authority="LoC">Civilian Conservation Corps (U.S.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Exxon Corporation--Employees.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana.--Legislature.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Public works--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American
             churches--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American Baptists--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cemeteries--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American criminals--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">African American Baptists--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cemeteries--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American criminals--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American youth--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hope Estate Plantation (La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Race relations.</topic>
-      </subject>
-      <identifier>Mss. 4700.0863</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">African American youth--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hope Estate Plantation (La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Race relations.</topic>
+   </subject>
+   <identifier>Mss. 4700.0863</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewees and/or their heirs and Louisiana State University in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0863</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/3_churches/Matthews_Sambo_1238_1239.pdf">Matthews and Sambo discuss their work histories; public works in Baton Rouge during
+            the Depression; Fred C. Matthews, Sr., the former pastor of Magnolia Hope Baptist
+            Church; the history and activities of Magnolia Hope Baptist Church; Hope Estate
+            Plantation; race relations in Louisiana; Felton Grandison Clark, former president of
+            Southern Univesity, and his relationship with the Louisiana Legislature; Matthews' work
+            for Exxon and maintaining Baton Rouge cemeteries; the problem of black on black crime;
+            and leadership and community in African-American churches.</abstract>
+</mods>

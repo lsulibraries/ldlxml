@@ -53,12 +53,15 @@
             </extent>
         </physicalDescription>
         <typeOfResource>sound recording</typeOfResource>
+        
+        <!-- need to figure out how to add abstract (<abstract-> provides xlink:href information; <summary> provides string for abstract content-->
         <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/integration/Tureaud_A.P._Jr._T375.abs.pdf">Tureaud discusses the six weeks he spent as an undergraduate at Louisiana State
             University in 1953 including his father's legal proceedings to have him admitted, the
             treatment he faced from students and professors, his disappointment in missing out on a
             typical college experience, and his loneliness and isolation while at LSU. He recounts
             many specific instances of racism, harassment, and discrimination, but also discusses
             some positive moments.</abstract>
+        
         <subject>
             <topic>Tureaud, Alexander Pierre, 1935 or 6---Interviews.</topic>
             <topic>Tureaud, Alexander Pierre, 1899-1972.</topic>

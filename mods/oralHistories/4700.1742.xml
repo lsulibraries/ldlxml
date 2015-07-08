@@ -1,88 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Adolphe Gueymard oral history interview, 2005</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Marmande, Ann Marie,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Gueymard, Adolphe</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1913-2008</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Adolphe Gueymard was born in Carville, La., and attended Louisiana State
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Adolphe Gueymard oral history interview, 2005</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Marmande, Ann Marie,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Gueymard, Adolphe</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1913-2008</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Adolphe Gueymard was born in Carville, La., and attended Louisiana State
             University between 1930 and 1935. He was commissioned a second lieutenant in the Army
             Reserve, was called to active duty in 1942, and served in the 101st Airborne Division in
             Europe during World War II.</description>
-      </name>
-      <originInfo>
-         <dateCreated>2005</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>44 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>23
+   </name>
+   <originInfo>
+      <dateCreated>2005</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>44 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>23
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Gueymard, Adolphe, 1913-2008--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Gueymard, Adolphe, 1913-2008--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Military education--Louisiana--Baton
+   </subject>
+   <subject>
+      <topic authority="LoC">Military education--Louisiana--Baton
             Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Europe--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Europe--Personal narratives, American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Campaigns--France--Normandy--Personal narratives, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ardennes, Battle
+   </subject>
+   <subject>
+      <topic authority="LoC">Ardennes, Battle
             of the, 1944-1945--Personal narratives, American.</topic>
-      </subject>
-      <identifier>Mss. 4700.1742</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1742</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1742</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Gueymard_Adolphe_T3444.abs.pdf">Adolphe Gueymard discusses his family, his attendance and military training at
+            Louisiana State University, and his training after being called to active duty. Gueymard
+            described especially his service in Europe during the war at Normandy, France; Boekel,
+            Holland; Bastogne, Belgium; and Berchtesgaden, Germany.</abstract>
+</mods>

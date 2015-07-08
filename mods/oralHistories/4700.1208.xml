@@ -1,119 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: SGA Past Presidents</title>
-         <subTitle>Lloyd F. Love oral history interview, 1999-2000.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Abraham, Jennifer,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Love, Lloyd F., 1921-2006</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1999-2000.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">3 sound cassettes</note>
-         <extent>4 hours, 17 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>128
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: SGA Past Presidents</title>
+      <subTitle>Lloyd F. Love oral history interview, 1999-2000.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Abraham, Jennifer,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Love, Lloyd F., 1921-2006</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Lloyd F. Love was born in Monterey, La., in 1921 to Sadie White Love and
+            James Hartwell Love. He had one brother, J.H. Love Jr. Love was valedictorian of his
+            graduating class at Monterey High School and attended Louisiana State University from
+            1938 to 1942, earning a bachelor's degree in forestry. As an ROTC cadet, he was called
+            to active duty in the U.S. Army Air Corps upon graduation. He earned his wings in August
+            1943 and flew 73 missions from Sardinia in a B-26 bomber. He served the remainder of the
+            war flying out of Laughlin Field in Del Rio, Tex. After the war, Love intended to stay
+            enlisted, but changed his mind after being set up on a blind date with Ann Jackson, whom
+            he soon married. He started law school at LSU in late 1946 and served as Student Body
+            President in 1946-1947. He received his LLB and JD degrees in 1948 and began practicing
+            in Ferriday, La., that same year. Love dedicated much of his life to supporting LSU as
+            member and 1959 president of the LSU Alumni Federation, a charter member of the LSU
+            Foundation, and founder and past president of the Concordia Parish LSU Alumni
+            Association. He successfully campaigned for construction of a ring levee in Concordia
+            Parish, served as city attorney for the town of Ferriday, was active in the Rotary Club
+            and Boy Scouts of America, and was recognized by the Louisiana Bar Association for his
+            pro bono work. Love was the recipient of countless honors and awards for his military
+            achievements, his work as a lawyer, his involvement with LSU, and his civic involvement
+            in Concordia Parish and the state of Louisiana. He passed away in 2006 at age 84 and was
+            survived by his wife and four children.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1999-2000.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">3 sound cassettes</note>
+      <extent>4 hours, 17 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>128
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Love, Lloyd F., 1921-2006--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Love, Lloyd F., 1921-2006--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and
             Agricultural and Mechanical College.--Law School--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             and Agricultural and Mechanical College.--Reserve Officers Training Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">LSU Alumni
+   </subject>
+   <subject>
+      <topic authority="LoC">LSU Alumni
             Federation.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">LSU Foundation.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army Air Forces--Military life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College
+   </subject>
+   <subject>
+      <topic authority="LoC">LSU Foundation.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army Air Forces--Military life.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">College
             student government--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">College students--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Farm life--Louisiana--Monterey.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Flight training--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Levees--Louisiana--Concordia Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Military cadets--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Women
+   </subject>
+   <subject>
+      <topic authority="LoC">College students--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Farm life--Louisiana--Monterey.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Flight training--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Levees--Louisiana--Concordia Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Military cadets--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Women
             college students--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Italy--Sardinia--Aerial
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Italy--Sardinia--Aerial
             operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Concordia Parish (La.)--Politics and government--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and government--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.1208</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Concordia Parish (La.)--Politics and government--20th century.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and government--20th century.</topic>
+   </subject>
+   <identifier>Mss. 4700.1208</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1208</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/sga/Love_Lloyd_all_tapes.abs.pdf">Love recalls growing up in Monterey, La., on a 40-acre farm. He primarily discusses
+            his time at LSU as an undergraduate (1938-1942) and law school student (1946-1948),
+            going into detail about ROTC and cadet life, campus activities, athletics, women on
+            campus, tuition and scholarships, student jobs, his term as LSU Student Body President,
+            his friends and fellow students, and other topics. He discusses his military and pilot
+            training and WWII service with the U.S. Army Air Corps from 1942 to 1945. He outlines
+            his involvement with the LSU Alumni Federation, the LSU Foundation, and other
+            university-related endeavors. He talks about Concordia Parish, La., and his campaign to
+            have a levee built around the parish.</abstract>
+</mods>

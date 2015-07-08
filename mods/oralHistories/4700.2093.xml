@@ -1,120 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Bayou Lafourche Oral History Project</title>
-         <subTitle>"Augustin J. ""A.J."" LeBlanc, Jr. oral history interview, 2010"</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Smith, Courtney</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Hadley, Brooklne,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>LeBlanc, A. J. 1936-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2010</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>1 hour, 11 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>5 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bayou Lafourche Oral History Project</title>
+      <subTitle>"Augustin J. ""A.J."" LeBlanc, Jr. oral history interview, 2010"</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Smith, Courtney</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Hadley, Brooklne,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>LeBlanc, A. J. 1936-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Augustin ""A.J."" LeBlanc, was born July 9, 1936, in Lockport,
+            Louisiana, and is one of three sons of Augustin LeBlanc, Sr. He grew up speaking French
+            at home, and his house did not have electricity until after World War II. He was raised,
+            and continues to be, an observant Catholic, and education was always emphasized by his
+            parents. After high school he married and began working for Humble Oil (now Exxon), but
+            left in 1958 to study insurance marketing at University of Southwest Louisiana. He set
+            up a State Farm-affiliated practice in Larose, which grew to be very successful. He and
+            his wife have four children and a number of grandchildren, live in Larose and have a
+            camp in Leeville."</description>
+   </name>
+   <originInfo>
+      <dateCreated>2010</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>1 hour, 11 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>5 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index
            </note>
-         <extent>7 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">LeBlanc, A. J.--(Augustin J.), Jr., 1936---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Catholic
+      <extent>7 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">LeBlanc, A. J.--(Augustin J.), Jr., 1936---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Catholic
             Church--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajun French dialect--Louisiana--Lafourche
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajun French dialect--Louisiana--Lafourche
             Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cajuns--Louisiana--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Extended
+   </subject>
+   <subject>
+      <topic authority="LoC">Cajuns--Louisiana--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Extended
             families--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Families--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricanes--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Insurance--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Insurance agents--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and
+   </subject>
+   <subject>
+      <topic authority="LoC">Families--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricanes--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Insurance--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Insurance agents--Louisiana--Lafourche Parish.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and
             trade--Louisiana--Lafourche Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Larose (La.)--Economic conditions.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lockport (La.)--Social life and customs.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lafourche,
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche Parish (La.)--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Larose (La.)--Economic conditions.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lockport (La.)--Social life and customs.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Lafourche,
             Bayou (La.)--Economic conditions.</topic>
-      </subject>
-      <identifier>Mss. 4700.2093</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2093</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2093</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/bayoulafourche/LeBlanc_Augustin_J_T3939.pdf">LeBlanc discusses his French Catholic upbringing, and the importance of community,
+            family, and education in his youth. He talks about his early marriage and career with
+            Humble Oil, and about switching careers into the nascent insurance industry, in which he
+            had financial and professional success. He discusses the physical and socioeconomic
+            topography of Bayou Lafourche, talking about its changes over the past sixty years, and
+            its current physical reduction and financial inequalities. He talks about the impact of
+            hurricanes on Bayou Lafourche. He discusses his family history and his offspring. He
+            mentions his participation in a community of local French speakers who are trying to
+            preserve the language, and the importance of doing so.</abstract>
+</mods>

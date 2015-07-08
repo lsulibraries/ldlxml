@@ -1,92 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Athletics at LSU</title>
-         <subTitle>Joe Dean oral history interview, 1995, 1997.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Demarest, Fred,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Dean, Joe </namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1995, 1997.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>2</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>94
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Athletics at LSU</title>
+      <subTitle>Joe Dean oral history interview, 1995, 1997.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Demarest, Fred,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Dean, Joe </namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Joe Dean played basketball for LSU between 1948 and 1952, spent almost 20
+            years as a nationally-known television color analyst for SEC basketball, and was LSU
+            Athletic Director between 1987 and 2001.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1995, 1997.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>2</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>94
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Dean, Joe--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Dean, Joe--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and Mechanical
             College--Basketball.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Athletic Dept.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Phillips 66 Oilers (Basketball team)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">National Industrial Basketball League.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Converse
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Athletic Dept.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Phillips 66 Oilers (Basketball team)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">National Industrial Basketball League.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Converse
             (Firm)--Employees.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Basketball--Indiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Basketball--Southern States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Television
+   </subject>
+   <subject>
+      <topic authority="LoC">Basketball--Indiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Basketball--Southern States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Television
             announcing.</topic>
-      </subject>
-      <identifier>Mss. 4700.0527</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0527</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewer and heirs and Louisiana State University in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0527</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/athletics/Dean_Joe_T764_T765.abs.pdf">Dean discusses playing high school basketball in Indiana, the social life of
+            students at Louisiana State University, playing basketball at LSU and its reception by
+            the students, playing for the Phillips 66 Oilers of the National Industrial Basketball
+            League, his work for Converse and as a television color analyst for SEC basketball, and
+            his time as LSU athletic director.</abstract>
+</mods>

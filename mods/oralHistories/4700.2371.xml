@@ -1,98 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Sea Grant Coastal Change Oral Histories Project</title>
-         <subTitle>Dr. Kenneth Klaus oral history interview, 2012</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>LeBouef, Jessie,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Physical rights are retained by the LSU Libraries. Verbal consent for audio
-            use. No online use. Copyright is retained by interviewer and interviewee in accordance
-            with U.S. copyright laws.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>2012</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 digital audio file</note>
-         <extent>56 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>27
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Sea Grant Coastal Change Oral Histories Project</title>
+      <subTitle>Dr. Kenneth Klaus oral history interview, 2012</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>LeBouef, Jessie,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="corporate">
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>2012</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 digital audio file</note>
+      <extent>56 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>27
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Klaus, Kenneth Sheldon, 1952---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Coast changes--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Coastal
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Klaus, Kenneth Sheldon, 1952---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Coast changes--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Coastal
             animals--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Andrew, 1992--Personal narratives.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Jazz--Louisiana--History and criticism.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Marsh animals--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Wildlife
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Andrew, 1992--Personal narratives.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Jazz--Louisiana--History and criticism.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Marsh animals--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Wildlife
             recovery--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Atchafalaya River Delta (La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and
+   </subject>
+   <subject>
+      <topic authority="LoC">Atchafalaya River Delta (La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and
             government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.2371</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.2371</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.2371</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/lasg/Klaus_Kenneth_Dr._T4296.abs.pdf">Klaus discusses his life as a Louisiana resident, his deep connection to music,
+            experience as a music professor, experience in hurricanes, racism in the South,
+            education, and coastal erosion, climate change, and deltaic formation.</abstract>
+</mods>

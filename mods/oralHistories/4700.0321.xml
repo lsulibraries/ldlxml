@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Civil Rights Movement Oral History Project</title>
-         <subTitle>Johnnie Jones, Sr. oral history interview, 1993-1995.</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Hebert, Mary J.,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Jones, Johnnie</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1919-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Johnnie Jones, Sr. was born in Laurel Hill, La., in 1919. After
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Civil Rights Movement Oral History Project</title>
+      <subTitle>Johnnie Jones, Sr. oral history interview, 1993-1995.</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Hebert, Mary J.,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Jones, Johnnie</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1919-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Johnnie Jones, Sr. was born in Laurel Hill, La., in 1919. After
             completing sixth grade, he worked for Ransom Lumber Company in Woodville, Miss., where
             he lived with his boss, Mr. Hergen, and tutored Hergen's son, Buddy. Jones later was
             sent to live with his uncle in Scotlandville, La., to begin his high school education at
@@ -35,112 +35,125 @@
             Sebell Chase and worked for two years at the post office. He then went on to Southern
             University Law School and earned his law degree in 1953. Jones' legal career included
             several landmark civil rights cases.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993-1995.</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">16 sound cassettes</note>
-         <extent>17 hours, 29 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>708
+   </name>
+   <originInfo>
+      <dateCreated>1993-1995.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">16 sound cassettes</note>
+      <extent>17 hours, 29 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>708
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Jones, Johnnie, 1919---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tureaud, Alexander Pierre, 1899-1972.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Jemison, T. J.--(Theodore Judson)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cox, B. Elton--(Benjamin Elton), 1931-2011.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Southern
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Jones, Johnnie, 1919---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tureaud, Alexander Pierre, 1899-1972.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Jemison, T. J.--(Theodore Judson)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cox, B. Elton--(Benjamin Elton), 1931-2011.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Southern
             University and A &amp; M College.--Demonstration High School.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Southern University and A
+   </subject>
+   <subject>
+      <topic authority="LoC">Southern University and A
             &amp; M College--Students.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">National Association for the Advancement of Colored People.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Congress of Racial Equality.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Actions and defenses--Louisiana--Cases.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American
+   </subject>
+   <subject>
+      <topic authority="LoC">National Association for the Advancement of Colored People.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Congress of Racial Equality.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Actions and defenses--Louisiana--Cases.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American
             children--Education--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American civil rights workers--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American soldiers.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">African American civil rights workers--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American soldiers.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Civil rights--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             Americans--Segregation--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Civil rights movements--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">School integration--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Segregation in
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge Bus Boycott, Baton Rouge, La., 1953.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Civil rights movements--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">School integration--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Segregation in
             transportation--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Participation, African American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Campaigns--France--Normandy.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Race relations.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Laurel
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Participation, African American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Campaigns--France--Normandy.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Race relations.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Laurel
             Hill (La.)</topic>
-      </subject>
-      <identifier>Mss. 4700.0321</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0321</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0321</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://www.lib.lsu.edu/special/williams/abstracts/civilrights/Jones_Johnnie_4700.0321.pdf">Jones gives a detailed account of his life, beginning with his childhood in West
+            Feliciana Parish, La., through his high school, college, and law school education. He
+            describes his army service in World War II, his position as the first African-American
+            warrant officer, and his involvement the D-Day invasion. Jones shares recollections of
+            racism, segregation, sit-ins, and protests in Baton Rouge and other Louisiana cities. He
+            describes in detail his work as a civil rights attorney, including his relationships
+            with Louisiana civil rights leaders, the NAACP, and CORE; his participation in numerous
+            civil rights cases; student activism at Southern University; the Baton Rouge Bus
+            Boycott; his involvement with the NAACP; local and national figures in the civil rights
+            movement; prominent court cases aimed at ending segregation; the lawyers and judges
+            involved in those cases; and the wider civil rights movement in Louisiana.</abstract>
+</mods>

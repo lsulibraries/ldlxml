@@ -1,130 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Robert C. West oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Anderson, Katharine,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>West, Robert C. 1913-2001</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">7 sound cassettes</note>
-         <extent>7 hours, 16 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcripts</note>
-         <extent>114 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>8 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">West, Robert C.--(Robert Cooper), 1913-2001--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sauer, Carl Ortwin,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Robert C. West oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Anderson, Katharine,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>West, Robert C. 1913-2001</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Robert C. West (1913-2001) received bachelor's and master's degrees from
+            the University of California, Los Angeles, finishing in 1938. He entered the Ph.D.
+            program at the University of California, Berkeley, where he studied under the prominent
+            geographer, Carl Sauer. West served as a cartographer in the Office of Strategic
+            Services, a forerunner to the Central Intelligence Agency, for four years during World
+            War II. After the war, he quickly completed his dissertation on colonial mining in
+            Northern Mexico, receiving his Ph.D. in 1946. West worked as a cultural geographer with
+            the Smithsonian Institution in Mexico City for two years before joining the faculty of
+            the Department of Geography and Anthropology at Louisiana State University in 1948,
+            specifically teaching courses on Central and South America. He was named a Boyd
+            Professor in 1970 and retired in 1980.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">7 sound cassettes</note>
+      <extent>7 hours, 16 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcripts</note>
+      <extent>114 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>8 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">West, Robert C.--(Robert Cooper), 1913-2001--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sauer, Carl Ortwin,
             1889-1975.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kroeber, A. L.--(Alfred Louis), 1876-1960.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Armillas, Pedro, 1914-1984.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Zierer, Clifford M.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Office of Strategic Services.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">University of
+   </subject>
+   <subject>
+      <topic authority="LoC">Kroeber, A. L.--(Alfred Louis), 1876-1960.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Armillas, Pedro, 1914-1984.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Zierer, Clifford M.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Office of Strategic Services.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">University of
             California, Berkeley.--Dept. of Geography.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge,
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge,
             La.).--Dept. of Geography and Anthropology.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Geography--Latin America--Field work.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Geography--Research--Latin America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Geography--Study and teaching--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agriculture--Research--Latin America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Agricultural geography--Research--Latin America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Cacao--Research--Mexico--Comalcalco.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Chinampas--Research--Mexico.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Names,
+   </subject>
+   <subject>
+      <topic authority="LoC">Geography--Latin America--Field work.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Geography--Research--Latin America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Geography--Study and teaching--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agriculture--Research--Latin America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Agricultural geography--Research--Latin America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Cacao--Research--Mexico--Comalcalco.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Chinampas--Research--Mexico.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Names,
             Personal--Research--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Photography in geography.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Plants--Research--Mexico--Tabasco.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Salt marshes--Research--South America.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Tarasco
+   </subject>
+   <subject>
+      <topic authority="LoC">Photography in geography.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Plants--Research--Mexico--Tabasco.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Salt marshes--Research--South America.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Tarasco
             Indians--Research--Mexico.</topic>
-      </subject>
-      <identifier>Mss. 4700.0903</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0903</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0903</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/West_Robert_alltapes.abs.pdf">Session I, which is indexed, concerns West's education under Carl Sauer at the
+            University of California, Berkeley; his decision to study geography at the University of
+            California, Los Angeles; his work with Clifford Zierer at UCLA; and his interest in the
+            geography of Mexico.; Session II, which is indexed, covers West's work with Carl Sauer,
+            his thesis on Spanish settlement in Mexico near silver mines, his time making maps and
+            surveying European map collections for the Office of Strategic Services during World War
+            II, his study of the Tarascan Indians of Mexico for the Smithsonian Institution, his
+            interest in chinampas farming and related work with Pedro Armillas, and various
+            approaches and theories in the study of geography.; Session III, which is transcribed,
+            describes Carl Sauer and Alfred Kroeber at Berkeley, West's arrival at Louisiana State
+            University, and topics in the study of geography.; Session IV, which is transcribed,
+            concerns West's research on salt marshes in South America, French and Spanish surnames
+            in Louisiana, agriculture in Mexico and South America, and theories on overpopulation in
+            pre-Columbian Mexico.; Session V, which is transcribed, describes West's research on
+            vegetation in the Mexican state of Tabasco, cacao plantations around Comalcalco,
+            colleagues he worked with in Mexico and their research interests, interviewing locals in
+            Mexico on agricultural practices, and his own methods for doing field work.; Session VI,
+            which is indexed, concerns West's methods for doing field work, especially his use of
+            photography, and changes in crops, chinampas farming, and agricultural methods in
+            Mexico.; Session VII, which is indexed, discusses West's work on the geography of the
+            Mexican state of Sonora, faculty members in LSU's Department of Geography and
+            Anthropology, some of West's former students and their research, and a summation of
+            West's research methods.</abstract>
+</mods>

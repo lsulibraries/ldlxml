@@ -1,83 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>WJBO Radio Interviews</title>
-         <subTitle>Percy Joseph Mills radio interview, 1975</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Harris, Jim.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Mills, Percy Joseph</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1934-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>A banker and politician, native of Baton Rouge, Louisiana. Mills
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>WJBO Radio Interviews</title>
+      <subTitle>Percy Joseph Mills radio interview, 1975</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Harris, Jim.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Mills, Percy Joseph</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1934-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>A banker and politician, native of Baton Rouge, Louisiana. Mills
             represented Caddo Parish in the state legislature, 1968-1972, and was a candidate for
             lieutenant governor, 1971, and for secretary of state, 1975. He became the executive
             director of the Louisiana Superport in 1972.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1975</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>50 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>2 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Elections--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Voting--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum shipping
+   </name>
+   <originInfo>
+      <dateCreated>1975</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>50 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>2 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Elections--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Voting--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum shipping
             terminals--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Harbors--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and
+   </subject>
+   <subject>
+      <topic authority="LoC">Harbors--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and
             government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.0047</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0047</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0047</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/WJBO/Mills_Percy_J_T55.abs.pdf">"Interview was broadcast as part of WJBO's radio program, ""Topic Today."" Mills
+            discusses his political and civic experience including his announcement to run for
+            secretary of state and his views on the responsibilities of the office. Mills comments
+            on voter participation, recent political campaigns, and the status of the Louisiana
+            Superport."</abstract>
+</mods>

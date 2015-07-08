@@ -1,106 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Donald Stanford oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Stanford, Donald E. 1913-1998</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>50 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>29
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Donald Stanford oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Stanford, Donald E. 1913-1998</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Donald E. Stanford (1913-1998) received his B.A. from Stanford University
+            (1933), M.A. from Harvard University (1934), and Ph.D. from Stanford University (1953).
+            He came to LSU in 1949 where he taught literature and helped revive and co-edit The
+            Southern Review.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>50 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>29
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Stanford, Donald E.--(Donald Elwin), 1913-1998--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Winters, Yvor,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Stanford, Donald E.--(Donald Elwin), 1913-1998--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Winters, Yvor,
             1900-1968.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Lewis, Janet, 1899-1998.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Bishop, Elizabeth, 1911-1979.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Simpson, Lewis P.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Brooks, Cleanth, 1906-1994.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Warren, Robert Penn, 1905-1989.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Lewis, Janet, 1899-1998.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Bishop, Elizabeth, 1911-1979.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Simpson, Lewis P.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Brooks, Cleanth, 1906-1994.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Warren, Robert Penn, 1905-1989.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             and Agricultural and Mechanical College.--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             (Baton Rouge, La.).--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University and Agricultural and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University and Agricultural and
             Mechanical College.--Press.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Press.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Southern review.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">American poetry--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <identifier>Mss. 4700.0124</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--Press.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Southern review.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">American poetry--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <identifier>Mss. 4700.0124</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             LSU Libraries in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0124</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Stanford_Donald_T172.abs.pdf">Stanford discusses his family, his collegiate education, his literary friendships,
+            his role in the revival of The Southern Review, and the formation of the LSU
+            Formalists.</abstract>
+</mods>

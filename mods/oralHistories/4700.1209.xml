@@ -1,114 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>West Baton Rouge Parish Oral History Project</title>
-         <subTitle>Wilhemenia Williams DeCuir oral history interview, 1999</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Boyce, Judy,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">DeCuir, Wilhemenia Williams</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1937-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Wilhemenia Williams DeCuir was the daughter of Rev. Freddie Williams, a
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>West Baton Rouge Parish Oral History Project</title>
+      <subTitle>Wilhemenia Williams DeCuir oral history interview, 1999</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Boyce, Judy,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">DeCuir, Wilhemenia Williams</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1937-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Wilhemenia Williams DeCuir was the daughter of Rev. Freddie Williams, a
             Baptist minister in Port Allen, La. She spent her childhood visiting the four churches
             he oversaw in East and West Baton Rouge Parishes and East Feliciana Parish and
             witnessing his community activism. She holds a master's degree in English from Southern
             University and did further study in library science at Louisiana State University. She
             has worked as a librarian at Port Allen High School for four
             decades.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1999</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>1 hour, 23 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">
+   </name>
+   <originInfo>
+      <dateCreated>1999</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>1 hour, 23 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">
             Transcript</note>
-         <extent>50 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">DeCuir, Wilhemenia Williams, 1937---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Williams, Freddie, 1917-2005.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Williams, Dorothea Lipscomb, 1919-1996.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Williams, Mamie Vern, 1940-1996.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Donaldson
+      <extent>50 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">DeCuir, Wilhemenia Williams, 1937---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Williams, Freddie, 1917-2005.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Williams, Dorothea Lipscomb, 1919-1996.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Williams, Mamie Vern, 1940-1996.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Donaldson
             Chapel Baptist Church (Baton Rouge, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">New Pilgrim Baptist Church (Zachary, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Olive Grove Baptist Church (Lindsay, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sunrise Baptist Church (Sunrise, La.)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American Baptists--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American churches--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">New Pilgrim Baptist Church (Zachary, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Olive Grove Baptist Church (Lindsay, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sunrise Baptist Church (Sunrise, La.)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American Baptists--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African American churches--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             American civil rights workers--Louisiana--West Baton Rouge Parish.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African
+   </subject>
+   <subject>
+      <topic authority="LoC">African
             Americans--Suffrage--Louisiana--West Baton Rouge Parish.</topic>
-      </subject>
-      <identifier>Mss. 4700.1209</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.1209</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs and the West Baton Rouge Parish Library
             and Louisiana State University in accordance with U.S. copyright laws. </accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1209</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/wbrremembrance/DeCuir_Wilhemenia_T1768_T1769.abs.pdf">Wilhemenia Williams DeCuir discusses memories of her father, Rev. Freddie Williams,
+            including his church ministry in four churches: New Pilgrim Baptist Church (Zachary,
+            La.), Sunrise Baptist Church (Sunrise, La.), Olive Grove Baptist Church (Lindsay, La.),
+            and Donaldson Chapel Baptist Church (Baton Rouge, La.). She describes his family and
+            education, preaching style, interaction with his congregations, and efforts for voter
+            registration in West Baton Rouge Parish. She also describes her father's relationships
+            with her; her sister, Mamie Vern Williams; and their mother, Dorothea Lipscomb
+            Williams.</abstract>
+</mods>

@@ -1,100 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Four Corners, Louisiana, Oral History Project</title>
-         <subTitle>Noland Lockett oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Patrick, Adrienne</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1954-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Lockett, Noland</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1938-2012</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Resident of Four Corners, a community south of Franklin, Saint Mary
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Four Corners, Louisiana, Oral History Project</title>
+      <subTitle>Noland Lockett oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Patrick, Adrienne</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Lockett, Noland</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1938-2012</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Resident of Four Corners, a community south of Franklin, Saint Mary
             Parish, Louisiana. Lockett, the great-grandson of a migrant sugarcane worker from the
             Caribbean, was a building contractor and former associate dean of a junior
             college.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>7 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Lockett, Noland, 1938-2012--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Louisiana--Saint Mary
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>7 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Lockett, Noland, 1938-2012--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Louisiana--Saint Mary
             Parish--Social life and culture.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African American agricultural laborers--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">African Americans--Education--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sugar growing--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Gambling--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Korean War, 1950-1953--Participation, African American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Logging--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Saint Mary Parish (La.)--Social conditions.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">South Coast Plantation
+   </subject>
+   <subject>
+      <topic authority="LoC">African American agricultural laborers--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">African Americans--Education--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sugar growing--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Gambling--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Korean War, 1950-1953--Participation, African American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Logging--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Saint Mary Parish (La.)--Social conditions.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">South Coast Plantation
             (La.)</topic>
-      </subject>
-      <identifier>Mss. 4700.0284</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0284</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and/or his heirs and Louisiana State University in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0284</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/adriennelacour/Lockett_Noland_T393.abs.pdf">Lockett discusses the logging industry at Four Corners; the origin and history of
+            the Lockett clan; local sugar growing and the history, extent, and sale of South Coast
+            Plantation; service by African Americans in the Korean War; debt peonage and the
+            plantation store system; exodus from Four Corners area farms; race relations; his
+            seminary experience; and plans for a private school in the area.; Lockett recalls
+            childhood memories of Mardi Gras; gambling and his father; three-card Kotch; recreation
+            during childhood; the work ethic of his youth; self-provisioning of families; and social
+            conditions of his community.</abstract>
+</mods>

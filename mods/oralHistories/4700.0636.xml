@@ -1,90 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Military Tradition at LSU</title>
-         <subTitle>Erbon W. Wise oral history interview, 1995</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Laver, Tara Zachary,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Wise, Erbon W., 1920-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1995</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>37
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Military Tradition at LSU</title>
+      <subTitle>Erbon W. Wise oral history interview, 1995</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Laver, Tara Zachary,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Wise, Erbon W., 1920-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Erbon W. Wise was born in Claiborne Parish, La., in 1920 and graduated
+            from Louisiana State Normal College in Natchitoches, La., in 1941. He served with the
+            U.S. Army Air Corps during World War II, was adjutant general of Louisiana between 1964
+            and 1968, and ultimately rose to the rank of major general. He published several small
+            newspapers in Southwest Louisiana and wrote books on that area's history and
+            genealogy.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>37
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Wise, Erbon W., 1920---Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army.--Air Corps.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana.--National Guard.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Great Britain.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Wise, Erbon W., 1920---Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army.--Air Corps.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana.--National Guard.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Great Britain.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Campaigns--France--Normandy.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War, 1961-1975--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Draft--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Hurricane Betsy, 1965.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Paris
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War, 1961-1975--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Draft--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Hurricane Betsy, 1965.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Paris
             (France)--History--1940-1944.</topic>
-      </subject>
-      <identifier>Mss. 4700.0636</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0636</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0636</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/ole_war_skule/Wise_Erbon_T924.abs.pdf">Wise discusses his family background and education, his enlistment in the Army Air
+            Corps, his duties as a Finance Disbursing Officer, England at the start of American
+            involvement in World War II, landing at Utah Beach, the liberation of Paris, serving as
+            the Adjutant General of the State of Louisiana in command of the National Guard for
+            Louisiana, and his work as State Director of Selective Service during the Vietnam
+            War.</abstract>
+</mods>

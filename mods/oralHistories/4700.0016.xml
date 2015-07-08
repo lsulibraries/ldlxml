@@ -1,75 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Eleanor Dalrymple Fauver oral history interview, 1977</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Crews, Susie.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Fauver, Eleanor Dalrymple</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1977</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>80 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>1 hour, 35
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Eleanor Dalrymple Fauver oral history interview, 1977</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Crews, Susie.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Fauver, Eleanor Dalrymple</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Eleanor Dalrymple Fauver is the daughter of Dr. William Dalrymple. Dr.
+            Dalrymple taught Veterinary Medicine at the old LSU campus from the early 1900s, until
+            his death in 1925.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1977</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>80 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>1 hour, 35
             minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Fauver, Eleanor Dalrymple.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Dalrymple, W. H.--(William Haddock), 1856-1925.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Fauver, Eleanor Dalrymple.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Dalrymple, W. H.--(William Haddock), 1856-1925.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.)--History.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University
             (Baton Rouge, La.)--Faculty.</topic>
-      </subject>
-      <identifier>Mss. 4700.0016</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0016</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and her heirs and Louisiana State University in accordance with U.S.
             copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0016</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Fauver_Eleanor_T18.abs.pdf">Interview deals with Eleanor Dalrymple Fauver's recollections of her father's
+            childhood in England and their life in Louisiana. The focus dates of the interview are
+            1920-1940. She describes her father's career with Louisiana State University as a
+            professor of Veterinary Medicine from the 1900s until his death in 1925. Mentions his
+            relationships with Professor Thomas Boyd, President of LSU, 1900-1929, and James
+            Nicholson, Professor of Mathematics, from 1900-1920s.</abstract>
+</mods>

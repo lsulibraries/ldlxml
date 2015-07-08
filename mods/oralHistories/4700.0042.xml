@@ -1,74 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Politics Oral History Project</title>
-         <subTitle>John McKeithen oral history interview, 1982</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>McKeithen, John J. 1918-1999</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1982</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>33 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour, 15
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Politics Oral History Project</title>
+      <subTitle>John McKeithen oral history interview, 1982</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Fiser, Jack</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>McKeithen, John J. 1918-1999</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Governor of Louisiana, 1964-1972.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1982</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>33 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour, 15
             minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">McKeithen, John J.--(John Julian), 1918-1999--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">McKeithen, John J.--(John Julian), 1918-1999--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University (Baton Rouge, La.)--History.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and
             government--1951-</topic>
-      </subject>
-      <identifier>Mss. 4700.0042</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0042</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by the
             interviewee and/or his heirs in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0042</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/political/McKeithen_John_T52.abs.pdf">Interview deals with McKeithen's recollections of his life while governor. Mentions
+            his involvement in the funding and construction of the Assembly Center, CEBA and Paul
+            Hebert Law Center, all at Louisiana State University. Also mentions his friendships with
+            Terry Bradshaw and Jake Justice; and nephew, Bob Merideth, a recruiter for
+            Chevron.</abstract>
+</mods>

@@ -1,81 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>WJBO Radio Interviews</title>
-         <subTitle>W. Henson Moore radio interview, 1975</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Harris, Jim.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu"> Henson</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1939-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>U.S. Representative from Louisiana's 6th Congressional District,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>WJBO Radio Interviews</title>
+      <subTitle>W. Henson Moore radio interview, 1975</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Harris, Jim.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu"> Henson</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1939-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>U.S. Representative from Louisiana's 6th Congressional District,
             1975-1987.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1975</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>45 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Index</note>
-         <extent>2 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Unemployment--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Public welfare--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Petroleum industry and
+   </name>
+   <originInfo>
+      <dateCreated>1975</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>45 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Index</note>
+      <extent>2 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Unemployment--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Public welfare--Louisiana.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Petroleum industry and
             trade--Louisiana.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana--Economic
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Politics and government--1951-</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana--Economic
             conditions--20th century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0048</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0048</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0048</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/WJBO/Moore_W_Henson_T56.abs.pdf">"In the interview with Jim Harris for WJBO's ""Topic Today"" Program (Aug. 1975),
+            Henson Moore discusses the concerns of his constituents and their economic situation,
+            unemployment, welfare reform, and government spending on defense and social programs. He
+            also discusses issues in the upcoming congressional session, the effects of deregulating
+            the petroleum industry, the upcoming Louisiana gubernatorial election, and Republican
+            presidential candidates in the 1976 election."</abstract>
+</mods>

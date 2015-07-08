@@ -1,104 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Cleanth Brooks oral history interview, 1992</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Brooks, Cleanth</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1906-1994</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Louisiana State University English professor, and co-founder of Southern
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Cleanth Brooks oral history interview, 1992</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Dean, Pamela</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Brooks, Cleanth</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1906-1994</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Louisiana State University English professor, and co-founder of Southern
             Review, a literary journal.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1992</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">2 sound cassettes</note>
-         <extent>2 hours</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>81 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Warren, Robert Penn, 1905-1989.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Welty, Eudora, 1909-2001.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Porter, Katherine
+   </name>
+   <originInfo>
+      <dateCreated>1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">2 sound cassettes</note>
+      <extent>2 hours</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>81 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Warren, Robert Penn, 1905-1989.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Welty, Eudora, 1909-2001.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Porter, Katherine
             Anne, 1890-1980.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Smith, James Monroe, 1888-1949.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kirby, Thomas Austin.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Read, William
+   </subject>
+   <subject>
+      <topic authority="LoC">Smith, James Monroe, 1888-1949.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Kirby, Thomas Austin.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Read, William
             Alexander, 1869-1962.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Pipkin, Charles W.--(Charles Wooten), 1899-1941.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State
+   </subject>
+   <subject>
+      <topic authority="LoC">Pipkin, Charles W.--(Charles Wooten), 1899-1941.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State
             University (Baton Rouge, La.).--Dept. of English.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Southern review.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">American
+   </subject>
+   <subject>
+      <topic authority="LoC">Southern review.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">American
             literature--Louisiana--Baton Rouge--History and criticism.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Literature
+   </subject>
+   <subject>
+      <topic authority="LoC">Literature
             publishing--Southern States--History.</topic>
-      </subject>
-      <identifier>Mss. 4700.0142</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0142</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0142</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Brooks_Cleanth_T199_T200.abs.pdf">In the interview, Brooks discusses his family background; grammar school in rural
+            Tennessee; football; his education at Vanderbilt; Robert Penn Warren, his friend and
+            adviser; Rhodes Scholarship study at Oxford; Charles Pipkin; teaching at LSU beginning
+            in 1932; the LSU English Dept.; collaborative work with Warren in textual criticism;
+            work on Southern Review and its demise; and Southern Review's predecessor, The
+            Southwestern Review.; Brooks describes LSU politics; scandal and reform surrounding the
+            career of LSU President, James Monroe Smith; the tenures of William A. Read and Thomas
+            Kirby, chairs of the English Dept.; Katherine Anne Porter; and Eudora Welty.</abstract>
+</mods>

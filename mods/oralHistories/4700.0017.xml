@@ -1,85 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisiana Politics Oral History Project</title>
-         <subTitle>Robert Fleming oral history interview, 1979</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Culbert, David Holbrook.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Fleming, Robert</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1912-1984</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>Deputy Press Secretary under Bill Moyers during President Lyndon B.
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana Politics Oral History Project</title>
+      <subTitle>Robert Fleming oral history interview, 1979</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Culbert, David Holbrook.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Fleming, Robert</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1912-1984</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Deputy Press Secretary under Bill Moyers during President Lyndon B.
             Johnson's administration.</description>
-      </name>
-      <originInfo>
-         <dateCreated>1979</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>28 p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1 hour</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Fleming, Robert, 1912-1984--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Johnson, Lyndon B.--(Lyndon Baines),
+   </name>
+   <originInfo>
+      <dateCreated>1979</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>28 p</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1 hour</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Fleming, Robert, 1912-1984--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Johnson, Lyndon B.--(Lyndon Baines),
             1908-1973.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mass media--Political aspects--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Vietnam War,
+   </subject>
+   <subject>
+      <topic authority="LoC">Mass media--Political aspects--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Vietnam War,
             1961-1975--United States--Mass media and the war.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Mass media--United
+   </subject>
+   <subject>
+      <topic authority="LoC">Mass media--United
             States--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Presidents--United States--Press conferences.</topic>
-      </subject>
-      <identifier>Mss. 4700.0017</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Presidents--United States--Press conferences.</topic>
+   </subject>
+   <identifier>Mss. 4700.0017</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             interviewee and interviewer and/or their heirs in accordance with U.S. copyright
             laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0017</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/political/Fleming_Robert.pdf">Fleming discusses the role of the media in Lyndon Johnson's administration and
+            Johnson's attitude toward news personnel. He also discusses television coverage of the
+            Vietnam Conflict.</abstract>
+</mods>

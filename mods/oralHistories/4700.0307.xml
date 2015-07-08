@@ -1,95 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
-         <subTitle>Charles Titkemeyer oral history interview, 1993</subTitle>
-      </titleInfo>
-      <name type="personal" usage="">
-         <namePart xmlns:lsu="http://lsu.edu">Besch, Everett Dickman</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-         <description/>
-      </name>
-      <name>
-         <namePart>Titkemeyer, Charles W.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1993</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>1</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>83
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>LSU History Oral History Project: Faculty &amp; Adminstrators</title>
+      <subTitle>Charles Titkemeyer oral history interview, 1993</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart xmlns:lsu="http://lsu.edu">Besch, Everett Dickman</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1924-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Titkemeyer, Charles W.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Charles Titkemeyer earned a degree in veterinary medicine from Ohio State
+            University in 1949. He taught at Michigan State University and worked on Agency for
+            International Development contracts in Indonesia and Nigeria. He came to LSU in
+            1969.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1993</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>1</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>83
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Titkemeyer, Charles W.--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Army Air Forces--Flight
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Titkemeyer, Charles W.--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Army Air Forces--Flight
             officers.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Michigan State University--Faculty.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United States.--Agency for International
+   </subject>
+   <subject>
+      <topic authority="LoC">Michigan State University--Faculty.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United States.--Agency for International
             Development.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--School of Veterinary
+   </subject>
+   <subject>
+      <topic authority="LoC">Louisiana State University (Baton Rouge, La.).--School of Veterinary
             Medicine.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Aerial operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Ploie*sti, Battles of,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Aerial operations, American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Ploie*sti, Battles of,
             Ploie*sti, Romania, 1943-1944.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">B-24 (Bomber)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Nigeria--History--Civil War,
+   </subject>
+   <subject>
+      <topic authority="LoC">B-24 (Bomber)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Nigeria--History--Civil War,
             1967-1970--Personal narratives, American.</topic>
-      </subject>
-      <identifier>Mss. 4700.0307</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0307</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0307</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/university/distinguished_faculty/Titkemeyer_Charles_T432.abs.pdf">Titkemeyer discusses his education, his service in the US Army Air Corps as a crew
+            member of a B-24 bomber during World War II, his teaching at Michigan State University,
+            and his work on Agency for International Development contracts in Indonesia and Nigeria.
+            He also discusses his work with LSU's School of Veterinary Medicine, its administrators,
+            the design of its new building, and its strict initial admission policies.</abstract>
+</mods>

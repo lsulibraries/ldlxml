@@ -1,99 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>Louisianans in the Military Oral History Project</title>
-         <subTitle>Edward J. Davis, Jr. oral history interview, 1999</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Alberts, John,</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Davis, Edward J. 1923 or 4-2012</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-      </name>
-      <originInfo>
-         <dateCreated>1999</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">1 sound cassette</note>
-         <extent>46 minutes</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>40 leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <physicalDescription>
-         <note type="content">Abstract</note>
-         <extent>2
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisianans in the Military Oral History Project</title>
+      <subTitle>Edward J. Davis, Jr. oral history interview, 1999</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Alberts, John,</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart>Davis, Edward J. 1923 or 4-2012</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>Edward Davis attended Catholic High School in Baton Rouge, La. He joined
+            the U.S. Navy on July 2, 1942, and served primarily on the USS Kalk in the European and
+            Pacific Theaters during World War II. He was awarded the Purple Heart due to an injury
+            he suffered when the Kalk was bombed in 1944. After the war, Davis settled in Baton
+            Rouge where he attended Louisiana State University, married and had three children. He
+            died in 2012 at age eighty-eight.</description>
+   </name>
+   <originInfo>
+      <dateCreated>1999</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">1 sound cassette</note>
+      <extent>46 minutes</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>40 leaves</extent>
+      <form>Oral History</form>
+   </physicalDescription>
+   <physicalDescription>
+      <note type="content">Abstract</note>
+      <extent>2
             leaves</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Davis, Edward J.--(Edward James), 1923 or 4-2012--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">United
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Davis, Edward J.--(Edward James), 1923 or 4-2012--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">United
             States.--Navy--Military life.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Kalk (Destroyer : DD 611)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Missouri (Battleship : BB-63)</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War, 1939-1945--Alaska--Aleutian Islands--Naval operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">Kalk (Destroyer : DD 611)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Missouri (Battleship : BB-63)</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War, 1939-1945--Alaska--Aleutian Islands--Naval operations, American.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Indonesia--Biak Island--Naval operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">World War,
+   </subject>
+   <subject>
+      <topic authority="LoC">World War,
             1939-1945--Papua New Guinea--Naval operations, American.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Naval convoys--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Sailors--Wounds and injuries--United States.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Typhoons--Philippines.</topic>
-      </subject>
-      <identifier>Mss. 4700.1139</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <subject>
+      <topic authority="LoC">Naval convoys--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Sailors--Wounds and injuries--United States.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Typhoons--Philippines.</topic>
+   </subject>
+   <identifier>Mss. 4700.1139</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.1139</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/military/Davis_Edward.pdf">Davis discusses his service aboard the USS Kalk as a range finder operator and
+            gunner's mate from June 1942 through December 1945. His recollections include patrolling
+            the Aleutian Islands, escorting convoys to North Africa in preparation for Operation
+            Torch, escorting a convoy to Murmansk, Russia, by way of the Panama Canal, and stops in
+            Papua, New Guinea. Davis recalls the bombing of the Kalk at Biak Island, the injury he
+            sustained in the attack, and his recovery. He recounts steering the ship through a
+            deadly typhoon off the Philippines and witnessing Japan's surrender on the deck of the
+            USS Missouri. He recalls other highlights from his service, his trip back to Louisiana,
+            and after the war.</abstract>
+</mods>

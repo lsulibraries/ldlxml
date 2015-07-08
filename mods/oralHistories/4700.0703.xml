@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <mods>
-      <titleInfo>
-         <title>McKinley High School Oral History Project: Old South Baton Rouge Businesses</title>
-         <subTitle>Albert Domino oral history interview, 1996</subTitle>
-      </titleInfo>
-      <name>
-         <namePart>Henry, Rudolph.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name>
-         <namePart>Goods, Michael.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
-         </role>
-      </name>
-      <name type="personal" usage="primary">
-         <namePart xmlns:lsu="http://lsu.edu">Domino, Albert</namePart>
-         <namePart xmlns:lsu="http://lsu.edu" type="date">1924-2001</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
-            <roleTerm type="code" authority="marcrelator">ive</roleTerm>
-         </role>
-         <description>"Albert Domino was born in ""the Bottoms,"" a south Baton Rouge,
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>McKinley High School Oral History Project: Old South Baton Rouge Businesses</title>
+      <subTitle>Albert Domino oral history interview, 1996</subTitle>
+   </titleInfo>
+   <name type="personal" usage="">
+      <namePart>Henry, Rudolph.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="">
+      <namePart>Goods, Michael.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ivr</roleTerm>
+      </role>
+      <description/>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart xmlns:lsu="http://lsu.edu">Domino, Albert</namePart>
+      <namePart xmlns:lsu="http://lsu.edu" type="date">1924-2001</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Interviewee</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ive</roleTerm>
+      </role>
+      <description>"Albert Domino was born in ""the Bottoms,"" a south Baton Rouge,
             Louisiana neighborhood on 1 December 1924. Domino grew up with his parents, Benjamin
             Domino and Geraldine Warren, from Point Coupee Parish, and his five sisters (Madeline,
             Teresa, Ronnie, Avis, and Agnes) and brother (Alec). He attended the old McKinley High
@@ -38,55 +39,63 @@
             the army. In 1946, he left the army and returned to Baton Rouge, where he found work at
             the Audubon Post Office on Government St. He worked there until his
             retirement."</description>
-      </name>
-      <originInfo>
-         <dateCreated>1996</dateCreated>
-      </originInfo>
-      <physicalDescription>
-         <note type="content">Transcript</note>
-         <extent>39
+   </name>
+   <originInfo>
+      <dateCreated>1996</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <note type="content">Transcript</note>
+      <extent>39
             p</extent>
-         <form>Oral History</form>
-      </physicalDescription>
-      <typeOfResource>sound recording</typeOfResource>
-      <subject>
-         <topic authority="LoC">Domino, Albert, 1924-2001--Interviews.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Small business--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Segregation--Louisiana--Baton Rouge.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge
+      <form>Oral History</form>
+   </physicalDescription>
+   <typeOfResource>sound recording</typeOfResource>
+   <subject>
+      <topic authority="LoC">Domino, Albert, 1924-2001--Interviews.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Small business--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Segregation--Louisiana--Baton Rouge.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Race relations.</topic>
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge
             (La.)--History--20th century.</topic>
-      </subject>
-      <subject>
-         <topic authority="LoC">Baton Rouge (La.)--Economic conditions--20th
+   </subject>
+   <subject>
+      <topic authority="LoC">Baton Rouge (La.)--Economic conditions--20th
             century.</topic>
-      </subject>
-      <identifier>Mss. 4700.0703</identifier>
-      <note type="ownership">Louisiana State University Libraries Special Collections
+   </subject>
+   <identifier>Mss. 4700.0703</identifier>
+   <note type="ownership">Louisiana State University Libraries Special Collections
             (http://www.lib.lsu.edu/special)</note>
-      <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
+   <accessCondition type="restriction on access">Physical rights are retained by the LSU Libraries. Copyright is retained by
             Louisiana State University in accordance with U.S. copyright laws.</accessCondition>
-      <accessCondition type="use and reproduction"/>
-      <location>
-         <physicalLocation>LUU</physicalLocation>
-         <physicalLocation>LSU Libraries</physicalLocation>
-         <url>http://www.lib.lsu.edu</url>
-         <holdingSimple>
-            <copyInformation>
-               <subLocation>Hill Memorial Library, Special
+   <accessCondition type="use and reproduction">"E-mail lsudiglib@lsu.edu with questions or comments. See
+            instructions for ordering reprints of this audio here:
+            http://www.lib.lsu.edu/special/services/duplication.html Mention the ""Item number"" or
+            ""Item URL"" in your request. "</accessCondition>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Hill Memorial Library, Special
                         Collections</subLocation>
-               <shelfLocator>L:
+            <shelfLocator>L:
                         4700.0703</shelfLocator>
-            </copyInformation>
-         </holdingSimple>
-      </location>
-   </mods>
-</modsCollection>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <abstract xlink:href="http://lib.lsu.edu/services/oralhistory/abstracts/mckinley/2_businesses/Domino_Albert_T1030.pdf">"The interview was conducted as Domino drove around the neighborhood in south Baton
+            Rouge know as ""the Bottoms,"" pointing out locations where important community
+            businesses had been, including barber shops, grocery stores and eateries, churches, shoe
+            shops, and music clubs. Domino discusses racial relationships, the reasons for decline
+            in the businesses, and problems with integration. His observations show how the
+            institutions of south Baton Rouge affected and influenced the community."</abstract>
+</mods>
