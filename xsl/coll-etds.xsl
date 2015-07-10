@@ -44,9 +44,9 @@
     </xsl:template>
 
 <xsl:template name="filename">
-    <xsl:analyze-string select="//marc:datafield[@tag='998']/marc:subfield[@code='a']" regex="[0-9]">
+    <xsl:analyze-string select="//marc:datafield[@tag='998']/marc:subfield[@code='a']" regex="([A-Z]+)([0-9]+)">
         <xsl:matching-substring>
-            <xsl:value-of select="regex-group(1)"/>
+            <xsl:value-of select="regex-group(2)"/>
         </xsl:matching-substring>
     </xsl:analyze-string>
 </xsl:template>
