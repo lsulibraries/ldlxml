@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>purification of McrB and McrC proteins in McrBC restriction system of Escherichia coli K12 and DNA sequencing of the region downstream of mcrC</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Zheng, Ling</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Microbiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <dateIssued>1992</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ix, 94 leaves : ill., mounted photos ; 29 cm.</extent>
+      <extent>104 p.</extent>
+   </physicalDescription>
+   <abstract type="Summary">"The McrBC restriction system of Escherichia coli K12 degrades methylcytosine-containing foreign DNA. Two genes mcrB and mcrC had been shown to be required for the McrBC restriction (Ross, et al., J. Bacteriol., 1989b). To explore the involvement of additional gene(s), a 1.7 kb fragment downstream of the mcrC was cloned and sequenced. Also mutants containing deletion in mcrBC or the downstream region were isolated by transposon excision. Genetic complementation studies confirmed that only DNA containing mcrB and mcrC gene on a high copy plasmid were needed to fully restored McrBC restriction. Deletion of the 1.7 kb fragment from or addition to McrBC encoded on a high copy number plasmid did not cause detectable effects on the McrBC activity.;These proteins encoded by mcrBC genes were purified from cells in which products were overexpressed by using T-7 expression systems. Following sequential DEAE-Sepharose and Affi-Gel blue column chromatography, the mcrB encoded 51-kDa and 33-kDa polypeptides were co-purified. The mcrC encoded 39-kDa polypeptide was purified using DEAE-Sepharose and hydroxylapatite column chromatography. The sizes and N-terminal amino acid sequences of the McrBC proteins are in agreement with those predicted from the maxicell analysis and the DNA sequence (Ross, et al., 1989b), providing evidence for the translation initiation sites for these McrBC polypeptides.;Finally, attempt to quantitate the number of McrB product within a E. coli cell were performed. Antibodies against the 51-kDa McrB product were obtained after injecting rabbits with a purified 51-kDa McrB. These antibodies were able to detect about 100 picograms of the purified polypeptide using a chemiluminescent assay. However, the McrB proteins could be detected only from cell extracts harboring mcrB-containing plasmids. No detectable Western band could be found from extracts of bacteria containing only the chromosomal mcrBC under various physiological conditions. These data appear to indicate that the level of mcrB proteins expressed by bacterial chromosomal copy is extremely low."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ling Zheng.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 53-08, Section: B, page: 3925.;Director: Hugh D. Braymer."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1992.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 88-93).</note>
+   <subject authority="lcsh">
+      <topic>DNA antibodies</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Restriction enzymes, DNA</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9301117</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1992</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28714838</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930830</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1971680</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+</mods>
