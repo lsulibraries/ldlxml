@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+        <marc:record>
+            <marc:leader>04141cam a2200421 a 45 0</marc:leader>
+            <marc:controlfield tag="001">u1012221</marc:controlfield>
+            <marc:controlfield tag="003">SIRSI</marc:controlfield>
+            <marc:controlfield tag="008">901203s1988    xx       b    000 0 eng d</marc:controlfield>
+            <marc:datafield tag="035" ind1=" " ind2=" ">
+                <marc:subfield code="a">(OCoLC)22771316</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="040" ind1=" " ind2=" ">
+                <marc:subfield code="a">LUU</marc:subfield>
+                <marc:subfield code="c">LUU</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="092" ind1=" " ind2=" ">
+                <marc:subfield code="a">378.76</marc:subfield>
+                <marc:subfield code="b">L930d, 1988</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="100" ind1="1" ind2=" ">
+                <marc:subfield code="a">Chalasani, Devi,</marc:subfield>
+                <marc:subfield code="d">1959-</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="245" ind1="1" ind2="0">
+                <marc:subfield code="a">Development of techniques for studying interactions of organic compounds with complex solid matrices /</marc:subfield>
+                <marc:subfield code="c">by Devi Chalasani.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="260" ind1=" " ind2=" ">
+                <marc:subfield code="c">1988.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="300" ind1=" " ind2=" ">
+                <marc:subfield code="a">xviii, 223 leaves ;</marc:subfield>
+                <marc:subfield code="c">29 cm.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="300" ind1=" " ind2=" ">
+                <marc:subfield code="a">242 p.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="490" ind1="1" ind2=" ">
+                <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+                <marc:subfield code="v">1988</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="500" ind1=" " ind2=" ">
+                <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5304.;Director: Frank K. Cartledge.&quot;</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="502" ind1=" " ind2=" ">
+                <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="500" ind1=" " ind2=" ">
+                <marc:subfield code="a">Vita.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="504" ind1=" " ind2=" ">
+                <marc:subfield code="a">Includes bibliographical references (leaves 175-180).</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="500" ind1=" " ind2=" ">
+                <marc:subfield code="a">Abstract.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="520" ind1=" " ind2=" ">
+                <marc:subfield code="a">&quot;A combination of high resolution solid state nuclear magnetic resonance spectroscopy, and solvent extractions with solvents of varying polarities was used to identify the mechanism of interaction between hazardous organic and/or inorganic wastes and a Portland Cement based system. Ethylene glycol (EG), p-bromophenol (pBP), p-chlorophenol (pCP), p-(aminomethyl)phenol (pAMP) were used as model organic wastes, and cadmium and lead hydroxide sludges were used as model inorganic wastes. Type I Portland Cement, with and without soluble silicate additive, was solidified with water and various waste mixtures. The soldified samples were examined by solvent extractions and by NMR at various time intervals.;Chemical extractions of EG with solvents of varying polarities (water, DMSO, DCM), reveal that EG is not &quot;&quot;stabilized&quot;&quot; to a significant degree, and its effect on the cement matrix is large enough to substantially affect the solidification process, even at low concentrations (2%). A major break in the extraction behaviour of EG was observed between 10% and 20% loadings in the DMSO extractions. Phenols (pBP and pCP) were not effectively immobilized toward water leaching at any concentration or any time of cure studied. However, a decrease in percent recovery with increasing phenol loadings was observed in water extractions.;$\sp{29}$Si NMR of Type I Portland cement clinker revealed the presence of orthosilicate units characteristic of tricalcium and dicalcium silicate phases. Both tetrahedral and octahedral coordinations of Al were distinguished in the cement clinker ($\sp{27}$Al NMR measurements). Partial hydration of aluminate phases has occurred in the cement clinker. The dimeric silicate unit is the major component of the mature cement matrix after 28 days and longer. Soluble silicates accelerated the hydration of both silicate and aluminate phases.;EG, pCP and pBP accelerated the onset of both silicate and aluminate hydrations compared to cement alone but retarded the later stages of hydration. In contrast to the cement control, the organics incorporated into the silicate and aluminate phases appear to solubilize the silicate and aluminate hydrates in water. Cadmium hydroxide sludge had no major effect on the hydration reactions. Lead hydroxide sludge had a severe retarding effect on the hydration reactions upto 7 days.&quot;</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Hazardous wastes.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Portland cement.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Nuclear magnetic resonance spectroscopy.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Solvent extraction.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="710" ind1="2" ind2="0">
+                <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+                <marc:subfield code="b">Dept. of Chemistry.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="791" ind1=" " ind2=" ">
+                <marc:subfield code="a">Ph.D.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="792" ind1=" " ind2=" ">
+                <marc:subfield code="a">1988</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="793" ind1=" " ind2=" ">
+                <marc:subfield code="a">English</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="830" ind1=" " ind2="0">
+                <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+                <marc:subfield code="v">1988.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="856" ind1=" " ind2=" ">
+                <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904529</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="948" ind1=" " ind2=" ">
+                <marc:subfield code="a">2/21/1995</marc:subfield>
+                <marc:subfield code="c">12/10/1990</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="596" ind1=" " ind2=" ">
+                <marc:subfield code="a">6 8</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="998" ind1=" " ind2=" ">
+                <marc:subfield code="a">AAI8904529</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="999" ind1=" " ind2=" ">
+                <marc:subfield code="a">378.76 L930D 1988 CHAL</marc:subfield>
+                <marc:subfield code="w">DEWEY</marc:subfield>
+                <marc:subfield code="c">1</marc:subfield>
+                <marc:subfield code="i">1012221-1001</marc:subfield>
+                <marc:subfield code="l">UARCHIVES</marc:subfield>
+                <marc:subfield code="m">SPEC_COLL</marc:subfield>
+                <marc:subfield code="r">Y</marc:subfield>
+                <marc:subfield code="s">Y</marc:subfield>
+                <marc:subfield code="t">BOOK</marc:subfield>
+                <marc:subfield code="u">11/27/2001</marc:subfield>
+                <marc:subfield code="x">DISS</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="999" ind1=" " ind2=" ">
+                <marc:subfield code="a">MICROFICHE 1900 NO.1988-79</marc:subfield>
+                <marc:subfield code="w">ALPHANUM</marc:subfield>
+                <marc:subfield code="c">1</marc:subfield>
+                <marc:subfield code="i">31518097377265</marc:subfield>
+                <marc:subfield code="j">3</marc:subfield>
+                <marc:subfield code="l">STACKS</marc:subfield>
+                <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+                <marc:subfield code="r">Y</marc:subfield>
+                <marc:subfield code="s">Y</marc:subfield>
+                <marc:subfield code="t">MICROFORM</marc:subfield>
+                <marc:subfield code="u">11/27/2001</marc:subfield>
+                <marc:subfield code="x">DISS</marc:subfield>
+            </marc:datafield>
+        </marc:record>

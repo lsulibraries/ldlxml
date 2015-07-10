@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>00974nam a2200265   4500</marc:leader>
+        <marc:controlfield tag="001">AAI0000418</marc:controlfield>
+        <marc:controlfield tag="005">20140908111845.5</marc:controlfield>
+        <marc:controlfield tag="008">140908s1941    ||||||||||||||||| ||eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(MiAaPQ)AAI0000418</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">MiAaPQ</marc:subfield>
+            <marc:subfield code="c">MiAaPQ</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">FLOWERS, FRANK C.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">MARK TWAIN'S THEORIES OF MORALITY.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">239 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Source: Dissertation Abstracts International, Volume: 04-01, page: 2700.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University and Agricultural &amp; Mechanical College, 1941.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">School code: 0107.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">Philosophy.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="690" ind1=" " ind2=" ">
+            <marc:subfield code="a">0422</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2="0">
+            <marc:subfield code="a">Louisiana State University and Agricultural &amp; Mechanical College.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Dissertation Abstracts International</marc:subfield>
+            <marc:subfield code="g">04-01.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="790" ind1=" " ind2=" ">
+            <marc:subfield code="a">0107</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1941</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:0000418</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI8904529</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
