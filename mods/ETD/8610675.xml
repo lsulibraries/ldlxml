@@ -75,4 +75,6 @@
       <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
    </recordInfo>
+   <form xmlns="">electronic</form>
+   <internetMediaType xmlns="">application/pdf</internetMediaType>
 </mods>

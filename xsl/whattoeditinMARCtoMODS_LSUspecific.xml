@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effect of a highly fortified vitamin-mineral supplement in high concentrate and low concentrate rations for dairy cows</title>
+      <!-- <subtitle> should be added when the 100 has a b; will need to check if it gets created if there is only a ; separator -->
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <!-- we may want to divide the namePart into given and family -->
+      <namePart>Lovell, Tom</namePart>
+      <namePart type="date">1934-</namePart>
+      <!-- will all be "author" when Mike is able to edit the base MARC -->
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Dairy Science.</namePart>
+      <!-- will hopefully become "degree grantor" when Mike is able to edit the base MARC -->
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <originInfo>
+      <!-- will be edited when Mike is able to edit the base MARC -->
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+      </place>
+      <dateIssued>1963</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xv, 102 leaves : ill. ; 29 cm.</extent>
+      <extent>118 p.</extent>
+   </physicalDescription>
+   
+   <!-- Thing to add; may be edited when Mike is able to edit the base MARC  
+   <physicalDescription>
+      <form>electronic</form> comes from 008, can be taken care of
+      <internetMediaType>application/pdf</internetMediaType> comes from 856 delimiter q
+      <digitalOrigin>digitized microfilm</digitalOrigin> see line 1318 <xsl:if test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='b']">
+				<digitalOrigin>digitized microfilm</digitalOrigin>
+   </physicalDescription>
+    --> 
+   
+   <!-- needs to become <abstract lang="eng">Not available</abstract> if there is no abstract, or become the abstract if there is one -->
+   <abstract type="Summary">Abstract.</abstract>
+   
+   <!-- These field should probably get types so that we can filter them out of OAI-PMH harvesting by DPLA and "Details" -->
+   <note>"Source: Dissertation Abstracts International, Volume: 24-03, page: 9150."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1963.</note>
+   <note type="bibliography">Bibliography: leaves 62-69.</note>
+   
+   <subject authority="lcsh">
+      <topic>Dairy cattle</topic>
+      <topic>Feeding and feeds</topic>
+   </subject>
+   
+   <!-- we may want to get rid of "Primary Display"; I don't think this will be accurate anymore -->
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:6306221</url>
+   </location>
+   
+   <relatedItem type="series">
+      <!-- remove the date from the series so that they will share a series -->
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1963</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">890214</recordCreationDate>
+      <recordIdentifier source="SIRSI">u910470</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   
+   <!-- we said we wanted to add all of the identiers, including a note about which ones are OCLC numbers vs. Proquest vs. Call numbers 
+  
+  	<identifier type=”oclc”>ocm180187473</identifier>
+   <identifier type=”call number”>378.76L930D 1941 FLOW</identifier>
+   <identifier type=”local”>if the number in 001 does not begin with ocm</identifier>
+   <identifier type=”proquest”>AAI3135312</identifier>
+   
+   -->
+   
+   <!--TDL recommends this, but we don't have this data as such. Can we piece it together?
+     <extension>
+      <etd:degree>
+        <etd:name>Doctor of Philosophy</etd:name>
+        <etd:level>Doctoral</etd:level>
+        <etd:discipline>Educational Administration</etd:discipline>
+      </etd:degree>
+    </extension>
+    -->
+
+   <!-- added genre due to TDL recommendation; correcting 008 may fix this as well 
+   <genre authority="marcgt">thesis</genre>-->
+   
+   
+   
+</mods>

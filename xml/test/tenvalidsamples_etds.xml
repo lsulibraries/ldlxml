@@ -6,7 +6,7 @@
         <marc:leader>04141cam a2200421 a 4500</marc:leader>
         <marc:controlfield tag="001">u1012221</marc:controlfield>
         <marc:controlfield tag="003">SIRSI</marc:controlfield>
-        <marc:controlfield tag="008">901203s1988    xx       b    000 0 eng d</marc:controlfield>
+        <marc:controlfield tag="008">901203s1988####-us#####smmmms000 0#eng|d</marc:controlfield>
         <marc:datafield tag="035" ind1=" " ind2=" ">
             <marc:subfield code="a">(OCoLC)22771316</marc:subfield>
         </marc:datafield>

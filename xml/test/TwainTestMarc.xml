@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-    <marc:record>
         <marc:leader>00974nam a2200265   4500</marc:leader>
         <marc:controlfield tag="001">AAI0000418</marc:controlfield>
         <marc:controlfield tag="005">20140908111845.5</marc:controlfield>
@@ -63,5 +62,4 @@
         <marc:datafield tag="998" ind1=" " ind2=" ">
             <marc:subfield code="a">AAI8904529</marc:subfield>
         </marc:datafield>
-    </marc:record>
-</marc:collection>
+</marc:record>
