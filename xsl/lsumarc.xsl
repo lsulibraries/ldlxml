@@ -99,6 +99,13 @@
         <xsl:element name="internetMediaType">application/pdf</xsl:element>
         </xsl:element>
     </xsl:template>
-    
+
+    <!-- TODO: Make this work for the Call number. -->
+    <xsl:template match="//marc:datafield[@tag='092']">
+        <xsl:element name="chicken">
+            <xsl:attribute name="type">Call-number</xsl:attribute>
+            <xsl:value-of select="."/>
+        </xsl:element>
+    </xsl:template>
 </xsl:stylesheet>
 
