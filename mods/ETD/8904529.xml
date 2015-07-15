@@ -24,7 +24,8 @@
          <roleTerm type="code" authority="marcrelator"/>
       </role>
    </name>
-   <typeOfResource>software, multimedia</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
    <genre authority="marcgt">government publication</genre>
    <originInfo>
       <place>
@@ -37,7 +38,6 @@
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
    </language>
    <physicalDescription>
-      <digitalOrigin>digitized microfilm</digitalOrigin>
       <form authority="marcform">electronic</form>
       <reformattingQuality>access</reformattingQuality>
       <internetMediaType>application/pdf</internetMediaType>
@@ -80,5 +80,5 @@
       <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
    </recordInfo>
-   <identifier type="dewey">378.76 L930D 1988 CHAL MICROFICHE 1900 NO.1988-79</identifier>
+   <identifier type="dewey">378.76 L930D 1988 CHAL</identifier>
 </mods>

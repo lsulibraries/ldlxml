@@ -74,7 +74,7 @@
         <xsl:element name="identifier">
             <xsl:attribute name="type">dewey</xsl:attribute>
             <xsl:value-of
-                select="//marc:record/marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
+                select="marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
         </xsl:element>
 </xsl:template>
 
