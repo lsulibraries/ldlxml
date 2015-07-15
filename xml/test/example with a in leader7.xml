@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Development of techniques for studying interactions of organic compounds with complex solid matrices</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Chalasani, Devi</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <!-- missing 
+         <digitalOrigin>digitized microfilm</digitalOrigin>
+      BUT
+          this is only possible with a m in leader7     -->
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 223 leaves ; 29 cm.</extent>
+      <extent>242 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A combination of high resolution solid state nuclear magnetic resonance spectroscopy, and solvent extractions with solvents of varying polarities was used to identify the mechanism of interaction between hazardous organic and/or inorganic wastes and a Portland Cement based system. Ethylene glycol (EG), p-bromophenol (pBP), p-chlorophenol (pCP), p-(aminomethyl)phenol (pAMP) were used as model organic wastes, and cadmium and lead hydroxide sludges were used as model inorganic wastes. Type I Portland Cement, with and without soluble silicate additive, was solidified with water and various waste mixtures. The soldified samples were examined by solvent extractions and by NMR at various time intervals.;Chemical extractions of EG with solvents of varying polarities (water, DMSO, DCM), reveal that EG is not ""stabilized"" to a significant degree, and its effect on the cement matrix is large enough to substantially affect the solidification process, even at low concentrations (2%). A major break in the extraction behaviour of EG was observed between 10% and 20% loadings in the DMSO extractions. Phenols (pBP and pCP) were not effectively immobilized toward water leaching at any concentration or any time of cure studied. However, a decrease in percent recovery with increasing phenol loadings was observed in water extractions.;$\sp{29}$Si NMR of Type I Portland cement clinker revealed the presence of orthosilicate units characteristic of tricalcium and dicalcium silicate phases. Both tetrahedral and octahedral coordinations of Al were distinguished in the cement clinker ($\sp{27}$Al NMR measurements). Partial hydration of aluminate phases has occurred in the cement clinker. The dimeric silicate unit is the major component of the mature cement matrix after 28 days and longer. Soluble silicates accelerated the hydration of both silicate and aluminate phases.;EG, pCP and pBP accelerated the onset of both silicate and aluminate hydrations compared to cement alone but retarded the later stages of hydration. In contrast to the cement control, the organics incorporated into the silicate and aluminate phases appear to solubilize the silicate and aluminate hydrates in water. Cadmium hydroxide sludge had no major effect on the hydration reactions. Lead hydroxide sludge had a severe retarding effect on the hydration reactions upto 7 days."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Devi Chalasani.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5304.;Director: Frank K. Cartledge."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 175-180).</note>
+   <subject authority="lcsh">
+      <topic>Hazardous wastes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Portland cement</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Nuclear magnetic resonance spectroscopy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Solvent extraction</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904529</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22771316</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901203</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1012221</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 CHAL</identifier>
+</mods>
