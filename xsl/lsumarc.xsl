@@ -71,18 +71,12 @@
     </xsl:template> -->
     
     <xsl:template name="DeweycallNumber">
-            <xsl:choose>
-                <xsl:when test="(marc:datafield[@tag='999']/marc:subfield[@code='w']='DEWEY')">
-                    <xsl:element name="identifier">
-                        <xsl:attribute name="type">dewey</xsl:attribute>
-                        <xsl:value-of select="marc:datafield[@tag='999']/marc:subfield[@code='a']"/>
-                    </xsl:element>
-                </xsl:when>
-            <xsl:otherwise>
-                <!-- create an error message that reports no Dewey call number -->
-            </xsl:otherwise>
-            </xsl:choose>
-    </xsl:template>
+        <xsl:element name="identifier">
+            <xsl:attribute name="type">dewey</xsl:attribute>
+            <xsl:value-of
+                select="//marc:record/marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
+        </xsl:element>
+</xsl:template>
 
 </xsl:stylesheet>
 
