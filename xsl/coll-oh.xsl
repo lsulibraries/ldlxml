@@ -130,7 +130,7 @@
         </xsl:element>
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">use and reproduction</xsl:attribute>
-            <xsl:call-template name="contact-and-ordering-information"/>
+            <!-- create a value-of for use and reproduction? -->
         </xsl:element>
     </xsl:template>
     <xsl:template name="location">

@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0"
     xmlns="http://www.loc.gov/mods/v3">
-    <xsl:import href="marc21slimMods3-5.xsl"/>
+    <xsl:import href="MARC21slim2MODS3-5.xsl"/>
     <xsl:import href="util-date.xsl"/>
     <xsl:import href="util-name.xsl"/>
     <xsl:output indent="yes"/>
@@ -33,6 +33,7 @@
 
                                 <xsl:call-template name="marcRecord"/>
                                 <xsl:call-template name="DeweycallNumber"/>
+                                <xsl:call-template name="location"/>
 
                             </mods>
                         </xsl:result-document>
@@ -77,6 +78,43 @@
                 select="marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
         </xsl:element>
 </xsl:template>
+    
+    <xsl:template name="location">
+        <xsl:element name="location">
+            <xsl:element name="physicalLocation">LUU</xsl:element>
+            <xsl:element name="physicalLocation">LSU Libraries</xsl:element>
+            <xsl:element name="url">http://www.lib.lsu.edu</xsl:element>
+            <xsl:element name="holdingSimple">
+                <xsl:element name="copyInformation">
+                    <xsl:element name="subLocation">Middleton Stacks</xsl:element>
+                    <xsl:element name="shelfLocator">
+                        <xsl:value-of
+                            select="marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
+                    </xsl:element>
+                </xsl:element>
+            </xsl:element>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- edit these templates for etds -->
+    <xsl:template name="contact-and-ordering-information">
+        <xsl:attribute name="type">use and reproduction</xsl:attribute>
+        To inquire about ordering copies of these images, email ???
+    </xsl:template>
+    <xsl:template name="access">
+        <xsl:element name="note">
+            <xsl:attribute name="type">ownership</xsl:attribute>
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </xsl:element>
+        <xsl:element name="accessCondition">
+            <xsl:attribute name="type">restriction on access</xsl:attribute>
+            Physical rights are retained by LSU Libraries. Copyright??? 
+        </xsl:element>
+        <xsl:element name="accessCondition">
+            <xsl:attribute name="type">use and reproduction</xsl:attribute>
+            To inquire about ordering copies of these images, email lusdiglib@lsu.edu ????
+        </xsl:element>
+    </xsl:template>
 
 </xsl:stylesheet>
 

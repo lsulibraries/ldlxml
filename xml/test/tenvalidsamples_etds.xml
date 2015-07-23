@@ -1130,4 +1130,128 @@
             <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 192 (T824757384)</marc:subfield>
         </marc:datafield>
     </marc:record>
+    <marc:record>
+        <marc:leader>04014cam a2200421Ka 4500</marc:leader>
+        <marc:controlfield tag="001">u1896222</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="005">20030516105313.0</marc:controlfield>
+        <marc:controlfield tag="006">m        d s      </marc:controlfield>
+        <marc:controlfield tag="007">cr un---------</marc:controlfield>
+        <marc:controlfield tag="008">030516s2001    lau          s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)52260151</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUU</marc:subfield>
+            <marc:subfield code="c">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lee, Clarence Matthew,</marc:subfield>
+            <marc:subfield code="d">1973-</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Influence of short-term endurance exercise training on heart rate variability</marc:subfield>
+            <marc:subfield code="h">[electronic resource] /</marc:subfield>
+            <marc:subfield code="c">by Clarence Matthew Lee.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="256" ind1=" " ind2=" ">
+            <marc:subfield code="a">Electronic data.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Baton Rouge, La. :</marc:subfield>
+            <marc:subfield code="b">Louisiana State University,</marc:subfield>
+            <marc:subfield code="c">2001]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">276 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 63-04, Section: B, page: 1809.;Director:  Robert H. Wood.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;The purpose of this investigation was to determine if 8 exercise endurance training (ET) sessions over 2 weeks significantly alters cardiac autonomic modulation, as measured by heart rate variability (HRV). Twenty-four college-aged males were recruited for this study and were randomized into either an exercise group (EX; n = 12) or a control group (CT; n = 12). EX underwent 2 weeks of ET on a cycle-ergometer (frequency: four times/week; duration: 40 minutes; intensity 80--85% HRreserve), whereas CT was instructed not to alter their previous level of physical activity. Five-minute ECG tracings were collected for HRV under the following conditions: 5 minutes of paced breathing at a frequency of 12 breaths/minute (PB), 5 minutes of spontaneous breathing (SB1), 5 minutes of 70-degree head-up tilt on a tilt table (TILT), and a second 5-minute period of spontaneous breathing (SB2). The data were collected on 5 occasions (Test 1--Test 5) during a 2-week period. HRV was reported as the standard deviation of RR intervals, and as normalized units (NU) of the natural logarithm of high- and low-frequency power (InHF and InLF). A mixed-model analysis of variance (ANOVA) with repeated measures was used to evaluate any Group X Time interaction, or main effects of Group or Time on HRV. Alpha was set at 0.05. EX exhibited a significant increase in peak oxygen consumption (8%), whereas this parameter was unchanged in CT. During PB, ANOVA revealed a Group X Time interaction such that EX exhibited decreases in InLFNU (2.89 vs. 3.45 In%) and lnLF/1nHF (0.82 vs. 0.90) during Test 5 compared to Test 1, while there were no such differences across time in CT. Additionally, there was a Group X Time interaction during TILT such that EX exhibited lower InLFNU (4.12 vs. 4.42 In%) and InLF/InHF (1.12 vs. 1.46), and greater InBFNU (3.52 vs. 2.53 In%) during Test 5 compared to Test 1, while these indices were unchanged across time in CT. These data suggest that 8 ET sessions over 2 weeks increases vagal modulation of the heart. Furthermore, these data suggest that it takes at least 8 ET sessions to induce such changes.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: World Wide Web.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Title from document title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2=" ">
+            <marc:subfield code="a">exercise training</marc:subfield>
+            <marc:subfield code="a">heart rate variability</marc:subfield>
+            <marc:subfield code="a">cardiovasular</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Kinesiology.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://etd.lsu.edu/docs/available/etd-1108101-143050/</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3049218</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="994" ind1=" " ind2=" ">
+            <marc:subfield code="a">X0</marc:subfield>
+            <marc:subfield code="b">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI3049218</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">ELECTRONIC DISSERTATION 2001 LEE</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1896222-1001</marc:subfield>
+            <marc:subfield code="l">ONLINE</marc:subfield>
+            <marc:subfield code="m">MIDL-MAIN</marc:subfield>
+            <marc:subfield code="r">N</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">ONLINE</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">E-DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.2001-216</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518094411182</marc:subfield>
+            <marc:subfield code="j">3</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">1/8/2003</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF. recvd. 1/8/03;omh;</marc:subfield>
+        </marc:datafield>
+    </marc:record>
 </marc:collection>
