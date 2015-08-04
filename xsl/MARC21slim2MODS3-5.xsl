@@ -5170,13 +5170,15 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 	</xsl:template>
 
 	<xsl:template name="createSubFrom653">
-
+<!-- edited by LSU/ template was calling the parent element value instead of the child element that actually contained values -->
 		<xsl:if test="@ind2=' '">
-			<subject>
-				<topic>
-					<xsl:value-of select="."/>
-				</topic>
-			</subject>
+			<xsl:for-each select="marc:subfield[@code='a']">
+				<subject>
+					<topic>
+						<xsl:value-of select="."/>
+					</topic>
+				</subject>
+			</xsl:for-each>
 		</xsl:if>
 		<xsl:if test="@ind2='0'">
 			<subject>

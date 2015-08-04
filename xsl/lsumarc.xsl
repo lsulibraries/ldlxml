@@ -33,7 +33,10 @@
 
                                 <xsl:call-template name="marcRecord"/>
                                 <xsl:call-template name="DeweycallNumber"/>
+                                <xsl:call-template name="ProQuestID"/>
                                 <xsl:call-template name="location"/>
+                                <xsl:call-template name="access"/>
+                                
 
                             </mods>
                         </xsl:result-document>
@@ -63,14 +66,6 @@
         <xsl:value-of select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>
     </xsl:template>
     
-   <!-- does this work? Do we need it, or is this info covered by what the main template does to the 001 field? 
-       <xsl:template name="proquestid">
-        <xsl:element name="identifier">
-            <xsl:attribute name="type">proquestID</xsl:attribute>
-        <xsl:value-of select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>
-        </xsl:element>
-    </xsl:template> -->
-    
     <xsl:template name="DeweycallNumber">
         <xsl:element name="identifier">
             <xsl:attribute name="type">dewey</xsl:attribute>
@@ -78,6 +73,13 @@
                 select="marc:datafield[@tag='999']/marc:subfield[@code='a'][../marc:subfield[@code='w']/text()='DEWEY']"/>
         </xsl:element>
 </xsl:template>
+    <xsl:template name="ProQuestID">
+        <xsl:element name="identifier">
+            <xsl:attribute name="type">dewey</xsl:attribute>
+            <xsl:value-of
+                select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>
+        </xsl:element>
+    </xsl:template>
     
     <xsl:template name="location">
         <xsl:element name="location">
@@ -96,23 +98,23 @@
         </xsl:element>
     </xsl:template>
     
-    <!-- edit these templates for etds -->
-    <xsl:template name="contact-and-ordering-information">
-        <xsl:attribute name="type">use and reproduction</xsl:attribute>
-        To inquire about ordering copies of these images, email ???
-    </xsl:template>
-    <xsl:template name="access">
+     <xsl:template name="access">
         <xsl:element name="note">
             <xsl:attribute name="type">ownership</xsl:attribute>
             LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
         </xsl:element>
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">restriction on access</xsl:attribute>
-            Physical rights are retained by LSU Libraries. Copyright??? 
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
         </xsl:element>
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">use and reproduction</xsl:attribute>
-            To inquire about ordering copies of these images, email lusdiglib@lsu.edu ????
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
         </xsl:element>
     </xsl:template>
 
