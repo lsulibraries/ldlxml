@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Barrier island evolution, delta plain development, and chenier plain formation in Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Penland, Patrik Shea</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 210 leaves : ill. ; 29 cm.</extent>
+      <extent>226 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Coastal Louisiana has long served as a laboratory for delta and chenier plain research due to the presence of North America's largest river, the Mississippi. The development and preservation of transgressive depositional systems in abandoned delta complexes follows the process of transgressive submergence in which the horizontal component of reworking occurs during shoreface retreat, combined with a vertical component of submergence acting to preserve the sequence. The evolution of transgressive depositional systems in each of the abandoned Holocene Mississippi River delta complexes can be summarized in a three-stage model beginning with stage 1, an erosional headland and flanking barriers; stage 2, a transgressive barrier island arc; and stage 3, an inner shelf shoal. The current Mississippi River delta model depicts a single Holocene delta plain consisting of six delta complexes sequentially deposited over the last 7000 years by the delta switching process. The delta plain is now viewed as consisting of two separate delta plains deposited at different sea level positions. Termed the Modern and Late Holocene, these two delta plains are separated by a regional ravinement surface several hundred kilometers along strike in extent and bounded updip by a relict shoreline of maximum transgression, the Teche shoreline. The Late Holocene delta plain consists of a set of delta complexes deposited during a sea level stillstand some 6 m below the present, 7000-4000 yBP. A relative sea level rise between 4000-3000 yBP to about present sea level led to the transgressive submergence of the Late Holocene delta plain, generating Trinity Shoal, Ship Shoal, and the Teche shoreline. The Modern delta plain began building seaward of the Teche shoreline about 3000 yBP. The St. Bernard and Lafourche delta complexes and associated transgressive shorelines represent the abandoned portions of the Modern delta plain, separated from the underlying Late Holocene delta plain by the regional Teche ravinement surface."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Patrick Shea Penland.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-12, Section: B, page: 5787."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 122-131).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Deltas</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Barrier islands</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Mississippi River Delta (La.)</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9112261</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28442017</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930713</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198613</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 PENL</identifier>
+   <identifier type="dewey">9112261</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 PENL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

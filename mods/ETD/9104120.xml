@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Palynological and carbon-isotopic techniques for reconstruction of paleomarsh slainity zones</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chmura, Gail Lois</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 127 leaves : ill. ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Palynological and carbon-13 analyses were studied to determine their practicality as tools for paleoecological reconstruction of marsh vegetation communities of the Mississippi delta plain. Both were calibrated on marsh surface sediment samples from four vegetation zones within Barataria Basin, Louisiana: fresh, intermediate, brackish and salt marsh. Samples were taken concurrent to vegetation sampling to allow comparison of sediment data to plant biomass and clip plot data from each of the four zones.;The $\partial\sp $C of sedimentary carbon reflects the proportion of C-3 and C-4 species at a site (which corresponds to a salinity gradient in the basin). The average from all sites within each wetland type is $-$27.8, $-$22.1, $-$16.9 and $-$16.2$\perthous$, for fresh, intermediate, brackish and salt marshes. This method can distinguish among the fresh, intermediate and brackish vegetation zones.;A seasonal study of pollen carried by Mississippi River was conducted to determine the impact of river floodwaters on a marsh pollen assemblages. River water assemblages vary seasonally and reflect pollen sources from without the drainage basin. Types abundant during high river stage, indeterminate grains (assumed to present reworked material), Pinus, Quercus, Taxodium, TCT, Ambrosia and Chenopodiaceae-Amaranthaceae type, are assumed to be over-represented in marshes subject to river flooding.;Each of the four vegetation zones has a characteristic pollen assemblage. Assemblages are not affected by over-representation of local sources, but appear to reflect the composition of the entire vegetation zone (extra-local sources). Classification of modern pollen assemblages by discriminant functions is highly successful (94% correct classification rate) even when common river-borne taxa are excluded from the analysis.;When applied to buried marsh deposits (ca. 2,000 yr B.P.) classification results from both techniques generally agree indicating that $\partial\sp $C values are not significantly shifted by diagenetic processes in the sediments. Comparison of information provided by both techniques, however, also demonstrates that important analogues (i.e., progradational marshes) are missing from the suite of modern samples."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Gail Lois Chmura.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4249."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 102-111).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-ms</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Paleoecology</topic>
+      <geographic>Mississippi River Valley</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Palynology</topic>
+      <geographic>Mississippi River Valley</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wetlands</topic>
+      <geographic>Mississippi River Valley</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104120</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27211434</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930108</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160021</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 CHMU 378.76 L930D 1990 CHMU</identifier>
+   <identifier type="dewey">9104120</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 CHMU 378.76 L930D 1990 CHMU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

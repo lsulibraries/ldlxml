@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Sediment and particulate organic carbon transport dynamics in the Barataria Basin, Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Booth, John Gregory.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and Coastal Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 136 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>137 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The transport of sediment and particulate organic carbon (POC) in the Barataria Basin was examined using techniques from the fields of geochemistry, remote sensing and environmental modeling. Monthly (deposition) and decadal (burial) rates of sediment and POC transport were quantified from bottom sediment samples. Sediment and POC deposition rates, based on 7Be inventories, ranged from -1.6E3 to 1.42E4 g m-2 yr-1 and 122 to 1066 g C m-2 yr-1, respectively. Sediment and POC burial rates, based on excess 210Pb down-core distributions, ranged from 3.8E2 to 2.0E3 g m-2 yr-1 and 27 to 37 g C in 2 yr-1, respectively. Deposition rates varied with location in the basin in response to seasonal wind patterns, whereas burial rates were likely the result of stronger weather events such as tropical storms and hurricanes. A comparison of deposition and burial rates indicates that 2 to 7% of the annually deposited POC was buried in bottom sediments of open water environments. Physical transport (not remineralization) accounted for the majority of the difference between POC deposition and burial at the two locations examined, as 3 to 10% of the annually deposited sediment was buried at the same locations.;An empirical model of sediment resuspension as a function of wind speed, direction, fetch and water depth was derived from wave theory and validated using satellite remotely sensed radiance information. Seasonal resuspension characteristics reveal that resuspension is most intense between late fall and early spring. Model predictions of the critical wind speed required to induce resuspension indicate that winds of 4 m/s (averaged over all wind directions) resuspend approximately 50% of bottom sediments (on an areal basis) in the water bodies examined. Winds of this magnitude (4 m/s) occurred 80% of the time during the late fall, winter and early spring and approximately 30% of the time during the summer. More than 50% of the bottom sediments were resuspended throughout the year, indicating the importance of resuspension as a process affecting sediment and biogeochemical fluxes in the Barataria Basin."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by John Gregory Booth.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2567."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936084</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41397978</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990517</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920259</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BOOT</identifier>
+   <identifier type="dewey">9936084</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BOOT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

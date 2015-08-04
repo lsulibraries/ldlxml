@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>synthesis, characterization, and reactivities of metal tetratertiaryphosphine complexes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Laneman, Scott Anthony</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 173 leaves : ill. ; 29 cm.</extent>
+      <extent>191 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The synthesis of the binucleating tetratertiary phosphine ligand R$\sb2$PCH$\sb2$CH$\sb2$ (Ph)PCH$\sb2$P(Ph)CH$\sb2$CH$\sb2$PR$\sb2$ (R = Et, Ph), (LTTP), is described and several new bimetallic systems have been characterized. LTTP ligand design features include the combination of bis(phosphino)methane bridge with bis(phosphino)ethane chelating units. These merging functionalities can coordinate two transition metal centers and allow bimetallic reactivity from intramolecular interactions. eLTTP (R = Et) contains electron-rich alkyl-phosphines which also strongly coordinate and discourage fragmentation of the metal complex. Another class of tetratertiaryphosphines, where the central methylene groups is replaced by a central propylene (eLTTP-pr) and/or p-xylylene group (eLTTP-p-xyl), are synthesized and characterized along with three bisphosphines, Et$\sb2$PCH$\sb2$CH$\sb2$P(Ph)Me, Et$\sb2$PCH$\sb2$CH$\sb2$PPh$\sb2$, Et$\sb2$PCH$\sb2$CH$\sb2$PEt$\sb2$ for monometallic model studies.;The reaction of two equivalents of NiCl$\sb2\ \cdot$ 6H$\sb2$O with the ethyl-substituted version of LTTP (eLTTP) in EtOH produces both meso- and racemic-diastereomeric forms of Ni$\sb2$Cl$\sb4$(eLTTP), which readily crystallizes from THF to produce THF-solvated crystals. Single crystal X-ray structure analyses of meso-Ni$\sb2$Cl$\sb4$(eLTTP) and rac-Ni$\sb2$Cl$\sb4$(eLTTP) are presented.;The reaction of ((CO)$\sb2$RhCl) $\sb2$ with eLTTP yields the rhodium(I) eLTTP dimer Rh$\sb2$Cl$\sb2$(CO)$\sb2$(eLTTP). Reaction of (Rh(NBD)$\sb2$) BF$\sb4$ (NBD = 1,5-norbornadiene) with the above tetraphosphine and bisphosphine ligands mentioned above produces square-planar cationic rhodium(I) complexes of type (Rh$\sb{\rm n}$-(NBD)$\sb{\rm 2n}$P$\sb2$) $\sp{\rm n+}$(BF$\sb4\sp-$)$\sb{\rm n}$ (P$\sb2$ = a chelate bisphosphine when n = 1; P$\sb2$ a single tetraphosphine ligand forming two separate five-membered chelate rings when n = 2). These metal complexes were identified with $\sp{31}$P$\{\sp1$H$\}$ and $\sp1$H NMR.;Homobimetallic rhodium complexes based on the electron-rich binucleating tetratertiaryphosphine eLTTP are remarkably active and selective hydroformylation catalysts. Initial rates of 740/hr and high selectivities (ratios of linear to branched aldehyde products of 25-30:1) at 80$\sp\circ$C/80 psi have been seen for 1-hexene. The increase in catalytic activation is believed to be due to bimetallic cooperativity via intramolecular hydride transfer. This proposal has been tested by comparison with monometallic model systems and bimetallic systems with ligands that increase the distance between the two metal centers. Together, these results are the most dramatic examples of homobimetallic cooperatively observed for a catalytic process."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Scott Anthony Laneman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-12, Section: B, page: 5861."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 132-139).</note>
+   <subject authority="lcsh">
+      <topic>Ligands (Biochemistry)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ligand binding (Biochemistry)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9112244</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28449252</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930714</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198799</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 LANE</identifier>
+   <identifier type="dewey">9112244</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 LANE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

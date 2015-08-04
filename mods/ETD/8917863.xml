@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Amino acid responses of olfactory bulb cells in the channel catfish</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Thompson, Hilary Winfield</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Zoology and Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 117 leaves ; 29 cm.</extent>
+      <extent>124 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Amino acid (AA) responses of olfactory bulb (OB) mitral cells (MC) in the catfish, Ictalurus punctatus, were studied electrophysiologically. A total of 63 cells were recorded in 28 fish in two separate experiments. For the first study, 27 cells in 22 fish were studied with olfactory tract (OT) intact during stimulation with 10$\sp{-6}$ M to 10$\sp{-2}$ M concentrations of 11 AA. MC responses were quantified by interspike interval (ISI) variables sensitive to inhibition (maximum ISI) and excitation (number of action potentials (AP), minimum ISI). APs were also counted in subdivisions to produce a measure sensitive to MC response temporal patterning. These measures were applied during the rise and fall of olfactory receptor input, indicated by the summed receptor output, the electro-olfactogram (EOG). ISI variables, stable during background activity and well water applications, changed significantly upon AA stimulation. Stimulus concentrations regressed against ISI variables showed increases and decreases during stimulation with increasing concentrations. Regressions fitted to these dose-response curves were nonlinear. Responses to some AA were more reproducible than responses to others. This phenomenon may be part of stimulus intensity representation in catfish OB. In study two, MCs were recorded with OT intact and transected, to isolate the OB from the central nervous system. Bulb isolation was conducted on 6 fish and 36 cells (18 different cells each from intact and isolated bulbs). All cells were stimulated with 5 AA at concentrations from 10$\sp{-5}$ M to 10$\sp{-3}$ M. Response changes following OT transection were increased ISIs and decreased maximum ISI. Three response classes (cluster analysis) of ISI variables from the first 1.5 seconds of the response were: inhibition, excitation and inhibition and excitation in one response. Inhibitory responses were rare after tract transection. Correlations of action potential counts evoked by different AA showed that the bulb cell population discriminated stimuli, but individual cells could not. AA discrimination was reduced after OB isolation, because responses became more alike. These data suggest that stimulus quality and intensity representation in the catfish olfactory system involves a central comparison of MC responses."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Hilary Winfield Thompson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1800."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 100-111).</note>
+   <subject authority="lcsh">
+      <topic>Channel catfish</topic>
+      <topic>Sense organs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Channel catfish</topic>
+      <topic>Physiology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917863</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307610</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062555</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 THOM</identifier>
+   <identifier type="dewey">8917863</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 THOM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

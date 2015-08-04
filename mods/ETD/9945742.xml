@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Rhetoric and institutional environments</title>
+      <subTitle>the legitimation of higher education in twentieth century America</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>St. Antoine, Thomas J.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 211 leaves ; 29 cm.</extent>
+      <extent>212 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation seeks to discover and analyze the divergent ways that higher education has been legitimated by American discourse in the twentieth century. Institutions of higher learning have been able to survive and flourish because they have been seen as essential to the health of a democracy, of a free-market economy, and of religious institutions. However, the explanations for such legitimacy have been diverse and varied.;Bormann's fantasy theme analysis can account for the values and beliefs that form the institutional environments shaping and legitimating organizations such as colleges and universities. Fantasy themes expressed in popular discourse are expressions of the shared social reality of those who enact organizations. My dissertation study explores the ways that rhetorical visions of higher education have changed or persisted in the twentieth century, and it also considers whether positive public sentiments toward colleges and universities have been enhanced or undermined by these shared fantasies. Texts for analysis included the addresses, essays, and books of significant figures from a variety of areas including education, government, and business.;The results reveal tension between individualistic and communal fantasy themes. One also recognizes competition for control of education, and such competition impinges on the independence of the academy. A college degree has been presented as useful for equipping individuals to be self-sufficient, financially prosperous, virtuous citizens. Conversely, colleges have also been valued for encouraging students to become servant leaders in a democracy, productive members of the business community, and benevolent members of a spiritual community. In recent discourse, however, the individualistic fantasy has dominated, and higher education has surrendered independence and power to government and industry. These findings are significant because educational rhetoric helps us to understand current beliefs and practices in higher education by tracing the historical development of these attitudes. The results also clarify the relationship between rhetoric and the environments within which organizations exist."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas J. St.Antoine.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: A, page: 3202."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945742</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42138780</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990817</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920689</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 STAN</identifier>
+   <identifier type="dewey">9945742</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 STAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Interactions of minerals and organic materials along the salinity gradient in Barataria Basin, Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kastler, Jessica Anne</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and Coastal Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 132 leaves : ill. ; 29 cm.</extent>
+      <extent>133 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Changes in the associations among mineral and organic materials in estuaries may control the nature and quantity of organic material (OM) preserved in sediment deposits or cycled in the water column. Estuarine sediment-OM attachments were examined using descriptive analyses and experiments to assess their response to salinity changes and the bioavailability of sedimentary OM. Desorption experiments compared the amount of organic carbon extracted from sediment in rinses of different salinity. Uptake experiments monitored changes in carbon and bacteria concentrations to compare the bioavailability of dissolved and sedimentary OM. Clay mineralogy, surface area and elemental analysis of suspended and deposited sediment were examined along the salinity gradient. Salinity, suspended sediment, dissolved and particulate organic carbon, and chlorophyll concentrations were used to describe water quality.;Experimental sediment OM releases of   &amp;sim; 1--5% (deposit) up to 30% (suspension) were controlled primarily by sediment organic content and secondarily by salinity, pH and DOC. Bacteria consumed both DOM (  &amp;sim; 11%) and sedimentary OM (43--79%). The largest losses were from suspended sediment OM (65--79%), and corresponded to growth of the largest bacterial populations (30 x 106 cells mL--1 ). Fine sediment was composed of smectite, illite, kaolinite and chlorite. Mineralogical variation was attributed to resuspension effects. Sediment surface area averaged 28.5 m2 g--1 (deposit) to 55.0 m2 g--1 (suspension). Deposited sediment averaged 4.1% organic carbon and 0.4% nitrogen; with values increasing upstream. Concentrations of both were higher in suspended sediment (OC = 8.3%, TN = 0.9%). Carbon to nitrogen ratios were lower in deposited than suspended sediment (  &amp;sim; 11.3 and 13.5, respectively), suggesting that suspended sediment was enriched in labile organic components. Physical characteristics, including clay mineralogy and surface area, control the amount of organic carbon attached to sediments. Environmental factors, such as distance from the mouth of the bay and chlorophyll concentration, determine the nitrogen content and thus the lability of attached organic material.;A conceptual model supported by the experimental results and descriptive data, suggests that labile OM adsorbs to sediment in productive regions and carries it to poorer regions where it can be released. Through this mechanism, suspended sediment influences the distribution and consumption of OM in estuaries."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jessica Anne Kastler.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2588."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936097</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41391445</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990519</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920292</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 KAST</identifier>
+   <identifier type="dewey">9936097</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 KAST</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

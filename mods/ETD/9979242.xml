@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Biometrical models for predicting future performance in plant breeding</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Balzarini, Mónica Graciela</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Agronomy Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 128 leaves : ill. ; 29 cm.</extent>
+      <extent>129 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The plant breeding process begins with the selection of parents and crosses. Promising progeny from these crosses progress through a series of selection stages that typically culminate in multi-environment trials. I evaluated best linear unbiased predictors (BLUP), other predictors and prediction models at the initial (cross prediction), early replicated testing and late (multi-location) stages of a sugarcane breeding selection cycle. Model and predictor accuracy was assessed in the first two stages by using cross-validation procedures. I compared statistical models of progeny test data in their ability to predict the cross performance of untested sugarcane crosses. Random parental effect predictors and a random cross effect predictors were compared to mid-parent values (MPV) derived from a fixed female-male parental effect model. The cross effect model was evaluated with and without incorporating the genetic relationships among tested crosses into the BLUP derivation. Models with BLUP-based predictors showed smaller mean square prediction error and higher fidelity of top cross identification than the MPV for all traits evaluated. The MP-BLUP was consistently the best one.;Prediction of per se (genotype) performance is needed during the selection process and requires combining information from different trials. The study investigated three mixed models involving three versions of BLUPs estimated under different strategies, a fixed least squares genotype means model, and four check-based methods for combining information at early replicated stages. BLUP-based predictors were superior to the currently used predictor (average percent of check cultivar). In addition, BLUP accuracy was not dependent on check values.;In later selection stages, when few and highly selected genotypes are evaluated, genotype effects may be assumed fixed. By assuming genotype-by-environment interaction effects as random, the modeling of the covariance matrix allowed direct estimation of stability and genotype-by-environment measures. Closely related mixed models involving covariance parameters related with genotype-by-environment interaction were estimated. The covariance structure of the observations under the mixed models adjusted the genotype mean separation. Stability parameters were integrated into broad (across environment) and narrow (environment specific) inferences about genotype yield performances. A procedure to obtain visual representation of the genotype-by-environment interaction (BIPLOT) under a mixed AMMI model was also derived."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mónica Graciela Balzarini.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3355.;Directors:  Scott Milligan; Manjit Kang."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979242</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44176044</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921297</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BALZ</identifier>
+   <identifier type="dewey">9979242</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BALZ</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

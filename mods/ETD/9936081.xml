@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>introduction to Joaquin Nin (1879-1949) and his Veinte Cantos Populares Españoles</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Anthon, Gina Lottinger.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School. of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 49 leaves ; 29 cm.</extent>
+      <extent>50 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Joaquin Nin was a leading figure in the renaissance of Spanish music in the early part of the twentieth century. A virtuoso concert pianist, he championed the music of little-known 17th and 18 th century Spanish composers, performing their works alongside Bach, Couperin, and Liszt. Nin's editions of ""ancient"" Spanish music and his arrangements of popular songs and dances brought a body of virtually unknown repertoire---the exotic music of the Iberian Peninsula---to a broader public.;The purpose of this paper is to better acquaint the reader with Joaquin Nin and his first compositions, Veinte Cantos Populares Espanoles . Although Nin is cited in several reference volumes, there has been very little research dedicated solely to his contributions. The author attempts to piece together the disparate information available, thereby providing a springboard for others interested in further study. Chapter One is a brief biographical sketch of Nin based largely on his own writings and on facts gathered from his son, Joaquin Nin-Culmell. Chapter Two surveys his solo vocal music, discusses the Veinte Cantos Populares Espanoles , and considers eight representative songs from that collection performed on the lecture/recital. The appendix includes EPA transcriptions of  Veinte Cantos Populares Espanoles and a listing of the songs included in Nin's vocal collections.;In the Veinte Cantos Populares Espanoles, Nin crafted accompaniments that not only complement the melodies, but also allow the spirit of the folksong to radiate. Cultivating his individual expression by utilizing elements from both the Hispanic and impressionistic idioms while drawing from his innate sense of style and artistry and his extensive training as a pianist, Nin contributed artsongs of lasting value to the Spanish repertoire. It is the hope of the author that this short document and lecture/recital will encourage others to pursue the study of these and other songs by Joaquin Nin and enable the song connoisseur to appreciate his unique role in the history of Spanish song."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Gina Lottinger Anthon.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: A, page: 1816."</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936081</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41374625</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990517</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920256</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 ANTH</identifier>
+   <identifier type="dewey">9936081</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 ANTH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

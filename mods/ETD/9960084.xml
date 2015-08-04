@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Out of sight, out of mind</title>
+      <subTitle>a GIS study of changes in cemetery locations in Southeastern Louisiana from an archaeological and geographical perspective, 1930-1997</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Nance, Cindy Ann.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 339 leaves : ill. (mostly col.) ; 29 cm.</extent>
+      <extent>340 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Cemeteries in southeastern Louisiana are in varying stages of use---from presently in use and maintained to no longer visible on the surface. The abandonment of traditional cemeteries in southeastern Louisiana illustrates evolving settlement patterns. Earlier settlement patterns were dependent on physiographic and cultural landscape features. As settlement patterns evolve, the preferred locations of cemeteries change.;As a recent participant in the nationwide preference for urban-associated Memorial Parks, is Louisiana in the process of abandoning traditional cemetery landscapes? Six factors that contribute to the abandonment of traditional cemeteries from 1930 to 1997 are presented in this study. Evolving communities, demographic shifts, transportation development, urbanization and recent local and national legislation are examined as factors contributing to the abandonment of traditional cemetery landscapes.;By applying archaeology to geography, changes in temporal and spatial relationships of cemeteries are examined as indicators of socio-cultural and settlement pattern change. In this study, I use Geographic Information Systems (GIS) combined with historic to present cartographic research and field survey to assess cemetery conditions within a 90-kilometer radius of Louisiana's capital, Baton Rouge. I apply a multi-scale approach to data from the United States Census, United States Geological Survey, Geographic Names Information System, United States Army Corps of Engineers, State of Louisiana Division of Archaeology, Transportation Development, Cemetery Board, and various local archives, news media and ethnographies.;In southeastern Louisiana, Memorial Parks are situated at intervals approximating 30 kilometers along interstates and near urban cores. Traditional cemeteries are distributed throughout the landscape at intervals as frequent as 3 kilometers apart. Historically, in southeastern Louisiana burial places were highly visible and dependent upon waterways, railroads and rural highways as transportation corridors. Memorial Parks, however, are situated near commercially advantageous superhighways and serve to displace visible signs of burial. A change in cemetery landscape preference is evidence for evolving perceptions of space, time and distance. In America, and globally, the elimination of spatial barriers and the annihilation of space by time has created new spatial relationships for burial places."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Cindy Ann Nance.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: A, page: 7220."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960084</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43363924</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000128</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921022</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 NANC</identifier>
+   <identifier type="dewey">9960084</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 NANC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

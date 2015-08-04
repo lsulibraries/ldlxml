@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Beta-endorphin receptors on equine lymphocytes</title>
+      <subTitle>relationship to immune function and exercise</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Hamra, Jena Gosselink</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 231 leaves : ill. ; 29 cm.</extent>
+      <extent>245 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Current evidence suggests that endogenous opioids are released in response to various stressors and that these opioids interact with cells of the immune system, and modulate immune function. However, data substantiating this are conflicting. Therefore, this study endeavored to clarify the role of beta-endorphin (BE) in exercise and immune function.;Beta-endorphin exhibited a diurnal rhythm in the horse with peak plasma levels occurring at 0900 hours. Analgesia, tachycardia and mydriasis were also observed at this time, mimicking the effects of morphine in the horse. Therefore, subsequent experiments were performed at 0900 hours during times of increased basal opioid activity.;Beta-endorphin levels were increased in response to maximal exercise in the horse. The BE response to exercise was attenuated by physical conditioning and was correlated with exercise intensity. Analgesia was noted in unfit horses but not in fit horses after a standardized exercise bout, suggesting that unfit horses experience greater stress when exercised. Naloxone administration resulted in prolonged increases in BE levels following exercise in fit and unfit horses. Naloxone administration also reversed the analgesia noted in fit horses following a more intense exercise bout, but caused hyperalgesia in unfit horses. These results suggest that BE release is controlled through autoreceptors at the hypothalamic or pituitary level and that chronic exercise causes a downregulation of opioid receptors.;Specific, saturable receptors for beta-endorphin were identified on equine lymphocytes which appeared to be a mu/delta receptor complex, with a K$\sb{\rm d}$ of 17 pM and B$\sb{\rm max}$ of 0.538 fmoles/10$\sp6$ cells. Acute exercise resulted in an increased affinity and decreased number of receptors, while chronic exercise resulted in a decreased affinity of the receptor for the ligand. Beta-endorphin suppressed the proliferative response of equine lymphocytes to mitogens through interaction with opioid receptors. Naloxone also suppressed the proliferative response, presumably through opioid receptors.;In conclusion, BE modulates equine immune function through interaction with opioid receptors on equine lymphocytes. Beta-endorphin is also a possible mediator of the effects of acute and chronic exercise on equine immune function, as demonstrated by up- and downregulation of opioid receptors on equine lymphocytes."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jena Gosselink Hamra.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1264."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.) -- Louisiana State University, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 197-230).</note>
+   <subject authority="lcsh">
+      <topic>Endorphins</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <topic>Physiology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <topic>Immunology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123198</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)); 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22991855</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">910121</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199066</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 HAMR</identifier>
+   <identifier type="dewey">9123198</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 HAMR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Synthesis and characterization of alkoxyaniline-terminated monomer monolayers on Au surfaces</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Schomburg, Keith Cory.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xx, 163 leaves : ill. ; 29 cm.</extent>
+      <extent>164 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Monolayers of 2-(6-mercaptohexan-1-oxy)aniline (AnC6SH) and 2-(7-mercaptoheptan-1-oxy)aniline (AnC7SH) on Au were synthesized and investigated by reflection-absorption infrared (RAIR) spectroscopy and electrochemistry. Electrochemical oxidation of AnC6SH/Au and AnC7SH/Au in 1 M H2SO4 to form ox-AnC6SH/Au and ox-AnC7SH/Au resulted in voltammetry indicative of oligomerization and degradation reactions of the aniline functionality. Scanning of the voltammetric potential between 0.0 and +0.9 V and then back to 0.0 V vs. SSCE twice leads to four surface-confined redox waves occurring at +0.25, +0.45, +0.5, and +0.6 V vs. SSCE. The oxidized monolayers were found to exhibit voltammetry similar to that observed for poly(o-phenetidine), which exhibits redox waves for the leucoemeraldine/emeraldine (+0.2 V) and emeraldine/pernigraniline (+0.6 V) transformations and the formation of some quinonemonoimine degradation products (+0.4 V) in the polymer. A redox wave attributed to a quinonediimine dimer (+0.5 V) was also found for the oxidized monolayers. To reduce degradation product formation, AnC6SH/Au and AnC7SH/Au were oxidized in 0.1 M LiClO4/CH3CN to form ox(non-aq)-AnC6SH/Au and ox(non- aq)-AnC7SH/Au. This method of oxidation led to production of only surface-confined, head-to-tail dimers as indicated by comparison of  ox(non-aq)-AnC6SH/Au and  ox(non-aq)-AnC7SH/Au voltammetry with that of solution-phase model compounds (2-methoxy-N 4-phenyl-1,4-phenylenediamine and 3,3'-dimethoxybenzidine).;Reflective-absorption infrared spectroscopy (RAIR) was used to identify the resultant products of aqueous acidic and non-aqueous oxidation of AnC6H/Au and AnC7SH/Au. RAIR spectra for ox-AnC6SH/Au and  ox-AnC7SH/Au displayed vibrations indicative of 1,2,4-coupled surface-confined poly(aniline). A small carbonyl band related to a quinonimine hydrolysis product was also noted in the RAIR spectra of both oxidized monolayers. RAIR spectra for ox(non-aq)-AnC6SH/Au and ox( non-aq)AnC7SH/Au indicated surface-confined aniline dimers were formed with no hydrolysis product.;The electrochemical and microscopic characteristics of poly(aniline) and poly(o-phenetidine) nucleation/growth on AnC6SH/Au and AnC7SH/Au were investigated using electrochemical and scanning probe methods. Electrochemical polymerization of aniline on AnC6SH/Au and AnC7SH/Au yielded loosely adherent polymer films comprised of poly(aniline) nodules as indicated by scanning tunneling microscopy images. Alternatively, poly(o-phenetidine) films on AnC6SH/Au and AnC7SH/Au formed smooth, featureless films that were strongly adherent to the underlying monolayer."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Keith Cory Schomburg.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-08, Section: B, page: 4129."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9984364</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44788226</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000815</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921511</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 SCHO</identifier>
+   <identifier type="dewey">9984364</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 SCHO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

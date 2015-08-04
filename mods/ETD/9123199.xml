@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Assessment of athletic potential and augmentation of performance in thoroughbred racehorses</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Harkins, J. Daniel</namePart>
+      <namePart type="date">1947-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xxv, 324 leaves : ill. ; 28 cm.</extent>
+      <extent>350 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purposes of this dissertation were to (1) determine running abilities of horses on the racetrack, (2) design treadmill standard exercise tests (SETs) to measure exercise variables that correlate with racetrack performance, and (3) assess the influence of training, competition, and ergogenic aids on performance.;Run times of 25 Thoroughbreds were determined during solo and competitive track runs of 1200, 1600, and 2000 meters. Cardiac, respiratory, and hematologic variables were later measured during treadmill SETs. Variables were correlated with average run times. Heart rate scores, V$\sb{200}$, plasma lactate values, and maximal oxygen uptake correlated best with performance.;Interval and conventional methods of training were compared to examine the effect of training method on performance. After 7.5 months of training, there was no difference in performance between groups. Interval training (IT) was more labor intensive, but it improved the durability of the horses.;Interval training was used in a study of the treadmill as a training tool. Treadmill IT was the only conditioning received during a 20-week training period. There was a significant decrease in maximal heart rate during a sub-maximal SET. Cardiovascular fitness was attained solely with treadmill exercise.;The effect of competition was examined by comparing race times for solo and competitive runs. No group ran faster during competition than alone. Run times for males were not affected by competition, while females were consistently slower during competitive runs. There were no differences in run times due to age. The slower competitive run times may have been due to the low quality of horses.;The putative ergogenic effects of sodium bicarbonate and 12% fat supplementation were tested separately by comparing 1600-m run times following administration of the 2 ergogenic aids to a control run. There was no difference between control and bicarbonate run times even though blood pH and lactate were significantly increased following NaHCO$\sb3$ administration. Mean run time was significantly faster following fat supplementation when compared to the control diet. The improved run time may have been due to increased availability of blood glucose, better utilization of ketone bodies for fuel, and decreased ketosis in the fat-fed group which delayed the onset of fatigue."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by J. Daniel Harkins.</note>
+   <note>Abstract.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1286."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph.D.) -- Louisiana State University, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 268-320).</note>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <topic>Physiology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Horses</topic>
+      <topic>Training</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Race horses</topic>
+      <topic>Training</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123199</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)); 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22712388</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">901119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199065</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 HARK</identifier>
+   <identifier type="dewey">9123199</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 HARK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

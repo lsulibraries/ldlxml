@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Development of efficient rice DNA transformation methods and rapid field evaluation of transgenic lines</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Jiang, Junda</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Agronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 131 leaves : ill., (mostly col.)  ; 29 cm.</extent>
+      <extent>132 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A rapid and efficient method was developed for production and field evaluation of transgenic herbicide resistant elite U.S. rice (Oryza sativa L.) lines and cultivars. Six elite U.S. rice lines, including the cultivar Cocodrie, were transformed for glufosinate (phosphinothricin) herbicide resistance by particle bombardment of mature seed-derived embryogenic calli with a synthetic  pat gene or the bar gene from Streptomyces hygroscopicus. By utilizing optimized media for embryogenic callus induction and bialaphos or hygromycin B as a selection agent, 258 independent transformed calli, producing 1268 transgenic plants, were recovered from 5201 bombarded calli. Transformation efficiency ranged from 5% for breeding line LA9502065 to 100% for Cocodrie, with an average across 6 lines of 24% (1268 plants/5201 calli). Southern blot analysis of genomic DNA isolated from primary R0 and R1 progeny plants demonstrated that the pat and  hph genes were stably integrated into the rice genome. Glufosinate resistance in R0 primary transgenic plants and R1--R4 progeny was confirmed in the greenhouse and under field conditions within two years. Both Mendelian and non-Mendelian patterns of gene segregation for herbicide resistance were observed. Homozygous transgenic lines of Cocodrie and LA9502065 that exhibited desirable agronomic traits were recovered but abnormal phenotypes were also observed in R2 progeny and further confirmed in R3--R4 progeny. The high efficiency and reproducibility of the improved transformation system should make it possible to routinely introduce genes of interest into any elite U.S. rice breeding line.;An alternative efficient rice transformation procedure was established by using Agrobacterium tumefaciens strain LBA4404 (pTOK233) and scutellum- or anther-derived calli of two U.S. elite rice lines, LA9502065 and Cocodrie. In a preliminary field trial of transgenic lines, a majority of R2 progeny exhibited normal agronomic traits and less morphological variation than those produced from bombardment experiments, indicating Agrobacterium  could be utilized for introduction of useful genes into rice. Transgenic rice plants were produced from haploid anther-derived calli or cell suspensions via particle bombardment or Agrobacterium. Problems of albinism and sterility of transgenic plants should be addressed in future studies to utilize the potential advantages of anther culture for rice transformation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Junda Jiang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1138.;Directors:  James H. Oard; Steve D. Linscombe."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960066</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43350481</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920985</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 JIAN</identifier>
+   <identifier type="dewey">9960066</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 JIAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

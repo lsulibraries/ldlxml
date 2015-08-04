@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Significance of the effect of nitrogen application on the engineered bioremediation of crude oil in a salt marsh</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Tate, Paul Timothy</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil and Environmental Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 207 leaves : ill., map ; 29 cm.</extent>
+      <extent>208 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The biodegradation of the crude oil in a salt marsh was monitored by tracking the decline of the ratio of various components in the crude oil to a stable marker, hopane. In studies of mesocosms, addition of nitrogen as ammonium nitrate resulted in more rapid biodegradation of the oil at 0.10 significance. In field plots, addition of nitrogen was found to not significantly increase the rate of oil degradation over the rate in the control plots.;The degradation of the oil is best described by a first order decay equation. The kinetic rate parameter k was 0.0054/day in the control field plots. Average kinetic parameters for control plots for various n-alkanes, from dodecane to dotriacontane were within the range of 0.0034 to 0.0078/day. Kinetic parameters for the mesocosms were approximately three times faster than for the field plots.;The findings are strictly applicable only to the conditions of the research, i.e., Louisiana sweet crude oil, application rate of 1.16 kg/square meter, a salt marsh populated by Spartina alterniflora, and application of the oil in late summer. The findings may, however, be considered a point of beginning for similar but not identical situations. While nutrient addition to the field plots was not significantly beneficial to biodegradation under the subject conditions, under other situations it may offer significant improvement of degradation rates. A logic diagram to determine whether a given spill in a marsh should have nutrients added is presented. A scenario with a work plan and budget outline to conduct a pilot nutrient application in the case where nutrient addition is indicated as beneficial is presented in Appendix H. The scenario continues through budget preparation for full scale field application of the nutrients."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Paul Timothy Tate.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1242."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922120</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40663311</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919983</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 TATE</identifier>
+   <identifier type="dewey">9922120</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 TATE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

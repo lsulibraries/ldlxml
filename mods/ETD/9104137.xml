@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Biochemical characterization and gene mapping of the channel catfish herpesvirus (CCV)-encoded thymidine kinase, a selectable site for homologous recombination</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Hanson, Larry Allen</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 89 leaves : ill.; 28 cm.</extent>
+      <extent>100 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The channel catfish herpesvirus (CCV) encodes a thymidine kinase (Tk) which is biochemically distinguishable from it's host, the channel catfish ovary (CCO), and other herpesvirus Tk's. Tk deficient CCO cells (CCOBr) were developed by propagating CCO cells in increasing concentrations of 5-bromo-2$\sp\prime$-deoxyuridine (BUdR). CCV infection produced high Tk activity in these Tk deficient cells. This activity was compared to CCO-Tk in ATP and CTP phosphate donor assays, nucleoside substrate-competition and dTTP feedback inhibition assays. The viral Tk was more competitively inhibited by deoxypurines than cellular Tk and showed less dTTP mediated feedback inhibition. CCO-Tk utilized lower concentrations of ATP more effectively than CCV-Tk. Neither CCV-Tk nor CCO-Tk utilized CTP as a phosphate donor. This is in contrast to other herpesvirus Tk's and indicates a divergence from mammalian herpesviruses. To map the CCV-Tk gene within the CCV genome, a Tk-negative mutant of CCV was isolated by passing the virus in the presence of BUdR and then selecting an isolate (CCVAr) that was resistant to 1 mM 1-$\beta$-D-arabinofuranosylthymine (Ara-T). A CCV incomplete genomic library was constructed by cloning restriction endonuclease EcoRI digested viral DNA into plasmid pUC-19. A complete library was constructed into cosmid pHC-79 by cloning a partial EcoRI digest of viral DNA. Four cosmid clones were isolated that collectively encompassed 98% of the genome. The cosmid CCV-DNA clones and the pUC-19 subfragments were used in cationic-liposome mediated co-transfections with whole CCVAr-DNA in marker-rescue assays. CCVAr rescue, scored by $\sp $CdT mediated plaque autoradiography on CCOBr cells, mapped the mutation within the direct repeat ends of the genome."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Larry Allen Hanson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4222."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph.D.) -- Louisiana State University, 1990.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Channel catfish virus disease</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fishes</topic>
+      <topic>Viruses</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fishes</topic>
+      <topic>Immunology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fishes</topic>
+      <topic>Diseases</topic>
+      <topic>Treatment</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Herpesvirus diseases in animals</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104137</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22712432</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">901119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160639</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 HANS</identifier>
+   <identifier type="dewey">9104137</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 HANS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

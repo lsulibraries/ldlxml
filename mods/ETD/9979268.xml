@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Characterization of low dielectric constant PECVD fluorinated silicon oxide film and its application to Cu metallization using Ta as a diffusion barrier</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kim, Kihong</namePart>
+      <namePart type="date">1967-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Electrical and Computer Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 96 leaves : ill. ; 29 cm.</extent>
+      <extent>97 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The reduction of RC time delay is critical in high speed and ultra density submicron devices. One of the ways to reduce RC time delay is to use fluorinated silicon oxide (SiOF) film as an intermetal dielectric material and Cu as an interconnect metal.;In this study, the chemical and electrical properties of the SiOF films prepared by plasma enhanced chemical vapor deposition were studied, then the optimized film was integrated with Cu using Ta as a diffusion barrier.;The deposition of the SiOF films was made by incorporating CF4 as the fluorine source into the deposition process of SiO2 films using Si2H6 and N2O as the silicon and oxygen precursors, respectively.;The SiOF film deposited at 180&amp;deg;C by flowing 40 sccm of Si2H 6 (5% in He), 100 sccm of N2O and 30 sccm of CF4 with 700 mTorr of chamber pressure and 50 W of rf power showed that the relative dielectric constant decreased to 3.5 due to the incorporation of fluorine. Further study showed that the addition of Ar into the deposition process of SiOF film improved the stability of the film with producing lower relative dielectric constant of 3.4.;Then, Ta was sputtered on the optimized film with a relative dielectric constant of 3.4, followed by Cu sputtering. To investigate thermal stability, the films were annealed in the temperature range of 300--800&amp;deg;C for 1 hr in N2 ambient. The results of four-point probe, x-ray diffraction (XRD), and capacitance voltage (C-V) and current voltage (I-V) measurements suggest the structure of Cu/Ta/SiOF film is thermally stable up to 700&amp;deg;C."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kihong Kim.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3755."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979268</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44389816</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000612</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921356</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 KIM</identifier>
+   <identifier type="dewey">9979268</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 KIM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

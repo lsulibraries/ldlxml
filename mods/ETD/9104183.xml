@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Picosecond resonance Raman studies of solvent effects on electron transfer in ruthenium-polypyridine complexes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yabe, Takahiro</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 111 leaves : ill. ; 29 cm.</extent>
+      <extent>120 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Solvent effects in D$\sb3$ symmetric ruthenium-polypyridine complexes were studied by using excited state resonance Raman technique. Picosecond laser techniques were used to determine if electron transfer between ligands could be observed in an effort to learn about electron localization in ruthenium-polypyridine complexes. Ru(bpy)$\sb3\sp{2+}$ (bpy is 2,2$\sp\prime$-bipyridine), Ru(bpym)$\sb3\sp{2+}$ (bpym is 2,2$\sp\prime$-bipyrimidine), and Ru(Me$\sb2$-bpy)$\sb3\sp{2+}$ (Me$\sb2$-bpy is 4,4$\sp\prime$-dimethyl-2,2$\sp\prime$-bipyridine) were investigated in viscous glycerol solution at room temperature and -15$x$C. The viscosities of glycerol at these temperatures are 1487cP and 66500cP, respectively. It was found that in all three metal complexes investigated metal-to-ligand-charge-transfer state is already localized on the time scale of less than 30ps in spite of these high viscosity. In addition, it was found that the interligand electron coupling was not strong enough to overcome the vibrational reorganization energy. As a result, delocalization of electron density over all three ligands cannot occur and the solvents do not play a major role in the MLCT state of those metal complexes. The interpretation of the mechanism responsible for producing this result is presented based on quantum mechanical electron transfer theory. In these metal complexes, it is also known that interligand electron transfer takes place in heteroligand substituted complexes. In order to investigate this kind of interligand electron transfer, Ru(bpym)$\sb2$(bpy)$\sp{2+}$ and Ru(Me$\sb2$-bpy)$\sb2$(bpy)$\sp{2+}$ were studied in glycerol and in water at room temperature. It was determined that the former complex has fast interligand electron transfer rate (k$\sb{\rm ILET}$ $\geq$ 2 $\times$ 10$\sp $) and the latter complex has slow interligand electron transfer rate (k$\sb{\rm ILET}$ $\geq$ 2 $\times$ 10$\sp6$) in water. By changing the viscosity from 1cP (water at room temperature) to 1487cP (glycerol at room temperature), a solvent dependence of interligand electron transfer was investigated. The result is that in spite of the dramatic change of the viscosity there are no dynamics observed in these metal complexes. These results were interpreted to indicate that interligand electron transfer occurs in the upper electronic states, or singlet metal to ligand charge transfer state."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Takahiro Yabe.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4370."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Charge exchange</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ligand exchange chromatography</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ruthenium compounds</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104183</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27257557</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160540</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 YABE</identifier>
+   <identifier type="dewey">9104183</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 YABE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

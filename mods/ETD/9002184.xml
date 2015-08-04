@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ecology and epidemiology of Rhizoctonia foliar blights of soybean</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yang, Xiao Bing</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge,La.)</namePart>
+      <namePart>Dept. of Plant Pathology and Crop Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 157 leaves : ill. ; 29 cm.</extent>
+      <extent>168 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Soybean (Glycine max) seedling natural infection caused by Rhizoctonia solani Kuhn, anastomosis group 1, intraspecific groups IA and IB (AG1-IA and AG1-IB), causal agents of Rhizoctonia foliar blights of soybeans, is first reported. Infections were predicted by experimental inoculum levels with r$\sp2$ = 0.77-0.87 (P $&lt;$ 0.001).;Twenty locations surveyed in 2 years in south Louisiana showed that web blight was the major disease type. Culture characteristics indicated that associated isolates were R. solani Kuhn, AG1-IB. Morphogenisis of microsclerotia from web blight isolates showed a lateral growth type different from the traditionally described loose growth type observed for sasakii-type sclerotia, indicating a genetic difference between AG1-IB and AG1-IA in R. solani.;Components of Rhizoctonia aerial blight were quantified from 1986 to 1988. Primary infections were high early in the season and significantly correlated with average amount of daily rainfall. The establishment of disease foci was mainly determined by the rainfall events prior to canopy closure. Significant expansion of disease foci occurred only after canopy closure. Development of aerial blight is divided into two phases related to canopy closure. The first consists of primary infection and has a soilborne nature. Variance-to-mean ratios indicated that early infection was aggregated, and different cluster sizes were determined by paired-quadrat variance. The second phase has a leafborne nature and results in disease focus expansion. Factorial experiments under controlled conditions showed a strong influence of free moisture and plant growth stage on disease focus expansion. Disease focus radius was a linear function of accumulated free moisture hours. Diseased plants/focus and disease incidence were best fitted with circle equations. Slopes of equations were proportional to plant growth stage. Under field conditions, disease focus expansion was explained well using accumulated rain days and soybean growth stages at inoculation as predictors. Natural disease incidence late in the season was determined by distribution pattern and amount of early infection. Incorporation of an aggregation factor into a logistic disease model improved prediction."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Xiao Bing Yang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: B, page: 3243.;Directors: Gerard T. Berggren, Jr.; Johnnie P. Snow."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soybean</topic>
+      <topic>Diseases and pests</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soybean</topic>
+      <topic>Diseases and pests</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Rhizoctonia solani</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002184</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24600279</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911022</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1069862</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 YANG</identifier>
+   <identifier type="dewey">9002184</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 YANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

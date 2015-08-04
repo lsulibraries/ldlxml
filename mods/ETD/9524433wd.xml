@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Continuous variation in Ellen Taaffe Zwilich's Intrada, and Generations, an original composition for soprano, tenor, and orchestra / by George Albert Benner</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Benner, George Albert</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">notated music</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">lau</placeTerm>
+      </place>
+      <dateCreated>1994</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>(viii, 390 leaves) : score ; 29 cm.</extent>
+      <extent>390 p.</extent>
+   </physicalDescription>
+   <abstract type="Summary">"This dissertation divides into two parts. The first part illustrates certain traits of Ellen Taaffe Zwilich's neo-Romantic style by analyzing a single piece, Intrada (1983) for five players. The analysis is in three main sections. The first section discusses how Zwilich's background might have influenced her post-1979 writing, particularly her interest in continuous variation through the writings of Schoenberg and her studies with Sessions, and Carter. The second section focuses on Intrada and Zwilich's use of continuous variation. This section also analyzes cyclical elements and considers various older principles of melodic and pitch recurrence while determining the form of this piece. The second section divides into three subsections that discuss the work's basic building blocks, its main divisions, and its overall formal properties. The third section briefly reflects on other striking features of the score, especially Zwilich's characteristic use of instrumentation. This last section ends by summarizing some of the ways these techniques follow the goals of neo-Romanticism.;The second part is an original composition by the author for soprano, tenor, and orchestra entitled Generations. Based on a self-written text, the work is in six movements--Daybreak, Grandfather, Father, Son, Child, and Nightfall--that tells the story of four generations. The account is a loose autobiography of the writer's life. The use of individual motives for the various characters in the work forms the underlying thread that connects each movement to one another. The work has many tonal allusions and places great emphasis on emotional and programmatic themes. The thematic material also draws on various folk and hymn sources. Although not limited to one hymn quotation during each of the character movements, there is the realization of a different hymn tune in its entirety for each of these movements. These hymn quotations also serve as a connecting element."</abstract>
+   <note>"Source: Dissertation Abstracts International, Volume: 56-03, Section: A, page: 7500.;Director: Dinos Constantinides."</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1994.</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Zwilich, Ellen Taaffe</namePart>
+         <namePart type="date">1939-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <titleInfo>
+         <title>Intrada</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Benner, George Albert</namePart>
+         <namePart type="date">1955-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <titleInfo>
+         <title>Generations</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Variations (Music)</topic>
+      <topic>Analysis, appreciation</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9524433</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1994</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">33413449</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">951102</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1961900</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1994 BENN</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1994 BENN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

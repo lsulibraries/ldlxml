@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Phase-space formulation of quantum mechanics and the two- dimensional electron gas in a magnetic field</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wang, Lipo</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 57 leaves ; 29 cm.</extent>
+      <extent>96 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In this dissertation, the theory of the phase-space formulation of quantum mechanics (PSFQM) is discussed and applied to investigations of various low-temperature properties of both two- and three-dimensional electron systems.;The origin of an apparent discrepancy recently reported by others between results obtained by the PSFQM and conventional (Schrodinger) quantum mechanics is discussed. A complete agreement is arrived at here by demonstrating the correct way to use the PSFQM.;A general formulation is developed, through use of the PSFQM, for determining the free energy of a Fermi gas contained in an arbitrary smooth external potential and in a weak magnetic field, in the low-temperature limit. Explicit formulae are given, which enable one to compute surface and temperature effects on various physical properties (susceptibility, specific heat, etc.) of the system. As an illustration that the general formalism presented can be applied to other kinds of Fermi gas (for example, nucleons) contained in an external potential, the modified Thomas-Fermi theory is extended to include temperature effects.;Expressions are derived for the magnetic susceptibility and Fermi energy of a non-interacting two-dimensional electron gas (2DEG) in the strong-magnetic-field limit and for non-zero temperatures. The effect of level broadening on the steady part of the magnetic moment and the specific heat is calculated by deriving an expression for the free energy of a 2DEG in a uniform magnetic field, with an arbitrary Landau level broadening and a finite temperature.;Systematic expansions, in powers of 1/B, for the free energy and the density of states, are derived for a degenerate 2DEG in the presence of a strong magnetic field and an arbitrary potential. They are then applied to a system involving random impurities. Level broadenings, induced by long range electron-impurity scatterings alone, are shown to be independent of the magnetic field in the strong magnetic field limit. Broadened Landau levels can have a large variety of shapes. This theory leads to good agreement with the recent experiment on the de Haas-van Alphen effect in Br$\sb2$-graphite intercalation compounds."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lipo Wang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5383."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Quantum theory</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Electron gas</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904576</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22837224</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901211</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1012455</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 WANG</identifier>
+   <identifier type="dewey">8904576</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 WANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

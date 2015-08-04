@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>socialization of Indian scientific writers into western scientific discourse communities</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Roy, Sumitra.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 193 leaves ; 29 cm.</extent>
+      <extent>194 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This research studies the socialization of Indian science writers into western discourse communities. More specifically, it seeks to identify the writing problems that beginner Indian science writers face and the strategies that they adopt in overcoming them while writing dissertations or research articles.;Primary information was gathered by interviewing 11 Indian graduate students and 17 faculty members from India (West Bengal) and the USA on the basis of a five-page questionnaire. Respondents were classified into three groups according to their places of training and writing skills. Three to five sets of rough drafts from each group were studied to note textual revisions and review comments as a supplementary source of information. A fourth group consisting of five native-speaking faculty members was also interviewed on the basis of a separate questionnaire.;This research demonstrates that while beginner Indian respondents share many problems with other nonnative and native speakers alike, their problems have roots in Indian culture and education. These factors merit consideration for future pedagogical instruction. Variable language policies and schooling systems produce students with varying writing proficiencies. Initial training in the text-based reproductive and authoritarian mode combined with a heavy literary emphasis is viewed as an obstacle towards writing an effective argument or a critical synthesis. Problems such as validating claims and inferences arise from weak rhetorical skills and a lack of awareness for the rhetorical organization of the traditional Introduction-Method-Results-Discussion format in scientific writing, including the role of citations as a rhetorical tool. Cultural traits such as providing contextual information combined with a lack of scientific writing instruction produce digressive writing. While unlike other nonnative writers, beginner respondents write drafts in English, their minor but recurrent problems include ineffective sentence construction, repetition, flowery language, weak cohesion and incorrect article use. Planning extensively, using mathematical language, extending vocabulary, and writing shorter sentences are identified as successful strategies that are adopted to overcome writing obstacles. Reading and using advisorial feedback are other beneficial strategies that facilitate the socialization process. Writing instruction on developing critical, argumentative and rhetorical skills is recommended as a corrective pedagogy."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Sumitra Roy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-02, Section: A, page: 4780."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9824495</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38575858</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980310</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919129</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 ROY</identifier>
+   <identifier type="dewey">9824495</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 ROY</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

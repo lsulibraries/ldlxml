@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Computer-assisted instruction</title>
+      <subTitle>enhancements for language-learning applications</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Harrell, William L.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 95 leaves ; 29 cm.</extent>
+      <extent>96 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Presently, computer-assisted instruction is in use in many educational venues. Unfortunately, the application of computer-assisted language learning at a distance has virtually been ignored. This is an opportunity that needs to be explored. In order to do so, a number of considerations must be attended to. First, effective monitor display design is critical for the optimal presentation of distance learning material. Second, gender and equity factors that impact computer use must be understood to minimize the detrimental effects they might have on computer-assisted distance learning. Third, the needs of students involved with the particularly-demanding application of distance learning principles of foreign language learning have to be specially explored.;This dissertation presents ways to improve monitor display design that are based upon current research findings for data display. In addition, suggestions to minimize the negative impact of gender upon computer use are offered based upon contemporary research conducted in a variety of English-speaking countries. Lastly, the use of computers to study foreign languages at a distance is expounded upon, with a special emphasis on the use of computer-mediated communications (CMC) media such as the Internet.;The results of this dissertation research project are clear. First, if students are to take advantage of the distance learning opportunities that computers offer, both software and hardware designers must pay attention to how such variables as color, font choice, and format can help or hamper a student viewing the screen. The presentation of on-screen material has to be carefully considered and skillfully executed. Second, the display of material should also take gender and other equity issues into consideration. For many students using computers to learn foreign languages gender, race, and class considerations can play a significant role. Therefore, software should be designed to avoid sexist stereotypes and to promote user friendliness.;Easy-to-read monitor display screens with non-gender biased software can be extremely helpful for learning languages at a distance. But the full potential of computer-assisted language learning (CALL) is still unrealized. For example, many opportunities in CNIC for language practice are not being taken either because of expense or logistic limitations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by William L. Harrell, Jr.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: A, page: 6770."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922082</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40652033</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919923</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 HARR</identifier>
+   <identifier type="dewey">9922082</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 HARR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

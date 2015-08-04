@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Molecular characterization of fall armyworm mitochondrial DNA (Spodoptera frugiperda [J.E. Smith])</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Ke, Li Dao</namePart>
+      <namePart type="date">1938-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Entomology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 139 leaves : ill. ; 29 cm.</extent>
+      <extent>151 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Chapter I. Mitochondrial DNA (mtDNA) was isolated, purified from pooled samples of fall armyworm (FAW), Spodoptera frugiperda, and characterized. The yield of mtDNA from adults ranged from 45 to 114 ng per moth. Entire mtDNA from adult FAW showed 1 to 3 electrophoretic bands when electrophoresed on agarose gels. When digested with SalI or XhoI restriction endonucleases, all DNA forms co-migrated as single bands with the same mobility. XbaI cleaved the mtDNA into three fragments of 8083 $\pm$ 524, 6179 $\pm$ 430, and 1990 $\pm$ 140 base pairs (bp). The FAW mitochondrial genome size was calculated to be 16,253 $\pm$ 980 bp. Twenty nine restriction enzymes were used to develop a detailed map of three XbaI fragments cloned into a pUC19 vector. Seventeen restriction sites were located on the largest insert, eighteen on the middle-sized fragment, and four on the smallest one. A physical restriction enzyme map of the fall armyworm mtDNA was constructed.;Chapter II. DNA/DNA hybridization of XbaI-0.3Kb and XbaI-2.0Kb fragments with probe DNAs of EcoRI-0.78Kb and EcoRI-1.32Kb from FAW mtDNA clones has indicated that the XbaI-0.3Kb DNA fragment is located most likely within the XbaI-6.2 fragment nearest to the XbaI-2.0Kb fragment. The source of this clone is best explained by a low level of heterogeneity within FAW. DNA sequencing of XbaI-0.3Kb demonstrated that this fragment contained a 232bp sequence which is 79.2%, 78.4%, and 73.6% similar to mtDNA fragments from Drosophila yakuba, D. melanogaster, and Locusta migratoria, respectively. In these species these regions code for parts of a mitochondrial unidentified open reading frame, URF1. This finding confirms that the XbaI-0.3Kb fragment is part of the FAW mitochondrial genome.;Chapter III. A 2.0kb fragment of fall armyworm (FAW) mtDNA, inserted into the XbaI site of the vector pUC19 was subcloned, sequenced, and analyzed to elucidate its possible function in the organelle. The fragment was 2019bp in length. It contained 83.7% A and T nucleotides, 123 pairs of short direct repeats, 28 pairs of inverted repeats, and 15 overlapping open reading frames. The fragment contains the large rRNA gene (16S) and a major part of the URF1 gene. A clover leaf tRNA-like sequence occurs between them. Two genes are 75.7% and 82.3% similar to corresponding genes in D. yakuba. By comparing the large rRNA gene with the same gene from seven different species, seven base conservation regions, ranging from 17bp to 45bp, were discovered."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Li Dao Ke.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1620."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Fall armyworm</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Extrachromosomal DNA</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025314</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26180493</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920714</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111785</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 KE</identifier>
+   <identifier type="dewey">9025314</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 KE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

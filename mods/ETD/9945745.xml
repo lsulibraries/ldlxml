@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>comprehensive functional assessment of the effects of methylphenidate on the disruptive behavior of children with severe mental retardation</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Swanson, Victoria C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 137 leaves : ill. ; 29 cm.</extent>
+      <extent>138 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Methylphenidate (MPH) has proven efficacy with the disruptive behaviors of children with ADHD in regular education settings (Gully and Northup, 1997; Northup et el., 1999; in press). Blum, Mauk, McComas, and Mace (1996) researched the separate and combined effects of behavioral and MPH treatments on the task engagement and disruptive behavior of 3 children with severe to profound mental retardation. This study used a single-subject, multielement or alternating treatment design to assess the separate and combined effects of MPH and behavioral treatments on the performance of 5 children with severe to profound mental retardation. MPH effects were evaluated within and across dosages. Data collected in 4 to 5 analog assessments (alone, escape, attention, tangible, control) determined the two classroom functional analysis conditions used in the subsequent medication evaluation. Target behavior rates (disruptive behavior and task engagement), care provider ratings of child behavior, and academic or task performance measures provided comparisons across 2 or 3 levels of MPH and placebo. Data from analog and classroom analyses were used to develop an appropriate, function-related behavioral treatment for each child that included differential reinforcement of appropriate behavior and graduated compliance. Results indicated that 3 children demonstrated decreased disruptive behaviors and improved task engagement in response to MPH while 2 children demonstrated similar improvement in response to the behavior intervention. Also, this study (a) determined the differential effects that stimulant medication may have on academic and behavioral performance both within and across dosages, (b) compared the effectiveness of stimulant medication and a function-related intervention in controlling problematic behavior, and (c) determined which medication dose, if any, was indicated for each participant. This study extends previous behavior pharmacological research by utilizing functional analysis of behavior disorders in relation to medication status and developmental task variables to assess the behavior mechanism of drug action in medication efficacy studies. Conclusions are interpreted in relation to the utility of functional analysis in identifying critical assessment parameters and selecting environmental stimuli useful in developing behavior treatments that maximize drug action."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Victoria Swanson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4871."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945745</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42140467</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990817</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920692</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 SWAN</identifier>
+   <identifier type="dewey">9945745</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 SWAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

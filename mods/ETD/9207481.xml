@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Remedial English ten years after</title>
+      <subTitle>former basic writers in the workplace</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Agnew, Eleanor.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 179 leaves ; 29 cm.</extent>
+      <extent>188 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to find out whether writing skills were a handicap to job success for former basic writers who had graduated from college. A population of 197 former basic writers (FBW's) and 68 former strong writers (FSW's, used as a comparison) were surveyed and interviewed. Research questions included (1) What types of jobs do FBW's have, compared to FSW's, and how much do their feelings about writing affect their choices of major or job? (2) How much and how often do FBW's write at work compared to FSW's? (3) What forms of writing do FBW's do most frequently compared to FSW's? (4) How do FBW's feel about the writing they do for their jobs, compared to FSW's? (5) How satisfied are FBW's with their writing ability at work, compared to FSW's? (6) How nervous are FBW's about writing at work, compared to FSW's? (7) If FBW's are writing adequately enough to keep their jobs, how are they able to do this? According to the data from the survey, which yielded a response rate of 68%, FBW's did about the same amount and types of writing as the FSW's, they reported feeling almost as positive about and satisfied with their writing as FSW's, experienced almost as much enjoyment and were not paralyzed with anxiety. Follow-up interviews indicated that FBW's were writing adequately at work and feeling more positive about writing than they had in college because writing requirements were usually short and routine, they had sufficient time to write, they had knowledge of the subject matter, which was focused and predictable, they were familiar with the audiences or their audience needs, sense of purpose was stronger, and the rewards and consequences of writing were more obvious. In addition, FBW's were more mature than in college and had better attitudes and higher motivation. Finally, through work, FBW's had become members of select social and discourse communities. Implications for the teaching profession include writing across the curriculum, composition courses in the senior year, real life writing assignments, and sequenced writing in class and on final examinations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Eleanor Agnew.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: A, page: 3268."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 138-146).</note>
+   <subject authority="lcsh">
+      <topic>English language</topic>
+      <topic>Written English</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Written communication</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>English language</topic>
+      <topic>Study and teaching</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207481</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28565100</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1203403</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 AGNE</identifier>
+   <identifier type="dewey">9207481</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 AGNE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

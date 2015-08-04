@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Attribution processes in mother-adolescent conflict</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Grace, Nancy Caryn</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 111 leaves ; 29 cm.</extent>
+      <extent>115 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Because of the potentially serious consequences associated with parent-adolescent conflict, researchers have delineated variables (i.e., communication skills deficits) that might escalate conflict. Despite the theoretical support for the role of cognitive variables in parent-adolescent conflict, this area has received little research attention. In contrast, studies using adult subjects have repeatedly demonstrated a relationship between cognitive variables, (i.e., attributions) and conflict behaviors and relationship dissatisfaction. Researchers have found that distressed spouses tend to emphasize aversive spousal behaviors by attributing them to global and stable causes that reside within their spouses. Additionally, they perceive negative behavior as intentional, selfishly motivated, and blameworthy. The purpose of this study was to determine whether similar negative attributions are present among mothers and teenagers who tend to engage in frequent and intense conflicts. One hundred and fifteen mothers and 122 teenagers who were randomly selected from a university affiliated laboratory school participated. Each subject completed self-report measures of conflict and a measure of attributions, which was designed for this study. Analyses revealed that as attributions were more negative, conflict increased. When subjects were divided into low and high conflict dyads, compared to low conflict subjects, high conflict subjects made consistently more negative attributions about one another's behaviors. Step-wise regression analyses indicated that beliefs that causes of negative behavior were global and resided within the other member of the dyad were the best predictors of self-reported conflict. Beliefs that the other member of the dyad should be blamed for his/her behavior was the best predictor of conflict reported by the other member of the dyad. Finally, results showed that frequent aversive behaviors and high levels of associated anger were related to more negative attributions. However, no relationship was found between high conflict mothers' attributions and their report of anger. Clinical implications of these data are discussed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Nancy Caryn Grace.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-10, Section: B, page: 5027."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 72-81).</note>
+   <subject authority="lcsh">
+      <topic>Adolescent psychology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Conflict (Psychology)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mother and child</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Communication in families</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104136</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27209871</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930107</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1159972</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 GRAC</identifier>
+   <identifier type="dewey">9104136</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 GRAC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

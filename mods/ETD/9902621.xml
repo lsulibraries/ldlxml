@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Apoptosis, PCNA, and p53 in Fundulus grandis fish liver after in-vivo exposure to MNNG and 2-AF</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 145 leaves : ill. ; 29 cm.</extent>
+      <extent>146 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Dysfunction in homeostatic mechanisms of cell death and proliferation are considered to be important in carcinogenesis. The p53 gene has been implicated in the regulation of cell death and proliferation. The host response was measured through sequential immunohistochemical (IHC) detection of apoptosis, PCNA, and p53 in livers of Fundulus grandis fish exposed to MNNG or to 2-AF, two known carcinogens. Studies performed determined the stability of MNNG in saltwater, the suitability of different fixatives on IHC detection of apoptosis, PCNA-PC10, and p53 (various clones), and frequencies of expression of apoptosis, PCNA, and p53. A total of 996 fish specimens were utilized.;Results indicated that 34 $\mu$M MNNG saltwater solution degraded into its components 70 minutes after its preparation. Preservation of tissue morphology and application of mammalian methodologies for immunahistochemical detection of apoptosis, PCNA-PC10, and p53-PAb240 were best accomplished by buffered 10% formalin solution. Significant differences were found in the levels of p53 protein detected at experimental day 180 between the MNNG exposed and the control fish groups. Experimental data suggested that apoptosis in fish livers is significantly suppressed at experimental day 180 as a result of exposure to MNNG and possibly to 2-AF. Detection of PCNA in liver cells was significantly increased by day 9 of the experiment as a result of chemically-mediated cell injury regardless of the compound used. Concurrent use of a marker for cell death, such as apoptosis, with one for proliferation greatly enhances the assessment of the effect of these compounds on liver cell response. Increased detection of p53, suppression of apoptosis, increased cellular proliferation, and increased occurrence of putative preneoplastic changes noted histologically (basophilic foci, megalocytosis, and karyomegaly) in the liver of fish subjected to MMNG suggest that tumors with mutated p53 gene would develop, in time, in liver. Because similar histological changes were noted in the 2-AF exposed fish group in the absence of increased p53, it is hypothesized that the neoplastic process which may occur as a result of exposure to this compound may not initially involve mutation of the p53 gene, but that other mechanisms of carcinogenesis may be involved."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Uriel Blas-Machado.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 3788.;Directors: H. W. Taylor; J. C. Means."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902621</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919567</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 BLAS</identifier>
+   <identifier type="dewey">9902621</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 BLAS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

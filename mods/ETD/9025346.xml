@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Evaluation of fish meal supplement on physiological response and milking performance in lactating dairy cattle under heat stress</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Toups, George M.</namePart>
+      <namePart type="date">1952-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Dairy Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 224 leaves ; 29 cm.</extent>
+      <extent>239 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Twenty-four mid-lactation heat stressed dairy cows were paired in a completely randomized block design on basis of breed, age, lactation number, calving date, previous mild production and milk fat content in order to evaluate experimental responses. Test treatment was a 50:50 dry matter (DM) corn silage-concentrate diet supplemented with 4.75% DM specially-selected fish meal (FM). Animals were housed under natural summer conditions for the duration of a 70-d experimental period, commencing in mid-June. Low roughage diets were slightly below NRC requirements for both energy and crude protein.;DM intake, milk fat content, and milk fat:milk lactose ratio were statistically significant, with means and SE of 14.56, 12.83 ($\pm$0.337) kg/d, 3.71, 4.20 ($\pm$0.04)%, and 0.79, 0.877 ($\pm$0.010) for fish meal supplemented (FMS) and control (CON) diets, respectively. Other milk component contents and yields and component ratios were not statistically significant. Though FM supplementation increased DM intake, it also significantly decreased gross milk production efficiency.;Mean daily ETI and THI index values for experiment duration were 33.16 $\pm$ 0.86 and 78.02 $\pm$ 0.89, respectively. Respiration rates (RR) and rectal temperatures (RT) for FMS and CON cows were 99.6, 105.4 ($\pm$1.75) cycles per minute, and 39.7, 39.9 ($\pm$0.12) C, respectively. Significant correlations between RT and climate indexes were found only for the CON diet (r $&gt;$ 0.21), while the FMS diet lacked significance (r $&lt;$ 0.03).;Plasma cortisol levels were not different between treatments, yet plasma aldosterone was significantly lower for the FMS group. FMS and CON diets mean plasma steroid concentrations were 8.65, 8.61 ($\pm$0.34) ng/ml and 217.5, 252.5 ($\pm$6.10) pg/ml for cortisol and aldosterone, respectively. Cortisol correlated negatively with daily maximum temperature in FMS cows, but not in CON cows. Cortisol correlated positively with RR in FMS cows, only. Plasma aldosterone did not correlate with RT, nor RR in either treatment group. Plasma aldosterone may provide an index for evaluating levels of adaptability on varying intakes of nutrients during times of heat stress in the lactating dairy cow.;Productive performance was not enhanced from inclusion of dietary FM, yet non-productive physiological adaptability was improved."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by George M. Toups.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1566."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 174-197).</note>
+   <subject authority="lcsh">
+      <topic>Dairy cattle</topic>
+      <topic>Feeding and feeds</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Dairy cattle</topic>
+      <topic>Effect of stress on</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Milk production</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fish meal as feed</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025346</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186704</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111998</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 TOUP</identifier>
+   <identifier type="dewey">9025346</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 TOUP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

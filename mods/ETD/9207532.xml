@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of a whole language approach using authentic French texts on student comprehension and attitude</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Stelly, Colette Hood</namePart>
+      <namePart type="date">1930-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 192 leaves ; 29 cm.</extent>
+      <extent>204 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to investigate the effects of a Whole Language Approach (WLA), using authentic French stories, on measures of listening and reading comprehension of fourth-year high school students of French, and on their attitudes to learning French, as opposed to students using customary textbook materials in a conventional teacher-centered classroom setting. This investigation comprised two components: (a) a quantitative component which statistically determined results on measures of listening, reading and attitude, and, (b) a qualitative component which reviewed classroom procedures through observation and interview.;Analysis of variance on four separate posttests showed statistically significant differences in favor of the experimental group for listening recall protocol, reading recall protocol, and reading objective tests. The qualitative data corroborated this evidence by revealing a gradual progression from skill-getting to independent skill-using in practice communication sessions. In addition, experimental students demonstrated increased vocabulary recognition and greater facility in dealing with target language structures.;Although analysis of variance showed a statistically significant difference in favor of the control group on attitude measures, the qualitative data did not support this finding. Data from class observations and from random interviews revealed that experimental students experienced greater satisfaction and pride as a result of enhanced skills. They also expressed enjoyment in the autonomy of self-selected reading materials and shared creative activities.;Control students expressed enjoyment related to the fun of learning about France and French culture. However, they also expressed frustration prompted by a desire for greater organization and increased challenge in the learning environment.;This research project represents an original experiment in adapting Whole Language principles to a foreign language classroom setting. The results are encouraging, but further research is needed to confirm these positive effects."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Colette Hood Stelly.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: A, page: 3208."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note>English and French.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 146-155).</note>
+   <subject authority="lcsh">
+      <topic>Language experience approach in education</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Second language acquisition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>French language</topic>
+      <topic>Study and teaching (Secondary)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207532</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28540635</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930730</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200604</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 STEL</identifier>
+   <identifier type="dewey">9207532</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 STEL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

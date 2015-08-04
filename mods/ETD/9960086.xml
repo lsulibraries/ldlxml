@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Classification of text documents using a logical analysis approach</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Nieto Sánchez, Salvador, 1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Engineering Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 97 leaves : ill. ; 29 cm.</extent>
+      <extent>98 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The main problem investigated in this dissertation is as follows:  Given are two samples of documents each from one of two disjoint collections of documents. The question is how to obtain a set of patterns of text features that make a document in the two samples (and other unclassified documents) to be classified correctly in one and only one document class. A sample of 2,897 documents from the TIPSTER collection was used to investigate this problem.;This problem was divided into the following four subproblems. The first subproblem consists of identifying the set keywords to describe the documents' content. Computational results of twenty experiments suggested that single-word keywords addressed the main problem effectively.;The second subproblem requires a methodology to construct classification rules to infer the class of unclassified documents. A logical analysis approach called the One Clause At a Time algorithm (OCAT) is used to address this problem. Its accuracy is compared to the one of the Vector Space Model (VSM), a benchmarking methodology in document classification processes. Under identical experimental conditions, some computational results suggests that the OCAT algorithm is more accurate than the VSM to solve the main problem.;The third subproblem consists of providing a methodology to construct better rules as more documents become available. This problem has been investigated using the OCAT algorithm under a guided and a random teaming approach. Computational results on three samples of 510 documents indicate that the guided teaming approach constructs more accurate rules.;In the fourth subproblem an incremental version of the OCAT algorithm is required. The algorithm is needed to speed up the construction of the classification rules. Computational results on three samples of 336 documents each show that: (i) the classification rules become accurate more rapidly, (ii) the CPU times are substantially reduced, and ( iii) the rules become more complex as more documents were added to the experiment.;In summary, the results of this research suggest with high confidence that the incremental OCAT algorithm can perform better than the VSM and that it can deliver better and faster results for the classification of large collections of documents."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Salvador Nieto Sánchez.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 9350."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960086</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43364447</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000128</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921024</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 NIET</identifier>
+   <identifier type="dewey">9960086</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 NIET</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

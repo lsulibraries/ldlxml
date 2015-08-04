@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>engineering equation of state</title>
+      <subTitle>square-well statistical associating fluid theory (SAFT)</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Adidharma, Hertanto</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 103 leaves : ill. ; 29 cm.</extent>
+      <extent>104 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Molecular thermodynamics is an engineering discipline rooted in molecular physics and physical chemistry and aimed at developing practical models that predict the properties of matter. The goal of this work is to develop a molecular thermodynamic model for predicting fluid densities, phase equilibria, and energy functions, such as enthalpy and heat capacity. Chemical engineers need these properties to develop and design new processes and materials, and to make these processes energy efficient and environmentally benign.;The approach is to hypothesize a mathematical approximation that captures interactions among real molecules on the basis of a molecular theory called the statistical associating fluid theory (SAFT). In this approximation, each molecule is composed of spherical segments that interact according to a square-well potential. These segments are allowed to form covalent or hydrogen bonds. A result of this approximation is an engineering equation of state referred to as SAFT1 that is found to be applicable to small and large molecules, associating and non-associating molecules, and to homopolymers and copolymers.;SAFT1 is tested on real-fluid properties, such as vapor pressure, vapor and liquid density, second virial coefficient, heat of vaporization, specific heat, and phase equilibria. For small n-alkanes, not only the vapor pressure and liquid density (that are correlated), but also the second virial coefficient, heat of vaporization, and heat capacity (that are predicted) are found to be accurate. For small alkanols-1, the vapor pressure and liquid density are also well correlated. The SAFT1 parameters for n-alkanes and alkanols-1 are found to be well behaved and hence easy to estimate reliably for high-molecular-weight molecules of corresponding homologs.;The SAFT1 equation of state developed in this work has already been applied by others to calculate fluid-liquid and solid-fluid equilibria in solutions of n-alkanes and polyolefins. More important, the knowledge and practical tools generated in this work are applicable to developing new processes and materials that are less energy wasteful and more environmentally benign."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Hertanto Adidharma.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 9550."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960034</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43325265</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000121</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920964</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 ADID</identifier>
+   <identifier type="dewey">9960034</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 ADID</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

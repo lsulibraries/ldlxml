@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>evolution of the Red River Valley settlement system, 1714-1860</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Hong, Keumsoo</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (xvi, 543) leaves : ill., maps ; 29 cm.</extent>
+      <extent>544 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Since the first European settlement was established in the middle of Indian territory in 1714, the Red River Valley had experienced a dramatic transformation until the end of the antebellum period. The trajectory of the evolution can be divided into five vertical cross sections. The formative phase (1714--1803) features the colonial regimes in political arena, less-specialized regional economies, nascent urban units laden heavily with defensive functions, and coerced labor system. The settlement system resembled a semi-primate pattern with Natchitoches on the summit. The period of the Territory of Orleans (1804--1812) corresponded to the transition phase. During this interim, traditional staples and cotton underpinned regional economies; towns added agricultural functions to the original strategic ones; and the introduction of cotton gin and short-staple variety prepared the region for the massive cultivation of the cash crop in the next period. In addition to Natchitoches, Alexandria began to carve out its sphere of influence. A variety of learning processes were in motion in the third phase of trials, errors and adjustments (1813--1834). There were experiments with intensive land use, mixed rural economy, agro-commercial towns, steam power, and new machinery. The spread of population resulted in the increase in the number of settlement hierarchies.;An expansion regime led the fourth phase (1835--1850). Land and regional resources were used in more commercialized manner. In the middle of this period, sugar emerged as a major supplementary crop to cotton in the parishes of Rapides and Avoyelles. Because of weak cotton market, however, rural economies turned into specialized diversification regime. The renewed emphasis on the traditional wisdom of crop rotation helped to sustain this diversified economies. With the deepening staple economy, towns invited more commercial populations than before. In the meantime, the removal of logjams led to the re-configuration of settlement system from Natchitoches-centered one to Shreveport-centered one. The last phase of assertion (1851--1860) is characterized by systemic improvement of natural environment, the installation of diversified specialization regime in rural economy, increase of commercial and professional occupations, and scientific management. Boosted cotton economy sustained the continuous progression of the region. Settlement system showed the sign of the end of in-filling process. The system was consolidated around the three nuclei of Shreveport, Natchitoches and Alexandria."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Keumsoo Hong.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 1112."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960060</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43356964</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000127</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921012</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HONG V.1 378.76 L930D 1999 HONG V.2</identifier>
+   <identifier type="dewey">9960060</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HONG V.1 378.76 L930D 1999 HONG V.2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

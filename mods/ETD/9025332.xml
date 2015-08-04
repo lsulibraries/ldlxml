@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>affective variant hypothesis</title>
+      <subTitle>how is bulimia nervosa related to depression?</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Prather, Rita C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 169 leaves ; 29 cm.</extent>
+      <extent>142 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Bulimia nervosa patients frequently score from mild to severe on measures of depressive symptoms. This association between bulimia nervosa and depression led some researchers to hypothesize that bulimia nervosa is a variant of the affective disorder of depression. The main purpose of this study was to provide further evaluation of the affective variant hypothesis of bulimia nervosa. It was postulated that bulimia nervosa patients with and without depression would differ from each other and from depressives without eating disorders on specific measures of cognitive, behavioral, and somatic symptoms associated with depression. Secondly, it was hypothesized that the nondepressed and depressed bulimic patients would differ from depressives but not from each other on measures of anxiety and obsessiveness which would lend support to the anxiety model of bulimia nervosa. The results did not support either the affective variant hypothesis or the anxiety model of bulimia nervosa. The depressed bulimia nervosa patients evidenced higher levels of somatic symptoms, cognitive dysfunction, state anxiety, and obsessiveness than nondepressed bulimics. These two groups were similar in severity only in trait anxiety and anhedonia. The bulimic and nonbulimic depressed patients did not statistically differ on any measure when the bulimic was also clinically depressed. The dually diagnosed patients were more disturbed than either the nondepressed bulimics or the nonbulimic depressed patients. The nonbulimic depressed patients' scores were more severe than the normals' on four of the six significant measures (somatic symptoms, cognitive dysfunction, state anxiety, trait anxiety), the depressed bulimics' more severe on all six, and the nondepressed bulimics' more severe on only three measures (cognitive dysfunction, anhedonia, trait anxiety). While no measure was associated with bulimia nervosa, several measures were highly associated with depression."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rita C. Prather.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-07, Section: B, page: 3580."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 80-103).</note>
+   <subject authority="lcsh">
+      <topic>Bulimia</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Depression, Mental</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025332</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186604</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111986</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 PRAT</identifier>
+   <identifier type="dewey">9025332</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 PRAT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

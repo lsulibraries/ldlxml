@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Educational technology and state reform</title>
+      <subTitle>examining the first-year impact of Louisiana's state technology policy on public school districts</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Gagné, Jeffrey Paul.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum and Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 146 leaves ; 29 cm.</extent>
+      <extent>146 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"During the 1990's educational technology became a major educational policy issue for every state (White, 1997; Education Commission of the States, 1997; National Council of State Legislators, 1996; Trotter, 1997). By early 1998, all 50 states had state-level technology plans in various stages of implementation, and state funding for educational technologies was rapidly increasing across the country (Trotter, 1997). The purpose of this study was to examine the impact of recently enacted Louisiana state-level technology reforms on public school district technology efforts between the 1996--97 and 1997--98 school years. Both quantitative and qualitative methods were used to collect data, creating a mixed methodological strategy.;The quantitative data for this study came from three separate survey instruments. The 1997 and 1998 Louisiana Educational State Technology Surveys (SETS) were designed to annually gather district and school technology level data for the state. The third survey instrument, A District Evaluation of Recently Enacted State Educational Technology Policies ( DERST), was specifically designed to gather district perceptions of the state's technology reforms that were implemented during the 1997--98 school year. Qualitative data were gathered through case studies of three Louisiana public school districts.;Descriptive statistics were utilized to initially analyze the data from all three surveys. Analysis of Variance ( ANOVA) was used to determine if there was any significant difference between district responses to questions in the DERST instrument when districts were placed in the following sets of sub-groups: (1) district type---rural, suburban and urban districts; (2) district size---small, medium, and large districts; (3) district technology levels---average, below average, above average. Cross-case analysis (Herriot and Firestone, 1983; Yin, 1990) was utilized to develop and analyze data from case studies on three public school districts. Content analysis was then utilized to analyze case study data and determine emerging themes and patterns (Patton, 1990; Yin, 1984; Miles, 1990). The data were reported in the form of case studies and provided insight into the impact of state technology reforms on district technology efforts during the 1997--98 school year."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Jeffrey Paul Gagné.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: A, page: 9530."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925550</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651399</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919915</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 GAGN</identifier>
+   <identifier type="dewey">9925550</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 GAGN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

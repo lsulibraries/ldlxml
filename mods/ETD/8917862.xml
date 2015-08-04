@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Application of the correlation method to the tuning of industrial control schemes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Thomas, Carl Jesse</namePart>
+      <namePart type="date">1952-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xix, 293 leaves ; 29 cm.</extent>
+      <extent>313 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The correlation method of finding a system's impulse response weights, based on the Wiener-Hopf integral, was studied for its application to the tuning of feedback, feedforward, and decoupling control elements in closed loop operation using only ordinary operating data. Also included in the work is a thorough study of actual data for eight typical stochastic disturbances taken from a refinery light ends unit. A disturbance signal typical of these actual signals was used throughout the tuning studies to make results obtained more practically meaningful. These actual signals were also used to demonstrate the desirability of differencing input and output data prior to use of the correlation method.;The correlation method was applied to the tuning of feedback and decoupling controllers by using it to find the closed loop impulse response of a system's output to set point changes. Given knowledge of the control structure and control elements, equations are derived which use this closed loop response to obtain the open loop impulse response. Many existing methods are available to design feedback controllers or decouplers given open loop responses. The correlation method was applied to the tuning of feedforward controllers by finding the closed loop impulse response of the system's output to disturbance changes. Equations are derived which convert this closed loop response directly into an improved feedforward controller given the control structure and control elements. An approximation of the manipulated variable transfer function is also required. The equations derived for both problems are applicable to a 2 x 2 interactive process such as a distillation column with or without feedback elements, feedforward controllers, and partial or simplified decouplers. Less complex processes and/or control schemes allow the equations to be significantly simplified. A criterion called the Impulse Confidence Ratio (ICR) is proposed which when interpreted properly will allow the determination of the value of a test result.;The correlation method of impulse response determination and the tuning techniques were subjected to numerous tests of robustness in the face of various non-ideal situations which might be expected to arise in real application. The tuning techniques are applied successfully to a nonlinear distillation column model."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Carl Jesse Thomas.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 2059."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references. (leaves 241-244).</note>
+   <subject authority="lcsh">
+      <topic>Process control</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Feedback control systems</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Feedforward control systems</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917862</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307620</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062556</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 THOM</identifier>
+   <identifier type="dewey">8917862</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 THOM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

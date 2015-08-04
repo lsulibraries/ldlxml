@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>effects of relaxation and laughter on the perceived intensity and affect of pain tolerance</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Davies, Simon</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Health, Physical Education, Recreation, and Dance.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 133 leaves ; 29 cm.</extent>
+      <extent>146 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study described the effect of relaxation and laughter on the perceived intensity and affect of pain induced by a cold water pressor test. Equal numbers of female athletic and non-athletic subjects (N = 36) were selected from varsity athletes and undergraduates at Louisiana State University. All subjects were pre-tested on their tolerance to a cold water pressor test. Responses on visual analogue scales for perceived pain intensity (I) and affect (A), and submersion time were recorded. The volunteer subjects were randomly assigned to one of three groups: relaxation-inducing, laughter-inducing, or control. Following a 20 minute exposure to the audio treatment tapes (laughter or relaxation), the subjects were measured again on their perceived tolerance to pain and submersion time. Subject's confidence in their level of tolerance were measured pre and post-treatment, and the expectancy of the efficacy of the treatment to increase tolerance was also recorded post-treatment. Perceived pain (I and A), anxiety (STAI), confidence (CV and CS), relaxation (RE), and expectancy (EXPECT), were recorded pretest and posttest. Heart rate was monitored continuously using a pulse rate monitor with a photoelectric finger sensor. A multivariate mixed model (MMM) repeated measures analysis was selected for the study. Correlational analyses were used to examine relationships between variables. Non-athletes were found to have lower perceived pain tolerance than athletes at pretest and posttest. Humor and relaxation treatments when combined significantly reduced both the perceived intensity (I) and affect (A) of pain. Follow-up ANOVAs revealed a significant time effect for anxiety (STAI), confidence (CS and CV), relaxation (RE), and heart rate (C and CH), across groups and treatments. Athletes were superior to non-athletes on perceived pain (I and A), submersion time, and confidence (CV and CS). Further research is still needed on the relationship between humor and pain tolerance."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Simon Davies.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2421."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Pain</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Relaxation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Laughter</topic>
+      <topic>Physiological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Women athletes</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002136</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24556278</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911014</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067593</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 DAVI</identifier>
+   <identifier type="dewey">9002136</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 DAVI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

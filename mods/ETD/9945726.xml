@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Asphalt pavement fatigue cracking modeling</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Li, Yongqi</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil and Environmental Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 219 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>220 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Fatigue is a major structural distress that leads to a reduction in the serviceability of asphalt pavements. In a mechanistic pavement design, asphalt fatigue cracking is considered as one of the three design criteria along with rutting and low-temperature associated cracks. The successful application of this design method to practice thus relies on a reliable crack prediction model. Most existing crack prediction models are based on the results of laboratory beam fatigue tests. Beam tests are not adequate because they can't realistically simulate the propagation of a crack in an asphalt pavement layer. This research studied the asphalt cracking through fatigue tests conducted on asphalt slabs taken from experiment pavements, which can more closely reflect the three dimensional characteristic of a pavement crack than beam fatigue tests.;To model the cracking process in asphalt slabs, the stress intensity factor was evaluated for cracked slabs based on three-dimensional FEM models. The fatigue crack, at the underside of a slab, was simulated as a semi-elliptical surface crack. The J-integral approach was used from which the stress intensity factor was calculated. In asphalt slab fatigue tests, the loading cycles for defined crack initiation and propagation stages were recorded for developing crack prediction models. Based on the results of stress and stress intensity factor analyses and asphalt slab fatigue tests, two crack initiation and.;propagation relationships were developed for predicting asphalt fatigue life. The crack initiation relationship was based on the critical stress and strain and the crack propagation relationship used the stress intensity factor as an estimator. The fracture parameters, C and  n, were also determined based on asphalt slab fatigue tests.;The proposed fatigue life prediction relationships were used to estimate the fatigue fives of the pavements at LTRC-ALF experiment site. The existing equations were used to evaluate the stress intensity factor for a fatigue crack in asphalt pavement layer. The predicted results were compared with the observed pavement life. It was found that the predicted pavement life based on the proposed relationship was very close to the observed pavement life."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yongqi Li.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4765."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945726</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42084585</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990816</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920671</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 LI</identifier>
+   <identifier type="dewey">9945726</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 LI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Moth diversity in Louisiana longleaf pine savannas and mixed mesophytic hardwood forests</title>
+      <subTitle>species composition an management effects</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Landau, Deborah</namePart>
+      <namePart type="date">1968-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Entomology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 133 leaves : ill. ; 29 cm.</extent>
+      <extent>134 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Two habitats, a mixed hardwood forest and a longleaf pine savanna, were selected for analysis of moth composition. Three studies assessed differences between moth diversity, efficiency of sampling intensities, and effects of management practices in these habitats. The first study compared diversity and community composition between the two habitats based on 4,337 moths representing 394 species. The mixed hardwood habitat contained 314 species and the longleaf pine 208. Species overlap between two longleaf pine sites was as low as overlap between longleaf pine and mixed hardwood habitats (38%). Differences in moth richness between habitats may be a reflection of differences in plant structure and composition. A greater proportion of moth species unique to mixed hardwood sites fed on woody vegetation (61% for mixed hardwood versus 26% for longleaf pine), whereas more longleaf pine hostplants consisted of herbaceous vegetation (60% for longleaf pine versus 19% for mixed hardwood).;The second study, which contrasted an intensive, short-term sampling survey with a long-term survey, recovered 6,970 moths representing 362 species. A high level of similarity was found between the two collections. The intensive collection required 55% of the time yet recovered 85--86% of species found in the long-term collection, suggesting intensive surveys can effectively sample diversity in a habitat if optimal. timing and appropriate taxa are considered.;The third study compared moth diversity and species composition among longleaf pine sites that had undergone different burning regimes. A total of 4,272 moths representing 323 species were identified over two years of sampling. Growing and dormant season burn sites did not differ significantly in species richness, yet differences in species composition and host plant use were observed between all three management regimes. Whereas 55% of species unique to growing season sites fed on herbaceous vegetation and 27% fed on hardwoods, 33% of dormant species uniques fed on herbaceous vegetation and 49% utilized hardwoods. Host use for unburned sites indicated 15% were herbaceous and 67% hardwood feeders. Thus, moth species composition reflected differences in plant composition resulting from season of burn, and provided a more accurate measure of habitat response to management than diversity measures alone."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Deborah Landau.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 9320.;Directed: Dorothy Prowell."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922092</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40656453</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919938</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 LAND</identifier>
+   <identifier type="dewey">9922092</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 LAND</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

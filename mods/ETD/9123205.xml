@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Fission track thermochronology</title>
+      <subTitle>methods and applications in tectonics</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Jones, Steven M.</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 210 leaves : ill. ; 29 cm.</extent>
+      <extent>223 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Time, temperature and the kinetics of reactions are the basic ingredients in this study of thermal history analysis. Unraveling the timing of geological events using absolute dating systems based on radioactive decay is not a trivial task, ages given by most radiometric dating techniques (e.g. fission track analysis) are apparent ages, related to cooling through some characteristic temperature range.;Fission tracks are atomic-scale defects in a crystal caused by the passage of fragments from the fission of uranium-238. In apatite, fission tracks are destroyed by annealing at temperatures between $\sim$70$\sp\circ$C and $\sim$125$\sp\circ$C. A quantitative understanding of the kinetics of track annealing is necessary for the interpretation of fission track data. A numerical model of variable temperature annealing in apatite in constructed and compared with previous models. Monte Carlo analysis provides a novel means of assessing the uncertainties associated with predictions from this model. Predictions of annealing during cooling from 100$\sp\circ$C to 0$\sp\circ$C in 100 Ma have associated uncertainties of $\sim$7%, similar to the error in a typical fission track age determination.;Regional thermal history is fundamentally linked with tectonic history. The Dora Maira massif in the Western Alps provides an example of a pressure-temperature-time history well constrained by metamorphic petrology and radiometric dating. Simple models of conductive cooling and erosion are used to successfully model the thermal history of these ultra-high pressure rocks and shed light on possible tectonic scenarios for their origin. Numerical modeling suggests that continued refrigeration of the Dora Maira rocks by subducting lithosphere is not required to produce the observed metamorphic mineral assemblages.;Fission track analysis, synthesis of results from other dating techniques, thermal modeling and metamorphic petrology are used to constrain the magnitude of cooling during extension in the Mojave Desert, California. Cooling paths constructed using fission track ages on apatite, zircon and sphene and $\sp{40}$Ar/$\sp{39}$Ar ages on biotite, hornblende and phlogopite reveal the contrast in modes of cooling between upper and lower plate rocks. Upper plate rocks show no evidence for the rapid cooling that affected lower plate rocks during the Miocene extension in the region."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Steven M. Jones.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1305."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 159-169).</note>
+   <subject authority="lcsh">
+      <topic>Geology, Structural</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geochronometry</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fission track dating</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123205</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28447647</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930714</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198724</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 JONE</identifier>
+   <identifier type="dewey">9123205</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 JONE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

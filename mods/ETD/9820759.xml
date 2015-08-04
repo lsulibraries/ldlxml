@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Educational plans of community college students</title>
+      <subTitle>an expansion of two college choice models</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Administrative and Foundational Services.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1997</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 258 leaves ; 29 cm.</extent>
+      <extent>259 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to determine if the factors posited by previous researchers to affect predisposition to attend college in high school students also affect the predisposition to transfer in the two-year college student population, and to investigate whether or not an expansion of the Hossler and Gallagher (1987) three-phase model of college choice and the Hossler and Stage (1992) Model of High School Students' Predisposition to College would yield great benefits. This analogy uses variables that have been advanced as effectual in the predisposition stage of the college choice process on the selected student population.;The problem is that previous research has not examined the college choice process that students in two-year colleges undertake. Moreover, it ignores the duplicative nature of the college choice process for community college students. Specifically, this study investigates the simple bivariate relationship between predictors reported in the predisposition literature for high school students (socioeconomic status, parents education, etc.) and measures 2-year college students' decisions to transfer or not transfer to a baccalaureate institution upon leaving the community college. For the nine included variables (SES, parents' education, GPA, parents' and significant others' expectation and encouragement, students' personal expectation, college involvement, gender, ethnicity and age), the simple bivariate relationship with a measure of community college student's decision to transfer or not transfer to a baccalaureate institution upon departing from community college is measured.;To test the explanatory power of the expanded Hossler and Stage model, hierarchial logistic regression procedures are employed. Model 9, which included all variables, was significant at the $\propto$ =.05 level. Of all the variables introduced in the hierarchical logistic regression analysis, EXPECT 2 (the personal educational expectations and aspirations students have for themselves) produced the most statistically significant relationship to predisposition to transfer (r =.2921).;The results of this study have implications for state and federal officials who are responsible for developing student financial aid policies, administrators at community colleges and baccalaureate institutions, and for those responsible for enrollment management and recruiting functions at both two- and four-year institutions."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lisa M. Smith-Vosper.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-01, Section: A, page: 6800."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1997.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9820759</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1997</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38205128</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1918964</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1997 SMIT</identifier>
+   <identifier type="dewey">9820759</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1997 SMIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dynamic models of the high temperature desulfurization process in a fixed-bed reactor</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wang, Qingbin.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 288 leaves : ill. ; 29 cm.</extent>
+      <extent>300 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The widespread adoption of coal-fueled advanced electric power generation systems depends upon the ability to remove H$\sb2$S from the gasifier product. While H$\sb2$S can be removed by traditional wet scrubbing methods, sensible heat is lost, thereby reducing the overall system efficiency. High temperature desulfurization is now possible using newly developed metal oxide sorbents which are capable of reducing the H$\sb2$S concentration to less than 10 ppmv from a laboratory scale fixed-bed reactor using a simulated coal gas.;In this study, reactor simulation models capable of describing the high temperature sulfidation and regeneration reactions of metal oxide sorbents in a fixed-bed reactor have been developed. The models consider the heterogeneous nature of the gas-solid reactions, the inherent unsteady state nature of the process, the fluid mechanics of flowing gas in the reactor, heat and mass transfer between gas and solid, heat lost to the surroundings, and the kinetics of the single pellets which comprise the bed. Only material balances are considered in the isothermal sulfidation model. Because the sorbent regeneration reaction is highly exothermic, both material and energy balances are included in the regeneration model. The unreacted core model is used to describe the noncatalytic gas-solid reactions in the individual pellets.;Experimental results are compared with those predicted by the models. During sulfidation, the H$\sb2$S breakthrough curves as well as the axial sulfur loadings in the reactor following breakthrough predicted by the model agree with the experimental results if the pellet effective diffusivity is treated as a ""best-fit"" parameter. Gas temperature profiles in the reactor during regeneration agree with model predictions in terms of maximum temperature and time for the maximum temperature to be attained; however, the experimental temperature distribution is considerably broader than predicted. In another application, the model provides very close agreement with experimental gas temperature profiles in a catalyst regeneration test."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ching-Pin Wang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 8760."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 168-172).</note>
+   <subject authority="lcsh">
+      <topic>Desulfurization</topic>
+      <topic>Mathematical models</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017302</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25613271</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920408</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1095041</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 WANG</identifier>
+   <identifier type="dewey">9017302</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 WANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

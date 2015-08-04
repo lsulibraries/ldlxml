@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>rhetorical analysis of the scientific-romantic synthesis in the popular scientific writings of Lewis Thomas</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lee, Donald P. (Donald Paul)</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication, Theatre, &amp; Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 185 leaves ; 29 cm.</extent>
+      <extent>191 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"As physician, educator, former medical administrator, and member of the National Academy of Sciences, Lewis Thomas has been one of the most eloquent spokespersons for the scientific community.;This dissertation analyzes twenty-four of Thomas' popular scientific essays. These essays reveal a union of traditional scientific values and popular romantic themes, what is called here a rhetorical synthesis. The term synthesis is understood as the putting of two or more things together to form a whole, particularly suggesting a reconciliation of two philosophically opposing forces. Thomas' essays reflect a synthesis insofar as they merge what have traditionally been thought to be two opposing philosophical views of reality, science and romanticism. This synergistic reconciliation of two opposing philosophical forces is understood to produce a third philosophical view of reality, which combines elements from the two original views of reality yet is a separate, independent philosophical perspective. Thomas' synthesis of traditional scientific values and popular romantic themes produces a particularly humane version of science, and is rhetorical insofar as it is purposefully designed to produce a romantic science capable of mitigating the long-standing dispute between science and humanism and to allay the public's fear about the social consequences of science.;Thomas' romantic orientation toward the world is characterized by six major themes: (1) faith in the unconscious mind, (2) a vindication of the individual, (3) a predilection for diversity, ambiguity, and imperfection, (4) a preoccupation with qualities that are different, remote or mysterious in humans, (5) wonder and awe of nature, and (6) a concern for humankind's moral characteristics. These six romantic tenets are identified as they appear in Thomas' essays; the themes' strategic location, function and rhetorical significance is assessed. In addition, this dissertation examines the scientific world view as it is set against the romantic world view in Thomas' overall rhetorical design. This study also investigates how Thomas' romantic version of science clarifies the moral role of science in society.;This dissertation concludes that Thomas' scientific-romantic synthesis operates as an effective rhetorical form for mediating the traditional controversy between science and humanism, and for establishing a more cooperative relationship between the scientific community and the general public."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Donald P. Lee.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: A, page: 2925."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 167-184).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Thomas, Lewis</namePart>
+         <namePart type="date">1913-1993</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Criticism and interpretation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Literature and science</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Science and the humanities</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104147</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27255541</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160436</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 LEE</identifier>
+   <identifier type="dewey">9104147</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 LEE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

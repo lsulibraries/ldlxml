@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Mating system differences and genetic effects for preweaning traits in beef cattle in the Gulf Coast Region of the United States</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Williams, Dian Allison</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program of Animal and Dairy Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 123 leaves ; 29 cm.</extent>
+      <extent>124 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Preweaning data collected on 1,180 calves in generation five of a crossbreeding project were analysed. The systems involved were first-cross (F$\sb1$, three-breed terminal, two-, three-, and four-breed rotational and rotational-terminal. Angus (A), Brahman (B), Charolais (C), and Hereford (H) breeds were used in the F$\sb1$ and rotational phases, while Gelbvieh (G) and Simmental (S) were the terminal sire breeds. The traits studied were birth weight (BWT), preweaning gain (ADG), 205 d weight (WWT), and weaning height (WHT). Least squares analysis of variance procedures were used for comparisons of mating systems for all traits. Estimates of direct and maternal additive (Ig, Mg) and heterotic (Ih, Mh) genetic effects for preweaning traits for A, B, C, H and their crosses, and Ig for G and S were obtained by regression procedure. Least squares means for BWT, ADG, WWT and WHT were 33.12,.875, 213.28, kg, and 117.01 cm, respectively. The F$\sb1$, three-breed terminal, and three-breed rotational-terminal calves had larger BWT while two-breed rotational-terminal and three-breed terminal calves had larger ADG, WWT, and WHT than calves from other mating systems. Among rotational calves, BWT means were similar but two-breed rotation had larger ADG and WHT than other rotational calves. Among rotational-terminal calves, three-breed rotational-terminal had larger BWT, and two-breed rotational-terminal had larger ADG, WWT and WHT than other rotational-terminal systems. Brahman cross F$\sb1$ calves had larger means for preweaning traits than AHF$\sb1$ calves. Of the three-breed terminal calves, progeny of BC dams had the largest means for all traits. Among three-breed rotational dams, calves from CBA and CBH breed combinations had larger ADG, WWT and WHT than calves from ABH dams. Angus Ig and Mg effects decreased ADG, WWT and WHT. Brahman Mg decreased BWT and increased all other traits, whereas MgH increased BWT and decreased all other traits. The MgC effects were positive for BWT, ADG and WHT. Simmemtal and Gelbvieh Ig effects increased ADG, WWT and WHT, with IgS being larger than IgG in all cases. Angus-Brahman and AC Ih effects increased ADG, WWT and WHT and IhBC increased WHT. MhAB increased BWT, ADG and WWT."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Dian Allison Williams.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 3788."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902669</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919574</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 WILL</identifier>
+   <identifier type="dewey">9902669</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 WILL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

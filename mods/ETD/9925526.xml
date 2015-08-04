@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Large magnitude sinusoidal voltammetry for reversible electrochemical reactions</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chang, Yide</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 179 leaves : ill. ; 29 cm.</extent>
+      <extent>179 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Sinusoidal voltammetry, the current response of a simple reversible electrochemical reaction under a large magnitude sinusoidal potential, is investigated in this work. The ferricyanide/ferrocyanide (Fe(CN)6-3/-4 ) redox couple at a platinum electrode, which is known to be reversible, was measured using sinusoidal potentials. Theoretical analyses, including computer-simulation of sinusoidal voltammetry at various excitation potentials, are also presented.;The results obtained are in good agreement with the theoretical analysis. One remarkable advantage of sinusoidal voltammetry is that the charging current accompanying the electrode process, which is the most significant components of the noise at a fast potential scan, may be discriminated through Fourier transformation. In addition to facilitating voltammetric analysis as a qualitative method, this discrimination may increase the signal/noise ratio of quantitative voltammetric analysis. Under large magnitude sinusoidal potential, the nonlinear faradaic current and the approximately linear charging current are discriminated using the known relationship between the real and imaginary parts of the faradaic current in the frequency domain. A reverse transform to the time domain gives the faradaic current.;For reversible electrochemical reactions, the separation of the cathodic and anodic peak positions is 58.8mV/n, the peak current is proportional to the amplitude (Ea 0.65) and the frequency (f0.5). For the Pt/Fe(CN)6-4 system, the discrimination of the charging current from the faradaic current is successful at frequencies below 20Hz, which corresponds to a scan rate of 80Ea V /s The double layer of Pt/KCl with/without the presence of ferricyanide ion may be assumed to be an ideal capacitor in sinusoidal voltammetric experiments, although its capacitance changes appreciably with the frequency of the applied potential. In fact, sinusoidal voltammetry is similar to cyclic voltammetry in many aspects including the general shape of the current function. The advantages of sinusoidal voltammetry over cyclic voltammetry are (1) the ease of discrimination of charging current by frequency deconvolution, and (2) improved signal/noise ratio."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yide Chang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: B, page: 1576."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925526</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40886610</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990302</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920157</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 CHAN</identifier>
+   <identifier type="dewey">9925526</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 CHAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

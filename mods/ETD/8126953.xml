@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Martín Navarro, treasurer, contador, intendant, 1766-1788</title>
+      <subTitle>politics and trade in Spanish Louisiana</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Coutts, Brian E.</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">biography</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 605 leaves ; 29 cm.</extent>
+      <extent>618 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation describes the career of Mart(')in Navarro, Treasurer, Contador, and Intendant of Spanish Louisiana during the years 1766 through 1788. In doing so it sheds considerable light on the economic history of Spanish Louisiana and Spanish West Florida during the 1770's and 1780's.;As treasurer, Navarro proposed a number of important fiscal reforms and was charged with a special commission to settle the estates of the Rebels of 1768. As Contador he planned and organized supplies for all of the Spanish expeditions against the English in the Mississippi Valley and along the Gulf Coast.;However, his principal successes came as Intendant (1780-1788) when he introduced a series of fiscal and agricultural reforms to Spanish Louisiana. His ideas were expressed in a lengthy treatise, ""Political Reflections on the Actual State of Louisiana"" in 1780. In 1785 he prepared a reglamento which set the salary and expenses schedule for the colony for the remaining sixteen years of Spanish control. He encouraged European immigration to Louisiana, aided in the resettlement of these immigrants, encouraged the expansion of the tobacco industry and instituted the use of paper money when the colony's situado (supplement) failed to arrive on time.;Following his retirement to Spain he carried out a two-year royal commission for the Spanish Crown designed to improve Spanish industrial production of American goods.;Research was carried out principally at the AGI in Seville, the AHN in Madrid, the Archivo Provincial de Galicia in La Coruna, the Judicial Records of French and Spanish Louisiana at the Louisiana State Museum, the Notarial Records of Orleans Parish and at the Department of Archives and Manuscripts at Louisiana State Univerisity."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Brian E. Coutts.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2816."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 577-604.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Navarro, Martín</namePart>
+         <namePart type="date">1738-1793</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Intendants</topic>
+      <topic>Biography</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+      <temporal>To 1803</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Spain</geographic>
+      <topic>Colonies</topic>
+      <topic>Officials and employees</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126953</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8186576</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820224</recordCreationDate>
+      <recordIdentifier source="SIRSI">u13470</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 COUT</identifier>
+   <identifier type="dewey">8126953</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 COUT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

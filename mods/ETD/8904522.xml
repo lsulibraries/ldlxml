@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>On matroid connectivity</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Akkari, Safwan H.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Mathematics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 133 leaves ; 29 cm.</extent>
+      <extent>141 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Certain classes of 2- and 3-connected matroids are studied in this thesis.;In Chapter 2 we give a characterization of those 2-connected matroids M with the property that, for a given positive integer m, the deletion of every non-empty subset of M having at most m elements is disconnected. A bound on the maximum number of elements of such a matroid in terms of its rank is also given, along with a complete description of the matroids attaining this bound. These results extend results of Murty and Oxley for minimally 2-connected matroids.;A characterization of the 3-connected matroids M that have the property that every 2-element deletion of M is disconnected is given in Chapter 3. It is shown that these matroids are exactly the duals of Sylvester matroids having at least four elements.;In Chapter 4 we prove the following result: Let M be a 3-connected matroid other than a wheel of rank greater than three, and let C be a circuit of M. If the deletion of every pair of elements of C is disconnected, then every pair of elements of C is contained in a triad of M.;For an integer t greater than one, an n-element matroid M is t-cocyclic if every deletion having at least n $-$ t + 1 elements is 2-connected, and every deletion having exactly n $-$ t elements is disconnected. A matroid is t-cyclic if its dual is t-cocyclic. In Chapter 5 we investigate the matroids that are both t-cocyclic and t-cyclic. It is shown that these matroids are exactly the uniform matroids U (t,2t) and the Steiner Systems S(t, t + 1, 2t + 2)."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Safwan Akkari.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5338."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 124-127).</note>
+   <subject authority="lcsh">
+      <topic>Matroids</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904522</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22832397</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901210</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1012231</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 AKKA</identifier>
+   <identifier type="dewey">8904522</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 AKKA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

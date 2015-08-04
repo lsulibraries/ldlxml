@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of dietary phytase supplementation on growth, nutrient utilization, and phytate degradation in channel catfish, Ictalurus punctatus</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yan, Weibing</namePart>
+      <namePart type="date">1965-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 84 leaves : ill. ; 29 cm.</extent>
+      <extent>85 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Phytase supplementation increases the availability of phosphorus in fish diets, and dietary protein utilization might be increased as well by lower phytate concentrations in phytase supplemented diets. Experiments were conducted to determine if weight gain; protein utilization; mineral retention; apparent dry matter, protein and mineral digestibility; and phytate degradation in the stomach of channel catfish fed an all-plant-protein diet could be improved by phytase supplementation.;Seven diets were tested: a nutrient complete diet (TC) containing 5% fish meal and six all-plant-protein diets (T1--T6) that contained minimal levels of available phosphorus (0.16%; total P = 0.57%) and zinc (53.37 ppm), but otherwise met all other nutritional requirements of channel catfish. Phytase was supplemented in diets T2--T6 to provide 500, 1,000, 2,000, 4,000, and 8,000 units of phytase activity (FTU) per kg diet. All diets were cold pelleted and air-dried.;Fish fed the TC diet had greater weight gain and higher dietary protein retention than fish fed (T1--T6). Weight gain and dietary protein retention did not differ among fish fed T1--T6. Bone ash, calcium, phosphorus, and manganese levels were significantly increased with 500, or more, FTU per kg diet. Magnesium content of bone was significantly increased at phytase concentrations at or above 1,000 FTU/kg diet. Zinc content of bone was significantly increased at a phytase level of 8,000 FTU/kg diet.;At 8 hours after feeding, apparent digestibility of calcium and phosphorus was improved by phytase supplementation. At 24 hours after feeding, apparent digestibility of calcium, magnesium, manganese, and zinc was increased by phytase supplementation. Crude protein digestibility was slightly increased at some levels of phytase supplementation 24 hours after feeding.;Phytate and phytate intermediates were mainly degraded in the stomach, with the greatest reduction occurring within 4 hours of ingestion. Results of this study indicate that a level of dietary phytase supplementation of 500 FTU/kg diet is sufficient to break down phytate and phytate intermediates, increase availability of dietary minerals, and reduce phosphorus loads in fish wastes."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Weibing Yan.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3335."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979303</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44193873</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000607</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921321</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 YAN</identifier>
+   <identifier type="dewey">9979303</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 YAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Production of L-(+) lactic acid from blackstrap molasses by Lactobacillus casei subspecies rhamnosus ATCC 11443</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Thongwai, Narumol</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 148 leaves : ill. ; 29 cm.</extent>
+      <extent>149 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Lactobacillus casei subspecies rhamnosus grew on non-supplemented blackstrap molasses. The bacteria grew best at the optimal temperature of 40 +/- 2&amp;deg;C, and at pH 5.5. Addition of yeast extract to molasses shortened the lag phase and increased cell mass. In batch fermentations without pH control, the highest ratio of lactic acid produced to cell mass was 12 from non-supplemented molasses. For pH controlled batch fermentations, the ratio's of lactic acid produced/cell mass were 81, 79, 51 and 31 for 0, 0.2, 0.4 and 0.8% yeast extract supplementation, respectively. Non-supplemented molasses, 8% Brix, produced 28 +/- 2 g/l of lactic acid in batch fermentations, pH 5.5. Molasses clarification reduced lactic acid production by 53%. Inversion of the sucrose in molasses with 0.2% invertase resulted in lactic acid production of a molar conversion of 1.99, with no residual sugars. Invertase also acted as a better nutrient supplement than did yeast extract. L. casei subsp. rhamnosus was inhibited by L-(+) lactic acid at a Ki of 120 mM when grown on MRS media, and 360 mM on molasses. The bacteria were inhibited by sodium azide at a Ki of 2.1 mM.;L. casei subsp. rhamnosus immobilized onto solid supports. At a dilution rate of 0.2/hr, the most lactic acid (14 +/- 1 g/l) was produced from non-supplemented molasses. Doubling the dilution rate halved the yield of lactic acid. Residual fermentable sugar in molasses was primarily sucrose. At dilution rates of 0.2 and 0.4/hr, nutrient supplementation of molasses did not enhance the production. A 3-stage mini-pilot plant, 5.4 liters working volume, was constructed. Most of the lactic acid (78%) was produced in the first segment of the bioreactor. Cost of carbohydrate and nutrient supplement of lactic acid production from batch fermentation was $0.35/kg, and from the immobilized bioreactors was $0.24/kg. If molasses is resold, the production cost of lactic acid from immobilized bioreactors drops to $0.075/kg."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Narumol Thongwai.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4403."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945746</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42140700</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990817</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920693</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 THON</identifier>
+   <identifier type="dewey">9945746</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 THON</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

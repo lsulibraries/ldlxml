@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Genetics and morphology associated with the flowering pattern, flowers, and leaves of Capsicum annuum L. and Capsicum chinense Jacq</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Shuh, Dai-Mei</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Horticulture.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 108 leaves : ill. ; 29 cm.</extent>
+      <extent>124 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The leaves and the flowers of Capsicum annuum L. and Capsicum chinense Jacq. were morphologically and genetically studied. C. annuum sets one flower at each node; C. chinense sets multiple (two or three) flowers at each node. 'Serrano Chili' (C. annuum L.) has an unique pubescent leaf type. The study on the interspecific hybridization between 'Serrano Chili' and No. 178 (C. chinense Jacq.) showed a F2 segregation ratio 45:9:10 (multiple flowers: intermediate flowering type: single flower) for the inheritance of multiple flowers. The interspecific hybridization, together with the intraspecific hybridization of 'Serrano Chili' crossed with 'Keystone Resistant Giant No. 4', 'Cayenne Large Red', and 'LSU Sport', showed a consistent F2 segregation ratio of 13:3 (pubescent leaf: glabrous leaf) for the inheritance of leaf pubescence.;The epidermis of leaves and floral organs of 'Serrano Chili' and No. 178 were studied with the scanning electron microscope (SEM). Elongated hairs were present in the costal and intercostal regions of both leaf surfaces of 'Serrano Chili', but only in the costal region of No. 178 leaf surfaces. The study on floral organs indicated a similar epidermal morphology between 'Serrano Chili' and No. 178. Elongated hairs and stomata were present on the abaxial surface while short glandular hairs densely covered the adaxial surface of a sepal. Hairs were produced at the tip and along the margins of the petal; stomata were found on the abaxial surface of the petal and associated with the ""tip-hair-zone"". No hair was found on stamens or carpels. Stomata were found on the abaxial surface of the anther lobe and restricted to the area near the connective tissue. On the adaxial surface of the filament base and the abaxial surface of the ovary base, stomata were also found; stomata found in these regions were considered to be related to nectar secretion in pepper flowers."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Dai-Mei Shuh.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 5450."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Peppers</topic>
+      <topic>Flowering</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Peppers</topic>
+      <topic>Morphology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Peppers</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017293</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25595248</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094337</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 SHUH</identifier>
+   <identifier type="dewey">9017293</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 SHUH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

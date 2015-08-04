@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Diabetic and normal children's understanding of illness causality</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>McAllister, Randi C.</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 121 leaves ; 29 cm.</extent>
+      <extent>116 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to determine developmental levels of the understanding of illness causality among diabetic children as compared to normal children. Thirty diabetic and 30 normal children were interviewed in order to measure their conceptual understanding of various illnesses and of diabetes. The subjects were also tested on a set of conservation tasks in order to determine their general level of cognitive development. The data analysis consisted of multivariable analysis of variance; analysis of variance with each of the two illness interviews as a dependent measure; analysis of covariance; a correlation of scores on the conservation tasks with scores on the two illness interviews; and a measure of interrater reliability for the two illness interviews. It was hypothesized that older children would score significantly higher than younger subjects on both illness measures; that diabetic children would score higher than normals on the Diabetes Interview; and that older diabetics would score higher than all other subjects on both illness interviews. In addition, it was expected that children who were labeled concrete operational on the tasks would score higher on the illness interviews than children labeled preoperational on the tasks. A major question in this study was whether the experience of a diabetic child with his illness would increase his level of cognitive development as compared to his normal peers. Results indicated that older children scored higher than younger children on both illness measures. Normal children scored significantly higher than diabetic children on the general illness interview, while diabetic children scored significantly higher than normal children on the diabetes interview. However, the higher scores achieved by diabetics on the diabetes interview is more representative of their knowledge of diabetes than of their understanding of diabetes causality. Results of the interrater reliability indicated very good agreement between the two raters for both illness measures. Correlation of the conservation tasks with scores on the two illness interviews indicated that concrete operational subjects scored higher than preoperational subjects on the interviews. The water task scores were better indicators of high scores on the interviews than either the clay or number tasks."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Randi C. McAllister.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-02, Section: B, page: 7670."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 76-81).</note>
+   <subject authority="lcsh">
+      <topic>Cognition in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Children</topic>
+      <topic>Attitudes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Health attitudes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Diabetes in children</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904553</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22992832</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910121</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1017381</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 MCAL</identifier>
+   <identifier type="dewey">8904553</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 MCAL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

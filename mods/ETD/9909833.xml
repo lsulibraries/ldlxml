@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Cloning and identificaton of Chlamydomonas reinhardtii genes and proteins upregulated under low CO₂ conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Somanchi, Aravind</namePart>
+      <namePart type="date">1968-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 122 leaves : ill. ; 29 cm.</extent>
+      <extent>123 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A mechanism that concentrates CO$\sb2$ in cells of Chlamydomonas reinhardtii, is induced when cells are grown at low CO$\sb2$ conditions. This mechanism increases the CO$\sb2$ concentration at the site of RuBisCO, and thereby improves the efficiency of C$\rm\sb{i}$ uptake and fixation. Cells adapting to low CO$\sb2$ show significant physiological changes. Few of the genes encoding proteins needed to produce these changes have been identified. A cDNA library has been constructed from C. reinhardtii to identify genes involved in these changes. The cloning and identification of several cDNAs that are upregulated under low CO$\sb2$ conditions are reported here. The possible roles that these cDNAs play in the CO$\sb2$ concentrating mechanism are also discussed.;Two cDNAs induced at low CO$\sb2$ are carbonic anhydrases. These cDNAs show homology to $\beta$ carbonic anhydrases from higher plants. The complete sequence of another cDNA, Lci 3, does not show homology to any known proteins. Increased abundance of the Lci 3 transcript suggests that it plays an important role in the CCM. Two other clones that are upregulated in low CO$\sb2$ conditions have been identified as PsaE and omega 6 desaturase.;Four other cDNAs upregulated under low CO$\sb2$ conditions code for proteins found in the light harvesting complex (LHC) family. A role in the energization of the CO$\sb2$ concentrating mechanism is proposed for these proteins. Lastly, a cDNA encoding a cyclophilin has been identified. Cyclophilins are a class of proteins with a cis/trans prolyl isomerase activity. This is the first report of CO$\sb2$ concentration affecting the expression of a cyclophilin. Based on in vitro studies a role in the proper folding of some of the newly synthesized proteins induced under low CO$\sb2$ conditions is proposed for the C. reinhardtii cyclophilin."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Aravind Somanchi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: B, page: 5267."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909833</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39902293</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980921</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919755</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 SOMA</identifier>
+   <identifier type="dewey">9909833</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 SOMA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

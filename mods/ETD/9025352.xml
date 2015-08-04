@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Model-based three-dimensional object recognition and localization using properties of surface curvatures</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wang, Wu</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Computer Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 150 leaves : ill. ; 29 cm.</extent>
+      <extent>159 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The ability to recognize three-dimensional (3-D) objects accurately from range images is a fundamental goal of vision in robotics. This facility is important in automated manufacturing environments in industry. In contrast to the extensive work done in computer-aided design and manufacturing (CAD/CAM), the robotic process is primitive and ad hoc.;This thesis defines and investigates a fundamental problem in robot vision systems: recognizing and localizing multiple free-form 3-D objects in range images. An effective and efficient approach is developed and implemented as a system Free-form Object Recognition and Localization (FORL). The technique used for surface characterization is surface curvatures derived from geometric models of objects. It uniquely defines surface shapes in conjunction with a knowledge representation scheme which is used in the search for corresponding surfaces of an objects. Model representation has a significant effect on model-based recognition. Without using surface properties, many important industrial vision tasks would remain beyond the competence of machine vision.;Knowledge about model surface shapes is automatically abstracted from CAD models, and the CAD models are also used directly in the vision process. The knowledge representation scheme eases the processes of acquisition, retrieval, modification and reasoning so that the recognition and localization process is effective and efficient.;Our approach is to recognize objects by hypothesizing and locating objects. The knowledge about the object surface shapes is used to infer the hypotheses and the CAD models are used to locate the objects. Therefore, localization becomes a by-product of the recognition process, which is significant since localization of an object is necessary in robotic applications.;One of the most important problems in 3-D machine vision is the recognition of objects from their partial view due to occlusion. Our approach is surface-based, thus, sensitive to neither noise nor occlusion. For the same reason, surface-based recognition also makes the multiple object recognition easier. Our approach uses appropriate strategies for recognition and localization of 3-D solids by using the information from the CAD database, which makes the integration of robot vision systems with CAD/CAM systems a promising future."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Wu Wang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1931."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 139-149).</note>
+   <subject authority="lcsh">
+      <topic>Robot vision</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Pattern recognition systems</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025352</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186745</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1112004</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 WANG</identifier>
+   <identifier type="dewey">9025352</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 WANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -8,7 +8,7 @@
    <titleInfo>
       <title>Influence of short-term endurance exercise training on heart rate variability</title>
    </titleInfo>
-   <name type="personal" usage="primary">
+   <name type="personal" usage="primary" nameTitleGroup="1">
       <namePart>Lee, Clarence Matthew</namePart>
       <namePart type="date">1973-</namePart>
       <role>
@@ -25,10 +25,11 @@
       </role>
    </name>
    <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
    <genre authority="marcgt">government publication</genre>
    <originInfo>
       <place>
-         <placeTerm type="code" authority="marccountry">lau</placeTerm>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
       </place>
       <place>
          <placeTerm type="text">Baton Rouge, La</placeTerm>
@@ -42,17 +43,74 @@
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
    </language>
    <physicalDescription>
-      <form authority="marcform">print</form>
+      <form authority="marcform">electronic</form>
       <form authority="gmd">electronic resource</form>
       <form>Electronic data.</form>
-      <form authority="marccategory">electronic resource</form>
-      <form authority="marcsmd">remote</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
       <extent>276 p.</extent>
    </physicalDescription>
-   <abstract type="Summary">"The purpose of this investigation was to determine if 8 exercise endurance training (ET) sessions over 2 weeks significantly alters cardiac autonomic modulation, as measured by heart rate variability (HRV). Twenty-four college-aged males were recruited for this study and were randomized into either an exercise group (EX; n = 12) or a control group (CT; n = 12). EX underwent 2 weeks of ET on a cycle-ergometer (frequency: four times/week; duration: 40 minutes; intensity 80--85% HRreserve), whereas CT was instructed not to alter their previous level of physical activity. Five-minute ECG tracings were collected for HRV under the following conditions: 5 minutes of paced breathing at a frequency of 12 breaths/minute (PB), 5 minutes of spontaneous breathing (SB1), 5 minutes of 70-degree head-up tilt on a tilt table (TILT), and a second 5-minute period of spontaneous breathing (SB2). The data were collected on 5 occasions (Test 1--Test 5) during a 2-week period. HRV was reported as the standard deviation of RR intervals, and as normalized units (NU) of the natural logarithm of high- and low-frequency power (InHF and InLF). A mixed-model analysis of variance (ANOVA) with repeated measures was used to evaluate any Group X Time interaction, or main effects of Group or Time on HRV. Alpha was set at 0.05. EX exhibited a significant increase in peak oxygen consumption (8%), whereas this parameter was unchanged in CT. During PB, ANOVA revealed a Group X Time interaction such that EX exhibited decreases in InLFNU (2.89 vs. 3.45 In%) and lnLF/1nHF (0.82 vs. 0.90) during Test 5 compared to Test 1, while there were no such differences across time in CT. Additionally, there was a Group X Time interaction during TILT such that EX exhibited lower InLFNU (4.12 vs. 4.42 In%) and InLF/InHF (1.12 vs. 1.46), and greater InBFNU (3.52 vs. 2.53 In%) during Test 5 compared to Test 1, while these indices were unchanged across time in CT. These data suggest that 8 ET sessions over 2 weeks increases vagal modulation of the heart. Furthermore, these data suggest that it takes at least 8 ET sessions to induce such changes."</abstract>
+   <abstract type="Abstract">"The purpose of this investigation was to determine if 8 exercise endurance training (ET) sessions over 2 weeks significantly alters cardiac autonomic modulation, as measured by heart rate variability (HRV). Twenty-four college-aged males were recruited for this study and were randomized into either an exercise group (EX; n = 12) or a control group (CT; n = 12). EX underwent 2 weeks of ET on a cycle-ergometer (frequency: four times/week; duration: 40 minutes; intensity 80--85% HRreserve), whereas CT was instructed not to alter their previous level of physical activity. Five-minute ECG tracings were collected for HRV under the following conditions: 5 minutes of paced breathing at a frequency of 12 breaths/minute (PB), 5 minutes of spontaneous breathing (SB1), 5 minutes of 70-degree head-up tilt on a tilt table (TILT), and a second 5-minute period of spontaneous breathing (SB2). The data were collected on 5 occasions (Test 1--Test 5) during a 2-week period. HRV was reported as the standard deviation of RR intervals, and as normalized units (NU) of the natural logarithm of high- and low-frequency power (InHF and InLF). A mixed-model analysis of variance (ANOVA) with repeated measures was used to evaluate any Group X Time interaction, or main effects of Group or Time on HRV. Alpha was set at 0.05. EX exhibited a significant increase in peak oxygen consumption (8%), whereas this parameter was unchanged in CT. During PB, ANOVA revealed a Group X Time interaction such that EX exhibited decreases in InLFNU (2.89 vs. 3.45 In%) and lnLF/1nHF (0.82 vs. 0.90) during Test 5 compared to Test 1, while there were no such differences across time in CT. Additionally, there was a Group X Time interaction during TILT such that EX exhibited lower InLFNU (4.12 vs. 4.42 In%) and InLF/InHF (1.12 vs. 1.46), and greater InBFNU (3.52 vs. 2.53 In%) during Test 5 compared to Test 1, while these indices were unchanged across time in CT. These data suggest that 8 ET sessions over 2 weeks increases vagal modulation of the heart. Furthermore, these data suggest that it takes at least 8 ET sessions to induce such changes."</abstract>
    <note type="statement of responsibility" altRepGroup="00">by Clarence Matthew Lee.</note>
-   <note>"Source: Dissertation Abstracts International, Volume: 63-04, Section: B, page: 1809.;Director:  Robert H. Wood."</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 63-04, Section: B, page: 1809."</note>
    <note>Title from document title page.</note>
    <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</note>
    <note type="system details">Mode of access: World Wide Web.</note>
-   <subject
+   <subject>
+      <topic>exercise training</topic>
+   </subject>
+   <subject>
+      <topic>heart rate variability</topic>
+   </subject>
+   <subject>
+      <topic>cardiovasular</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://etd.lsu.edu/docs/available/etd-1108101-143050/</url>
+   </location>
+   <location>
+      <url displayLabel="electronic resource">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3049218</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2001</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">52260151</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">030516</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20030516105313.0</recordChangeDate>
+      <recordIdentifier source="SIRSI">u1896222</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey"/>
+   <identifier type="dewey">3049218</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator/>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

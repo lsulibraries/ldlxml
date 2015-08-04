@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Systematics of the common garter snake, Thamnophis sirtalis</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Boundy, John Jeffrey</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (xii, 481) leaves : ill., maps ; 29 cm.</extent>
+      <extent>482 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Character variation was examined in the snake Thamnophis sirtalis . Initially, 187 characters were examined on five populations (OTUs). Only 12% of the characters failed to show geographic variation by ANOVA. A reduced data set of 72 characters remained after eliminating those that were invariant and correlated. The reduced data set was analyzed for interpopulation variation between 37 OTUs, of T. sirtalis. Numbers of significantly differentiated characters between OTUs, determined by ANOVA, were used to generate a UPGMA tree. The tree placed Texas and Chihuahuan populations as sister groups to all other OTUs, and grouped OTUs from west of the Continental Divide, southeastern Coastal Plain, Maritime Provinces, and central Great Plains. A MANOVA produced four components that explained 47% of the model variance. The second component was the best resolved, and separated most of the OTUs by a line running from Ontario to the southwestern Great Plains. A cladistic (parsimony) analysis was performed after ordering all characters and coding them from 0--4. Two most parsimonious trees were generated (C.I. = 0.207), using Thamnophis elegans and T. eques  as outgroups. The Texas panhandle OTU was the sister taxon to all other OTUs, and the division discerned by the second component was also resolved by the parsimony analysis. Association of OTUs with classic subspecies of  T. sirtalis was not supported. Natural history parameters were correlated with the eastern and western clades. Snakes in the eastern clade fed primarily on earthworms, while western snakes fed primarily on amphibians; used crypsis vs. flight as a means of capture avoidance; produced large litters of small neonates vs. smaller fitters of large neonates. A hypothetical scenario for the history of T. sirtalis suggests the following: (1)  T. sirtalis originated in Texas or Mexico; (2) populations reaching the Great Plains evolved red lateral markings, possibly for predator avoidance; (3) populations in forests retained a plesiomorphic color pattern until they invaded woodlands of the southeastern Coastal Plain, where a spotted morph evolved; (4) snakes west of the Continental Divide resulted from a single invasion."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by John Jeffrey Boundy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 7290."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960041</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43349240</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920976</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BOUN V.1 378.76 L930D 1999 BOUN V.2</identifier>
+   <identifier type="dewey">9960041</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BOUN V.1 378.76 L930D 1999 BOUN V.2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

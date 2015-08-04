@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>With the flavor of the South</title>
+      <subTitle>the influence of the southern tradition on the writings of Shirley Ann Grau</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Tarver, Judy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 174 leaves ; 29 cm.</extent>
+      <extent>180 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Since before the time of the so-called Southern Renaissance of the 1920's, critics have been debating the existence and the value of a literature of the South. Although they agree on little else, most would concur that such a literature would share certain characteristics: a belief in the importance of community and the past; a tendency to prefer myth, or a perception of reality, to reality itself; a religious sensibility, especially a pervading sense of sin and guilt; an emphasis on place; and the use of elements of the Gothic.;For thirty-five years Shirley Ann Grau has been writing fiction which demonstrates the influence of life in the South and of the Southern literary tradition. The few scholars who have commented on her writing tend to group her with other Southern women writers, especially for her early works, but no one has tried to define her Southernness or to show that it exists even in her later stories not set in the South.;Filled with regional overtones, her earliest works do emphasize place, but more importantly, they deal with the issues of community, myth, and the past in defining individual identity. Her later works experiment with non-Southern settings, but issues remain the same.;The results have ranged from the Pulitzer Prize-winning The Keepers of the House (1964) to the rather disappointing Nine Women: Short Stories (1985). In every book, however, Grau's Southern background is unmistakable. Though the characteristics associated with the South appear at times as ideals to be admired and envied, they appear at others as empty or even dangerous. A thinking, modern Southerner, Grau has continued to grapple with those old questions: is there a Southern tradition and is it worth saving? Her ambivalence about the answers to those questions reflects an uncertainty about the future of the South itself."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Judy Tarver.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: A, page: 9220."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 157-171).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Grau, Shirley Ann</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Criticism and interpretation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Southern States</geographic>
+      <topic>In literature</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123242</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28451616</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198808</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 TARV</identifier>
+   <identifier type="dewey">9123242</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 TARV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

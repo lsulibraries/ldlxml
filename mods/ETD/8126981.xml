@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>study of the relationship of certain variables to sex characteristic identification from the speech of heterosexual and homosexual individuals</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Travis, Norma Jean Cospelich</namePart>
+      <namePart type="date">1937-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication, Theatre and Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 147 leaves ; 29 cm.</extent>
+      <extent>163 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study explored relationships of speaker sex and masculinity-femininity judgments and 12 measures of rate, fundamental frequency, and intensity from taped reading and spontaneous speech samples of female and male heterosexual and homosexual individuals.;Phase One was designed to determine judgment reliability and any procedural variables that might influence judgments. Sex judgments were more accurate on the speakers' second performances. Both sex and masculine-feminine judgments were more accurate on reading than on spontaneous speech. Analysis of judgments from type-scripts of spontaneous speech yielded a significant judge sex-by-training interaction.;In Phase Two, 20 listeners judged sex and masculinity-femininity from taped reading and spontaneous speech samples of female and male heterosexual and homosexual speakers. The mean fundamental frequency low of females judged male/undecided was higher than those judged correctly. The mean intensity standard deviation of females judged female intensity standard deviation of female judged female was greater than that of females judged male/undecided. All male speakers were correctly identified.;Females judged masculine displayed a greater mean number of syllables per second, a lower mean fundamental frequency high, and a more restricted mean fundamental frequency range than those correctly described. Males judged feminine displayed a higher mean fundamental frequency mode and a greater mean intensity standard deviation than those correctly described.;Female speakers were judged male more often than males were judged female. Homosexuals were incorrectly described as masculine or feminine more often than heterosexuals.;Males averaged more syllables per second than females. Mean fundamental frequency low, high, and mode were higher for females and males. Mean fundamental frequency range was greater for females.;Mean intensity low and mean intensity range were significantly different for heterosexuals and homosexuals. Significant sex-by-type interaction occurred on mean intensity range and on mean syllables per second.;Mean syllables per second, words per minute, percent pause time, fundamental frequency range, and intensity standard deviation were significantly different for reading and spontaneous speech.;Suggestions for clinical application and future research were made."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Norma Jean Cospelich Travis.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: B, page: 2323."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 127-138.</note>
+   <subject authority="lcsh">
+      <topic>Speech</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gays</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126981</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8241955</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820313</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14797</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 TRAV</identifier>
+   <identifier type="dewey">8126981</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 TRAV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

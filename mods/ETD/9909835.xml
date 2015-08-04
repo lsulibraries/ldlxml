@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>study of models and controls for basin formation during continental collision</title>
+      <subTitle>(1) Australian lithosphere along Banda Orogen (Indonesia) and (2) Alboran Sea Basin (Western Mediterranean)</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Tandon, Kush.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 199 leaves : ill. ; 29 cm.</extent>
+      <extent>200 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Mechanisms for the formation of a foreland basin at the beginning of continental collision (Pliocene-Recent Australian continental foreland along the Banda orogen) and a post-orogenic, continental, Miocene extensional basin (Alboran Sea) are studied. Such a study investigates the controls on the basin formation during the start of the Wilson cycle and later during the break up of a thickened continent in a collisional environment. Effective Elastic Thickness (EET) of the Australian continental lithosphere from Roti to the Kai Plateau (${\sim}121\sp\circ{-}137\sp\circ$E longitude) are estimated using an elastic-half beam model to match the sea floor bathymetry and the Bouguer gravity anomalies. Range of constant EET values from 27-75 km across the shelf of Australian lithosphere shows a variation of 64% with the highest value in the vicinity of central Timor where the collision is most advanced. Downdip on the Australian continental lithosphere from shelf to beneath the Banda orogen, the reduction in EET is from $\sim$90 km-$\sim$30 km (66%). Variations in EET can be explained by inelastic yielding (brittle and plastic failure, crust-mantle decoupling in the lower crust and brittle-ductile decoupling in the upper-middle crust) in the Australian lithosphere. Change in EET occurred at the start of continental subduction due to change in curvature, both in map and cross-sectional view. Oroclinal bending of the continental Australian lithosphere increased the inelastic failure in the eastern end.;Different mechanisms of basin formation at a site of post-orogenic collapse are studied by constraining the timing of rifting in the western, eastern, and northern parts of the Alboran Sea basin on seismic reflectors via synthetic seismograms using ODP Leg 161 and Andalucia A-1 data. Regions of adjacent coeval compression and extension are found in the Alboran Sea basin. Normal faulting continues in parts of the eastern Alboran Sea basin later than in the western Alboran Sea basin. The development of the Alboran Sea basin is envisioned through a southeasterly migration of the delaminating continental lithosphere to explain younger extension in the eastern Alboran Sea basin. The rate of the migration of the delamination front is of the range of millimeters-centimeters/year."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Kush Tandon.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: B, page: 5287."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <subject>
+      <geographicCode authority="marcgac">at---</geographicCode>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909835</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39900923</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980921</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919753</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 TAND</identifier>
+   <identifier type="dewey">9909835</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 TAND</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>conversion of light amines over copper-containing zeolites</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Guidry, Trent Francis</namePart>
+      <namePart type="date">1971-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 164 leaves : ill. ; 29 cm.</extent>
+      <extent>165 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Copper-containing zeolites have been prepared by vapor, aqueous, and solid-state ion-exchange, characterized, and investigated for the conversion of light amines.;A copper-containing zeolite was synthesized by vapor ion-exchange in this study by a method that does not appear to have been previously reported. This material was prepared by reaction of the acidic zeolite with CuCl vapor, followed by oxidation of the Cu+ ions to copper oxonium. ions which are converted to copper hydroxyl dimers on exposure to air. The copper hydroxyl dimer exchanged zeolite is stable in air and can be converted back to a highly exchanged Cu+ zeolite by either partial hydrogen reduction or thermal treatment in an inert environment.;Aqueous ion-exchanged MFI and BEA have also been prepared and investigated. These investigations indicated that, as with the vapor ion-exchanged materials, most of the copper ions in the aqueous ion-exchanged materials existed as copper hydroxyl ions but in lower loadings than we were able to achieve using the vapor ion-exchange technique.;The solid-state ion-exchange of CuO and Cu2O with acidic MFI was also investigated. The results in this study suggested that CuO reacts with the zeolite on thermal treatment according to form zeolite coordinated Cu2+. During this process, some of the CuO is converted into an unreducible species such as copper metal or copper aluminates.;The results obtained suggested that under 1-propanamine reaction conditions, all of the copper ions in the zeolites were reduced to copper metal by the reactant, with regeneration of the zeolitic acid sites. Both the copper content and the dispersion of the copper metal play a significant role in the rate of conversion of 1-propanamine and the distribution of products produced. The acid sites in these materials catalyze the condensation of the primary amine reactant to secondary amines and ammonia. Dispersed copper metal catalyzes the selective dehydrogenation of the secondary amine to produce imines. The presence of copper clusters with two or more copper atoms further catalyzes the dehydrogenation of the imines to nitriles."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Trent Francis Guidry.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1193."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922079</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651821</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919917</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 GUID</identifier>
+   <identifier type="dewey">9922079</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 GUID</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

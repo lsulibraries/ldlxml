@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effect of acid rain and humic substances on aluminum toxicity</title>
+      <subTitle>a comparative study of chemical composition of old and newly deposited plaque from heart patients</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Murungi, Jane Igoki</namePart>
+      <namePart type="date">1949-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xxvi, 275 leaves : ill. ; 29 cm.</extent>
+      <extent>302 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Effect of acid rain and humic acid on aluminum toxicity. A study was carried out to find if leaf extracts could be used to counteract the effect of acid rain and aluminum in soils and lakes.;Tilapia, and common shiners fish, and alligator grass plant were used to study the effects of pH and aluminum. The effect of dried leaves on the pH and the buffering capacity of deionized water and the effect of the presence of cations such as iron, calcium and magnesium on aluminum toxicity were investigated.;The results of our investigation indicated a synergistic toxic effect of aluminum and acidity, with the gills' endothelia and the roots of alligator grass being the most affected by aluminum exposure at pH below 5, while the presence of leaves increased the pH of water, decreasing the toxic effect.;Study revealed that the leaves that decomposed easily to form humic and fulvic acids were most effective in reducing the aluminum toxicity. Pine leaves did not mitigate the toxic effect. The presence of iron and/or phosphorus reduced the toxic effect of aluminum to fish while magnesium and/or iron reduced the toxicity of aluminum to alligator plant.;A comparative study of chemical composition of old and the newly deposited plaque from heart patients. A preliminary study was initiated to compare the chemical composition of the newly deposited atherosclerotic plaque after a bypass operation and rigorous treatment, and the material that had been depositing since childhood of heart patients. The lipid composition was determined using HPLC, TLC and MS, after extraction from the plaque using 2:1 Chloroform:methanol. The metal composition was determined using ICP, after acid digestion.;The results indicated a significant difference between old and new deposits in both metal concentration and the lipid composition. The number and type of lipids in the old and the new deposits from the same individual were different. Metal ratios and concentration, especially calcium, sodium and phosphorus were also different.;The results indicated that a more extensive and controlled study would be useful in understanding the etiology of heart diseases."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jane Igoki Murungi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-12, Section: B, page: 5835."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 252-274).</note>
+   <subject authority="lcsh">
+      <topic>Atherosclerosis</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Heart</topic>
+      <topic>Diseases</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Heart</topic>
+      <topic>Effect of metals on</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9112257</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28437207</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930712</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198465</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MURU</identifier>
+   <identifier type="dewey">9112257</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MURU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

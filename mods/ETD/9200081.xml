@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Three essays on sampling techniques</title>
+      <subTitle>small sample performances of estimators and predictors</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Small sample performances of estimators and predictors</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Parisun Chantanahom</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Economics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 224 leaves : ill. ; 29 cm.</extent>
+      <extent>242 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The dissertation addresses the issues of small sample properties of estimators and predictors. Economic analysis usually relies on the asymptotic properties of estimators and predictors which may not be the same as their asymptotic counterparts. Furthermore, some biased estimators and predictors used in economic studies have certain asymptotic properties which are not fully understood. Consequently, sampling techniques are used to explore the small sample properties and construct confidence intervals for predictors and estimators. In the dissertation, first, Monte Carlo experiments are used to find an appropriate estimation procedure for a system of simultaneous equations which involves a latent endogenous variable. Second, Monte Carlo experiments are used to explore the small sample property of the 'equity estimator' and compare it to the small sample properties of the 'traditional' estimators. Third, bootstrap sampling techniques is utilized to construct confidence intervals for the out-of-sample forecasts obtained via biased predictors which cannot be constructed in the usual way.;The findings are (1) an instrumental variables approach is an appropriate alternative estimation technique of the system of simultaneous equation involving a latent endogenous variable; (2) the small sample of the equity estimator is dependent on the vector lengths and the conditioning of the data; and (3) bootstrap method produces reasonable confidence intervals for out-of-sample forecasts."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Parisun Chantanahom.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: A, page: 2641."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 216-223).</note>
+   <subject authority="lcsh">
+      <topic>Estimation theory</topic>
+      <topic>Asymptotic theory</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prediction theory</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sampling (Statistics)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200081</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28524077</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930727</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200372</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 PARI</identifier>
+   <identifier type="dewey">9200081</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 PARI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

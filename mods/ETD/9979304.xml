@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ice-core pollen studies from the Dunde and Guliya Ice Caps, Qinghai-Tibetan Plateau, China</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yao, Zuju</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 247 leaves : ill., maps ; 29 cm.</extent>
+      <extent>248 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This research provides the first systematic and high-resolution ice-core pollen records from two ice caps in the northern Qinghai-Tibetan Plateau. To facilitate the climatic interpretation of the pollen data from the ice cores, a 30-year pollen record from the Dunde ice core is used to establish the quantitative relationship between pollen and modern climatic parameters.;A 2000-year pollen record from the Dunde ice core reveals decadal and century time scale climatic changes. Three dry periods (i.e. A.D. 280--640, 1200--1370, and 1926--1986) and three wet periods are identifiable at Dunde. These results are compatible with other proxy data such as historical records, tree-rings, and other ice-core data from the Qinghai-Tibetan Plateau and surrounding regions. Pollen data also suggest that the early Medieval Warm Period (9th to 12th century) was warm and humid, while the late Medieval Warm Period (13th to 14 th century) was warm and dry at Dunde. The cold and wet period between A.D. 1650 and 1926 is probably correlated with the Little Ice Age. An 88-year cycle of pollen concentrations is probably correlated with the 84-year Gleissberge cycle of solar activity, while an 110-year cycle of oxygen isotope variation may be associated with the 110-year cycle of thermohaline circulation of the ocean.;In the Guliya ice core, the pollen record reveals several vegetational and climatic changes over the last 12,000 years. Before 11,500 BP, high percentages of Chenopodiaceae pollen suggest dry conditions. Between 11,500 and 9500 BP, an increase in Artemisia pollen suggests a relatively more humid condition than before. From 9500 to 6500 BP, a significant increase in Gramineae pollen indicates the development of a grass-dominated steppe, probably reflecting increased precipitation due to a stronger summer monsoon. Gramineae pollen decreased after 6500 BP, indicating return to drier condition. After 1900 BP, the pollen assemblage is similar to the modern ones, suggesting that the modern arid climatic regime has been established since then. The climatic history inferred from this ice-core pollen study is consistent with the pattern reconstructed from other proxy records in the Qinghai-Tibetan Plateau."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Zuju Yao.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3480."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979304</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44193440</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000607</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921320</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 YAO</identifier>
+   <identifier type="dewey">9979304</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 YAO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

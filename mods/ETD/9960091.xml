@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>estimation of premorbid intelligence</title>
+      <subTitle>a comparison of approaches</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Petito, Peter Anthony</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 85 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>86 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Early methods to estimate premorbid intelligence focused on the use of the WAIS or WAIS-R IQ scores or selected WAIS or WAIS-R subtests. It was expected that performance on such tests would remain stable after a brain injury. As further research showed this belief was not valid, researchers turned to the use of other tests of current ability, one being a measure of reading ability known as the National Adult Reading Test (NART).;A second approach focused on the relationship found between certain demographic variables and intelligence. More recently, researchers have employed an approach that combined present abilities performance and demographic predictors in regression equations. Vanderploeg and Schinka (1995) used a combination of present ability as measured by the WAIS-R with certain demographic characteristics. Friedberg and Gouvier (1996) developed linear regression equations to estimate WAIS-R IQs using estimated Barona IQ (Barona, Reynolds, &amp; Chastain, 1984) combined with error score on the NART.;The present study compared the equations of Vanderploeg and Schinka (1995) with those of Friedberg and Gouvier (1996) using normal subjects and brain-injured individuals. Both sets of predictor equations found significant differences for the estimated IQ scores of the two groups with the control group having higher estimated scores than the head-injured group.;Secondly, both sets of predictor equations noted a significantly greater difference between the estimated and obtained IQ scores for the CHI group than for the control group. This finding suggested that the obtained IQ scores were significantly decreased from premorbid levels, suggesting clinical utility for the equations as measures of premorbid intelligence.;Finally, a comparison of the two sets of equations using a hierarchical regression pointed to the Vanderploeg and Schinka equations as better predictors of premorbid intelligence as they accounted for more of the variance than the Friedberg and Gouvier equations. However, this may be partly due to the fact that the predictor equations were derived from the same data as the criterion variable. This would suggest the need for further research using predictors that are independent of the data used in the criterion."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Peter Anthony Petito.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 1093."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960091</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43368262</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921029</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 PETI</identifier>
+   <identifier type="dewey">9960091</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 PETI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

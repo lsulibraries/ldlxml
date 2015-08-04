@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>influence of climate for belief in the overseas mission on cross-cultural training effectiveness</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Handler, Charles Andrew.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <dateIssued encoding="marc" point="start">1999</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 295 leaves ; 29 cm.</extent>
+      <extent>295 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study represents the presentation and empirical investigation of a model of cross-cultural training (CCT) effectiveness. This model develops the idea that characteristics of the individual and the organization may influence trainees' motivation to learn and thus may impact the effectiveness of CCT programs. The proposed model is unique in that it suggests trainees, perceptions of a specific climate referent, climate for belief in the overseas mission, may serve as an organizational characteristic that can impact CCT effectiveness. It is proposed that perceptions of a climate for belief in the overseas mission are created via organizational members, shared perceptions of organizational policies, practices, and procedures. Specifically, a review of the international HR literature led to the identification of five types of expatriate HR policies, practices, and procedures that may serve as antecedents to employees' perceptions of a climate for belief in the overseas mission. Finally, the proposed model suggests that characteristics of the individual such as self-efficacy and organizational commitment may influence the effectiveness of CCT via their relationship with climate perceptions and their influence on trainees' motivation.;In order to investigate the ideas proposed in the present model, portions of it were examined using a laboratory study methodology. Specifically, 138 undergraduate participants were informed of the details of an overseas teaching exchange program as part of an experimental manipulation used to create perceptions of a climate for belief in the overseas mission. Participants then completed a short cross-cultural training program and several attitude scales. The data from this experiment indicated that the experiment used in the present study was successful at creating perceptions of a climate for belief in the overseas mission and that participants learned from the CCT program. The results of a path analysis indicated that climate had a positive influence on motivation to learn, organizational commitment, and self-efficacy; and that self-efficacy influenced motivation to learn. No support was found for the proposed relationship between motivation to learn, learning, and reactions. However, the results of a revised model indicated that reactions mediated the relationship between motivation and learning rather than moderated it as was originally proposed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Charles Andrew Handler.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: B, page: 1896."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925530</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40878674</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990226</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920132</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HAND</identifier>
+   <identifier type="dewey">9925530</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HAND</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

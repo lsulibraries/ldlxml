@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Access to child care in North Carolina</title>
+      <subTitle>the interaction of gender relations, class, and government policy across places and scales</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Henderson, Bonnie Morris</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 192 leaves : ill. ; 29 cm.</extent>
+      <extent>193 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Access to child care is becoming an increasingly critical economic and social issue for American families as more and more women work outside the home. In addition to being an important economic and social issue, access to child care is also a significant geographical issue, in two senses. First, place is an important component of child care access; substantial spatial variations exist in child care services in the United States. Secondly, attention to issues of scale is important when examining child care issues since access to child care is shaped by both local and non-local forces.;I use both horizontal and vertical dimensions of inquiry in order to address the central question of this study: how do gender relations, labor market position (occupation and income), family structure (dual-parent versus single-parent), race, and governmental child care policies interact in particular locales to shape parents' access to child care services? I use a comparative framework to examine the child care situations in three areas (Orange County, Burke County, and a consortium of western counties) of North Carolina that differ along social, economic, and geographical lines. I also consider child care access issues at multiple scales: the everyday household experiences of child care access, local contrasts in child care needs and resources, the effects on child care access of a state-led initiative (""Smart Start"") to improve child care services, and the broader context of federal legislation regarding child care. I use a triangulated methodological approach, combining both qualitative (e.g. interviewing) and quantitative methods (e.g. survey techniques) to analyze child care access.;Results from my empirical work indicate the following. First, women shoulder the greater responsibility for arranging and managing child care. Secondly, child care is a crucial link between home and work and often shapes parents' employment possibilities. Thirdly, child care is viewed by many employers as a private issue outside the realm of work. Fourthly, child care arrangement for many families are fragmented, complex, and precarious as a result of having to forge individual solutions with little help from employers or government."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Bonnie Morris Henderson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: A, page: 3919."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909822</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39908722</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980922</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919766</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 HEND</identifier>
+   <identifier type="dewey">9909822</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 HEND</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

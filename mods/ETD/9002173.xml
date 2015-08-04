@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>experimental research study on the effect of accrual of nonpension postretirement benefit costs on loan officers' decisions</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Strawser, Joyce A.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 163 leaves ; 29 cm.</extent>
+      <extent>174 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"On February 14, 1989, the Financial Accounting Standards Board issued an exposure draft entitled ""Employers' Accounting for Postretirement Benefits Other Than Pensions."" The provisions of this proposed Statement of Financial Accounting Standards would require that the costs of nonpension postretirement benefits be recognized in employer financial statements over the service lives of employees expected to receive benefits. This study examined the decisions of commercial bank loan officers in an experiment designed to determine whether the proposed accrual of postretirement health care benefits affects the decisions of financial statement users.;The following issues were also addressed: (1) Does the nonpension postretirement benefit obligation affect users' decisions in the same manner as an equivalent amount of term loan debt?, (2) Does the existence of a nonpension postretirement benefit plan affect the decisions of users?, and (3) Does the method of accounting for nonpension postretirement benefits affect users' perceptions of this obligation as a liability. A mail questionnaire approach was used to contact a random sample of commercial bank loan officers. The subjects were asked to analyze the financial statements of a hypothetical loan applicant and provide two lending decisions: (1) an assessment of the applicant's ability to repay a $3,500,000 term loan and (2)~a statement of the maximum loan amount they would lend the hypothetical borrower.  Subjects were also asked to react to two statements concerning the nature of an employer's obligation to provide nonpension retiree benefits.;The findings of this research do not support the FASB's view that accrual accounting treatment of nonpension postretirement benefit costs will improve financial statement users' decisions. The findings also do not provide evidence that users view a nonpension postretirement benefit obligation as being any different from other more conventional forms of debt. Similarly, the results do not indicate that the existence of a nonpension postretirement benefit plan has an effect on users' decisions or that the method of accounting for such a plan influences users' perceptions concerning the employer's commitment to provide benefits. However, experimental evidence suggests that failure to find support for these hypotheses might be attributable to a weak manipulation of the independent variable."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Joyce Ann Strawser.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2560."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 124-130).</note>
+   <subject authority="lcsh">
+      <topic>Postemployment benefits</topic>
+      <topic>Accounting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Commercial loans</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002173</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24600180</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911022</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1069843</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 STRA</identifier>
+   <identifier type="dewey">9002173</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 STRA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

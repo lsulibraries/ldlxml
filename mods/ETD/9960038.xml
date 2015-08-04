@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Customers' perceptions of the service they receive</title>
+      <subTitle>the influence of employee extra-role job behaviors</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Baker, Robert C.</namePart>
+      <namePart type="termsOfAddress">IV</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 119 leaves : ill. ; 29 cm.</extent>
+      <extent>120 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Today's organizations face increased global and domestic competition, more downsizing, growing emphasis on team based work, and increased focus on customer service issues. This changing work environment necessitates a more complete examination of contextual factors impacting service delivery, including extra-role employee job behaviors (Bettencourt &amp; Brown, 1997; Borman &amp; Motowidlo, 1997). The current study examines the effects of employees' extra-role job behaviors on customers' perceptions of service. Specifically, the present study investigates two types of employee extra-role job behaviors: (1) organizational citizenship behaviors (OCBs), and (2) organizationally deviant behaviors (ODBs). These specific employee extra-role job behaviors are studied in order to determine their potential relationship with specific dimensions of customers' perceptions of the service they receive. In general, it was postulated that OCBs are positively related and ODBs negatively related to customers' perceptions of service they receive. More specifically, interpersonal OCBs are more strongly related to customers' perceptions of service than noninterpersonal OCBs. These suppositions were supported. On the other hand, noninterpersonal, more serious ODBs are postulated to be more strongly related to customers' perceptions of service than are interpersonal, less serious ODBs. Only ODBs more serious in nature proved to be more strongly related to customers' perceptions of service in the current investigation. The present study has implications for future research regarding employee extra-role job behaviors. Specifically, present results indicate that employee extra-role job behaviors are significantly related to and account for variance in customers' perceptions of the service they receive. In addition, examining these types of employee behaviors at the group level proved to be effective. This type of group analysis had not been conducted in previous related research. Future studies should further examine the relationships identified in the current investigation in other settings."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Robert C. Baker, IV.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 1123."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960038</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43332767</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000124</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920968</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BAKE</identifier>
+   <identifier type="dewey">9960038</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BAKE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

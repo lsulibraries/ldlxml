@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Comparative inflorescence and floral development in the Asteraceae</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Harris, Elizabeth M. (Elizabeth Marlene)</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Botany.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (xi, 342 leaves) : ill., photos ; 29 cm.</extent>
+      <extent>356 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Floral and inflorescence development of 39 species of Asteraceae and four additional species representing possible outgroups were examined with the scanning electron microscope (SEM). Taxon choice was designed to include representatives of 12 of the 12 to 18 tribes recognized in the large, morphologically diverse family. Although floral ontogeny has provided phylogenetically useful characters in other plant groups, no similar studies have been applied to solve phylogenetic problems in the Asteraceae. The necessary live material was collected in several ways: from natural populations throughout North America, from the worldwide collections of several botanical gardens, grown from seed, or from cultivated specimens purchased from nurseries. For each species examined, several individual plants were sampled from each population, and in some cases, more than one population was sampled. Inflorescence and floral development was studied to document the range of variation possible among the developmental pathways of each species. Ontogenetic events were relatively stable within each species, when several individuals from either a single population or from different populations were sampled. Heterogamous heads consistently display suppression of peripheral (ray) flower initiation and development as compared to that of the disk flowers of the same head. Disk flowers and ray flowers of the same head are inherently dissimilar from initiation onwards, differing in size and shape of primordia, and in ensuing development. Several ontogenetic pathways were documented for the formation of ray flowers, receptacular bracts, and pappus; they appear to have phylogenetic significance. The corolla ring meristem was found throughout taxa of the subfamily Asteroideae but was absent from the Lactucoideae. Ligulate, bilabiate, and disk flowers throughout the Asteraceae display as high degree of similarity during early stages of development, but are dissimilar in late stages of corolla expansion. The pappus is initiated either during organogenesis with the other organ whorls, or substantially later during floral expansion and differentiation as an achene outgrowth; the two modes of initiation are considered nonhomologous. If initiated during organogenesis, the pappus may form in one of three general patterns."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Elizabeth M. Harris.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3385."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Compositae</topic>
+      <topic>Classification</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Botany</topic>
+      <topic>Classification</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200066</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28529579</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930728</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200423</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 HARR</identifier>
+   <identifier type="dewey">9200066</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 HARR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

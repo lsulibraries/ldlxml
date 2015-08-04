@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Acoustic typology of infant proto-syllables</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Piroli, James Robert</namePart>
+      <namePart type="date">1950-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 106 leaves : ill. ; 29 cm.</extent>
+      <extent>115 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A corpus of CV-like proto-syllables was obtained from the archival recordings of three first-born infants, which were made in conjunction with earlier research on the acoustic and interactive aspects of infant language acquisition. Tokens were limited to proto-syllables with perceptual evidence of stop-like or glide-like qualities and an identifiable vowel. Following A/D sampling, measures of developmental change were made including F1/F2 steady states, transition durations, CV durations, maximum F2 velocities, F2 onset, fundamental frequency, shimmer, time-to-peak amplitude velocity, and time-to-peak F2 velocity within the transition. Contrary to expectations, the orderliness of the infant protosyllables was remarkable with few acoustic events indicative of loss or reduction of articulatory control.;With the exception of transition duration, all intrinsic temporal measures were positively correlated with overall syllable duration. The modal adult and infant syllable durations overlapped at approximately 240 msec with infants exhibiting a strong skew towards longer durations. F1/F2 values fell in the expected location in the F1/F2 vowel space and were almost perfectly congruent with those reported by previous researchers. Shimmer measures failed to differentiate adults from children, dispite trendline correction, suggesting that the glottal pulse for CV frames may be quasi adult-like as early as the fifth month of life. The uniformity of formant trajectory suggests that the rather adult-like transitions emerged very early and changed hardly at all across the 5-14 month epic. In terms of distribution of vowels and frequency of occurrence of place of articulation for stops, the infants of the current study compared well with published data.;Theoretical implications are discussed including the presence of a coordinative-structure schemata for vocal motor control of transitions, the possibility of a biologically mediated predisposition to automatically affect rapid transitions and/or a recruitment of the components of reflexive gestures for phonatory purposes, and the fact that monosyllabic frames, once developed, may be stable temporal frameworks for speech output well into the second year of life."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by James Robert Piroli.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3562."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 93-102).</note>
+   <subject authority="lcsh">
+      <topic>Language acquisition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Newborn infants</topic>
+      <topic>Development</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200084</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28524028</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930727</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200369</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 PIRO</identifier>
+   <identifier type="dewey">9200084</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 PIRO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

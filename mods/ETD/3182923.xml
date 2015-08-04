@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of water color on food web structure in freshwater lakes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wissel, Bjoern</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Baton Rouge, La</placeTerm>
+      </place>
+      <publisher>Louisiana State University</publisher>
+      <dateIssued>2001]</dateIssued>
+      <dateIssued encoding="marc">2001</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <form authority="gmd">electronic resource</form>
+      <form>Electronic data.</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>131 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Water color has multiple effects on freshwater lakes, changing the vertical profiles of light, temperature, and oxygen. Therefore, increased water color should reduce planktivory by visually guided fish, but invertebrate predators such as Chaoborus should become more important. Since fish prefer larger prey but Chaoborus can only ingest smaller zooplankton, increased water color should cause a shift from small to large zooplankton species. To test this hypothesis, I analyzed two lake data sets to examine how water color affects the relative importance of fish and Chaoborus as planktivores. Subsequently, I studied the vertical migration behavior of the zooplankton prey in response to gradients of light, temperature, and oxygen. Finally, I performed (1) an enclosure experiment to evaluate the effects of water color, fish, and Chaoborus  on the food web structure under controlled conditions, and (2) analyzed the food webs of two lakes that were similar in morphology and fish assemblage, but strongly differed in water color.;Regression and canonical correspondence analysis confirmed my hypothesis that elevated water color negatively affected fish abundance and resulted in a change in species composition to brook trout, small native cyprinids, and bottom dwelling fish. While small chaoborids were unaffected by the presence of fish, larger species showed increased abundances in more colored lakes. Water color also influenced the vertical position of the zooplankton prey, especially the larger species. In clear lakes, large cladocerans and copepods stayed deeper in the water column than in colored lakes. The enclosure experiment showed the expected changes in predation regimes as well as zooplankton assemblage and migration behavior. In low color treatments, I observed a straight-line food web, where fish were able to eliminate Chaoborus and strongly suppress the large zooplankton species. In high color treatments the impact of fish was reduced and Chaoborus was able to compete with fish for prey (intra-guild predation). The resulting zooplankton assemblage was dominated by large species such as Daphnia and Holopedium. The outcome of the whole-lake experiment and enclosure study were similar, which showed that the findings deriving from the enclosure study were applicable to natural lake communities."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Wissel Bjoern.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 66-07, Section: B, page: 3520."</note>
+   <note>Title from document title page.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</note>
+   <note type="system details">Mode of access: World Wide Web.</note>
+   <subject>
+      <topic>chaoborus</topic>
+   </subject>
+   <subject>
+      <topic>water color</topic>
+   </subject>
+   <subject>
+      <topic>zooplankton</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://etd.lsu.edu/docs/available/etd-1019101-092354/</url>
+   </location>
+   <location>
+      <url displayLabel="electronic resource">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3182923</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2001</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">52260149</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">030516</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20030516105313.0</recordChangeDate>
+      <recordIdentifier source="SIRSI">u1896210</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey"/>
+   <identifier type="dewey">3182923</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator/>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

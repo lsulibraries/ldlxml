@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Discharge-suspended sediment relationships in the Mississippi-Atchafalaya River system, Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Mossa, Joann</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 180 leaves : ill. ; 29 cm.</extent>
+      <extent>195 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Although suspension is the dominant mode of material transport in rivers world-wide, concepts of suspended sediment transport have come mostly from studies of small rivers. This study describes relationships between discharge and suspended sediment in a large river system, the Mississippi-Atchafalaya in south Louisiana. The primary objectives are: (1) to determine whether the suspended silt-clay and sand follow different relationships with discharge because the silt-clay is supplied largely from the basin whereas the sand is supplied largely from the channel perimeter; and (2) to determine whether hysteresis effects differ in high as compared to low discharge years because of conditions including supply limitations and bankfull flows.;Empirical relationships of discharge with suspended sediment, silt-clay, and, to a lesser extent, other variables in the Mississippi, Atchafalaya, and Old rivers show quadratic log-log relationships, while the Red River shows linear log-log relationships. The nonlinearity is strongest in the fine sediments and reflects the decreased availability of fine material at high discharges possibly related to the basin's climate, dams, and revetments, and removal of sediments by flushing. Further downstream in the Mississippi, velocities decrease at low discharges, fine material becomes increasingly abundant, and settling and resuspension of fines become more important processes.;The Mississippi, Atchafalaya, and Old rivers show pronounced hysteresis effects with a lead of sediment peaks before discharge crests of as much as two months during high discharge years. The lead decreases with decreasing discharge maxima so that in low discharge years sediment peaks and discharge crests coincide. Even though in all years the Red's discharge is less than that contributed through Old River, time series show that the Atchafalaya's sediment signature, which shows numerous sediment peaks during falling and stationary discharges, is strongly influenced by the sediment-laden Red River in most years. Results show the need for further study of large rivers and that existing concepts regarding relationships of basin size and hysteresis effects, as well as the relative downstream movement of sediment waves and floodwaves should be reassessed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Joann Mossa.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-12, Section: B, page: 5786."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 127-135).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>River sediments</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Mississippi River</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Atchafalaya River (La.)</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9112255</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28437127</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930712</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198462</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MOSS</identifier>
+   <identifier type="dewey">9112255</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MOSS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

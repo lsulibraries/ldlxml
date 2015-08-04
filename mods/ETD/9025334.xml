@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Behavior of the American alligator in a Louisiana freshwater marsh</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rootes, William Lee</namePart>
+      <namePart type="date">1949-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 107 leaves ; 29 cm.</extent>
+      <extent>121 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Stomachs from 706 alligators (Alligator mississippiensis) harvested from a southern Louisiana fresh marsh in 1987 and 1988 were examined for web tags from smaller marked alligators. Alligators $$2.73 m TL) were significantly more cannibalistic than smaller alligators (P $&lt;$ 0.0001). Males and females were cannibalized in the same proportion they occurred in the population. Cannibalism mortality appeared to be distributed proportionately among all cohorts in the 0.35-2.12 m TL size classes resulting in a relatively uniform reduction across the group. Cannibalism was found to be an important population regulating mechanism, accounting for an estimated 50.2% of total hatchling mortality and 70.1% of total mortality in age 11 months and older alligators.;Male growth rates in both a palustrine marsh (Lacassine National Wildlife Refuge) and estuarine marsh (Rockefeller Refuge) marsh types were greater than female rates (P $&lt;$ 0.0001). Growth rates and weight-length ratios of alligators in estuarine marsh were greater than those of alligators in palustrine marsh (P $&lt;$ 0.0001). Age specific fecundity and survivorship rates of alligators in the palustrine marsh were less than alligators in the estuarine marsh.;The home range size and activity pattern of adult female alligators of different reproductive status were compared among seasons of the year. Home range size (P = 0.54) and minimum average daily movement rates (P = 0.85) did not differ between nesting and non-nesting radio-collared females during the summer nesting season. No difference was found between females with and without broods in the two variables during the fall brooding season. Adult radio-collared female alligators ranged over larger areas and had greater daily average daily movement rates during the spring breeding season than during any other season of the year (P $&lt;$ 0.01). Annual home range size of the 15 adult female alligators monitored during the study was 36.2 $\pm$ 42.6 (SD) ha."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by William Lee Rootes.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1576."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>American alligator</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025334</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186624</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111988</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 ROOT</identifier>
+   <identifier type="dewey">9025334</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 ROOT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

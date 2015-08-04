@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Thinking processes, management routines and student perceptions of expert and novice physical education teachers</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Nelson, Karyn R. (Karyn Rayhill)</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Health, Physical Education, Recreation, and Dance.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 228 leaves ; 29 cm.</extent>
+      <extent>241 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study examined thought processes including problem-solving and interpretations of instructional situations of expert and novice physical education teachers at two grade levels. Four expert and four novice teachers (two each at the third grade and two each at the seventh grade) participated in the study. Thoughts, concerns, decisions, and awarenesses of expert and novice teachers during instruction were evaluated as well as their students' perceptions of the instruction. A total of 144 students were interviewed. Class rules and management routines established during the first week of the school year by two of the expert teachers (one at each grade level) were also identified and discussed. The results revealed substantial differences between expert and novice teachers in their thinking processes. The experts in this study resembled experts who have been investigated in the classroom and other fields. Specifically, the expert teachers when compared to novice teachers: (a) could more accurately interpret situational events pertaining to instruction, (b) achieved greater insight and made more inferences from pertinent teacher and student behavior cues available to them, (c) provided more descriptive information and included more creative solutions to problems presented to them, (d) were more concerned with individual student needs in both hypothetical and real situations, (e) focused on pupil learning and attentiveness to a greater extent in both hypothetical and actual instructional situations, (f) primarily based decisions during interactive teaching on student skill performance, with a low percentage of management concerns, and (g) stimulated their students to spend more class time (three-fourths of instructional time) thinking about skill performance and activity concepts and less time being confused about procedures, drills, skill performance and class routines. The two expert physical education teachers selected for detailed study spent considerable time during the first week of school introducing and rehearsing effective class routines which were maintained throughout the year. The novice teachers in this study were concerned primarily with managerial and procedural facets of instruction."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Karyn R. Nelson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: A, page: 3656."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Physical education teachers</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904556</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22945790</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910110</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1014796</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 NELS</identifier>
+   <identifier type="dewey">8904556</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 NELS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

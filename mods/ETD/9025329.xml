@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Louisiana agricultural productivity</title>
+      <subTitle>a multi-input multi-output approach</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Ojemakinde, Abiodun.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana Agricultural Experiment Station</namePart>
+      <namePart>Dept. of Agricultural Economics and Agribusiness.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 92 leaves ; 29 cm.</extent>
+      <extent>101 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Agricultural research and extension is an important contributor to Louisiana agriculture. However, there is no documented work investigating the impacts of public agricultural research and extension on agricultural production in Louisiana. This study investigates the impacts of public agricultural research and extension and other quasi-fixed factors on production choices of the Louisiana farmers.;The specific objectives of this study are: (1) to estimate conditional output supply equations for Louisiana's main crops and livestock and input demand equations for fertilizer and labor, (2) to evaluate the impacts of public agricultural research and extension and other quasi-fixed inputs on the Louisiana agricultural sector, (3) to investigate some properties of Louisiana agricultural technology, and (4) to explain economic structural changes revealed by estimated output supply and input demand elasticities. Data for the study are obtained from several published sources, primarily U.S. Department of Agriculture publications.;The basis for the analysis is a normalized quadratic profit function. A system of fourteen output supply, input demand, and quasi-fixed factor shadow price equations are jointly estimated by seemingly unrelated regression.;The results suggest that between 1949 and 1986, Louisiana product supply mean own-price elasticities ranged between.043 and 2.92 and mean own-price input demand elasticities were $-$0.31 and $-$1.51 for hired labor and fertilizer, respectively. During the same period, hired labor was a normal input in the production of most products, and the two variable inputs were substitutes. An increase in Louisiana public agricultural research increased the gross revenue shares of most products but decreased the cost shares of hired labor and fertilizer. Both public agricultural extension and research had similar impacts on output response.;Estimates of marginal rate of return for Louisiana public agricultural research and extension were 19.61% and 15.70%, respectively. Thus, during the study period, social benefits, in the form of increased agricultural productivity attributable to Louisiana public agricultural research and extension activities, were above capital market rates of return. Based on tested hypotheses, the underlying technology for Louisiana agriculture was joint and nonhomothetic."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Abiodun Ojemakinde.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: A, page: 1327."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 80-86).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural productivity</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Input-output analysis</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Research</topic>
+      <topic>Economic aspects</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural extension work</topic>
+      <topic>Economic aspects</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025329</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186593</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111984</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 OJEM</identifier>
+   <identifier type="dewey">9025329</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 OJEM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

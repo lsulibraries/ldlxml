@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ion-molecule reactions of ligating anions with selected Lewis acids as potential energy surface probes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Taylor, William S.</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 375 leaves : ill. ; 29 cm.</extent>
+      <extent>394 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Reactions of several dioxo- and dithio-ligand anions with BF$\sb3$ and SiF$\sb4$ have been carried out in the gas phase using the flowing afterglow technique. These reactions can be described by a generalized mechanism in which the anion first participates in a three-body addition step in which the coordination sphere of the Lewis acid is expanded. The close proximity of the second OH or SH group to the Lewis acid center presents the possibility of formation of a ring-closed species in an overall bimolecular substitution step accompanied by the ejection of neutral HF. Reactions of several of the oxo-ligand anions with BF$\sb3$ and SiF$\sb4$ were observed to yield this chelated species. Evidence indicates that those processes which form bimolecular products are occurring on a double-well potential energy surface in which the first well represents the monodentate species, and the second well represents the associated bimolecular products. The height of the barrier between the two potential minima is reflected in the branching ratio of the two product species. Branching ratios between the three-body product and the bimolecular product were measured in order to elucidate the nature of factors influencing ring-closure. Our results indicate that the geometry around the Lewis acid center and the size and flexibility of the ligand anion are factors which affect chelation. Inductive effects also appear to have a small effect on the branching ratios. In addition, calculations carried out on the simplest of these systems suggest that the mechanism of ring-closure proceeds via the formation of an intramolecular hydrogen bond between the OH proton and one of the fluorines on the Lewis acid. The reactions carried out for this research proceed at rates which are between 60-90% of the collision rates for these processes, and are invariant with respect to pressure over the pressure range accessible to us. The exception to this is the reaction of BF$\sb3$ with 1,2-benzendithiol. This reaction exhibits a definite pressure dependence. Furthermore, our results indicate the existence of a radiative stabilization pathway in this system, which yields the addition product."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by William S. Taylor.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5330."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 299-305).</note>
+   <subject authority="lcsh">
+      <topic>Ions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ligands</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lewis acids</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Reactivity (Chemistry)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904572</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22992827</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910121</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1017380</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 TAYL</identifier>
+   <identifier type="dewey">8904572</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 TAYL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

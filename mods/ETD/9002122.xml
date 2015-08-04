@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Muon pair production at 52 GeV &lt;̲ [square roots] &lt;̲ 57 GeV using the AMY detector at TRISTAN</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bacala, Angelina M. (Angelina Mabascog)</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 132 leaves : ill. ; 29 cm.</extent>
+      <extent>143 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The reaction e$\sp+$e$\sp-$ $\to$ $\mu\sp+\mu\sp-$ has been observed by the AMY Detector at 52 GeV $\leq$ $\sqrt{s}$ $\leq$ 57 GeV at the TRISTAN storage ring in Tsukuba, Japan. With an integrated luminosity of 18.6 pb$\sp{-1}$, this presents a new test of the standard model of the electroweak interactions in this previously unexplored energy region. The forward-backward charge asymmetry and the cross-section calculated at the various energies show agreement with the standard model predictions. The products of the vector and the axial-vector coupling constants of the electron and muon extracted from these measurements are also consistent with theory. The data were combined at the average energy of $\sqrt{s}$ = 55.2 GeV. The measured asymmetry and cross-section are $-$34.4 $\pm$ 7.7% and 29.7 $\pm$ 2.1 pb respectively. This is in agreement with the standard model prediction of $-$28.3% for the asymmetry and 29.5 pb for the cross-section. The product of the axial couplings, $g\sbsp{A}{e}g\sbsp{A}{\mu}$ = 0.29 $\pm$ 0.07, and the product of the vector couplings, $g\sbsp{V}{e}g\sbsp{V}{\mu}$ = 0.01 $\pm$ 0.06, agree with the standard model predictions of 0.25 and.002 for these respective constants."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Angelina M. Bacala.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: B, page: 3536."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 104-105).</note>
+   <subject authority="lcsh">
+      <topic>Electroweak interactions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Particles (Nuclear physics)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Muons</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Storage rings</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002122</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24639012</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911029</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1070579</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 BACA</identifier>
+   <identifier type="dewey">9002122</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 BACA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

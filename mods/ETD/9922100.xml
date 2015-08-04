@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Thermo-mechanical characterization of heat-activated coupling for advanced composite piping systems</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Mensah, Patrick F. (Patrick Fitzgerald)</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Engineering Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 131 leaves : ill. ; 29 cm.</extent>
+      <extent>132 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A new technology for joining advanced composite piping systems, based on heat-activated coupling (HAC) of a thermosetting pre-impregnated (prepreg) fiber reinforced material has been advanced. The successful design of a heat-activated coupled joint depends on achieving the following requirements: (1) uniformly cured prepreg bonded to the surfaces of coupled pipe; and (2) minimal residual thermal stress as a result of the curing process.;In order to address the above concerns, thermal characterization of the uncured and cured prepreg used was undertaken in order to establish prerequisite chemical kinetics parameters and material property data required for the curing process models and thermal stress analysis. The validity of the developed curing process models was verified by use of an experimental test section designed for that purpose and experimentation to produce benchmark curing process temperature data.;Fundamental heat transfer process models were developed to simulate the curing process used in HAC. The model developed takes into account the nonlinear heat conduction arising from some temperature dependent material properties, chemical kinetics and moving thermal boundary of the prepreg's organic matrix before gelation. A solution methodology derived using finite difference methodology was applied to the resulting one- and two-dimensional parabolic boundary value problems to obtain numerical solutions.;Curing residual and in-service thermal stress analysis were also conducted on the coupled pipes using a commercial finite element analysis (FEA) code and equivalent material property data. The curing residual stress FEA model was validated by benchmark data from experimentation designed to ascertained FEA model results.;FORTRAN programs were written based on the finite difference numerical formulation and used to generate numerical simulation results of the curing process of HAC. Results obtained from the numerical simulation models compare favorably with the data from experimentation. The developed thermal models were incorporated into a curing process parametric study on composite-to-composite HAC couplings and used to establish desired curing schedules to achieve uniform cure and minimal thermal stress during the process."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Patrick F Mensah.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1270."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922100</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40657405</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919946</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 MENS</identifier>
+   <identifier type="dewey">9922100</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 MENS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

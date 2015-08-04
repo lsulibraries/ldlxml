@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Relative efficacy of treatment strategies for functional misarticulation in pre-school children</title>
+      <subTitle>sensory-motor and cognitive approaches</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Phelan, Elizabeth Lathrop</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication, Theatre, and Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 343 leaves : ill. ; 29 cm.</extent>
+      <extent>359 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The present study investigated learning rate differences relative to number of sessions necessary to reach a terminal criterion on /s/ production accuracy by four pre-school functional misarticulators under two different treatment approaches; a sensory motor approach and a cognitive-communicative approach. Phonetic transcriptions of the misarticulator's productions of a forty item word and connected speech generalization probe administered continuously over treatment was used to determine percentage of correct productions. Probe items included /sC-/, /sCV-/, /-Vs/, and /-VCs/ single syllable word shapes. These four and five year old misarticulating subjects who produced stop consonants for (s) were also compared with four normal subjects of the same age in performance on both auditory perceptual measures involving the stop-continuant contrast, and on spectrographic measures of mean duration and variability involving productions of intervocalic /s/ singletons and /s/ clusters. Experimental subjects also produced intervocalic stop consonants for within group duration comparisons with /s/ productions at pre-treatment. Misarticulating subject's performances were compared to normal subject's performances on the /s/ measures at pre-; mid- and post-treatment; and were compared to the normals on the auditory perceptual measures at pre- and post-treatment. Normal subjects were tested only once on the speech production measures and the auditory perceptual measures.;Subjects in the Cognitive approach attained a sustained level of accuracy of production of (s) in connected speech earlier than their sensory-motor matches. Other treatment related findings which occurred across all misarticulators included emergence of /-Vs/ syllable shape first; attainment of 75% production accuracy of (s) in single words and connected speech simultaneously on an intrasubject basis.;Misarticulators performed similarly to normals on auditory perceptual tasks at pre-treatment, though they differed from normals on the speech production duration measures at all three points in time. The misarticulators at pre-treatment evidenced mean durations which differentiated the three different phonetic contexts sampled, though the differences were imperceptible to adults. These duration differences were interpreted as originating at a cognitive level rather than an exclusively motor level, and appeared to be indicative of early feature level organization of /s/."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Elizabeth Lathrop Phelan.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 6950."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 319-324).</note>
+   <subject authority="lcsh">
+      <topic>Articulation disorders in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Speech therapy for children</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017284</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25595204</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094329</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 PHEL</identifier>
+   <identifier type="dewey">9017284</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 PHEL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

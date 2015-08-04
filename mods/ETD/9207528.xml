@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Behavioral characteristics of damaged steel repaired by heat straightening</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Robinson, Paul Franklin</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 255 leaves : ill. ; 29 cm.</extent>
+      <extent>274 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A comprehensive set of experiments is conducted on damaged steel plates and rolled shapes which have been subjected to heat straightening. Effects of the repair process on the tensile properties and residual stresses in the repaired steel are experimentally determined for the first time. Based on the results, rational decisions can be made concerning the use of heat straightening and its limitations.;For the first time in a laboratory setting, heavily damaged plate elements and rolled shapes are repetitively subjected to vee heat applications to produce desired straightening. Movements resulting from each heat application are recorded and provide an adequate database for modifying existing equations which have been used in the past to predict such movements for plates only. The relationship between movements in rolled shapes and plates is analytically established and experimentally verified.;Results show that conclusions drawn from studies on undamaged specimens should not be assumed to apply to damaged specimens. This is especially true in the studies of residual stresses and movements resulting from vee heats on wide flange shapes. Also, tensile properties of the steel can differ from those found in undamaged plates, depending on how many times a member has been damaged and repaired using heat straightening.;Other important results of the research include scientifically based suggestions regarding the use and limitations of heat straightening. These suggestions include the following topics: Degree of damage, repetitive damage, and detrimental on steel properties caused by certain heating patterns."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Paul Franklin Robinson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: B, page: 4878."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 194-199).</note>
+   <subject authority="lcsh">
+      <topic>Steel</topic>
+      <topic>Heating</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Metals</topic>
+      <topic>Heating</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Metal straightening</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207528</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28560135</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930803</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1201103</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 ROBI</identifier>
+   <identifier type="dewey">9207528</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 ROBI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

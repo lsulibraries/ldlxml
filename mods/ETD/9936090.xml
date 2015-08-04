@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Progressive civic development and political conflict</title>
+      <subTitle>regular democrats and reformers in New Orleans, 1896-1912</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Dupont, Robert L.</namePart>
+      <namePart type="date">1946-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (vii-410) leaves ; 29 cm.</extent>
+      <extent>411 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The 1896 elections in Louisiana produced a Regular Democrat as governor, but a reform government within New Orleans. The turbulence of the Populist era led to the unification of political factions behind disfranchisement of blacks and a narrowing of the electorate. In spite of attempts to make their triumph permanent, New Orleans reformers gave way to a resurgent Regular Democratic organization, the Choctaw Club, which dominated city politics for the first half of the twentieth century. Mayors Paul Capdevielle and Martin Behrman successfully led the city in an era of commercial expansion, public works, and municipal reform. That leadership persisted through factional political conflict because the underlying consensus favored the major policies typical of southern progressivism.;Three public works projects, and their accompanying governmental structures demonstrated the progressive consensus in New Orleans. The Sewerage and Water Board oversaw the development of the water, sewerage, and drainage systems of the city. The Board of Commissioners of the Port of New Orleans constructed and administered the docks, wharves, and landings of the city and the surrounding area along the Mississippi River. The New Orleans Public Belt Railroad Commission built and operated a public railroad that facilitated the exchange of commerce, particularly along the riverfront. The construction and operation of these public works occurred during the administration of Regular Democrats, but all political factions supported the role of both state and municipal governments in these projects. The consensus in favor of public activity drew strength from the southern progressive assumption that economic development, commercial expansion, and municipal progress represented ideal methods of addressing social concerns.;By the end of the second term of Martin Behrman, the reform faction in New Orleans sought to regain power through the introduction of a new form of city government---the commission. Mayor Behrman and the Regular organization accepted commission government and the city adopted a new charter. But the elections results under the new system did not fulfill the expectations of the reform faction. The Regulars stayed in power, continuing the pattern begun in 1899 of ineffectual reform challenges to the Regular organization."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Robert L. Dupont.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: A, page: 2190."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936090</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41399761</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990518</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920276</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 DUPO V.1 378.76 L930D 1999 DUPO V.2</identifier>
+   <identifier type="dewey">9936090</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 DUPO V.1 378.76 L930D 1999 DUPO V.2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

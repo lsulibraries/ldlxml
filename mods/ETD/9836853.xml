@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Pliocene and pleistocene marine ostracoda of the Limón Basin, Costa Rica</title>
+      <subTitle>a record of paleoenvironmental change</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Borne, Pamela Frances</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 289 leaves : ill. ; 29 cm.</extent>
+      <extent>289 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Late Pliocene (3.8-3.6 Ma) and early Pleistocene (1.5-0.9 Ma) marine ostracodes of the Rio Banano, Quebrada Chocolate and Moin Formations (Limon Group) provide a detailed paleoenvironmental record for the Limon Basin, Costa Rica. The marine ostracode assemblages recovered from the Limon region do not provide evidence that the tropics cooled dramatically during the late Pliocene when the Northern Hemisphere was entering the Modern Ice Age. Paleoenvironmental interpretations are based on cluster analyses and a modern tropical ostracode analog analysis.;Diverse ostracode assemblages of the middle Pliocene Rio Banano Formation are dominated by genera typical of the inner to middle neritic zone (e.g., Basslerites, Pellucistoma, Puriana, and Radimella). The constancy of the ostracode assemblages suggests that environmental conditions did not change greatly during deposition. A shift in dominance of ostracode species, however, suggests that whereas no major environmental disturbances occurred, subtle change(s) in environmental conditions took place during deposition. The Assemblages of the Quebrada Chocolate formation document ostracodes coexisting with some of the oldest identified coral reefs in Costa Rica. These late Pliocene ostracode assemblages, occurring in a series of stacked coral reef buildups in this formation are characterized by unusually low simple diversity.;The sediments of the Moin Formation contain ostracode assemblages representative of several environments of deposition. An assemblage of bathyal and neritic ostracodes is interpreted to indicate the presence of a coastal upwelling system active during the early Pleistocene (the Cangrejos Creek section). Previously, the mixed microfossil assemblage was interpreted to be the result of downslope transport. However, many of the same ostracodes that are common in the bathyal and outer neritic environments (e.g. Bradleya, Krithe, and Echinocythereis) are also found in the coral- and mollusk-rich Lomas del Mar section that caps the ridge near Limon. A modern ostracode analog analysis identified the closest match to these Moin samples to be Venezuelan continental shelf, where modern coastal upwelling brings cooler, nutrient-rich waters up onto the shelf. Ostracodes recovered from the Empalme Mollusk are interpreted to represent a shallow lagoonal environment and are dominated by Reussicythere reussi, Pellucistoma howei and Puriana aff. P. matthewsi."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Pamela Frances Borne.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2647."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836853</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919289</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 BORN</identifier>
+   <identifier type="dewey">9836853</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 BORN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

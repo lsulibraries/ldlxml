@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Studies on cigarette smoke</title>
+      <subTitle>I. Inactivation of Alpha-1-PI ; II. Oxidation of methionine by peroxonitrite ; III. Release of iron from ferritin by smoke solutions</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 151 leaves : ill. ; 29 cm.</extent>
+      <extent>169 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"We have studied the interaction of cigarette smoke with two proteins: alpha-1-proteinase inhibitor ($\alpha$1PI) and ferritin. The inactivation of $\alpha$1PI, the major plasma inhibitor of serine proteases, by cigarette smoke has been implicated in the eitology of pulmonary emphysema. Release of iron from ferritin, the principal source of physiological iron, by cigarette smoke could explain increased amounts of iron observed in the pulmonary alveolar macrophages of smokers.;These studies show that cigarette smoke reacts with proteins to cause amino acid modifications by two mechanisms: oxidation of methionine and nonoxidative modification of the basic amino acids. Modifications of methionine and lysine result in impairment of the elastase inhibitory activity of $\alpha$1PI. We have indirectly shown that hydrogen peroxide, formed during the autoxidation of hydroquinones found in smoke, could contribute to oxidation of methionine. Modification of Lys residues could arise from their reaction with formaldehyde and cyanide found in cigarette smoke. Using NMR analysis, we have tentatively identified N-$\epsilon$-cyanomethyl lysine as the product of the reaction of a synthetic peptide, containing the amino acid sequence of the active site of $\alpha$1PI, with cigarette smoke.;Peroxonitrite could be formed from the reaction of nitric oxide and superoxide in aqueous solutions of smoke. Kinetic studies show this peroxide decomposes with a half-life of 4.6 s at physiological pH, and rapidly inactivates $\alpha$1PI in a dose-dependent manner, suggesting that peroxonitrite is one species responsible for the smoke-induced inactivation of $\alpha$1PI. Our results also indicate that peroxonitrite is a powerful oxidant, capable of oxidizing methionine residues in proteins without the involvement of hydroxyl radicals or nitrogen dioxide.;Solutions of cigarette smoke induce iron release from ferritin. Under anaerobic conditions, faster rates of iron release are observed and the reducing power of cigarette smoke solutions is prolonged. The concentrations of hydroquinone and catechol in cigarette smoke solutions increase as the smoke is subjected to less filtration. Their increase correlates with higher rates of iron release. These observations indicate that cigarette smoke could release iron from ferritin and alter iron metabolism, increasing the oxidative burden in the lungs of smokers."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Juan José Moreno R.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: B, page: 4711."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 136-150).</note>
+   <subject authority="lcsh">
+      <topic>Cigarette smoke</topic>
+      <topic>Analysis</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tobacco</topic>
+      <topic>Analysis</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207521</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28560621</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930803</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1201128</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 MORE</identifier>
+   <identifier type="dewey">9207521</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 MORE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

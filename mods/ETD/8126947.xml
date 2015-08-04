@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>history of Jefferson Barracks, 1826-1860</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Jefferson Barracks, 1826-1860</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Banta, Byron B.</namePart>
+      <namePart type="date">1943-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 328 leaves  : map ; 29 cm.</extent>
+      <extent>337 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Jefferson Barracks was established in 1826 and was one of the army's major posts until 1860. Located twenty-six miles below the confluence of the Missouri and Mississippi Rivers, the Barracks served as a concentration point for supplies for the various army installations in the Missouri River valley and along the upper Mississippi and its tributaries.;When Jefferson Barracks was established, the army intended for the post to act as the Infantry School of Instruction, but the School was never formally organized. The first soldiers stationed at the post were required to construct their own barracks and other auxillary buildings, and when they finished constructing their barracks, they were needed to fight in the Black Hawk War of 1832.;Jefferson Barracks played an important role in the nation's changing military policy following the Black Hawk War. The Barracks was the training site for the First Dragoons, which Congress established in 1833, and also was the location of the central reserve force for the western frontier. Utilizing its strategic location on the Mississippi, the reserve force at Jefferson Barracks could quickly reach the western frontier regions in order to overawe the Indians or protect United States' possessions from any foreign threat.;This reserve force was not established at Jefferson Barracks until 1843, because the soldiers at the post were needed to fight in the Second Seminole War. Even after the western strategic force was placed at Jefferson Barracks, it did not remain at the post for long. In 1844, the War Department ordered all available soldiers at Jefferson Barracks to proceed to Texas to defend against hostile actions by the Mexican government. Following the end of the Mexican War, in 1848, Jefferson Barracks resumed its primary role as a recruit and supply depot for the western frontier army.;Throughout the entire period 1826-1860, Jefferson Barracks had a close and important relationship with St. Louis. Jefferson Barracks offered excellent business and employment opportunities to numerous St. Louisians, and they looked upon the Barracks as a regional economic asset.;The primary source of materials used in the preparation of this dissertation were the records of the several divisions of the War Department in the National Archives. Among the most important were Records Groups 92 (Records of the Office of Quartermaster General), 94 (Records of the Adjutant General's Office), 98 (Records of the United States Army Commands), 107 (Records of the Office of Secretary of War), 108 (Records of the Headquarters of the Army), and 153 (Records of the Office of the Judge Advocate General). Additional useful information was obtained from various other government documents, the archives of the Missouri State Historical Society in St. Louis, and the St. Louis newspapers."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Byron B. Banta, Jr.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2816."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 321-327.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-mo</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>Army</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Barracks and quarters</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Jefferson Barracks (Saint Louis, Mo.)</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>United States</geographic>
+      <topic>History</topic>
+      <temporal>1815-1861</temporal>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126947</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8213238</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">820304</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14137</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 BANT</identifier>
+   <identifier type="dewey">8126947</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 BANT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Development of immunochemical methods for gossypol analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wang, Xi</namePart>
+      <namePart type="date">1968-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 129 leaves : ill. ; 29 cm.</extent>
+      <extent>130 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Gossypol is a reactive polyphenolic compound present in the cotton plant. During cottonseed processing, gossypol can react with other compounds to form bound gossypol. Gossypol analyses using chemical methods do not always agree with its bioavailability to animal possibly because of various bound forms of gossypol with different stabilities in vivo and the (+/-)-gossypol enantiomers with different biological activities. The objectives of this research were to produce anti-gossypol antibodies and use antibodies to study gossypol chemistry and to analyze gossypol in cottonseed samples and cottonseed by-products.;Polyclonal antibodies were produced from rabbits after they were immunized with gossypol-LPH (Limulus polyphemus hemolymph). Monoclonal antibodies were developed by fusion of NS-1 myelomas and immune mouse splenocytes, and the hybridomas secreting anti-gossypol antibodies were selected and cloned.;Immunoassay parameters were evaluated for their effects on antibody capture noncompetitive ELISA (ACN-ELISA). It was found that microtiter plates, time and temperature of incubation for antibody-antigen interactions, and reagent concentrations for dilution of both primary and secondary antibodies could greatly influence the signal to noise ratios in ACN-ELISA.;(+)-Gossypol and (-)-gossypol isomers were isolated by crystallization from acetone and derivatized with L-(+)-lysine and L-2-amino-1-propanol. (+/-)-Racemic gossypol was derivatized with L-(+)-lysine, L-(+)-arginine, ethanolamine, L-2-amino-1-propanol, 3-amino-1-propanol, L-glutamine, L(-)-tryptophan, L-tyrosine and para-amino-benzoic acid.;Different forms of gossypol were used in an antibody capture competitive-ELISA to evaluate antibody sensitivity and specificity. Approximately 0.2 mug/ml to over 125 mug/ml of gossypol equivalents caused 50% inhibition of binding (I50) of rabbit PAb to the solid-phase, and I50 values ranged from 7.4 to 55 mug/ml for MAb cell lines, when (+/-)-racemic gossypol derivatives were used competitively. I50 values from 7.5 to 13.5 mug/ml were obtained for (+)- and (-)-isomeric gossypol derivatives as competitors for MAb. Underivatized gossypol as competitor gave much higher I50 value for PAb and showed no competition for MAb.;Polyclonal antibodies were evaluated for gossypol analyses of cottonseed products in an antibody capture competitive ELISA. The results showed good correlation (r2 = 0.96) for Free Gossypol analyses and poor correlation (r2 = 0.43) for Total Gossypol analyses between ELISA and AOCS official methods under the conditions of the methods."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Xi Wang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4325."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945748</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42141005</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990817</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920695</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 WANG</identifier>
+   <identifier type="dewey">9945748</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 WANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

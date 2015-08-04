@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hyperdeprivation and race-specific homicide, 1980-1990</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lee, Matthew Raleigh.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Sociology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 124 leaves ; 29 cm.</extent>
+      <extent>259 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Research on the nature of the urban underclass suggests that socioeconomic deprivation is multidimensional and involves more than just the personal experience of poverty. When negative characteristics like poverty and unemployment are concentrated geographically, it means that one is not only deprived of personal resources, but also deprived of contact with those who do have resources. Thus, when social disadvantage is concentrated, as it may be in underclass communities, this augments the effect of poverty, creating a situation of hyperdeprivation, by placing beyond reach those segments of mainstream society that are necessary for success.;This dissertation extends this line of research on urban communities by examining the link between hyperdeprivation and crime. Specifically, a theoretical model is elaborated that links the ecological concentration of multiple disadvantages like poverty, unemployment, and family disruption with high rates of urban crime. The model is tested using race disaggregated U.S. Census data and FBI data on homicide arrest for 1980 and 1990. Cross-sectional models reveal strong associations between the concentration of both poverty and high school dropouts and black and white homicide arrest in 1980 and 1990. The concentration of female headed households also has a strong influence on rates of black arrest for both time periods. Likewise, the concentration of the unemployed increases white homicide in both time periods but only effects black homicide rates in 1990. Longitudinal models examine the association between changes in the hyperdeprivation measures and homicide between 1980 and 1990, and reveal that changes in poverty concentration have a positive effect on changes in black homicide, while changes in three out of four indicators of hyperdeprivation increase white homicide rates. Implications for criminological theory and research are discussed in a concluding section."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Matthew Raleigh Lee.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: A, page: 3535."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945725</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42084484</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990816</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920670</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 LEE</identifier>
+   <identifier type="dewey">9945725</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 LEE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

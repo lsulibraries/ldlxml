@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Determination of hydorcarbon type from the dual-spaced neutron tool responses</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Quintero, Luis Fernando</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Petroleum Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1997</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 137 leaves : ill. ; 29 cm.</extent>
+      <extent>138 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A new interpretation method that allows for the determination of the fluid type present in a formation of interest was developed. The new method is referred to as the ""Three Neutron Porosity Log"". The method is based on an algorithm that determines three apparent neutron porosities. These porosities, derived from the raw counts of the dual-spaced neutron tool, have three different radii of investigation. All three neutron porosities, near, far, and ratio, when properly calibrated read the true porosity in water-bearing zones. In oil or gas-bearing zones the mud filtrate invasion profile will cause the three apparent neutron porosities to be different. The resulting neutron porosity curves exhibit a pattern that allows for the identification of the fluid type. Pattern recognition is supplemented by cluster analysis of the same data.;The new method works in environments where current methods are not applicable. Such is the case of cased holes where the density tool cannot be run and therefore the neutron-density crossplot is not available.;The algorithm was validated with Monte Carlo simulations, and with field data. The method was tested using wireline and MWD data, and in open and cased holes.;The algorithm presented in this paper relies on a proper calibration of the individual detector readings to the compensated neutron porosity in water zones. In order for the calibration to be applicable, the water zones used in the calibration must display a wide range of porosity. If this condition does not exist, the order of magnitude of the calculated low porosities will be skewed to a lower limit. This limitation is clearly present in the last two field examples near the top of the sand sections.;The Monte Carlo simulations indicate the location of gas and oil clouds in the cluster analysis for open hole scenarios. An intuitive correction must be applied to the resulting points of a cased hole example."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Luis Fernando Quintero.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-01, Section: B, page: 4000.;Directors: Zaki Bassiouni; John W. Rhea, Jr."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, 1997.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9820747</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1997</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38208966</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1918963</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1997 QUIN</identifier>
+   <identifier type="dewey">9820747</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1997 QUIN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

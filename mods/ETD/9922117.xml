@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Remediation and retention of students on first time scholastic drop (R&amp;R)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Slavant, Dee Anna.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Vocational Education.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 145 leaves : ill. ; 29 cm.</extent>
+      <extent>146 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The Remediation and Retention Program (R&amp;R) was initiated at Louisiana State University at Alexandria to develop interventions that target first time scholastic drop students and facilitate the improvement of their overall academic performance and retention. The study was designed to provide support counseling and study skills remediation for students who self selected to readmit under the R&amp;R Program. The study was formulated to evaluated the progress and retention rate of the R&amp;R. Program. Objectives and results of the study included: (1) Describe the students who were placed on first time scholastic drop at LSUA. The average age was 21.97; 62.2% were female and 37.8% male; most frequent college major listed was pre-nursing, liberal arts, and elementary education; average composite ACT score was 17.63, average beginning GPA was .957 and average number of completed college credit hours was 18.99; (2) Comparing the R&amp;R Group with the Non Participant Group on selected variables found that there was no significant difference in age, gender, and ACT scores. The Remediation and Retention Group had significantly higher beginning cumulative GPA, had previously earned more college credit hours than the Non Participant Group and had a statistically significant higher cumulative GPA after treatment; (3) No relationship was found between the number of counseling sessions attended and semester GPA; (4) No difference was found in the semester GPA and attendance at the study skills seminar for the Remediation and Retention Group; (5) Forty-eight percent of the students in the Remediation and Retention Program attained a semester GPA of 2.0 or higher; (6) A significant difference was found on the variable persistence between the R&amp;R Group and the Non Participant Group. The Remediation and Retention Group had a significantly higher proportion of students who were still enrolled two semesters after treatment; and (7) The predictive value of 88.03% of students correctly classified on persistence is misleading because of skewed data. No students were predicted to persist."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Dee Anna Slavant.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: A, page: 6320."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922117</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40663127</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919978</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 SLAV</identifier>
+   <identifier type="dewey">9922117</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 SLAV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

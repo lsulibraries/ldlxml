@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Polarized radiation from inhomogeneous shocks</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wu, Kinwah</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 148 leaves : ill. ; 29 cm.</extent>
+      <extent>161 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Strongly polarized radiation from AM Herculis binaries is believed to be due to cyclotron emission from hot magnetized plasmas. The flat optically thin spectra and strong IR polarization observed in these binaries cannot be explained by models assuming a homogeneous emission region with a simple geometry. We have therefore studied the cyclotron emission from infinite plasma cylinders with uniform magnetic fields and temperatures, but with a variety of axially symmetric electron density profiles and shown that such inhomogeneous plasmas are able to produce relatively flat spectra which cannot be produced by the homogeneous models. The polarization at low frequencies is shown to be stronger than that due to the homogeneous plasmas and the polarization at high frequencies is weaker. Using a two-core model, in which a high-density core is surrounded by a low-density shell, excellent fits to the optical/IR spectra and polarization of the AM Herculis systems ST LMi, V834 Cen, EF Eri, and BL Hydri are obtained. The emission regions of these systems are typically characterized by a temperature $kT \sim$ 10$keV$ and an average dimensionless plasma parameter $\Lambda \sim$ 10$\sp6$.;We have also studied the steady-state hydrodynamics of bremsstrahlung-dominated shocks and calculated the cyclotron emission from them. Three types of accretion rate profiles--uniform, axi-symmetric and asymmetric--were considered. The shock-structure is planar for the uniform accretion rate case. The shock due to an axi-symmetric accretion rate is a curved surface. Near the rim of the shock surface, there is an extended low-density region with kT $&gt;$ 10keV and $\Lambda \sim$ 10$\sp4$; near the symmetry axis, a high-density region exists with $kT \sim$ 10$keV$ and $\Lambda \sim$ 10$\sp6$. Bremsstrahlung radiation is emitted from the high-density region and cyclotron emission from both. For asymmetric accretion, the post-shock region is asymmetric and hence produces asymmetric light curves. All these inhomogeneous shocks produce flat optical/IR spectra and strong IR polarization. These models were shown to be consistent with recent photometric and polarimetric observations, implying that the accretion columns in the AM Her systems are highly-structured and cannot be explained by any homogeneous models with a simple geometry."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kinwah Wu.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 7980."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 82-89).</note>
+   <subject authority="lcsh">
+      <topic>Cataclysmic variable stars</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Stars</topic>
+      <topic>Radiation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plasma radiation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hydrodynamics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017309</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25601000</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920407</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094680</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 WU</identifier>
+   <identifier type="dewey">9017309</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 WU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

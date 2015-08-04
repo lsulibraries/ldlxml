@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>effects of rumen undegradable choline in the nutrition and metabolism of dairy cows</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Vazquez, Fernando</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Dairy Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 95 leaves : ill. ; 29 cm.</extent>
+      <extent>96 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study was conducted to determine whether supplemental rumen protected choline could improve lactation performance and lipid metabolism in cows in negative energy balance. In experiment 1, 19 primiparous Holstein cows were randomly assigned to dietary treatments consisting of either a control ration or control plus 15 g/d of supplemental rumen-protected choline (60 g/d of Cap-Shure, Balchem Corp., Slate Hill, NY). Close-up and early lactation rations were formulated from a grass hay and corn silage forage base, respectively, with a corn-soy concentrate, whole cottonseed. and alfalfa hay included as appropriate to meet nutrient requirements. Cows were milked twice daily. Cows were offered a total mixed ration twice daily through individual feeding gates. Supplemental choline was top-dressed onto the ration beginning 2 wk prepartum and continuing to the end of the experimental period at 8 wk postpartum. Prepartum DMI tended to be higher for supplemented cows. Treatment did not affect postpartum DMI. which declined from 10.6 to 9.0 kg/d from wk 2 to wk 1 prepartum but then increased to 23.5 kg/d by 8 wk postpartum. Supplemental choline did not affect total milk production or secretion of milk components. Peak concentrations of plasma NEFA (1.2 mM) and beta-hydroxybutyrate (1.3 mM) were reached in all cows between 5 and 10 d postpartum but were not influenced by supplemental choline. Prepartum beta-hydroxybutyrate and insulin tended to be lower and higher, respectively, in treated cows. Liver triglyceride levels 2 wk prior to calving (6.49% DMB), at calving (8.31%) and 4 wk postcalving (3.14%) were not affected by treatment. In experiment 2, 12 non-lactating, non-pregnant cows were fed the close-up diet of experiment 1, restricted to 0.5% of an energy intake (0.5% of BW). Blood insulin. glucose, NEFA, beta-hydroxybutyrate. and liver triglyceride concentrations at d 0 (1.60%) and d 21 ((3.33%) were affected by feed restriction but not by treatment. In conclusion, supplementing rumen protected choline to dairy cows in a negative energy balance did not affect production or metabolic variables. Results of blood insulin and selected metabolites were inconclusive. The choline levels used may have been too low to exert an effect."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Fernando Vazquez.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 6000.;Directors:  L. Dwain Bunting; Cathleen C. Williams."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960103</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43370771</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921045</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 VAZQ</identifier>
+   <identifier type="dewey">9960103</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 VAZQ</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

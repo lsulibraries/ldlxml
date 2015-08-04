@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Genetic comparisons and systematic studies of termites (isoptera)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Korman, Amy Kathryn</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Entomology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 122 leaves : ill. ; 29 cm.</extent>
+      <extent>134 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Eusociality has evolved in only two insect orders: the Isoptera and Hymenoptera. While hymenopteran genetics has been the subject of intensive study, genetic information on termites is conspicuously lacking. The purpose of this dissertation was to utilize starch gel electrophoresis in genetic studies of termites.;Chapter I consists of electrophoretic methods and a study of genetic variability among four families of termites. Although some representative species/colonies demonstrated low levels of variation, the ranges of polymorphic loci and gene diversity were within levels generally observed for the class Insecta. Levels of genetic variation exhibited by termites were higher than those values reported for the social Hymenoptera.;Because allozymes are often capable of detecting genetic differences among closely related species, electrophoretic techniques can be successfully used in systematic studies of Isoptera. Chapter II examines genetic comparisons among Zootermopsis (Termopsidae) species. Zootermopsis is a genus of dampwood termites that is found exclusively in western North America. Recent biochemical and behavioral studies have indicated that his genus may be in need of revision. Comparisons of 16 populations of Zootermopsis supported the current taxonomic status of the genus. Allozymes, however, did not discriminate among subspecies of Zootermopsis nevadensis (Hagen).;Chapter III is a study of genetic structure of the Formosan subterranean termite, Coptotermes formosanus Shiraki, an introduced pest species. Colonies from three populations in the continental United States (Lakes Charles, La.; New Orleans, La.; Hallendale, Fla.) were electrophoretically sampled and compared to the population on the island of Oahu, Hi., were C. formosanus was introduced over 100 years ago. Although there is no direct evidence linking Hawaii as the parent of these founder populations, genetic evidence cannot exclude that possibility.;Chapter III also addresses the taxonomic status of Coptotermes in the United States. The genus is recognized as a taxonomic problem and it has been suggested that Coptotermes may be represented by two species in Louisiana. Despite behavioral differences in the Lake Charles population of C. formosanus, genetic comparisons of these populations did not indicate the presence of more than one species of Coptotermes."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Amy Kathryn Korman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1201."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 96-101).</note>
+   <subject authority="lcsh">
+      <topic>Termites</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Insects</topic>
+      <topic>Behavior</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Insects</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123212</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28448844</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930714</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198778</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 KORM</identifier>
+   <identifier type="dewey">9123212</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 KORM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Adjective acquisition</title>
+      <subTitle>developmental changes in the  use of the shape bias, syntax, shape consistency, and semantic attributes</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Frigo, Lenore Carol.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 118 leaves : ill. ; 29 cm.</extent>
+      <extent>118 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"When learning vocabulary, children must determine the meaning of each word that they hear. In hypothesizing about word meanings, children follow certain principles that simplify vocabulary acquisition. Among these principles are several that lead children to follow a shape bias. Under the shape bias, children assume that words extend to objects that share a common shape. This shape bias is useful for learning count nouns, which often include whole-object shape as an important aspect of meaning. However, the shape bias is not useful for the development of other word classes, such as adjectives.;In this study, several variables were examined in their relation to preschoolers' and adults' use of the shape bias in an experimental word learning setting. In response to syntactic frame, the shape bias was lower when novel words were presented as adjectives rather than as count nouns or when no words were presented, although this effect did not occur across all conditions tested. Responses varied when different attributes, namely colors, textures, emotions, or damages, were presented as the alternative to shape as the referent of novel words. Children found texture particularly salient, resulting in a low shape bias when texture was available. Adults found emotions to be most salient and color the least salient of the four domains. When novel words labeled two objects that contrasted in shape, use of the shape bias was lower than when words labeled two identical objects. When responses to unfamiliar and familiar objects were compared, adults showed a greater shape bias when unfamiliar objects were labeled, as predicted by several word learning principles. Children in contrast showed a greater shape bias for the familiar objects.;Word learning principles are discussed, particularly the lexical principles framework (Golinkoff, Mervis, Hirsh-Pasek, 1994) and its ability to account for acquisition of adjectives. The framework contains some principles that apply to adjectives, but other principles might be necessary to account for acquisition of adjectives, such as a newly proposed principle of property scope. According to property scope, adjectives should be extended on the basis of a single property of objects."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lenore Carol Frigo.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 3082."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836872</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980525</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919365</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 FRIG</identifier>
+   <identifier type="dewey">9836872</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 FRIG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

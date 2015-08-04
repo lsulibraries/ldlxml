@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Phylogeography of two Loligo squid (Cephalopoda: Myopsida) in the Gulf of Mexico and the northwestern Atlantic Ocean</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Herke, Scott William</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 92 leaves : ill., maps ; 29 cm.</extent>
+      <extent>93 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Based on restriction fragment length polymorphisms (RFLP) in mitochondrial DNA, the population structures of two species of Loligo squid were analyzed in the context of the classic Gulf of Mexico-Atlantic Ocean phylogeographic pattern. A 709-bp fragment of the cytochrome c oxidase (subunit I) gene was amplified by PCR from 356 L. pealei and 431  L. plei. Between latitudes 25&amp;deg;N and 43&amp;deg;N, each species had three common (&gt;5% frequency) haplotypes and many rare haplotypes. Sequence data from all haplotypes indicated that nucleotide divergence between the two species ranged from 13.7 to 15.0% (transition-transversion ratio of &amp;sim;1.5; two inferred amino acid replacements). Within each species, RFLP analyses detected 40 to 45% of the total variability in nucleotide sites ( n = 18 in L. pealei; n = 21 in  L. plei). Intraspecific divergences were typically &lt;1%, with transition-transversion ratios of 17:4 for L. pealei and 21:0 for L. plei . Minimum-spanning networks of the sequence data showed two discrete clusters of haplotypes for L. pealei and no discrete clusters for L. plei. Both species were composed of two populations (P &lt; 0.02), according to analyses of their haplotype frequencies by AMOVA (Analysis of Molecular Variance in Arlequin 1.1). L. pealei  was divided at Florida, with one population in the northern Gulf of Mexico and another in the Atlantic Ocean; L. plei was divided at the Mississippi River, with one population in the northwestern Gulf of Mexico and another in the northeastern Gulf of Mexico and the Atlantic Ocean. Gene flow within each population of L. pealei was consistent with panmixia, while gene flow within each population of  L. plei conformed to an isolation-by-distance model. The different phylogeographic patterns might result from the more offshore position of  L. pealei in conjunction with the temperature and salinity tolerances of both species. In addition, the two populations of L. plei might represent annual recolonization from more southern populations. Finally, should fisheries develop for these species throughout the study area, these data provide support for management plans based on multiple stocks."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Scott William Herke.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-11, Section: B, page: 5325."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9951607</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42676558</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">991021</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920848</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HERK</identifier>
+   <identifier type="dewey">9951607</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HERK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

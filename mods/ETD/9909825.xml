@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Cerebral hemoglobin oxygen saturation in patients with restless legs syndrome and periodic limb movements in sleep</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Hurry, Mark J.</namePart>
+      <namePart type="date">1965-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 315 leaves : ill. ; 29 cm.</extent>
+      <extent>316 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Pathogenic theories of Restless Legs Syndrome (RLS) and Periodic Limb Movements in Sleep (PLMS) were reviewed and critiqued, and a new theory for the pathogenesis of RLS and PLMS was presented. It was proposed that both disorders are caused by sleep-related hypoperfusion in the area of the cerebral cortex that mediates sensation and movement in the legs. The hypoperfusion was proposed to be caused by high amplitude oscillations in total cerebral blood flow known as B-waves and by flow-reducing turbulence at several of the bifurcations in the anterior cerebral artery. This theory was tested by using near infrared spectroscopy (NIRS) to measure cerebral hemoglobin oxygen saturation and total blood flow in three groups of subjects: nine patients with RLS, six patients with PLMS, and eleven age-matched control subjects. Cerebral oximetry was performed during both wakefulness and sleep. Polysomnography was used to assess sleep. It was predicted that high amplitude B-waves would occur in the RLS subjects during wakefulness, and in both RLS and PLMS subjects during sleep. In addition, it was predicted that the abnormal sensations and movement in RLS patients and the PLMS in both RLS and PLMS patients would occur during the B-wave troughs in cerebral hemoglobin oxygen saturation. As expected, significant differences among the groups in abnormal leg sensations and leg movements while awake, and periodic leg movements while asleep were found. However, the results did not support the proposed theory. Although there was a statistically significant non-random occurrence of abnormal sensations and movements (both waking RLS movements and PLMS) in the B-wave cycle, the tendency was for these events to occur at both B-wave peaks and troughs. E-wave amplitudes and cerebral hemoglobin oxygen saturation levels were not significantly different among the three groups. There were also no significant differences within the RLS and PLMS groups in hemoglobin oxygen saturation levels at event onset as compared to periods when no events were present. Future studies should attempt to replicate the previous research that has implicated circulatory insufficiency in the pathogenesis of both disorders."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Mark J Hurry.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: B, page: 5257."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909825</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39909630</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980922</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919768</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 HURR</identifier>
+   <identifier type="dewey">9909825</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 HURR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

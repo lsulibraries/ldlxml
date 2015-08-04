@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Simulations and algorithms on reconfigurable meshes with pipelined optical buses</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bourgeois, Anu Goel</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Electrical and Computer Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 115 leaves : ill. ; 29 cm.</extent>
+      <extent>116 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Recently, many models using reconfigurable optically pipelined buses have been proposed in the literature. A system with an optically pipelined bus uses optical waveguides, with unidirectional propagation and predictable delays, instead of electrical buses to transfer information among processors. These two properties enable synchronized concurrent access to an optical bus in a pipelined fashion. Combined with the abilities of the bus structure to broadcast and multicast, this architecture suits many communication-intensive applications.;We establish the equivalence of three such one-dimensional optical models, namely the LARPBS, LPB, and POB. This implies an automatic translation of algorithms (without loss of speed or efficiency) among these models. In particular, since the LPB is the same as an LARPBS without the ability to segment its buses, their equivalence establishes reconfigurable delays (rather than segmenting ability) as the key to the power of optically pipelined models.;We also present simulations for a number of two-dimensional optical models and establish that they possess the same complexity, so that any of these models can simulate a step of one of the other models in constant time with a polynomial increase in size. Specifically, we determine the complexity of three two-dimensional optical models (the PR-Mesh, APPBS, and AROB) to be the same as the well known LR-Mesh and the cycle-free LR-Mesh.;We develop algorithms for the LARPBS and PR-Mesh that are more efficient than existing algorithms in part by exploiting the pipelining, segmenting, and multicasting characteristics of these models. We also consider the implications of certain physical constraints placed on the system by restricting the distance over which two processors are able to communicate.;All algorithms developed for these models assume that a healthy system is available. We present some fundamental algorithms that are able to tolerate up to N/2 faults on an N-processor LARPBS. We then extend these results to apply to other algorithms in the areas of image processing and matrix operations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Anu Goel Bourgeois.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3679."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979247</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44177893</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921302</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BOUR</identifier>
+   <identifier type="dewey">9979247</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BOUR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

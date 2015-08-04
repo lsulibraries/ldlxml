@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Biology and control of strawberry anthracnose crown rot and fungicidal control of strawberry fruit rots</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>McInnes, Thomas Bond</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Plant Pathology and Crop Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 77 leaves ; 29 cm.</extent>
+      <extent>85 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Surveys of strawberry (Fragaria x ananassa Duch.) summer nursery beds and production fields in Louisiana from 1986-1989 indicated that anthracnose crown rot (ACR) incited by Colletotrichum fragariae Brooks limited both plant and fruit production on most farms. Pathogen-free production plants were provided to growers in the strawberry growing region of southeast Louisiana for establishment of summer nursery beds. The pathogen-free strawberry plants remained free of ACR in summer nursery beds separated from beds with locally grown transplants. Infield spread of ACR was rapid in summer nursery beds, but there was no evidence of disease spread in production fields. To assay nursery plants for ACR, sample lots of plants were potted and held at 27-30 C for 6 wk to observe for development of the wilting symptoms of ACR. The results of this grow-out assay were predictive of the ACR-incidence that could occur in production fields established with those nursery plants.;Fungicides were tested in vitro using fungicide-impregnated paper disk assays to determine their activity against a benomyl-resistant isolate of C. fragariae. Fungicides causing fungal growth inhibition at 100 ppm and above included captafol, CGA-453, and chlorothalonil and those causing inhibition at 1000 ppm and above included flusilazol, propiconazole, fenarimol, diniconazole, captan and TPTH. When compared by mean levels of inhibition over all rates, the seven most effective fungicides ranked in descending order were propiconazole, flusilazol, myclobutanil, fenarimol, CGA-453, chlorothalonil, and captafol. In the 1986 field test, captafol was the only fungicide tested that suppressed the disease. In 1987 and 1988 field tests, propiconazole, myclobutanil, flusilazol and CGA-453 alone or in combination with chlorothalonil significantly reduced the incidence of ACR.;Data are present from 1988 and 1989 field evaluations on the efficacy of fungicides alone or in various combinations for strawberry fruit rot control. A tank mixture of benomyl + captan was effective against gray mold, stem end rot, and anthracnose. Captan was the only fungicide tested that was effective against anthracnose. Vinclozolin and iprodione were effective against gray mold."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas Bond McInnes.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1581."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Strawberries</topic>
+      <topic>Diseases and pests</topic>
+      <topic>Control</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Anthracnose</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025322</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186563</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111979</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 MCIN</identifier>
+   <identifier type="dewey">9025322</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 MCIN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

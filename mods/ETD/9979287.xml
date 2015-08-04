@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Half-cycle pulse ionization of diamagnetic Zeeman states in Rydberg atoms</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rangan, Chitra.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 118 leaves : ill. ; 29 cm.</extent>
+      <extent>119 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"We study the dynamics of highly excited (Rydberg) atoms in laboratory-scale magnetic fields via their ionization by THz half-cycle pulses (HCPs). A half-cycle pulse is a unipolar electromagnetic pulse that can probe an atomic electron at all points along its orbit around the atomic core. The dynamical evolution of diamagnetic Zeeman states subjected to an ultrashort (picosecond) HCP is calculated for both hydrogen and sodium atoms.;Diamagnetic Zeeman states are localized parallel and perpendicular to the magnetic field. We use a grid-based pseudo-potential method to determine these eigenstates of the combined Coulomb-diamagnetic potential. We study states with principal quantum number n between 15--30 in the &amp;ell;-mixing regime at magnetic fields of 1--6T. These initial states are subjected to the electric field of an HCP and their subsequent time evolution is calculated by solving the time-dependent Schrodinger equation. The HCP width is varied between the short pulse (impulsive) and the long pulse limit, keeping the total momentum transferred a constant. We calculate the total ionized fraction, and also the spectrum of the ionized photoelectrons.;We find that, in the impulsive limit, where the width of the pulse is much smaller than typical time scales in the system, the calculated amount of ionization and the photoelectron spectra are different depending on the localization of the initial state. These differences are shown to be due to the different initial momentum distributions of the parallel and perpendicular states. As the duration of the HCP is made longer, we find that ionization is suppressed as compared with the impulsive limit. The states localized perpendicular to the magnetic field are found to be much more sensitive to the HCP width than the parallel states, reflecting the fact that the two classes of states interact with different parts of the Coulomb-diamagnetic potential during the HCP. The ionization characteristics are shown to scale classically with the principal quantum number. The results are presented in such a manner that they can be verified by experiment."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Chitra Rangan.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3649.;Directors:  A. R. P. Rau; Kenneth J. Schafer."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979287</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44274464</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000609</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921347</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 RANG</identifier>
+   <identifier type="dewey">9979287</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 RANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

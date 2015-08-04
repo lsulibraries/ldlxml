@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Wave height changes and mass transport on Tague Reef, a Caribbean reef, north coast of St. Croix, U.S. Virgin Islands</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xix, 185 leaves : ill. ; 29 cm.</extent>
+      <extent>205 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study of wave and current transformations across a modern coral reef was conducted on Tague Reef, St. Croix (U.S.V.I.), during late March and early April 1987. The project objective was to improve our understanding of the magnitudes, frequencies, and spatial and temporal variations of waves and currents as they interact with a modern reef. Data were collected in 4 experiments over a 2-week period. During the experiments, atmospheric and sea state conditions were typical of Caribbean-Atlantic trade wind dominated areas. Results verify that infragravity waves of 27.7 min period and diurnal tides modulated high frequency wave and current processes. Phase lags associated with these long-term motions cause sea level differences across the reef crest that influence transport of water and suspended sediment.;Spectral analyses of wave data indicate that spectra shape was conserved between the forereef and reef crest, and spectral broadening at the crest was induced by energy redistribution and dissipation (average of 65%). Wave propagation into the backreef caused further spectral broadening and increased energy dissipation (average of 78%). Water depth reduction during falling tides increased wave energy dissipation by 15% and 20% from forereef to crest and from forereef to backreef, respectively. A steady wave energy model, including frictional and turbulent dissipation, gives reasonable estimates of wave heights across the reef. This model reveals that, in contrast to sandy beaches, bottom friction on coral reefs is comparable to turbulent energy dissipation.;Reef crest currents occur on three important time scales: (a) short period (seconds), associated with wave activity, (b) infragravity fluctuations, and (c) diurnal variations, of uncertain, but probably tidal, origin. Vertical shear of these currents was found to be negligible. The reef crest mean and instantaneous flow fields suggest that seawater, and perhaps sediments and nutrients, are continuously transported lagoonwards. In contrast, wave related instantaneous currents over the forereef indicate off-reef transport.;An unsteady, vertically integrated circulation model with bottom friction explains the observed current patterns. Under low trade wind wave conditions the volume flux at the reef crest is 0.024 m$\sp3$s$\sp{-1}$, which can flush the lagoon in 37 hours."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Alexis Lugo-Fernandez.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1718."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 149-158).</note>
+   <subject>
+      <geographicCode authority="marcgac">nwvi---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Coral reefs and islands</topic>
+      <geographic>United States Virgin Islands</geographic>
+      <geographic>Saint Croix</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ocean waves</topic>
+      <geographic>United States Virgin Islands</geographic>
+      <geographic>Saint Croix</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ocean currents</topic>
+      <geographic>United States Virgin Islands</geographic>
+      <geographic>Saint Croix</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025319</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186550</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111976</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 LUGO</identifier>
+   <identifier type="dewey">9025319</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 LUGO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

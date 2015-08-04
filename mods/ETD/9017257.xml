@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of cocaine use and withdrawal on clinical memory and new learning</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Crane, Madeline Uddo</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 76 leaves ; 29 cm.</extent>
+      <extent>85 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This project was conceptualized as an exploratory examination of the neuropsychological sequelae of cocaine abuse, specifically the drug's effect on new learning and memory. The experimental groups were composed of 30 veterans enrolled in a drug treatment program for cocaine abuse. This group was divided equally by route of administration, i.e., group one included 15 individuals whose preferred route of administration was intravenous injection; group two included 15 individuals whose preferred route of administration was smoking. The comparison group consisted of 15 individuals enlisted in the National Guard. The groups were essentially homogeneous, with a mean age of 34.6 ($SD$ = 6.6), mean education level of 13.1 ($SD$ = 1.7), mean IQ of 98.6 ($SD$ = 8.8). On two separate occasions, five widely used memory assessment instruments were administered to measure visual memory, verbal memory, and attention/concentration (Auditory Verbal Learning Test (AVLT), Complex Figure Test, Digit Span, Visual Memory Span, Verbal Fluency Test). Alternate forms of these memory tests were administered during the posttest (four weeks subsequent to the initial testing). Nine univariate analyses of variance (ANOVA) using a 3 $\times$ 2 repeated measures design were employed to analyze the data. Controls performed significantly better than the IV group on two measures of new learning ability: sum of AVLT trials 1-5 F (2,42) = 5.68, p $&gt;$.006 and on the immediate memory score of the Complex Figure Test $F$ (2,42) = 3.88, p $&lt;$.028. Smokers and controls performed significantly better than the IV group on the delayed recall component to the Complex Figure Test F (2,42) = 4.35, p $&lt;$.019. Controls performed significantly better than both experimental groups on trial 7 (delayed recall) of the AVLT $F$ (2,42) = 6.42 p $&lt;$.004. The results of this study indicate that chronic cocaine ingestion has an adverse effect on new learning and recall of both verbal and visually mediated tasks. Additionally, the degree of impairment appears to be correlated with the route of administration, i.e., individuals who reported intravenous injection as their preferred route of administration demonstrated greater impairment than those who chose smoking as their primary route of ingestion. Because IV injection provides the most efficient delivery of the drug to the brain, it is hypothesized that cocaine is a neurotoxin with a dose dependent effect on memory functioning."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Madeline Uddo Crane.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 1008."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 50-63).</note>
+   <subject authority="lcsh">
+      <topic>Cocaine</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Memory</topic>
+      <topic>Effect of drugs on</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Learning</topic>
+      <topic>Effect of drugs on</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017257</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25599120</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094632</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 CRAN</identifier>
+   <identifier type="dewey">9017257</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 CRAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

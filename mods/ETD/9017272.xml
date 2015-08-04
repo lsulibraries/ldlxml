@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hy[p]ercube-based topologies with incremental link redundancy</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Latifi, Shahram.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Electrical and Computer Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 137 leaves : ill. ; 29 cm.</extent>
+      <extent>149 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Hypercube structures have received a great deal of attention due to the attractive properties inherent to their topology. Parallel algorithms targeted at this topology can be partitioned into many tasks, each of which running on one node processor. A high degree of performance is achievable by running every task individually and concurrently on each node processor available in the hypercube. Nevertheless, the performance can be greatly degraded if the node processors spend much time just communicating with one another. The goal in designing hypercubes is, therefore, to achieve a high ratio of computation time to communication time. The dissertation addresses primarily ways to enhance system performance by minimizing the communication time among processors.;The need for improving the performance of hypercube networks is clearly explained. Three novel topologies related to hypercubes with improved performance are proposed and analyzed. Firstly, the Bridged Hypercube (BHC) is introduced. It is shown that this design is remarkably more efficient and cost-effective than the standard hypercube due to its low diameter. Basic routing algorithms such as one to one and broadcasting are developed for the BHC and proven optimal. Shortcomings of the BHC such as its asymmetry and limited application are clearly discussed.;The Folded Hypercube (FHC), a symmetric network with low diameter and low degree of the node, is introduced. This new topology is shown to support highly efficient communications among the processors. For the FHC, optimal routing algorithms are developed and proven to be remarkably more efficient than those of the conventional hypercube. For both BHC and FHC, network parameters such as average distance, message traffic density, and communication delay are derived and comparatively analyzed. Lastly, to enhance the fault tolerance of the hypercube, a new design called Fault Tolerant Hypercube (FTH) is proposed. The FTH is shown to exhibit a graceful degradation in performance with the existence of faults. Probabilistic models based on Markov chain are employed to characterize the fault tolerance of the FTH. The results are verified by Monte Carlo simulation.;The most attractive feature of all new topologies is the asymptotically zero overhead associated with them. The designs are simple and implementable. These designs can lead themselves to many parallel processing applications requiring high degree of performance."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Shahram Latifi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 8430."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 119-126).</note>
+   <subject authority="lcsh">
+      <topic>Hypercube networks (Computer networks)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Parallel processing (Electronic computers)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017272</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25584873</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920403</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094251</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 LATI</identifier>
+   <identifier type="dewey">9017272</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 LATI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

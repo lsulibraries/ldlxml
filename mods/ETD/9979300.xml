@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Personal factors affecting sales performance</title>
+      <subTitle>modeling the effects of experience, competitiveness, self-efficacy, effort, and creativity</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wang, Guangping</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Business Administration (Marketing)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 146 leaves : ill. ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Sales performance represents an important ongoing research stream to both academicians and practitioners. It is widely recognized that personal/individual factors affect how salespeople perform. Despite the numerous studies, the search for the most powerful determinants of salesperson performance has largely been unsuccessful (Churchill et al. 1985). This dissertation makes another attempt to understand the effects of select personal factors on salespeople's performance. In particular, a neglected personal factor, salesperson creativity, is introduced as a direct predictor of performance. Based on the social psychological research on creativity and the in-depth personal interviews with sales managers in various industries, the author defines salesperson creativity as new ideas generated, and novel behaviors exhibited, by the salesperson in performing his or her job activities. Drawing on motivational theory, social cognitive theory, and social psychological theories of creativity, the research proposes an individual-level model of salesperson performance. The model posits work effort and creativity as direct antecedents of performance, trait competitiveness and self-efficacy as indirect predictors, and selling experience as having both direct and indirect impacts on performance. The model was tested using two considerably different samples (real estate agents and outdoor billboard advertising salespeople). Six of the eight hypothesized relationships in the model were supported across the samples. The empirical findings highlight the incremental explanatory contribution of the creativity construct to sales performance, the critical influence of self-efficacy on creativity, and the overall validity of the model. A scale of salesperson creativity with acceptable psychometric measurement properties is also developed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Guangping Wang.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2818."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979300</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44202108</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000607</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921324</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 WANG</identifier>
+   <identifier type="dewey">9979300</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 WANG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

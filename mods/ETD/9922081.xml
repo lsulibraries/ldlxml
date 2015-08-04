@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Determination of optimal composition of stabilized phosphogypsum composites for saltwater application</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Guo, Tingzong.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil and Environmental Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 171 leaves : ill. ; 29 cm.</extent>
+      <extent>172 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Phosphogypsum (CaSO4  &amp;dot; 2H2O, PG), a solid by-product of phosphoric acid production, has been classified as a ""Technologically Enhanced Natural Radioactive Material"" (TENR), because it contains radionuclides (eg., radium 226) and some trace toxic metals in concentrations, which may pose a potential hazard to human health and the environment. The current regulated disposal method for PG is on-site stockpiling, which has created a serious environmental management problem. An appealing solution to the problem is the use of stabilized PG for aquatic enhancement activities. This solution can eliminate the airborne vector of transmission for radon 222 and therefore may provide a safe alternative to the current stockpiling practices. The determination of low cement content (&lt;10%) stabilized PG composites has been investigated. Varying combinations of PG:cement, PG:fly ash:lime and PG:fly ash:cement were fabricated for laboratory and field experiments. Field saltwater submergence studies and response surface with process variable analysis shows that only the PG:fly ash:cement composites are able to survive in the Gulf Coast saltwater environment when cement content is less than 10%. Scanning electron microscopy (SEM) shows that ettringite formation is potentially responsible for degradation of PG stabilized composites. SEM and microprobe analysis showed that conditions necessary for stabilized PG composites to survive in the saltwater environment are: (1) the stabilized PG composites should have a strong sulfate resistant surface and (2) the local pH environments on the stabilized PG composites should be above 11. This higher local pH environment will result in the formation of calcium carbonates, which protect the PG composites and reduce the diffusion of toxic metals and radium. For PG:fly ash:cement composites, the stronger calcium carbonate coating embedded with fly ash particles covers the higher sulfate resistant composite surface and both contribute to the PG:fly ash:cement composites survival in the Gulf Coast seawater environments for more than one year. Dynamic leaching test, field experiments, SEM, and microprobe analysis showed that the calcium diffusion coefficient is a good indicator for PG:cement and PG:fly ash:cement stabilized composites long term dissolution potential but does not apply to the PG:fly ash:lime stabilized composite."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Tingzong Guo.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1239.;Directors: R. F. Malone; K. A. Rusch."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922081</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651997</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919920</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 GUO</identifier>
+   <identifier type="dewey">9922081</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 GUO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

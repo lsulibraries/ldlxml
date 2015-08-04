@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>early local and regional immune response to recall inoculations of Mycobacterium leprae in the skin of rhesus macaques (Macaca mulatta)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lemarchand, Thomas Xavier D.</namePart>
+      <namePart type="date">1967-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 218 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>219 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Epidemiological studies have failed to show any important impact of human immunodeficiency virus (HIV) infection and disease on leprosy, in contrast to the well documented increase in incidence and morbidity with other mycobacteria in these patients, notably Mycobacterium tuberculosis. The early events following exposure and repeated exposure to Mycobacterium leprae (ML) have not still been studied. Previous studies of first inoculations of ML in the skin of rhesus monkeys have indicated delayed recruitment of CD4+ cells and delayed interleukin (IL) 2 secretion in skin inoculation sites in simian immunodeficiency (SIV) positive animals.;The development of the secondary immune response against a challenge of ML was studied over a period of 2 months in the skin of 9 rhesus macaques, all inoculated previously with ML, 3 of which were SIV positive slow progressors. Cell recruitment and types of cytokine response in the skin and draining lymph nodes (LN) were investigated using flow cytometry (FC), immunohistochemistry, and reverse transcription polymerase chain reaction to detect relative levels of messenger ribonucleic acid (mRNA) expression for IL2, IL4, interferon gamma (IFNgamma) and IL10. Results were analyzed according to SIV status and persistence of ML infection.;An early vigorous expression of IL2 and IFNgamma mRNA, indicative of a strong T helper (Th) 1 cytokine profile, was seen in the skin of macaques that cleared ML infection. Animals that developed persistent ML infection (ML+) had delayed, weak Th1 response, and no evidence of early Th2 response in the skin. In contrast, early up regulation of IL4 was only observed in the LN of ML+ macaques. Recruitment of CD4+ lymphocytes into the skin was significantly lower and delayed in ML+ animals. CD4:CD8 ratio were significantly lower in the blood in SIV+ monkeys. However, no significant differences in CD4+ lymphocyte recruitment or expression of cytokine mRNA were observed between SIV- and SIV+ monkeys.;Despite evidence of systemic immunodepression, the slow progressing SIV+ rhesus macaques are still capable of mounting an adequate response to ML re-inoculation in the skin. A Th2 response is not generated in the skin early after re-infection in animals which developed progressive infection."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas Xavier D. Lemarchand.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1262."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963952</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43676557</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000321</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921186</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 LEMA</identifier>
+   <identifier type="dewey">9963952</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 LEMA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

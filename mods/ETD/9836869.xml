@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Characterization of p53 gene sequence in exons 5-8 of the Western mosquito fish, Gambusia affinis</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Erraguntla, Neeraja Kondapi</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 142 leaves : ill. ; 29 cm.</extent>
+      <extent>142 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Cancer is a multistage disease that involves both genetic and epigenetic factors. The number of physical and chemical agents with which human beings come in contact on a regular basis is increasing everyday. Somatic mutations can result due to such exposures and trigger uncontrolled cell division resulting in cancer.;The p53 tumor suppressor gene has been identified in several vertebrate species ranging from man to fish. In addition, inactivation of p53 has been observed in a wide variety of tumors. Fish models are becoming increasingly popular for assessing environmental exposure. Low background incidence of mutations, relatively low cost tumor studies, and the ability to extrapolate the results to humans makes these models viable alternatives. The Western mosquito fish (Gambusia affinis) a fresh water species (order Atheriniformes; family Poeciliidae) was chosen as a model organism for this study.;Polymerase chain reaction with rainbow trout genomic DNA as a positive control was conducted. Fragments encompassing exons 5-6 and 7-8 were isolated and sequenced. Alignment of the sequences (exons 5-8) of the mosquito fish with that of rainbow trout in the similar regions revealed high homology between the species.;Southern transfer of restricted genomic DNA of Gambusia affinis was conducted (target DNA). A PCR product (exons 5-6) of 450 base pairs was digoxigenin (DIG) labeled (probe DNA). In a separate set of experiments, PCR product from Gambusia affinis exons 7-8 (target DNA) was probed with another DIG-labeled PCR product (350 base pairs) from similar regions of rainbow trout genomic DNA. Hybridization of the probe and target DNA followed by chemiluminiscent detection resulted in visualization as bands on X-ray film indicating high homology between mosquito fish and rainbow trout p53 gene.;While rainbow trout can function only in cold-temperatures, medaka, being exotic, is restricted to use only in the laboratory. In the present work the mosquito fish can withstand temperature ranging from $\rm 40\sp\circ F{-}110\sp\circ F.$ In addition, this study can help promote the concept of the mosquito fish as a sentinel species for environmental monitoring and replace rainbow trout and medaka for direct validation in field."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Neeraja Kondapi Erraguntla.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2582."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836869</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980525</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919354</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 ERRA</identifier>
+   <identifier type="dewey">9836869</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 ERRA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

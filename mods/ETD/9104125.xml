@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Late quaternary foraminifera of the northwestern Gulf of Mexico</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Denne, Richard Allen</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (xix, 488 leaves) : ill., maps ; 29 cm.</extent>
+      <extent>509 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A study of distribution patterns of benthic foraminifera from the Recent and late Pleistocene northwestern gulf of Mexico revealed a close relationship between assemblages and water masses. Multivariate analyses (cluster and factor) of species-frequency data from 120 core tops (87-1361 m) show that the assemblages are associated with the Surface Mixed Layer, Gulf Water, Oxygen Minimum Water, Subantarctic Intermediate Water, Caribbean Midwater, and the Mississippi River outflow. A similar study of 61 samples (283-1341 m) from the last glacial (15,000 yBP) delineated the boundaries of the late Pleistocene bathyal water masses. These were (in estimated paleodepths) the Subtropical Underwater (100?-350 m), Oxygen Minimum Water (350-570 m), North Atlantic Intermediate Water (570-775 m), and Mediterrenean Outflow Water (775+ m). A delta assemblage was also detected between 91 to 92$\sp{\rm o}$ W. Downcore abundances of species in a core from 726 m depth revealed 3 benthic faunal events, at 13,000, 11,000, and 5,000 yBP, caused by changes in water masses and organic matter content. Factor analysis of presence/absence data of 157 species from 288 core tops (58-1361 m) and the 61 late Pleistocene samples indicated that presence/absence data can be used in paleoceanographic studies; the assemblages could be directly correlated to the water masses, delta outflow, and the carbonate bank environment.;A study of downcore variations in 10 box cores was done to determine if abundances of Recent and late Pleistocene benthic foraminifera can be directly compared. Judging by downcore trends produced by taphonomy and living habitat, agglutinated species were dissagregation prone or resistant, while calcareous hyaline species were highly-, moderately-, or poorly-preserved. A preservation index based on these trends shows similar values for the Recent and late Pleistocene samples, indicating that their distributions can be directly compared. Such a comparison demonstrates that distributions of species are affected by water mass properties and organic matter content. Shifts in water-mass boundaries in the last glacial caused concomitant changes in species depth limits."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Richard Allen Denne.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4251."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 241-255).</note>
+   <subject>
+      <geographicCode authority="marcgac">nm-----</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Paleoceanography</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Paleontology</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Foraminifera, Fossil</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104125</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27211348</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930108</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160004</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 DENN</identifier>
+   <identifier type="dewey">9104125</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 DENN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

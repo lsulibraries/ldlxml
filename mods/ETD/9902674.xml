@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Magnetic field evolution in neutron stars</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Young, Erik (Erik Jordan)</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 177 leaves : ill. ; 29 cm.</extent>
+      <extent>178 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Magnetized neutron stars provide the basic model for radio pulsars. They also play a fundamental role in the theory of pulsating X-ray sources and explaining the origin of millisecond radio pulsars. In an effort to better understand these interesting and fundamentally important astrophysical systems, this dissertation studies the magnetic evolution of neutron stars with a dipole field supported in the crust. We explore their evolution both as isolated systems and as accreting objects in binary systems.;We investigate how the incorporation of the gravitational field of the neutron star core into the spacetime occupied by a dipole field in the crust affects the behavior of the magnetic evolution of these systems and identify the factors which compete for determination of the field's decay rate over long timescales. From this we are able to characterize the magnetic field decay over a wide range of neutron star masses approaching maximum mass limits. We demonstrate that more compact stars and stars near maximum mass limits do not necessarily possess the slowest decays, as had been speculated from earlier investigations. As an extension of this work, we discuss the implications our results have on attempts to use the characteristics of the observed pulsar population to constrain the properties of magnetized neutron stars and high density matter.;In our investigation of accreting, magnetized neutron stars, the accretion heating, thermomagnetic field drift, and advection of the field into deeper layers of the star are modeled simultaneously, complementing previous work and serving to complete the basic model for accretion-driven magnetic field evolution. We identify the mass transfer rates that significantly alter the character of the neutron star magnetic field. Our results further underscore the significant role played by the cooling properties of the neutron star core in determining the evolution of the field during mass transfer. Additionally, we identify the circumstances under which a strong, pre-accretion field can be preserved by transport into deep regions of the star, then resurface within a Hubble time ($\sim$10$\sp $ years), dramatically altering the observable properties of the post-accretion star."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Erik Young.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 4179."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902674</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980805</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919596</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 YOUN</identifier>
+   <identifier type="dewey">9902674</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 YOUN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

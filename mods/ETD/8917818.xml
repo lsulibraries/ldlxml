@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Path-coefficient analysis</title>
+      <subTitle>a study of phenotypic, broad-sense and narrow-sense variation in sugarcane</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Gravois, Kenneth Albert</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Agronomy Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 87 leaves ; 29 cm.</extent>
+      <extent>97 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The variance-covariance structure of a Louisiana sugarcane (Sacchum spp.) population was estimated and used to calculate correlation coefficients (phenotypic, broad-sense genotypic and additive genetic), narrow-sense heritability and measures of additive genetic variation and gain under selection. Four progeny from each of 20 crosses were grown in plantcane, first ratoon and second ratoon crops at the St. Gabriel Research Station of the Louisiana Agricultural Experiment Station.;Broad-sense genotypic and phenotypic correlations were calculated and subjected to path-coefficient analysis to study direct and indirect effects in a set of cause and effect relationships involving sucrose yield. Broad-sense genotypic relationships are useful to sugarcane breeders during the field selection of sugarcane cultivars because sugarcane is asexually propagated which fixes all genetic components of variation. Selection priority between asexual stages of reproduction should emphasize cane yield over sucrose concentration. When cane yield cannot be measured directly, stalk number should be given greater emphasis over stalk weight and its components. High Brix and low pith indirectly increased sucrose concentration in the population.;Parents contribute one-half of their additive genetic effects to their progeny during sexual reproduction. Narrow-sense genetic variation is useful to the sugarcane breeder during the crossing of parents to produce improved progeny. Additive genetic path-coefficient analysis revealed cane yield, followed by sucrose concentration, was the main contributor to sucrose yield. Crosses involving parents with high Brix and low pith will most likely yield progeny with high sucrose concentration. Stalk number was the sole positive contributor to cane yield at the additive genetic level.;Additive genetic coefficients of variation indicate potential future gains in sucrose yield would be greatest by emphasizing cane yield and its primary component stalk number over sucrose concentration. These data also indicate sufficient variability in sucrose concentration to increase sucrose yield as well."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kenneth Albert Gravois.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1698."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Sugarcane</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917818</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24253127</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910819</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1061656</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 GRAV</identifier>
+   <identifier type="dewey">8917818</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 GRAV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>thematic index of the works for woodwinds by Eugene Bozza (b. 1905)</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 168 leaves : music ; 29 cm.</extent>
+      <extent>177 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The introduction to this thematic index deals with the life of Eugene Bozza. Bozza studied at the Paris Conservatory three times for three separate awards. In 1924 he graduated with the first prize in violin. In 1931 he was awarded the first prize in conducting and in 1934 he won the first prize in composition and the Premier Grand Prix de Rome. Bozza's professional career included five years as solo violinist with L'Orchestre de Pasdeloup (1925-30), one year as conductor of the Ballet Russe de Monte Carlo (1931-32), eleven years as Chef d'Orchestre at the Opera Comique (1939-1950) and twenty-five years as the director of the Ecole Nationale de Musique (1950-1975), Valenciennes, France. He composed works in a wide variety of genres throughout his career and into his retirement.;The heart of the monograph is a thematic index of the works for woodwinds by Bozza, including unaccompanied solos, accompanied solos, etudes, duets, trios, quartets, quintets and larger chamber ensemble works. The first five chapters include works for solo instruments (solos and etudes) and the final four chapters are works for chamber ensembles. Within the chapters of solo instrumental music, the works are grouped by pieces for unaccompanied solo instrument, accompanied solo instrument and etudes collections. Within each of these groups and in the chamber music chapters, the works are arranged chronologically. Each citation consists of the title, publisher, date of publication, a brief description of the piece (e.g., number of movements, introduction, cadenza, etc.) and a brief musical example of each theme occurring in the piece.;One of the more interesting aspects of Bozza's compositions is his use of similar thematic material in two or more works. Appendix 1, a Concordance of Thematic Similarities, groups the works which have similar thematic material. In this section, one can locate a piece or etude for solo woodwind or woodwind ensemble by Bozza and determine what other pieces or etudes have similar thematic material."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lois Kuyper-Rushing.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: A, page: 1040."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 124-125).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Bozza, Eugène</namePart>
+         <namePart type="date">1905-1991</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Thematic catalogs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wind instrument music</topic>
+      <topic>Thematic catalogs</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025316</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186535</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111974</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 KUYP 378.76 L930D 1989 KUYP</identifier>
+   <identifier type="dewey">9025316</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 KUYP 378.76 L930D 1989 KUYP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

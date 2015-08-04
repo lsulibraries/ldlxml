@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Mechanism and enhancement of phase segregation in drilling fluids</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Griffin, John M. (John Marvin)</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Petroleum Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 177 leaves : ill. ; 29 cm.</extent>
+      <extent>192 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Dewaterability of a compressible suspension can be characterized by two fundamental properties of viscoelastic networks: permeability and bulk modulus of elasticity. Time required for dewatering can be obtained from the former, while the latter can furnish the data required for predicting ultimate compaction. A method has been derived and an apparatus constructed for measurement of these two properties in a centrifugal field. The method was applied to a variety of drilling fluids and mineral suspensions. A floor-mounted laboratory centrifuge was used in this investigation. The methods developed have merit for evaluating pre-treatments prior to centrifugal dewatering.;A method for quantifying the density distribution from top to bottom of a sedimented cake less than 2 cm in height is reported. In one experiment, this density variation was less than 13%.;The feasibility of replacing chemical pre-treatments by applying an alternating current electric field (electrocoagulation) was investigated. Several fluids were electrically treated before centrifuging. Upon centrifuging, only certain suspensions exhibited a cake while others did not. In those instances where a cake could be collected, its moisture content was measured. In the most effective electrical treatment, a salt/polymer drilling fluid containing 6% by weight solids (94% moisture) before treatment and centrifuging yielded a cake with a moisture content of 91%. This compares with a moisture content of 65% if the suspension had been chemically pre-treated. This meant that in the most optimum treatment, an unacceptably high moisture content was obtained. Thus, in view of this study, electrical treatments are unable to replace chemical pre-treatments to enhance centrifugal solid/liquid separation.;Two mechanisms of electrocoagulation, ionization and electrostriction, are presented. The consistent increase in conductivity is more easily explained by the ionization mechanism. Thus, it is the favored mechanism to explain electrocoagulation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by John M. Griffin.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3880."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 155-166).</note>
+   <subject authority="lcsh">
+      <topic>Drilling muds</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Electroosmotic dewatering</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200065</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28532063</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930728</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200490</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 GRIF</identifier>
+   <identifier type="dewey">9200065</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 GRIF</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

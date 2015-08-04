@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Studies on the Agrobacterium mediated transformation of potato (Solanum tuberosum L.) and tobacco (Nicotiana tabacum L.) with antibacterial and high essential amino acids encoding genes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cetiner, Mehmet Selim</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Horticulture.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 148 leaves : ill. ; 29 cm.</extent>
+      <extent>161 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Tuber disks from four cultivars of Solanum tuberosum L. were cultured on a Murashige and Skoog medium supplemented with B5 vitamins, 3.0% sucrose, 0.7% phytagar and ratios of indole-3-actyl-aspartic acid (IAAa) and zeatin riboside (ZR). No shoots were regenerated from Red LaSoda. Russet Burbank, Desiree, and LaBelle tuber disks produced shoots over a range of IAAa and ZR ratios. The greatest number of shoots was regenerated from Russet Burbank at 1 $\mu$M IAAa and 8 $\mu$M ZR.;Different potato cultivars were also tested for their responses to Agrobacterium infections. Growth stage of the bacterial cultures and exposure duration of tuber disks to bacteria did not have a significant effect. However, significant differences among the cultivars in their responses to infection from A. rhizogenes and A. tumefaciens strains were observed.;When effects of lytic peptides SB-37 and Shiva-1 on growth of plant pathogenic fungi were tested, a complete inhibition was observed at 10$\sp{-3}$ M, whereas, a mild stimulation of growth was noted at 10$\sp{-5}$ M. The effect of SB-37 on tobacco-cell suspensions was also tested. Cell growth was inhibited at 10$\sp{-3}$ M and somewhat arrested at 10$\sp{-4}$ M. At 10$\sp{-6}$ M and 10$\sp{-7}$ M SB-37 growth of the cells was stimulated.;Leaf disks from transgenic and nontransgenic tobacco (Nicotiana tabacum L.) plants were exposed to a disarmed A. tumefaciens containing genes in a binary vector arrangement with one set of constructs for antibacterial (lytic) peptides and with another set of constructs for high essential amino acids (HEAA) II. Positive beta-glucuronidase (GUS) activity indicated that transformation had been obtained for both transgenic and nontransgenic plants. Although GUS positive plants were obtained with A. tumefaciens carrying HEAA II, transgenic plants were not exposed to this vector.;Kanamycin resistant shoots regenerated from Russet Burbank tuber disks infected with binary A. tumefaciens vectors carrying antibacterial and HEAA II genes were also obtained."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mehmet Selim Cetiner.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1578."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 139-147).</note>
+   <subject authority="lcsh">
+      <topic>Genetic transformation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plant genetic engineering</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plant tissue culture</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Transgenic plants</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agrobacterium</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025295</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186416</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111955</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 CETI</identifier>
+   <identifier type="dewey">9025295</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 CETI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

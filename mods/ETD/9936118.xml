@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Spatial modeling of coastal landscapes</title>
+      <subTitle>methodological and scientific applications</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>White, Mary Louise.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and Coastal Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 112 leaves : ill. ; 29 cm.</extent>
+      <extent>113 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A number of issues related to landscape scale ecological modeling of the wetlands of southern Louisiana are examined in this study. First, using geostatistical methods, a new contour map of the wetland habitats in the Terrebonne basin of southern Louisiana is constructed from data collected in 1994. This map is proposed as the best field verified habitat map of the Terrebonne basin and contains statistical confidence intervals associated with the habitat contours. Second, the problem of how to evaluate the success of a landscape model prediction is investigated. The multiple resolution goodness of fit parameter Ft(k) is evaluated in detail and an alternate formulation, Ft(mu, sigma) based on a Gaussian distribution is proposed as an alternative. A perfect simulation model would predict a multiple resolution goodness of fit index of 100, but in reality it can only approach 91--92 when applied to the base maps available for southern Louisiana.;The unit models that best predict the biomass production and the habitat succession are investigated and tested on independent data from nearby wetland sites. Seasonal patterns of biomass production are well reproduced, biomass values fall within literature values, and predicted habitats match observed field habitats. Sensitivity analysis shows parameterization of these unit models to be most sensitive to the translocation rate of biomass between above and below ground biomass, hours of flooding, temperature, salinity, and photosynthetic production rate, in that order.;Finally, the unit models are inserted into a spatially articulated landscape model framework. The results of the landscape simulations are less successful than the unit model simulations. In order to maximize the fit between the simulated habitat map and the reference habitat map, the rate of photosynthetic production has to be increased by an order of magnitude. Possible reasons for this scale dependent change in parameterization are proposed.;This study has an immediate application in the science of wetland restoration because management alternatives can now be analyzed in a scientific and systematic way to evaluate landscape scale cumulative impacts in the context of global climate change."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mary Louise White.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2475."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936118</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41394165</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990519</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920299</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 WHIT</identifier>
+   <identifier type="dewey">9936118</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 WHIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Pressure-induced changes in structural and mechanical properties of gallium arsenide and nanophase silicon carbide using parallel molecular dynamics simulations</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chatterjee, Alok</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 80 leaves : ill. ; 29 cm.</extent>
+      <extent>81 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Large-scale parallel molecular-dynamics (MD) simulations are performed to investigate properties and processes in nanophase silicon carbide (n-SiC) and gallium arsenide (GaAs) under pressure. These simulations involve 10 6 atoms interacting via realistic interatomic potentials. Structure and sintering of crystalline n-SiC are also investigated with neutron scattering experiments performed at the Intense Pulsed Neutron Source Division (IPNS), Argonne National Laboratory. Both MD simulations and neutron scattering experiments indicate the onset of sintering around 1500K. During sintering, the pores shrink in size while maintaining their morphology: Their fractal dimension remains &amp;sim;2.4 and their surface roughness exponent is &amp;sim;0.45.;The pair distribution functions and bond-angle distributions reveal that interfacial regions in n-SiC are amorphous whereas the interior regions of nanoclusters remain crystalline. The mean-squared displacements of atoms in the outer layer of nanoclusters is an order of magnitude higher than that in the interior regions of clusters in n-SiC. This indicates that the onset of sintering is primarily due to surface diffusion of atoms. The variations of the bulk and shear moduli with density, rho, is well described by the power law rhomu, and the value of mu is found to be &amp;sim;3.5. Various experiments on high-density silica and carbon aerogels also find the same power-law dependence.;Structural phase transformation in crystalline GaAs is studied with a variable shape MD approach. The pair-distribution functions and bond-angle distributions indicate that the 4-fold coordinated zinc blende structure transforms to a 6-fold coordinated orthorhombic structure under a pressure of 22 GPa. The reverse transformation from the orthorhombic to zinc blende structure, observed at a pressure of &amp;sim;10 GPa, is in good agreement with experiments."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Alok Chatterjee.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1132."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922063</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651524</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919952</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CHAT</identifier>
+   <identifier type="dewey">9922063</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CHAT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

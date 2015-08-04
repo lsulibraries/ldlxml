@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Computational approach for determination of the hydraulic conductivity of soils using continuous intrusion piezocone penetration test</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Song, Chung Rak</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil and Environmental Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 174 leaves : ill. ; 29 cm.</extent>
+      <extent>175 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In order to obtain the hydraulic conductivity or the coefficient of consolidation of the soil from PCPT, the pore pressure response during dissipation test is typically used. This method, however, requires the intermittent stopping of the advancement of the piezocone penetrometer for the dissipation test. Also, this method does not fully take into account the pore pressure interaction between near and far fields as pointed out by previous researchers (Kurup and Tumay, 1997).;Thus a new rational approach is investigated here. The proposed method utilizes the pore water pressure during the penetration of the piezocone penetrometer. By its nature, the pore pressure response around the cone tip is neither a fully drained nor a fully undrained condition, it is in between. Since this is a partially drained condition, the excess pore pressure during the piezocone penetration is the function of the hydraulic conductivity of the soil as well as the function of stress strain parameters. Inversely, the hydraulic conductivity of the soil can be predicted from the measured pore pressure response during piezocone penetration test.;In this study, an anisotropic modified Cam Clay model with micro-mechanical consideration is derived and incorporated with coupled theory of mixtures for large strains. The derived model is used to predict the hydraulic conductivity of the soil from the excess pore pressure generated during the piezocone penetration test. Updated Lagrangian reference frame is used for a more rational modeling of large strain behavior. Formulation of the equations is based on the theory of mixtures for inelastic porous media proposed by Prevost (1980) and in an updated Lagrangian reference frame by Voyiadjis and Abu-Farsakh (1997).;Model evaluation was conducted by comparing the results with the isotropic model. Comparisons were also made with the field data. The calibration chamber test results, existing field data, and the theoretically predicted results showed acceptable agreement with each other, and shed the promising light on the new method of determination of the hydraulic conductivity of soils from the continuous intrusion piezocone penetration test."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Chung Rak Song.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 9760.;Directors:  George Z. Voyiadjis; Mehmet T. Tumay."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960099</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43369617</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921038</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 SONG</identifier>
+   <identifier type="dewey">9960099</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 SONG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

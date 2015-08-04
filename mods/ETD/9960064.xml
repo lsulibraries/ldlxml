@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Political liberalization in post-communist Central Asia</title>
+      <subTitle>a comparative  study</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Islam, Muhammad</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Political Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 391 leaves ; 29 cm.</extent>
+      <extent>392 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation seeks to explain variation in political liberalization among three post-communist Central Asian countries: Kazakhstan, Kyrgyzstan, and Uzbekistan. These countries share several common political outcomes such as the dominance of the executive and a high degree of statism. Yet they also witnessed significant variation in political liberalization within a short period of time after their independence in 1991. The fact that these countries share several common political, socioeconomic, cultural, and historical features makes the rise of this political variance more intriguing than the rise of the above, however, salient, common political outcomes among them within few years of their independence. An intriguing question arises here: Why these countries which share several common features experienced significant variation in political liberalization within few year of their independence? This study seeks to answer this question---a question which has been glaringly ignored in the recent scholarly political literature on Central Asia.;In order to explain variation in political liberalization among thew countries, this study emphasizes three variables: (a) Russian minority, (b) elite structure, and (c) political orientation and strategic behavior of political leadership. It argues that these countries show systematic variation in these three variables which account for variation in political liberalization among them. Each of these explanatory variables is important in its own right and produces a significant separate effect on political liberalization. This study also makes a bold claim that this theoretical scheme helps explain not only variation in political liberalization among than but also aberrations in the political liberalization processes within them. It further argues that influences other than these three variables produce, if at all, only short-lived relaxation of political restrictions in the republics."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Muhammad Islam.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 1145."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960064</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43349660</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920977</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 ISLA</identifier>
+   <identifier type="dewey">9960064</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 ISLA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

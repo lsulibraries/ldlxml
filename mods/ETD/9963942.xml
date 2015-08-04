@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Agricultural trade liberalization and uneven development</title>
+      <subTitle>the case of South Korea</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chung, Heesun</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 255 leaves : ill., maps ; 29 cm.</extent>
+      <extent>256 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The Uruguay Round of the General Agreement on Tariffs and Trade (GATT), which was concluded in 1993, was the principal global forum to discuss agricultural trade in an extensive way. In this last venue of the GATT, South Korean negotiators had to agree to open the nation's agricultural markets so as to assure manufacturing export access to international markets amidst heightening Pressure from surplus agricultural producers A broad range of economic studies have estimated that as an aftermath of the Uruguay Round, a majority of South Korean farmers, who are comparatively disadvantaged due to small-scale, labor-intensive farming, might be displaced.;In this context, the present study explores how South Korean farmers are encountering increasingly adverse free market forces as restructuring in the agricultural sector is proceeding in tandem with the comprehensive globalization process of the Korean society and economy. Based on a survey sample of 483 farm households in three provinces of South Korea, this research examines the perspectives of full-time farmers regarding trade liberalization, its effects on their lives, and the future of small-wale farming. The findings from the survey in this research indicate that South Korean farmers accede to terms of global integration in principle while disapproving state rural policies in practice. The survey data also indicate intra-regional differences in farmers' perceived satisfaction with living conditions, government farm policies, and socio-economic issues. Disparities in the degrees of discontent with government policies and socio-economic well-being are explicit between the relatively diversified, urbanizing Kyonggi Province and the underdeveloped, farming-dependent Chunbuk and Kyongbuk Provinces. The Overall findings uphold that most farmers who have not been fully exposed to free market mechanisms are confronted by increased uncertainties and economic hardships. The findings propound that agricultural policies need to reflect long-term, macroeconomic changes and locally-based agricultural structure. Harnessing the agriculture, trade, and environment interface is, thus, suggested as a way to provide equitable economic bases to individual farm families and rural communities."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Heesun Chung.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 1111.;Directors:  Gregory Veeck; William V. Davidson."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963942</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43689430</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000322</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921223</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 CHUN</identifier>
+   <identifier type="dewey">9963942</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 CHUN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Studies on important volatile flavor components in Louisiana rangia clam (Rangia cuneata)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Uraiwan Tanchotikul</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 96 leaves : ill. ; 29 cm.</extent>
+      <extent>109 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Important flavor components in Louisiana brackish water clam (Rangia cuneata) were investigated in this dissertation research. Major achievements include: (1) positive identification of the major compound responsible for the objectionable musty/earthy off-flavor in the clam, (2) development of quantitative method to compare the levels of the off-flavor compound in clam samples before and after relaying, and (3) identification of desirable characteristic clam volatile flavor components.;The identification of the musty/earthy off-flavor of rangia clam was accomplished by using dynamic headspace sampling (DHS) coupled with high resolution gas chromatography/mass spectrometry (HRGC/MS) in selective ion monitoring (SIM) mode and HRGC aroma perception. Geosmin (trans-1,10-dimethyl-trans-9-decalol) was positively identified as a major compound responsible for this off-flavor based on gas chromatographic retention indices, electron ionization mass spectra, and odor characteristics with the authentic geosmin standard as the reference.;The quantification of geosmin was achieved by vacuum distillation followed by solvent extraction using an internal standard and multiple-level standard addition method in HRGC/SIM mass spectrometry. The concentrations of geosmin in dredged and 2-week relayed rangia clam samples in different seasons of the year were determined and compared.;The volatile flavor components of rangia clam were extracted by dynamic headspace sampling (DHS) and simultaneous distillation and extraction (SDE). Twenty-two heterocyclic compounds were identified. The unique clam aromas were contributed by a combination of the heterocyclic sulfur- and nitrogen- containing compounds and ketones. Volatile flavor compounds in other chemical classes such as aldehydes, ketones, alcohols, and terpenes were also detected. Most of these volatile flavor components were identified in the rangia clam for the first time.;These studies were the first series of comprehensive analytical flavor investigations on rangia clam. The information generated from this research may facilitate further research and development efforts leading to the ultimate commercialization of this abundant seafood source in the Gulf Coast. This information may also enhance current and future flavor research on other seafoods."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Uraiwan Tanchotikul.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4126."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 77-85).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Clams</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Clam fisheries</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shellfish</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104175</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27255433</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160419</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 URAI</identifier>
+   <identifier type="dewey">9104175</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 URAI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

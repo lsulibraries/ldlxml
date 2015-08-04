@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Perception-action coupling during goal-directed locomotion without vision</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Clark, Robert D.</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Kinesiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 181 leaves : ill. ; 29 cm.</extent>
+      <extent>183 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The ability to walk to distant targets accurately without the use of vision has been demonstrated in a number of studies (e.g., Elliott, 1987; 1990; Loomis, Da Silva, Philbeck, &amp; Fukusima, 1996; Rieser, Ashmead, Talor, &amp; Youngquist, 1990; Steenhuis &amp; Goodale 1988; Thomson, 1983). Processes underlying the mechanisms involved in this ability however, are not completely understood. One possible mechanism examined involves non-visual sensory flows during locomotion. In Experiment 1, manipulations to normal walking led to significant increases in error relative to the control group. Error expressed as a percentage of target distance revealed that target distance did not affect accuracy during normal walks. However, altering the method of locomotion led to significant differences in AE and VE. In Experiment 2, the influence of vestibular information was further examined by alterations in head orientation relative to the direction of travel. CE scores indicated that participants veered off course in the direction of head turning when attempting to walk a straight path to the target. This suggests a non-conscious effort to regain normal inertial flows that occur when the vestibular apparatus is not in line with the direction of travel. Non-visual sensory flows were also re-examined by comparing sidestepping to normal walks. Results indicated that participants accurately estimated distance employing either gait but that veering errors during sidestepping led to decreases in overall accuracy. Experiment 3 investigated whether certain deleterious combinations of gait and head positions noted Experiment 2 could ever be beneficial when walking a curved path. Results indicated that when required to travel along a curved path, sidestepping was significantly better than normal walks when estimating distance to the target. The findings from Experiments 2 and 3 support Rieser et al.'s (1990) notion that implicitly learned correlations among vision and non-visual sources of information allow for accurate performance when vision is removed. However, the findings from Experiment 3 are in contrast with this theory and suggest that externally imposed task constraints must be considered when examining the ability to perform accurate goal-directed walks without vision."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Robert D. Clark.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1050."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922065</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651613</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919954</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CLAR</identifier>
+   <identifier type="dewey">9922065</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CLAR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

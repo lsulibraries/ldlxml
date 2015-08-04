@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Race relations and community development</title>
+      <subTitle>the education of blacks in New Orleans, 1862-1960</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>DeVore, Donald E.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 291 leaves ; 29 cm.</extent>
+      <extent>304 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Throughout the history of the United States individuals and groups have used education as a means to improve their status in America--economically, politically, and socially. When slaves gained their freedom between 1862 and 1865, they, too, looked to education as a way to ameliorate the harmful effects of over two hundred years of slavery. In New Orleans freedmen and those free before the war viewed education almost as a panacea to the many problems within the black community. Black New Orleanians realized, of course, that the gains derived from education would take time to filter throughout the entire community.;During the antebellum period New Orleans' free blacks had accumulated a certain degree of wealth and supported educational attainment for its members, and beginning in Reconstruction, led in the struggle for improved education for the entire black population. During Reconstruction blacks won inclusion into the public school system, and for several years many blacks attended desegregated schools. The end of Reconstruction, however, brought eventual disfranchisement and the triumph of a racial ideology that sought to impose on blacks the status of second class citizenship. This view found expression in the type of education whites thought blacks should receive.;This study suggests that many blacks in New Orleans refused to accept the permanency of limited education or white supremacy. Devoid of political power, however, blacks used a strategy of petition and protest to school officials to gain educational improvements for the black community. Between 1900 and 1945 that strategy produced improvements, but by the end of World War II, black education still lagged behind the educational opportunities given whites. In 1948 black leaders abandoned the strategy of protest and petition and decided to use the federal courts to gain educational parity within a separate school system. Their goals shifted again in 1952, and they filed suit to end school desegregation in New Orleans. The legal assault to desegregate the schools was part of the larger black effort for racial equality."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Donald E. DeVore.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: A, page: 1351."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 281-291).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Education</topic>
+      <geographic>Louisiana</geographic>
+      <geographic>New Orleans</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Segregation in education</topic>
+      <geographic>Louisiana</geographic>
+      <geographic>New Orleans</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>School integration</topic>
+      <geographic>Louisiana</geographic>
+      <geographic>New Orleans</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>New Orleans (La.)</geographic>
+      <topic>Race relations</topic>
+      <topic>History</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025300</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186447</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111959</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 DEVO</identifier>
+   <identifier type="dewey">9025300</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 DEVO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

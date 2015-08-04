@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>comparison of two approaches in teaching mathematics to special education students</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Teaching mathematics to special education students</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Fullen, Herman B.</namePart>
+      <namePart type="date">1933-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 49 leaves ; 29 cm.</extent>
+      <extent>56 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study had the purpose of comparing the effects of two approaches in teaching mathematics to secondary special education students. The study attempted to answer the following questions:  (1) Were there significant differences between group means of mathematics achievement test scores for students in a diagnostic-prescriptive mathematics program compared to students using programmed mathematics? and (2) Were there significant differences between group means of self-concept scores for students in a diagnostic-prescriptive program compared to students using programmed mathematics?;Twenty-four secondary special education students enrolled at the East Baton Rouge Evaluation and Vocational Center were the subjects in this study. The study consisted to the following treatment conditions:  (1) Adston Mathematics Skills Series, Working with Whole Numbers, and (2) Ken Cook Mark 9 Teaching Machines with mathematics slides and tapes. A control group received no special mathematics.;Thirty-eight subjects were administered the Key Math Diagnostic Arithmetic Test and Piers-Harris Children's Self-Concept Scale. After pretests were completed, the treatment conditions (Adston and Ken Cook materials) were administered for approximately 20 minutes per school day for 12 weeks. Due to individual differences in mathematical ability some subjects finished the treatment condition before 12 weeks.;After the treatment conditions were completed posttests were administered to 24 subjects remaining from the original 38. Pretests and posttests scores were analyzed by analysis of covariance to determine if significant differences existed among group means of mathematics and self-concept scores. The following conclusions were reached from the analysis:  (1) The results were significant between the adjusted group means on the addition subtest of the Key Math Diagnostic Arithmetic Test; both the Adston and Ken Cook materials had significantly greater gains when compared to the Control group; (2) the Adston group displayed significant gains for the subtraction subtest on the Key Math compared to the Control and Ken Cook groups; (3) The Adston group had significant gains on the multiplication subtest of the Key Math compared to the Control group; and (4) There were no significant differences on the Key Math division subtest or the Piers-Harris Children's Self Concept scores.;General conclusions from the study were the following:  (1) A diagnostic-prescriptive mathematics instrument such as the Adston can significantly aid the teacher and student; and (2) Method of teaching mathematics did not significantly affect the secondary special education student's self-concept."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Herman B. Fullen.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2610."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 39-41.</note>
+   <subject authority="lcsh">
+      <topic>Special education</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mathematics teachers</topic>
+      <topic>Training of</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126958</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8224635</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820308</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14463</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 FULL</identifier>
+   <identifier type="dewey">8126958</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 FULL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

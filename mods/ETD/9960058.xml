@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Development of pseudo-stationary phases for separations in electrokinetic chromatography</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Haynes, Judson Leroy</namePart>
+      <namePart type="date">1972-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 146 leaves : ill. ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The research presented in this dissertation covers pseudo-stationary phase development for separations in electrokinetic chromatography (EKC). Micelles and cyclodextrins have traditionally served as the most popular pseudo-stationary phases (PSPs) used in EKC. However, the development and implementation of PSPs, which have improved properties over traditional ones, are necessary to extend the utility of electrokinetic chromatography. This dissertation covers research contributions, chapter by chapter, to the area of PSP development made by the author. In addition to this, Chapter 1 covers a brief history of chromatography and the fundamentals of capillary electrophoresis and EKC.;The first pseudo-stationary phase developed was a modified poly (amido-amine) starburst dendrimer, diaminobutane dendrimer (DABD). The utility of DABD is demonstrated with the separation of a mixture of naphthalene derivatives and five neutral aromatic molecules in Part I of Chapter 2. Part II of Chapter 2 ventures into the development and implementation of chiral terminated poly-amide dendrimers for chiral separations.;Anionic cyclodextrins are generally considered as traditional pseudo-stationary phases in EKC; however, cationic cyclodextrins are extremely rare. In Chapter 3, a novel hepta-substituted beta-cyclodextrin is introduced as a chiral selector for enantiomeric separation of non-steroidal anti-inflammatory drugs (NSAIDs) and phenoxypropionic acid herbicides (PPAHs). Separation parameters such as pH and concentration were found to have major influences on enantiomeric resolution of the NSAIDs and PPAHs. Results indicate that heptakis(6-methoxyethylarnine-6-deoxy)-beta-cyclodextrin performs exceptionally well for the enantiomeric resolution of NSAIDs and PPAHs.;Chapter 4 of this dissertation focuses on a very different pseudo-stationary phase, a chiral polymeric surfactant (micelle polymer). Chiral recognition of two binaphthyl derivatives and three benzodiazepines was studied by use of polymeric surfactants in EKC. Four specific dipeptide terminated (multi-chiral) micelle polymers were synthesized for this study. In addition to the chiral separation study, the physicochemical properties (critical micelle concentration and specific rotation) of each polymer were investigated. The molecular weights of the various dipeptide terminated micelle polymers were also determined using analytical ultracentrifugation. These dipeptide terminated micelle polymers were designed to study the effect of the extra heteroatom at the polar head group of the micelle polymer for the enantiomeric separation of the binaphthyl derivatives and benzodiazepines."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Judson Leroy Haynes III.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 8280."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960058</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43356307</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000127</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921002</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HAYN</identifier>
+   <identifier type="dewey">9960058</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HAYN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

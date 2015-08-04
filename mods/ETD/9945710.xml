@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>On the numerical solution of the cylindrical Poisson equation for isolated self-gravitating systems</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cohl, Howard S.</namePart>
+      <namePart type="date">1968-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 121 leaves : ill. ; 29 cm.</extent>
+      <extent>122 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation addresses the need for an accurate and efficient technique which solves the Poisson equation for arbitrarily complex, isolated, self-gravitating fluid systems. Generally speaking, a potential solver is composed of two distinct pieces: a boundary solver and an interior solver. The boundary solver computes the potential, phi(xB)  on a surface which bounds some finite volume of space, V, and contains an isolated mass-density distribution, rho(x). Given rho(x) and phi(xB), the interior solver computes the potential phi(x) everywhere within  V. Herein, we describe the development of a numerical technique which efficiently solves Poisson's equation in cylindrical coordinates on massively parallel computing architectures.;First, we report the discovery of a compact cylindrical Green's function (CCGF) expansion and show how the CCGF can be used to efficiently compute the exact numerical representation of phi(xB). As an analytical representation, the CCGF should prove to be extremely useful wherever one requires the isolated azimuthal modes of a self-gravitating system.;We then discuss some mathematical consequences of the CCGF expansion, such as it's applicability to all nine axisymmetric coordinate systems which are   R -separable for Laplace's equation. The CCGF expansion, as applied to the spherical coordinate system, leads to a second addition theorem for spherical harmonics.;Finally, we present a massively parallel implementation of an interior solver which is based on a data-transpose technique applied to a Fourier-ADI (Alternating Direction Implicit) scheme. The data-transpose technique is a parallelization strategy in which all communication is restricted to global 3D data-transposition operations and all computations are subsequently performed with perfect load balance and zero communication.;The potential solver, as implemented here in conjunction with the CCGF expansion, should prove to be an extremely useful tool in a wide variety of astrophysical studies, particularly those requiring an accurate determination of the gravitational field due to extremely flattened or highly elongated mass distributions."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Howard S. Cohl.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4656."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945710</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42075861</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990813</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920655</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 COHL</identifier>
+   <identifier type="dewey">9945710</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 COHL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

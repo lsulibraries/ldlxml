@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Influence of storage temperature and duration on deterioration of film-wrapped and non-wrapped mustard, Brassica juncea coss</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bracy, Regina Poillion</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Horticulture.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 104 leaves ; 29 cm.</extent>
+      <extent>113 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Mustard ""greens' is a popular fresh vegetable, especially in the South. Fresh market production, however, is restricted to local sales or short-distance markets due to the relatively short shelf life of mustard.;Packaging has been shown to successfully extend the shelf life of several fruits and vegetables. To determine the effect of packaging and storage temperature on the postharvest life and quality of mustard, mustard was stored at 1, 4, and 15C in perforated polyethylene bags, Cryovac D-955 60-gauge or 100-guage heat-shrinkable films or not-wrapped. A preliminary experiment was conducted with spinach to develop experiment methodology and for comparison of packaging effects on another leafy vegetable.;Packaging mustard in perforated bags, Cryovac 60, or Cryovac 100 films significantly reduced weight loss over non-bagged greens. Mustard and spinach package in the Cryovac films lost less weight than greens packaged in perforated bags.;Weight loss was higher for greens stored at 4 and 15C, than greens stores at 1C. There was an increase in weight loss of mustard not-bagged and in perforated bags as number of days in storage increased.;Package type had a highly significant effect on CO$\sb2$ concentration in atmosphere within packages of spinach and mustard, with higher CO$\sb2$ concentrations occurring in packages made of Cryovac film. Concentrations of CO$\sb2$ were constant over storage time, reaching a steady state by the 3rd day of storage.;The quality of bagged spinach was excellent after 20 days in storage at temperatures of 1 and 4C. Mustard was stored for 12 days at 1 or 4C with very little loss in quality. Quality of non-bagged mustard was excellent when stored up to 3 days at 1 or 4C, but was unacceptable after 5 days in storage.;Packaging significantly increased the incidence of decay and yellow discoloration of greens stored at 15C. Quality of all greens, however, was poor after only 5 days in storage at 15C.;Sensory evaluations indicated packaging and storing mustard for extended periods (12 days) did not affect the flavor and quality of cooked mustard."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Regina Poillion Bracy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4132."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 98-103).</note>
+   <subject authority="lcsh">
+      <topic>Mustard</topic>
+      <topic>Packaging</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mustard</topic>
+      <topic>Preservation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Food</topic>
+      <topic>Storage</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cold storage</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104114</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27248415</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930113</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160352</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 BRAC</identifier>
+   <identifier type="dewey">9104114</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 BRAC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

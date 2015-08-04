@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>integrated geophysical study of the northern Gulf of Mexico</title>
+      <subTitle>deep seismic reflection profiling, seismic stratigraphy, gravity modeling, and crustal structure</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Suh, Mancheol</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 206 leaves : ill. ; 29 cm. + 6 plates</extent>
+      <extent>347 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Multichannel deep seismic reflection data across a passive continental margin in the northern Gulf of Mexico have been acquired, processed, and interpreted together with three-dimensional gravity modeling. The central Gulf basin is structurally asymmetric from north and south. The northern Gulf is underlain by a 8 to 16 km thickness of sedimentary rocks, significantly greater than the southern Gulf. The top of continental crust occurs at a depth of about 8 km beneath the upper Mississippi-Alabama continental shelf and is characterized by horst and graben structures. The top of oceanic crust occurs at a depth of about 12 km below sea level in the deep Gulf of Mexico. The oceanic crust-transitional crust boundary is interpreted around 27$\sp\circ$ 16$\sp\prime$ N latitude in the profile.;The seismic section of continental shelf and continental slope shows four distinct shelf edges; Jurassic, early Cretaceous, mid-Oligocene, and present. Sequence stratigraphic study defines ten seismic sequences since the time of opening of the Gulf of Mexico. The correlation of the sequence boundaries defined in the circum-Gulf region indicates that unconformities with mid-Miocene (10.5 Ma), mid-Oligocene (30 Ma), and mid-Cretaceous (97 Ma), and at the top of the Jurassic (131 Ma) are commonly found as major regional unconformities. The depositional history of this part of the northern Gulf margin can be divided into three main depositional periods: (1) shallow marine deposition from the opening of the Gulf to mid-Cretaceous time, (2) deep marine deposition from Cretaceous to mid-Oligocene, and a return to (3) shallow marine deposition since the mid-Oligocene. The depositional history indicates that characterization of the northern Gulf of Mexico continental margin as a terrigenous sediment wedge province was initiated in late Cretaceous time.;Comparison of the location of the seismically defined oceanic crust--transitional crust boundary and the location of steep gravity gradients in the central Gulf of Mexico suggests the existence of outer marginal highs, 20 to 50 km wide. This observation constrains the northern limit of the oceanic crust to 20-50 km south of the steep gravity gradient belt in the north-central Gulf to the west where allochthonous salt inhibits seismic imaging of the deeper structures."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mancheol Suh.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1712."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 177-187).</note>
+   <subject>
+      <geographicCode authority="marcgac">nm-----</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geophysics</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Seismology</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geology, Stratigraphic</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geology, Structural</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025342</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186681</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111995</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 SUH</identifier>
+   <identifier type="dewey">9025342</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 SUH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Parametric motion transducer for gravitational wave detectors</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Aguiar, Odylio Denys de</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Agronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 98 leaves : ill. ; 29 cm.</extent>
+      <extent>110 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"We designed, constructed, and tested (using two different low phase noise electrical pump generators) a cryogenic double-resonant parabridge motion transducer made out of niobium, whose electrical output was amplified by a two stage MESFET cryogenic amplifier. Most of the experimental results agreed well with the theoretical models, and we successfully measured the mechanical Brownian motion of this transducer.;We were able to adjust the two electrical bridge resonant frequencies on top of each other at the pump frequency, allowing us to obtain an electromechanical coupling as high as 0.054. This high coupling, corresponding to an rms electric field strength of 1.79 $\times$ 10$\sp5$ V/m across the capacitor plates, is the highest measured so far for this class of transducers.;In one case, we observed a dip in the electrical noise spectrum near the mechanical resonant frequency due to destructive interference between this noise and its ""reflection"" from the mechanical resonator. At the bottom of this dip, we measured, for this transducer, an equivalent displacement noise of 4 $\times$ 10$\sp{-16}$ m/$\sqrt{\rm Hz}$ with a systematic error of less than 10%.;This measured equivalent displacement noise allows this parametric transducer to detect accelerations of 1.4 $\times$ 10$\sp{-8}$ m/s$\sp2$ at 929 Hz in a one Hz bandwidth. If coupled to the LSU gravitational wave antenna, a 2.3 $\times$ 10$\sp3$ kg aluminum bar, this transducer resonator of 0.27 kg would detect gravitational wave strains (h) as small as 6 $\times$ 10$\sp{-18}$.;A large improvement can be achieved if we manage to obtain 50 V$\sb{\rm peak}$ across the transducer's capacitor plates with a 5 MHz crystal oscillator. In this case, we would reach an equivalent displacement noise of 2 $\times$ 10$\sp{-17}$ m/$\sqrt{\rm Hz}$, corresponding to h $\sim$ 3 $\times$ 10$\sp{-19}$. Further improvement could be obtained by the use of a DC SQUID preamplifier."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Odylio Denys de Aguiar.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1502."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Gravity waves</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Transducers</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123173</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28443454</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930713</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198694</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 AGUI</identifier>
+   <identifier type="dewey">9123173</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 AGUI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

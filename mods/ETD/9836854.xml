@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Evaluation of the toxicological consequences of dietary exposure to individual classes of polycyclic aromatic hydrocarbons or a mixture in the Fischer-344 rat</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Boudreau, Mary Durand.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 267 leaves : ill. ; 29 cm.</extent>
+      <extent>267 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"There is special concern about the potential health effects of by-products released into the environment after combustion or conversion of fossil fuels. Polycyclic aromatic hydrocarbons (PAH), while initially released largely into the atmosphere, are subsequently deposited in soil and water and on foods. Although the significance of PAH contamination with regard to environmentally caused diseases and cancer in humans is difficult to estimate, it is suggested that the potential hazards may be underestimated. In an effort to understand the potential adverse health effects of PAHs, a comprehensive study was undertaken to determine the metabolic fate of selected PAHs as individual agents and as components of a mixture following oral exposure in the Fischer-344 rat. Studies included radioisotope binding studies to evaluate the absorption, distribution, and elimination of selected compounds, acute toxicity trials to define maximum tolerated chemical concentration levels, and chronic studies to determine temporal effects of individual compounds and the mixture. Selected compounds included 2-aminoanthracene (2-AA), benz (a) anthracene (BA), and the 1,3-; 1,6-, and 1,-8-dinitropyrenes (DNP). Results of radioisotope binding studies and ingestion studies clearly indicated that toxicity of BA or DNP were minimal in exposed rats. Administration of 50$\mu$Ci per kg ($\sp3$H) -BA (10mg/kg) or ($\sp3$H) -DNP (10mg/kg) via oral gavage resulted in a rapid excretion of greater than 70% of the recovered label at 48 h. Similarly, when rats were fed BA or dinitropyrenes (DNP) at concentrations up to 0.1% of the diet toxic effects were not observed following 14-, 30-, or 80-days of exposure. In contrast administration of 2-AA at concentration levels as low as 0.0075% of the diet resulted in a temporal and dose response progression in toxic effects of the liver and pancreas. Hepatocellular hyperplastic nodules were detected in rat liver following 80 days of ingestion of 2-AA at 0.01% and 0.0075% of diet. 2-AA pancreatic toxicity resulted in large cytoplasmic vacuoles and almost complete depletion of insulin stores in the endocrine pancreas and necrotic changes in the exocrine pancreas. Attenuation of the toxic effects of 2-AA was demonstrated in rats fed a mixture of the same compounds at the same dietary level of incorporation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mary Durand Boudreau.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2717."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836854</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919290</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 BOUD</identifier>
+   <identifier type="dewey">9836854</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 BOUD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

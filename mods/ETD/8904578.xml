@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dynamic headspace sampling and chromatographic and mass spectrometric investigations of volatile flavor components in red swamp crayfish (Procambarus clarkii) hepatopancreatic tissue</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Williams, Stephen S.</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988, c1989</dateIssued>
+      <dateIssued encoding="marc" point="start">1988</dateIssued>
+      <dateIssued encoding="marc" point="end">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 150 leaves ; 29 cm.</extent>
+      <extent>166 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This analytical food flavor study concentrated on the development and application of improved analytical techniques to investigate volatile flavor components in crayfish (Procambarus clarkii) hepatopancreatic tissue. This work consisted of four main parts. The first part dealt with the development of an improved dynamic headspace sampling procedure for the sampling and concentration of volatile flavor components in the headspace of high moisture foods. The second section described the successful application of this improved procedure for chromatographic and mass spectrometric investigation of dynamic headspace volatile flavor components of crayfish hepatopancreatic tissue. The third part discussed the quantitative determination of these volatile flavor components. The fourth part determined the effects of thermal processing and storage on the profiles of the volatile flavor components.;The improved dynamic headspace procedure minimized water interference during thermal desorption of flavor compounds from Tenax-TA sorbent cartridges. Using this off-line weight-controlled dry-purge procedure, water trapped in the sorbent cartridge was effectively removed to facilitate cryofocusing and high resolution gas chromatography/mass spectrometry analysis. Effects of water and extended dry-purge were determined on volatile components in a model sample system using fish oil with added water as the sample matrix. Relative concentrations of flavor compounds from six different chemical classes had low coefficients of variation (1-6%) in most cases, except low molecular weight organic acids.;Volatile flavor components of crayfish hepatopancreatic tissue were investigated by improved techniques of objective instrumental analysis and subjective sensory evaluation. Volatile flavor components were sampled by dynamic headspace concentration, separated by high resolution gas chromatography, identified by mass spectrometry and characterized by sensory evaluation. A total of 59 compounds were identified and included aldehydes, ketones, alcohols, alkenes, aromatic hydrocarbons, sulfur- and nitrogen-containing compounds. Results from chromatography-coupled sensory evaluation revealed important desirable salty-meaty crayfish flavors.;Volatile components from raw, freshly boiled and boiled and 337-day freezer-stored crayfish hepatopancreas were analyzed to evaluate the effects of thermal processing and storage stability on flavor quality. Results indicated the possibility of flavor formation and migration between the hepatopancreas and the tailmeat. Lipid oxidation products were enhanced during freezer-storage."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Stephen S. Williams.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5086."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 122-135).</note>
+   <subject authority="lcsh">
+      <topic>Crayfish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Flavor</topic>
+      <topic>Analysis</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904578</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22837212</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901211</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1012454</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 WILL</identifier>
+   <identifier type="dewey">8904578</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 WILL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

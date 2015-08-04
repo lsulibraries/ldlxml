@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Association of environmental and climatic factors in the epidemiology of American visceral leishmaniasis in Northeast Brazil using remote sensing and geographical information system methods</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Thompson, Roland Alexander.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 112 leaves : ill. ; 29 cm.</extent>
+      <extent>113 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study associated climatic and environmental factors with the incidence of visceral leishmaniasis (calazar) in Northeast Brazil. Remote sensing (RS) techniques permitted evaluation of spatial and temporal landscape features to stratify the region and define the target population for this vector-borne disease.;The Municipality of Caninde, Ceara, Brazil was divided into 873-- 2 x 2 km2 squares centered on coordinates from a Universal Transverse Mercator projection (scale 1:100,000, 1994) and geo-referenced with 2 Landsat T.M. (TM) scenes (September 26, 1976 and July 2, 1996). The assignment of squares into foothills, plains or city strata was based on vegetative categories determined from TM scenes (Bands: 4,5,3) with ERDAS Imagine ISODATA classification procedures.;Odds Ratios (OR) with 95% Confidence Intervals (CI) were determined for the juveniles less than age 10 based on 17 years of demographic, calazar incidence and rainfall information supplied by: Fundacao Nacional de Saude, Fundacao Cearense do Metorologia e Recurso Hidricos, and Fundacao Instituto de Planejamento do Ceara. The population and number of calazar cases were determined for each 2 x 2 km 2 square.;The odds ratio of calazar for a Caninde juvenile in the foothills relative to the city was OR = 4.11 CI (3.2, 5.3). The calazar odds ratio for juveniles living in years with 3-year rainfall average between 60--90 cm was OR = 3.07 CI (1.3, 7.2), the rainfall average between 40--60 cm had OR = 9.12 CI (4.4, 23.3), and with less than 40 cm OR = 9.23 CI (3.9, 25.2) relative to years with an average greater than 90 cm.;The logistic regression model for Ceara comprised an ordinal-incidence-density-response variable, a 5-level region explanatory variable, and a 3-level juvenile proportion variable. The odds ratios for calazar in municipalities located in the interior high plains was OR = 1.94 CI (1.6, 2.4) relative to location in the littoral and for a municipality with less than 26% juvenile population was OR = 0.63 CI (0.5, 0.78).;Results suggest that RS can classify climatic and environmental factors resulting in increased strata homogeneity and better defined population at risk which reduces dilution of data and increases the probability for detecting statistical associations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Roland Alexander Thompson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1047.;Directors: Simon M. Shane; Michael G. Groves."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922122</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40652086</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919971</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 THOM</identifier>
+   <identifier type="dewey">9922122</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 THOM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

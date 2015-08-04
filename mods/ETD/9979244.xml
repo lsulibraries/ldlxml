@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>cultural genealogy of the Royal Court Theatre</title>
+      <subTitle>the renovation of a theatre and an ideal</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Berwind, Stephen D.</namePart>
+      <namePart type="date">1952-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Theatre.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 339 leaves ; 29 cm.</extent>
+      <extent>340 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The Royal Court Theatre's current renovation invites a reexamination of the English Stage Company (ESC). The ESC has entered a crucible of change, raising new questions concerning the Royal Court's architectural semiotics and company's aesthetic mission as London's most acclaimed producer of new plays. This study seeks to understand the ways in which its identity has been shaped and consolidated over the last forty-two years and how the current chapter in ESC history redefines the company's identity and future achievement.;The English Stage Company took over the Royal Court in early in 1956. The ESC's marriage with the theatre appears serendipitous in retrospect, because key elements of the ESC's mission correspond to characteristic events from the building's history.;The institutionalization of the ESC/Royal Court during the late nineteen eighties and early nineteen nineties ensured that the identity of theatre company and theatre building became indistinguishable. The current rebuilding program endeavors to retain the ghosts of the building's past and the intimacy of its auditorium while transforming a late Victorian receiving house into a flexible, modern, producing theatre capable of juxtaposing new plays against the context of the traditional proscenium stage.;Recognizing the complex cultural matrix that embeds the theatrical event, this study employs both a synchronic and diachronic approach when exploring the cultural genealogy of the Royal Court. The study begins with the sequence of events during the nineteen nineties that led the company to undertake a twenty-six million pound rebuilding program. It then traces three strands of history that entwined to become the story of the single entity known as the Royal Court: the history of the building, the independent theatre movement in England, and the English Stage Company. It takes a detailed look at the plan of the current renovation project and the image of the Royal Court it presents. The conclusion attempts to discern the future challenges of the Royal Court following its return home in the year 2000."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Stephen D. Berwind.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2519."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979244</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44176405</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921299</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BERW</identifier>
+   <identifier type="dewey">9979244</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BERW</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

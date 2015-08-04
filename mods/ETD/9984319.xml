@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of cobalt-60 gamma irradiation on the Malaysian prawn Macrobrachium rosenbergii</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lee, Nyanti</namePart>
+      <namePart type="date">1959</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 235 leaves : ill. (some col.), col. map ; 29 cm.</extent>
+      <extent>236 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A major obstacle in culture of the Malaysian prawn, Macrobrachium rosenbergii, is the complex social structure whereby a few large males dominate the population and reduce production. The goal of this work was to induce reproductive sterility by use of gamma radiation as a means to increase production.;Of the 62 publications related to the use of gamma radiation in aquatic species published between 1938 and 1996, 66% did not indicate performance of dosimetry (dosage verification). Samples were not rotated during irradiation in 98% of these studies, which introduces considerable variation in dose. A dosimetric study in this dissertation found a 19% difference in dose rate for a 4-cm difference in height, and a 55% difference for a 4-cm difference in width. Sample rotation reduced variations to 14% vertically and 19% horizontally. Whether the surrounding medium was air or water could cause 218% variation at a particular location.;Irradiation of larvae, postlarvae and juveniles showed that survival was inversely correlated with dose of gamma radiation. A dose of 3.0 krad resulted in total mortality within 9 days for larvae, and within 12 days for postlarvae and juveniles. The survival of male and female juvenile prawns exposed to gamma radiation was not different.;Irradiation at 0.5 krad during the juvenile stage did not produce sterility. Survival was not significantly different from that of the non-irradiated group.;Irradiation at 1.0 or 1.5 krad during the juvenile stage resulted in males with no sperm or reduced numbers of sperm. Females irradiated at 1.0 and 1.5 krad did not produce eggs or produced 35,000 eggs. Males irradiated at 1.0 or 1.5 krad were not able to fertilize the eggs of non-irradiated females. Non-irradiated males were not able to fertilize eggs of females irradiated at 1.0 and 1.5 krad. The achievement of sterile Malaysian prawns by irradiation at the juvenile stage with 1.0 and 1.5 krad of gamma radiation did not result in increased production."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Nyanti Lee.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-08, Section: B, page: 3916."</note>
+   <note>Author gives name in Vita as: Nyanti Lee (Janti ak. Chukong).</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9984319</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44791899</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000815</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921520</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 LEE</identifier>
+   <identifier type="dewey">9984319</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 LEE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

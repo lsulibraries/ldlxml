@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Factors affecting the foraging ecology of the rock snail Stramonita heamastoma</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Richardson, Terry David</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Zoology and Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 84 leaves : ill. ; 29 cm.</extent>
+      <extent>94 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"I examined how wave action and predators affect the feeding of the intertidal snail, Stramonita haemastoma. In laboratory wave simulators, the numbers of oysters eaten and tissue mass consumed were reduced compared to controls, but prey size selection was not affected. Handling times and profits (g dry tissue/handling time) of snails feeding on oysters did not differ between snails in wave simulators and controls. Over both treatments, small oysters reduced snail handling times but provided profits similar to that of large oysters. In contrast, field experiments showed that wave exposure was correlated with an increase in the number of oysters eaten, but not total tissue consumption. Electivity indices suggest that snails at exposed sites chose smaller prey. Thus, under laboratory conditions with continuous wave disturbance, feeding rates were reduced, but under field conditions snails maintained tissue consumption rates at exposed sites similar to that at protected sites and possibly lowered risk of dislodgement by switching to smaller prey with shorter handling times.;The affect of predator presence on S. haemastoma foraging was examined using the Gulf stone crab, Menippe adina as a predator. In small-scale laboratory experiments, snail feeding rates were reduced by chemical or acoustical cues from stone crabs. However, small and large snail feeding rates were not differentially affected by crabs, even though small snails were more susceptible to predation. In laboratory experiments with free-ranging predatory crabs, snail feeding and growth were reduced because snails spent more time in refuges. Neither small nor large snails altered their feeding rates when exposed to crabs, but small snails spent more time in refuges. Small individuals may thus devote more time to feeding when exposed to crabs, perhaps to more rapidly reach a size refuge from predation. However, feeding by snails was reduced in field experiments only where crabs had direct access to snails. There was no measurable effect of chemical or auditory cues. Thus, reduced feeding in the field may occur only when predator abundances are high enough to cause frequent direct contact between predator and prey."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Terry David Richardson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4159."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 75-78).</note>
+   <subject authority="lcsh">
+      <topic>Snails</topic>
+      <topic>Food</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gastropoda</topic>
+      <topic>Food</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Predation (Biology)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104166</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27255496</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160429</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 RICH</identifier>
+   <identifier type="dewey">9104166</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 RICH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

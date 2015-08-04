@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>development of a rating scale for assessing teaching competencies of health occupations educators in the state of Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Casente, Constance Lirette</namePart>
+      <namePart type="date">1940-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 156 leaves ; 29 cm.</extent>
+      <extent>166 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The development of a rating scale suitable for assessing teaching competencies of health occupations educators in the State of Louisiana was accomplished by: the development and validation of a questionnaire composed of 155 competency statements within ten components--(planning, teaching, evaluation, management, guidance and placement, school-community relations, student-vocational organization, professional role, coordination of cooperative education and health care environment)--relating to health occupations education programs; ascertaining the level of importance as perceived by incumbent teachers and supervisors of public, secondary and post-secondary health occupations education programs in Louisiana, who were employed during the months of March through May, 1981; ranking these competency statements within components as well as regardless of components by averaging the numerical value written on the 196 completed questionnaires by the respondents from highest (6) to lowest (1).;The descriptive study contains a list of competencies believed to be needed for effective health occupations education and holds implications for health occupations teacher education in Louisiana.;The rating scale, through the addition of appropriate columns, can be used as a pre-service inventory for new health occupations teachers, a self-evaluation and professional improvement planning instrument for veteran teachers and an objective evaluation device for supervisors.;Summary. Ninety-eight percent of the surveyed population (n=201) of health occupations educators in Louisiana agreed that the 155 competencies on the questionnaire were of importance to the success of instruction in health occupations programs in Louisiana. All had mean scores of 3.5 or higher and 74 percent of the competencies (n=94) had means of 5.0 or above. Respondents rated competencies related to health care environment and coordination of cooperative education the highest with no competency receiving a mean score of less than 5.0. None of the eight student-vocational organization (H.O.S.A.) compentency statements rated above 4.2.;Conclusions. The response rate indicated a high level of interest in instructional competencies from health occupations educators in Louisiana.;There were no obvious differences of opinion concerning the degree of importance for competencies of health occupations programs as described in this study by health occupations instructors or their supervisors in Louisiana."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Constance Lirette Casente.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2620."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ed. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 100-114.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Teachers</topic>
+      <topic>Rating of</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Health occupations schools</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126952</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8223711</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820308</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14435</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 CASE</identifier>
+   <identifier type="dewey">8126952</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 CASE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

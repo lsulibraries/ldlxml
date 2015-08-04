@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of artificial mineral licks on white-tailed deer</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Schultz, Stephen Redmore</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 128 leaves : ill. ; 29 cm.</extent>
+      <extent>146 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A commercial mineral mixture for deer was used to evaluate the effects of broad-spectrum dietary mineral supplementation on white-tailed deer (Odocoileus virginianus) growth, antler development, and tissue mineral content. Forty-two artificial mineral licks for deer were established on 3 study areas in East Feliciana Parish, Louisiana. All licks were monitored monthly, recharged to original level if used, and mineral consumption recorded from May 1988 through December 1989. Consumption data were converted to estimated average per deer values based on population estimates.;Effects of artificial lick mineral consumption on free-ranging deer were examined by comparing deer harvested during the 1988-89 and 1989-90 hunting seasons from areas on which licks had been established to deer from similar areas with no artificial licks. Two rations were formulated to assess the effects of broad-spectrum mineral supplementation on growth and antler development of captive deer; a treatment ration containing 3% commercial mineral by weight, and a control ration similar in all respects but lacking mineral supplementation. Rations were fed in 2 feed trials to captive adult bucks (n = 31) and young deer (n = 34).;Consumption of mineral mixture from artificial licks averaged 47.22 $\pm$ 5.65 kg monthly among study areas, was influenced by month of the year and study area, and differed among seasons. Estimated monthly mineral consumption over the study period averaged 538.0 $\pm$ 70.8 g per deer among study areas. No differences in growth, body weight, antler development; or tissue water, lipid, or mineral (calcium, phosphorus, sulphur, magnesium, sodium, copper, potassium, zinc, cobalt, aluminum, manganese, iron) concentrations related to supplemental mineral consumption were found for free-ranging deer or captive deer: Composition of metacarpals and phalanges from harvested free-ranging deer differed primarily due to deer age. Composition of livers from harvested free-ranging deer differed primarily due to the sex of deer."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Stephen Redmore Schultz.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1148."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 108-118).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Deer</topic>
+      <topic>Food</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Minerals in animal nutrition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Salt licks</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>White-tailed deer</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123238</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28455339</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199059</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 SCHU</identifier>
+   <identifier type="dewey">9123238</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 SCHU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>comparative study of communication intervention for nonverbal children with autism</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Higgins, Kelly C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Communication Sciences and Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 221 leaves : ill. ; 29 cm.</extent>
+      <extent>222 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Communication intervention for 3 nonverbal children with autism was compared in an alternating treatment design. Subjects were three males, ages 4--7, 3--6, and 3--5 who met diagnostic criteria for Autism and who were considered to be nonverbal according to developmental history, parent/teacher report and behavioral observation. Alternating treatment conditions included the established treatment format that each subject was receiving in his school setting (Treatment A) and a developmentally-integrated format of intervention structured to facilitate integrated cognitive, social and communicative development (Treatment B). Each intervention was characterized according to profiles of Traditional-Behavioral or Semantic Pragmatic-Developmental intervention formats. Characteristics of adult interaction were examined to identify the interaction style and to define the intervention conditions. Measures of child behavior were examined according to: (a) a behavioral hierarchy of cognitive, social and semiotic development, (b) supportive measures of eye gaze behavior and play elaboration, and (c) qualitative ratings of the subjects' enjoyment and interactivity during alternate treatment conditions. Results indicated that all subjects: (a) evidenced more communicative behaviors, (b) achieved higher levels of integrated development across cognitive, social and communicative domains; and (c) exhibited more elaborated play in terms of numbers of toys, actions upon toys, sequenced play, and functional play characteristics; (d) exhibited more eye gaze toward the adult; and (e) were perceived to be happier and more interactive during the conditions of developmentally-integrated intervention as compared to the established treatment paradigms. Examination of the integrated profiles of functional behavioral levels indicated that one subject achieved a pattern of synergistic cognitive, social and communicative behavior during the developmentally-integrated format, as evidenced by the same level of complexity of behavior exhibited across behavioral domains. Results were related to intervention issues for children with autism including the efficacy of Traditional-Behavioral vs. Semantic-Pragmatic intervention formats, and patterns of developmental progress for children with autism."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kelly C. Higgins.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1053."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922084</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40655795</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919928</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 HIGG</identifier>
+   <identifier type="dewey">9922084</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 HIGG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

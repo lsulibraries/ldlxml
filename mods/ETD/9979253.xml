@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hearsay, testimony and conference</title>
+      <subTitle>citationality in the works of Marguerite Duras, Maurice Blanchot and Jacques Derrida</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Criner, Mary Carla</namePart>
+      <namePart type="date">1967-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of French and Italian.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 261 leaves ; 29 cm.</extent>
+      <extent>262 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation involves an examination of the effects and implications of three modes of citationality: hearsay, testimony and conference. As a term coined by Jacques Derrida, citationality involves the problematization of questions related to borders and limits and to the attempt to re-present the originary event thought to lie beyond the performance of citational acts of bearing witness.;In chapter one I situate my project theoretically through an examination of the principles of deconstruction. In particular, Jacques Derrida's work on the metaphysical concepts of presence and speech, in terms of repeatability or iterability, bears heavily on my study. As a function of iterability, citationality refers to the potential inherent in every element, textual, linguistic, or otherwise, to be disseminated and cited in a plurality of contexts and to assume a new and different meaning. It is from this perspective, from the possibility of citation, of exceeding limits and escaping regulation, that I conduct my analysis of what I call ""hearsay,"" ""testimony"" and ""conference"" in certain twentieth century texts.;Chapters two through four focus on an application of the previously mentioned modes of citationality in the texts of Marguerite Duras, Maurice Blanchot and Jacques Derrida, respectively. In chapter two, I examine Marguerite Duras' Lol V. Stein cycle in which a reliance on hearsay impedes textual closure while generating a multiplicity of other texts that cite and re-cite one another. In chapter three, I analyze several recits by Maurice Blanchot in terms of testimony. These texts reveal the problematic in attempting to access and re-present that which has already been present and result in an effect of mise-en-abime of citations. Chapter four involves a reading of several polylogues by Jacques Derrida as instances of conference. Their insistence on a plurality of voices enables a deconstruction of the logos of restitution.;While chapters two through four are devoted to a narrow application of a practice of citationality, chapter five marks the expansion of my topic. In this chapter, I situate previously raised questions of citationality in contemporary contexts with political and cultural implications."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mary Carla Criner.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2742.;Directors:  David Wills; Greg Stone."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979253</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44179429</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921308</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 CRIN</identifier>
+   <identifier type="dewey">9979253</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 CRIN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

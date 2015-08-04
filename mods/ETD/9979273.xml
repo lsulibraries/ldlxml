@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Molecular systematics of the green algal order Trentepohliales (Chlorophyta)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>López-Bautista, Juan M. (Juan Manuel)</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Plant Biology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 121 leaves : ill. ; 29 cm.</extent>
+      <extent>122 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Molecular, karyological, and nuclear genome quantification data from representatives of the order Trentepohliales (Chlorophyta) were used to infer evolutionary relationships with other green algal classes and orders. Phylogenetic analyses of the nuclear-encoded small subunit ribosomal DNA (18S rDNA) sequences from taxa representing all of the major lineages of green algae consistently indicated that the subaerial Trentepohliales are closely related to Ulvophycean marine green algae, particularly to the siphonous and hemisiphonous orders.;The phylogenetic distribution of continuous and discontinuous types of mitochondrial large subunit ribosomal RNAs (mtLSU rRNA) in green algae has been shown to be consistent with phylogenetic relationships previously suggested by both ultrastructural data from the flagellar apparatus and nuclear rRNA sequence analysis. Our studies indicated the presence of a continuous mtLSU rRNA in Cephaleuros parasiticus ; continuous mtLSU rRNA have been reported in all the investigated zoosporic green algae with a counterclockwise orientation of the flagellar apparatus and their autosporic descendants; a result that is consistent with an ulvophycean affinity.;Microspectrophotometry with the DNA-localizing fluorochrome DAPI was used to quantify nuclear DNA content in eight species representing three genera of the subaerial green algal order Trentepohliales (Chlorophyta). Comparisons of mean fluorescence intensity (If) values of algal nuclear genomes to those of chicken erythrocytes (RBC) resulted in an estimate of 1. 1--4.1 pg for the algae. DNA levels in Cephaleuros parasiticus  Karsten for 2 C nuclei in gametophytic phase closely approximate 50% of the 4 C values in the sporophytic phase, confirming previous observations based on culture and ultrastructural studies on the presumptive sexual life cycle in this genus. Genome quantification data for eight Trentepohlialean taxa suggest a doubling sequence for nuclear DNA contents. This phenomenon might reflect the presence of a polyploid series in the order Trentepohliales.;Amplification and sequencing of the chloroplast-encoded large subunit ribulose-1,5-bisphosphate carboxylase/oxygenase (rbcL) gene was used to assess its reliability as a phylogenetic marker of the order Trentepohliales and the green algal classes. Our present results suggest using the  rbcL gene sequences is more useful within green algal classes than for the analysis of phylogenetic analysis among major groups of algae."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Juan López-Bautista.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3359."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979273</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44391777</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000612</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921363</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 LOPE</identifier>
+   <identifier type="dewey">9979273</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 LOPE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

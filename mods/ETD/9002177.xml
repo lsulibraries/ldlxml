@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Coping with stress</title>
+      <subTitle>adjustment to visual loss in diabetes mellitus</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Upton, Linda Roussel</namePart>
+      <namePart type="date">1949-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 131 leaves ; 29 cm.</extent>
+      <extent>130 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Individuals with diabetes face complex health management tasks over a long period and must cope with serious long-term medical complications including retinopathy and resulting blindness and disability. Although it may be expected that psychological problems may accompany loss of vision in adulthood, little research attention has been given to psychological coping and adjustment in this group. Using a stress and coping model, this investigation focused on identifying and measuring stressor, cognitive, and coping variables in order to determine their associations with psychological and functional adjustment in individuals with adult-onset loss of vision.;Forty diabetic subjects with vision loss requiring rehabilitation training were individually assessed, using standardized measures in a structured interview format. Another group of 40 demographically similar subjects, with comparable vision loss due to causes other than diabetes, served as a comparison group.;Results showed that, as a whole, the subjects exhibited psychological symptoms of mild severity. Individuals with vision loss due to diabetes showed significantly more disability in performance of daily activities than did the comparison group, although the two groups did not differ in severity of their vision loss. Diabetics also expressed a lower overall sense of positive well-being than did nondiabetics. There were no group differences in general psychological symptomatology or depressive symptoms. Similarly, the two groups did not differ in their reported use of eight categories of strategies to cope with blindness. Subjects were more likely to report using positive reappraisal, self-control, and distancing as coping strategies, and less likely to report confrontive coping, escape-avoidance, or accepting responsibility for the blindness.;Canonical correlation analyses in the sample as a whole revealed that the presence of diabetes, vision loss of more recent onset, coping by escape-avoidance, accepting responsibility for the vision loss, and an absence of planful problem-solving are most highly associated with disability in daily activities, a diminished sense of well-being, and symptoms of depression. Methodological issues and implications for rehabilitation efforts were discussed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Linda Roussel Upton.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-09, Section: B, page: 4240."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 74-83).</note>
+   <subject authority="lcsh">
+      <topic>Diabetes</topic>
+      <topic>Complications</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Blindness</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Stress (Psychology)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002177</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24600224</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911022</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1069847</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 UPTO</identifier>
+   <identifier type="dewey">9002177</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 UPTO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

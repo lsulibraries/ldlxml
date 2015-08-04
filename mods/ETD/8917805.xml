@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>investigation of PtTe/A12O3 and PtSb/A12O3 bimetallic reforming catalysts</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cheng, Chi Hung</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 207 leaves : ill. ; 29 cm.</extent>
+      <extent>225 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"PtTe/Al$\sb2$O$\sb3$ and PtSb/Al$\sb2$O$\sb3$ bimetallics were characterized as possible reforming catalysts by kinetic studies, mechanistic investigations, and spectroscopic measurements. The results were compared with Pt/Al$\sb2$O$\sb3$ with the aim to understand the effects of tellurium and antimony on the platinum function.;Coimpregnated PtTe/Al$\sb2$O$\sb3$ and PtSb/Al$\sb2$O$\sb3$ catalysts exhibited an increase in selectivity for the isomerization of n-hexane. This enhancement in selectivity can be caused either by electronic effects, which increase the specific activities for isomerization, or by geometric effects, which reduce the rate of hydrocracking. The results of the kinetic experiments, along with FTIR spectroscopy of adsorbed carbon monoxide using the isotopic dilution method, suggest that electronic effects can be identified with Te/Pt alloying in catalysts of low (Te/Pt $&lt;$ 0.06) tellurium content, while geometric effects predominate in catalyst formulations more concentrated in the post-transition metal for both PtTe/Al$\sb2$O$\sb3$ and PtSb/Al$\sb2$O$\sb3$.;The cyclohexane dehydrogenation turnover frequencies were also enhanced at low Te/Pt ratio; in this respect the dehydrogenation and isomerization reactions are similar. Direct six-member ring closure, rather than ring expansion by way of an adsorbed methylcyclopentane intermediate, accounted for most of the production of benzene.;The isomerization reactions of carbon-13 labeled 2-methylpentane were used to determine the relative contributions of cyclic and bond shift mechanisms. n-Hexane was formed primarily by a C$\sb5$ cyclic mechanism on the platinum surface, while 3-methylpentane was produced by both cyclic and bond shift mechanisms. Isomerization via bond shifts increases when tellurium or antimony is added to Pt/Al$\sb2$O$\sb3$.;The reaction of benzene and deuterium at 110 and 250$\sp\circ$C showed that carbon-hydrogen bond breaking/making is extremely fast. Since diffusion may affect the deuterium levels in the hydrocarbon molecules, no other firm conclusions may be drawn.;PtTe/Al$\sb2$O$\sb3$ catalysts were also prepared by vapor deposition of tellurium onto Pt/Al$\sb2$O$\sb3$. These catalysts exhibited selectivities which were influenced by the type of carrier gas used to deposit the tellurium. A carrier gas containing n-hexane improved the selectivity relative to hydrogen or helium carrier gases. The mechanism of this selectivity effect is unknown but possibly due to carbon incorporation into a Pt-Te alloy."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Chi Hung Cheng.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 2047."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 177-185).</note>
+   <subject authority="lcsh">
+      <topic>Catalytic reforming</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Metal catalysts</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917805</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24357737</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910911</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1063732</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 CHEN</identifier>
+   <identifier type="dewey">8917805</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 CHEN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

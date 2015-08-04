@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nuclear transplantation</title>
+      <subTitle>intracellular release and extracellular influx of calcium in response to electrofusion pulse and its effect on murine oocyte activation and embryonic development</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rickords, Lee F.</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Animal Science Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 94 leaves : ill. ; 29 cm.</extent>
+      <extent>104 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The transplantation of early embryonic cell nuclei into oocytes in which the maternal chromosomes have been removed is a method by which multiple offspring of the same genotype can be produced. One critical factor required for successful development of nuclear transfer derived embryos is inducing the release of the recipient ooplasm from meiotic arrest (activation). This is accomplished during fusion of the two cells. The DC electrofusion pulse used to fuse the two cells together also activates the recipient ooplasm to resume meiotic events, however, the efficiency of electrofusion pulse induced activation remains low. It is known that activation of the oocyte at fertilization is associated with an increase in intracellular calcium concentration ((Ca$\sp{2+}$) $\sb{\rm i}$). A series of experiments were designed to look at changes in (Ca$\sp{2+}$) $\sb{\rm i}$ in murine oocytes after application of a DC electrofusion pulse and its effect on oocyte activation and embryonic development. Oocytes and pronuclear embryos were subjected to the electrofusion pulse in six fusion media consisting of nonelectrolyte (0.3 M mannitol) and electrolyte (phosphate buffered saline, PBS) media containing 0.0, 0.05 or 0.9 mM Ca $\sp{2+}$. Significantly (P $&lt;$ 0.01) higher (Ca$\sp{2+}$) $\sb{\rm i}$ levels were observed in oocytes pulsed in media containing 0.9 mM Ca$\sp{2+}$. An experiment was then designed to test the effect of the three levels of Ca$\sp{2+}$ on oocyte activation. Oocytes pulsed in media containing 0.9 mM Ca$\sp{2+}$ exhibited significantly higher rates of activation (P $&lt;$ 0.01). When 25 $\mu$M inositol 1,4,5-triphosphate (IP3) was added to Ca$\sp{2+}$-free media, a series of (Ca$\sp{2+}$) $\sb{\rm i}$ oscillations similar to that found in fertilized oocytes, was observed. Additional experiments were designed to test the rate of fusion of 2-cell embryos subjected to the six fusion media. Significantly higher rates of fusion were obtained in PBS medium than 0.3 M mannitol (P $&lt;$ 0.05). The fusion treatments were then applied to pronuclear stage embryos to determine the effect on in vitro development. No difference in rate of development was observed between fusion media (P $&gt;$ 0.05). In addition, no difference in in vitro development to the blastocyst stage of pronuclear transplanted embryos was observed after fusion in 0.3 M mannitol and PBS, each containing 0.9 mM Ca$\sp{2+}$."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lee F. Rickords.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: B, page: 4562."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 79-93).</note>
+   <subject authority="lcsh">
+      <topic>Cattle</topic>
+      <topic>Breeding</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animal genetic engineering</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cloning</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207527</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28541862</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930730</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200632</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 RICK</identifier>
+   <identifier type="dewey">9207527</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 RICK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

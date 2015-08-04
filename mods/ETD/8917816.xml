@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Behavioral correlates of children's social competence</title>
+      <subTitle>an investigation of two social skills classification models</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Frentz, Carol E. (Carol Elizabeth)</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 163 leaves ; 29 cm.</extent>
+      <extent>192 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of the study was to investigate behavioral correlates of children's social competence as classified by two different models, one focused on sociometric status, and the other based on more specific social skill deficits. A total sample of 971 junior high school students, either regular education or mainstreamed handicapped, were included in the study. Based on a peer nomination inventory, children classified as popular, controversial, neglected, and rejected, were compared within three different behavioral domains, social skills, academic achievement, and behavior problems. Major findings included the following: (a) popular children obtained relatively higher scores on social skills, followed by controversial, neglected, and rejected, each of which scored similarly in most areas; (b) both controversial and popular groups scored significantly higher than the two unpopular groups on academic achievement; (c) controversial and rejected demonstrated higher scores on behavior problems suggestive of externalizing interfering responses; (d) while the rejected group was the only one to obtain significantly higher scores on behavior problems suggestive of internalizing interfering responses, neglected children showed a trend toward this pattern of behavior. Subsequently, sociometric status groups were compared with respect to acquisition and performance deficits. These findings were most suggestive of a performance deficit classification, rather than acquisition or no deficit categories, for each of the four sociometric status groups. Implications for integrating the two social skill models into a more comprehensive classification system and suggestions for further research in the area are discussed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Carol E. Frentz.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-06, Section: B, page: 2620."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 109-128).</note>
+   <subject authority="lcsh">
+      <topic>Social skills in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Social interaction in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sociometry</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917816</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24253120</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910819</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1061658</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 FREN</identifier>
+   <identifier type="dewey">8917816</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 FREN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

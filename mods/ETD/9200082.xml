@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>study on the effects of additives on selective hydrogenation of trace acetylene over palladium catalysts</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Park, Yeung Ho</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 205 leaves : ill. ; 29 cm.</extent>
+      <extent>219 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The effects of both carbon monoxide (as a gas phase additive) and potassium (as a catalyst additive) on the selective hydrogenation of acetylene over Pd/Al$\sb2$O$\sb3$ was studied by deuterium tracer experiments combined with Kemball's steady-state treatment and temperature programmed reaction (TPR). The TPR of acetylene and ethylene in hydrogen, which was attempted in this study for the first time, enabled the investigation of the behavior of the adsorbed species on Pd.;CO addition to the reaction mixture significantly increased the probability of ethylene desorption during ethylene deuteration while minor effects due to CO displacement of hydrogen were observed for acetylene deuteration. In the case of selective removal of trace acetylene from ethylene streams, results suggest that CO blockage of H$\sb2$ adsorption sites is less important than CO displacement of ethylene in improving the overall selectivity of the industrial process.;In acetylene TPR, preadsorbed CO induced changes in oligomer yields, delayed desorption of oligomers and suppressed self-hydrogenation during the adsorption of acetylene. These results indicate that CO blocks the adsorption sites which accommodate acetylene and the hydrogen product from acetylene dissociation to result in the suppression of initiation and propagation reactions for oligomers.;Potassium doped catalysts yielded an enhancement in actylene hydrogenation selectivity to ethylene, an increase in the rate of the acetylene hydrogenation reaction, and an increase in the oligomer yield from the hydrogenation of acetylene. In the acetylene TPR spectra of K doped catalysts, shifts of oligomer peaks to lower temperatures were observed, indicating the desorption of the adsorbed species was enhanced by K addition. An increase in the probability of ethylene desorption was also found via ethylene deuteration experiments. A decrease in the rate of ethylene deuteration with K addition was observed, which contrasts with the inhanced rate of acetylene hydrogenation. The observed increase in the acetylene hydrogenation selectivity to ethylene appears to be due to easier ethylene desorption and suppressed ethylene adsorption. All of these effects may be explained by K-induced reduction in hydrocarbon adsorption strength. The effect of K arises through metal-support interactions."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yeung Ho Park.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3763."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 134-141).</note>
+   <subject authority="lcsh">
+      <topic>Acetylene</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Hydrogenation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Polymers</topic>
+      <topic>Additives</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200082</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28529340</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930728</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200416</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 PARK</identifier>
+   <identifier type="dewey">9200082</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 PARK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Application of the fast Fourier transform to impedance analysis of n-TiO2 and LaF3 electrodes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Carney, K. R. (Kenneth Robert)</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 225 leaves ; 29 cm.</extent>
+      <extent>234 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A study is presented of the utility of pulse derived waveforms for use in impedance analysis of electrochemical systems. Factors to be considered in optimization of pulse duration and also in the proper implementation of the FFT are discussed. Impedance results are presented for model circuits and for two nonfaradaic electrochemical systems--n-TiO$\sb2$ electrode in aqueous Na$\sb2$SO$\sb4$ and LaF$\sb3$ electrode in aqueous fluoride solution.;The techniques developed were applied to model circuits composed of aperiodic elements in order to quantify the decrease in precision with increasing frequency associated with pulse type waveforms. Using 8 bit digital sampling resolution and 512 point double precision Fourier transformation, model circuit results showed a relative standard deviation of approximately 0.5% for the first 20 harmonics and less than 2.5% for all harmonics up to the 50th. Modification of the waveform by analog high-pass filtering extended the useful range to almost 2 decades. Impedance measurements by pulse-Fourier transformation agreed with steady state a.c. results to within 1% at frequencies up to 100 kHz.;The technique was used to study the n-TiO$\sb2$/electrolyte interface via Mott-Schottky analysis. Reliable estimates were obtained for donor densities in n-TiO$\sb2$ crystals. Investigation of the shift in flatband potentials with pH showed nernstian behavior although the data showed a high degree of scatter.;Impedance studies were made of the fluoride selective LaF$\sb3$ membrane electrode in order to investigate reported concentration dependent conductance. Conductance was measured over frequencies between 500 Hz and 50 kHz. Studies were made using a standard addition method and an electrode immersion method. For the standard addition method, an apparent concentration dependence was seen in the frequency regime corresponding to a hydrated surface film on the membrane. Such concentration dependence was not seen for the immersion method. Relative standard deviations obtained for conductance values were on the order of 0.5% for frequencies up to 25 kHz."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kenneth Robert Carney.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1889."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 187-194).</note>
+   <subject authority="lcsh">
+      <topic>Electrochemical analysis</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fourier transformations</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917801</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24186998</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910807</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062643</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 CARN</identifier>
+   <identifier type="dewey">8917801</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 CARN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

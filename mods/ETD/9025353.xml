@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plant growth regulator evaluations in warm season turfgrasses</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Wells, D. W. (Dennis W.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Horticulture.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 70 leaves ; 29 cm.</extent>
+      <extent>79 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Fourteen experiments, conducted at varying times during an 8-year period from 1981 through 1988, were designed to investigate plant growth regulators (PGRs) for their potential benefits in the production and maintenance of warm season turfgrasses. Turfgrass species evaluated over the eight year period, but not necessarily every year, included: common bermudagrass (Cynodon dactylon L.), bahiagrass (Paspalum notatum Flugge), carpetgrass (Axonopus affinis Chase.), centipedegrass (Eremochloa ophiuroides (Munro) Hack.), St. Augustinegrass (Stenotaphrum secundatum (Walt.) Kuntze), and zoysiagrass (Zoysia japonica Steud.). The chemicals evaluated included: N-2,4-dimethyl-5-(trifluormethyl)-sulfonyl-aminophenylacetamide (mefluidide); a-(1-methylethyl)-a- (4-(trifluoromethoxy)-phenyl) -5-pyrimidenemethanol (flurprimidol); N- ((acetylamino)methyl) -2-chloro-N-(2,6-diethylphenyl)acetamide (amidochlor); N-(phosphonomethyl)glycine (glyphosate); 3-7-dichloro-8-quinoline-carboxylic acid (quinclorac); 2- (1-(ethotymine)-butyl) -5- (2-(ethylthio)-propyl) -3-hydroty-2-cyclohexene-1-one (sethoxydim); 2- ( ( ( ((4,6-dimethyl-2-pyrimidinyl)amino) carbonyl) amino) sulfonyl) benzoic acid (sulfometuron); b-(Cyclohexylmethylene)-a-(1,1-dimethylethyl)-1H-1,2,4-triazole(C.A.) (BAY RSW 0411); and (2- (4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl) -3-pyridinecarboxylic acid (imazapyr).;Data collected included: turf injury, color, leaf growth reduction, leaf density reduction, and seedhead inhibition.;This research has shown that most of the PGRs tested are effective in regulating the growth of one or more warm season turfgrass species. Sethoxydim and sulfometuron have shown species selectivity to centipedegrass. Bahiagrass seedheads were effectively suppressed with sequential applications of glyphosate and sethoxydim controlled seedheads in carpetgrass. Mefluidide privded the most consistent PGR effects with the species used.;More research is needed to determine optimum rates and application timing for each turf species. Tank-mix combinations also need to be explored for improved efficacy."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Dennis Wayne Wells.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1579."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 65-69).</note>
+   <subject authority="lcsh">
+      <topic>Turfgrasses</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plant regulators</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plants</topic>
+      <topic>Effect of herbicides on</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025353</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186753</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1112005</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 WELL</identifier>
+   <identifier type="dewey">9025353</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 WELL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

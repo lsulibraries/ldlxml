@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Comprehension and memory of a sexual script</title>
+      <subTitle>a test of schema/scripting theory</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kirsch, Janis R.</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 170 leaves ; 29 cm.</extent>
+      <extent>181 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Cognitive scientists have studied how individuals process non-sexual text, and schema/scripting theory appears to be a useful way of conceptualizing their findings. This study applied schema/scripting theory findings to sexual text and predicted that Atypical or unnecessary script actions would initially be remembered better than Typical script actions, but that over time Typical script actions would be remembered better as the generic script becomes increasingly important. The present study also incorporated findings from another line of research relevant to schema/scripting theory and predicted that the perspective taken by the reader while reading a story about a sexual encounter would affect memory in that the reader should remember more script actions that are important or relevant to their own perspective. The above predictions were tested by randomly assigning subjects to one of 3 experimental conditions. Subjects were instructed to read a story about a sexual encounter from one of the following 3 perspectives. (1) same-sex perspective, (2) opposite-sex perspective, or (3) no directed perspective. Subjects were then asked to recall and recognize what they remembered from the story immediately after they read the story and 3 days later. The story consisted of Typical and Atypical (or unnecessary) script actions as well as actions that were to be judged as being important to either a ""male"" or ""female"" perspective. Results indicated that the above predictions were not confirmed. However, several significant findings based upon exploratory hypotheses were obtained. It was found, as predicted, that males evidenced more ""sexual"" recall intrusions than females at both immediate and delayed recall. Males also revealed more ""romantic"" recall intrusions than females at immediate recall. Although no sex differences were found on recognition measures, all subjects endorsed more ""sexual"" than ""romantic"" distractors at both immediate and delayed recall. Results of this study suggested that males and females differ in the processing of sexual text. Possible explanations for the findings obtained were discussed in the context of schema theory as were directions for future research."</abstract>
+   <note type="statement of responsibility" altRepGroup="00"> by Janis R. Kirsch.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 2155."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 118-125).</note>
+   <subject authority="lcsh">
+      <topic>Schemas (Psychology)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sex (Psychology)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sex differences (Psychology)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917830</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24253094</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910819</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1061649</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 KIRS</identifier>
+   <identifier type="dewey">8917830</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 KIRS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

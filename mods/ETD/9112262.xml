@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Continuous functions in [Pi]-primary summands of L of some compact solvmanifolds</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Pfeffer, Carolyn Beth</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Mathematics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 59 leaves ; 29 cm.</extent>
+      <extent>65 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The compact quotients of three-dimensional solvable non-nilpotent Lie groups by discrete subgroups fall into two categories; those which are quotients of $S\sb{R}$ (semidirect product, R acts on R$\sp2$ by rotation), and those which are quotients of $S\sb{H}$ = $R\ \propto\ R\sp2$ (semidirect product, $R$ acts on $R\sp2$ via translation along a hyperbolic orbit).;Continuous functions in the primary summands of $L\sp2$ of each type of solvmanifold are examined. It is shown that there exists a Fejer theorem on solvmanifolds $M\sb{R}$ which are quotients of $S\sb{R}$; if $P\sb{i}$: $L\sp2(M\sb{R})\mapsto$ $L\sp2(M\sb{R})$ is orthogonal projection onto the ith primary summand of such a quotient, there exists a sequence of operators $S\sb{n}$ such that each $S\sb{n}$ is a finite linear combination of the $P\sb{i}$, and such that for each continuous function $f\in L\sp2(M\sb{R}),\ S\sb{n}(f)\to f$ uniformly as $n\to\infty$. It is shown that no such theorem holds for quotients of $S\sb{H}$, for which it is known that orthogonal projections do not preserve continuity of functions. It is shown that if $f\in L\sp2(M\sb{H})$ is continuous and $P\sb{i}(f)$ is essentially bounded, then $P\sb{i}(f)$ must be continuous. Together with a result of L. Richardson, this result implies that there are continuous $f\in L\sp2(M\sb{H})$ for which $P\sb{i}(f)$ is essentially unbounded.;It is shown in Section 2 that continuous functions in primary summands of $L\sp2(M\sb{H})$ must vanish on $M\sb{H}$ for all compact quotients of $M\sb{H}$ by discrete subgroups. There are five compact quotients of $S\sb{R}$; one quotient manifold is homeomorphic to the three-dimensional torus, and its continuous primary summand functions need not vanish. For three of the other quotients, it is shown that all continuous primary summand functions need not vanish. For the remaining quotient it is known that functions in certain subspaces of the primary summands must vanish, but it is not known whether all continuous primary summand functions must vanish in this case."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Carolyn Beth Pfeffer.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-12, Section: B, page: 5910."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 57-58).</note>
+   <subject authority="lcsh">
+      <topic>Nilpotent Lie groups</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Lie algebras</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9112262</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28460830</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930716</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199074</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 PFEF</identifier>
+   <identifier type="dewey">9112262</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 PFEF</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

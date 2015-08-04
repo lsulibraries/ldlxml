@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>role of hyperinsulinemia, the sympathetic nervous system and nitric oxide in cardiovascular function during the development of obesity-induced hypertension</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Borne, Agatha T</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 106 leaves : ill. ; 29 cm.</extent>
+      <extent>107 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The interaction of hyperinsulinemia, the sympathetic nervous system (SNS) and nitric oxide (NO) was examined in lean and obese unilaterally lumbar sympathectomized dogs. Six lean and six obese dogs were studied while on a treadmill, during hyperinsulinemic euglycemic clamp (HIEC) procedures with and without concurrent nitric oxide synthase (NOS) inhibition with nitro-L-arginine (LNA). Changes in plasma insulin, femoral vascular resistance (FVR), heart rate (HR) and mean arterial pressure (MAP) were measured prior to and during a 7-week overfeeding period, and response to LNA administration was examined in the lean and obese state.;Body weight increased from 19.9 $\pm$ 0.70 to 29.7 $\pm$ 0.77kg and % body fat from 23.0% to 48.8% during overfeeding(OF). Heart rate, MAP and plasma insulin also increased during overfeeding. Femoral vascular resistance initially increased (p $&lt;$ 0.01 in both the intact and denervated limbs), but returned to baseline levels by OF-week 3 in the denervated limb, and by week 6 in the intact limb. No significant correlation was evident between insulin levels and other cardiovascular parameters.;Hyperinsulinemic euglycemia alone did not affect MAP in either weight group. However, when hyperinsulinemia was initiated following NOS inhibition, MAP in the lean animals tended to decrease, whereas that of the obese dogs increased slightly. HR response to hyperinsulinemia (alone or concurrent with NOS inhibition) was not different between weight groups. The FVR response to hyperinsulinemia alone or with NOS inhibition was not different between the weight groups. However, heart rate and vascular response to LNA was reduced in the obese dog.;In summary, sympathetic activity may influence the vascular response to weight gain. Also, hyperinsulinemia does not affect MAP, HR or FVR in lean or obese dogs, while walking slowly on a treadmill. However, when NOS is concurrently inhibited, lean and obese dogs show a tendency toward differential MAP and HR responses to hyperinsulinemia. Thus, the insulin and nitric oxide interaction may differ in lean and obese dogs, and may mediate development of hypertension in the obese population. Finally, the obese have a reduced cardiovascular response to NOS inhibition compared to the lean."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Agatha T. Borne.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-02, Section: B, page: 4840."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9824475</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38577538</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980309</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919118</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 BORN</identifier>
+   <identifier type="dewey">9824475</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 BORN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

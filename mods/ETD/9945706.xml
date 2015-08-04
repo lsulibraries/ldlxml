@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Selective processing of sexual, violent, and neutral information</title>
+      <subTitle>a study comparing individuals with and without a history of sexual trauma</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bush, Stephanie Irene</namePart>
+      <namePart type="date">1970-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 108 leaves : ill. ; 29 cm.</extent>
+      <extent>109 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The current research investigated processing biases that influence responding to emotionally relevant information in individuals with and without a history of sexual trauma. Previous research (MacLeod, Mathews, &amp; Tata, 1986; MacLeod &amp; Mathews, 1988; Mathews &amp; MacLeod, 1985) has indicated that individuals with anxiety disorders shift their attention toward threatening stimuli, resulting in reduced reaction times to probes appearing near such stimuli. This effect has been found to be content specific, in that individuals with certain fears respond faster to information congruent with their concerns. The current study was undertaken to explore the possible differences in attention allocation to sexual, violent, and neutral words between women with a history of sexual trauma and those without. Using the dot probe task, individuals were presented with classes of target words (i.e., sexual, violent, neutral, or a combination of these) and were asked to detect and respond to a neutral stimulus (dot probe) that followed word pairs containing target words. It was hypothesized that individuals with a history of sexual trauma would be faster to detect the dot probe that followed sexual and violent words when compared to individuals with no such history. It was suggested that this would occur because women who have suffered a sexual trauma would experience anxiety concerning sexual and violent stimuli. This in turn would result in relevant stimuli capturing attention. Thus, they might exhibit content-specific processing with regard to information congruent with a sexually traumatic experience (i.e., sexual and violent information presented together).;As is noted later, the current study did not find such an attentional bias toward threatening words. Although the group of individuals who had experienced a sexual trauma reported more anxiety, depression, sexual anxiety, and PTSD symptoms, these differences did not lead to the expected differences on dot probe detection latencies. In general, the study found that all participants tended to be slower to detect the probe when an emotional word (sexual or violent) was present. This is consistent with a theory that conceptualizes attention in a resource allocation context. Possible explanations for the failure to find hypothesized results are presented."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Stephanie Irene Bush.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4878."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945706</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42063279</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990812</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920651</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BUSH</identifier>
+   <identifier type="dewey">9945706</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BUSH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

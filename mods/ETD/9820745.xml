@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>role of anxiety in neuropsychological dysfunction in early HIV disease</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Prejean,  Joseph Gerald.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1997</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 86 leaves ; 29 cm.</extent>
+      <extent>87 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The literature on neuropsychological functioning in patients with asymptomatic HIV disease is widely discrepant with prominent researchers on either side of the debate about whether or not early HIV infection is associated with neuropsychological deficits. Many theories have been put forth to account for these varied results, including inadequate study design, lack of measures sensitive enough to detect differences, and pooling of test scores across individuals that do have deficits, but not necessarily in the same areas.;The present investigation was designed to examine the role of anxiety as a possible confounding variable that could account for differences across HIV serostatus groups. It also investigated the hypothesis that HIV seropositive and HIV seronegative patients differ in terms of their appraisals of their performance and that higher levels of anxiety are related to lowered estimation of performance.;The HIV seropositive and HIV seronegative groups in this investigation did not differ in terms of their neurocognitive functioning. When the groups were further divided in terms of their anxiety level, again there were no differences in their neurocognitive functioning. The investigation therefore failed to identify anxiety as a contributor to neuropsychological dysfunction in HIV seropositive subjects, however, given the lack of HIV group differences in neurocognitive functioning, it did not rule out a potential role for anxiety either.;Further, there was no difference between the groups divided based on HIV serostatus and anxiety level in terms of their ability to accurately appraise their performance. All participants were able to estimate their performances very accurately.;Finally, medication effects were investigated. There were no differences in performance on neuropsychological tests found between the HIV seropositive subjects who followed a medication regimen and those who did not."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Joseph Gerald Prejean, Jr.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-01, Section: B, page: 4250."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, 1997.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9820745</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1997</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38208887</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1918958</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1997 PREJ</identifier>
+   <identifier type="dewey">9820745</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1997 PREJ</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

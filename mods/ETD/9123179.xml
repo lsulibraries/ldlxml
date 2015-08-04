@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>relationship of sequential patterns to the music teaching effectiveness of elementary education majors</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bowers, Judy Kay</namePart>
+      <namePart type="date">1949-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 112 leaves ; 29 cm.</extent>
+      <extent>120 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to examine the relationship of sequential patterns of instruction (a direct instruction teaching cycle) and the individual components of these patterns to overall teacher effectiveness of music lessons taught by elementary education majors. Sequential patterns included (1) teacher task presentation, (2) student response, and (3) teacher reinforcement. A second focus of the study was the comparison of two instructional methods for providing training in the use of sequential patterns of instruction.;Students enrolled in three sections of a music methods course for elementary education majors served as subjects. All subjects completed five teaching tasks which were videotaped and analyzed. The first four teaching tasks served as training for the presentation and analysis of a 6 minute music concept lesson which provided data for the study. The Contact Control Group (n = 20) received teacher modeling in preparation for the five class activities. Two classes serving as Experimental Groups 1 (n = 21) and 2 (n = 20) received teacher modeling identical to the Control Group, as well as instruction and training in the use and analysis of sequential patterns. Experimental Group 1 received instruction and written practice in patterns, and Experimental Group 2 received instruction and active practice in patterns.;Music concept lessons were analyzed for time spent in the three components of sequential patterns (task presentation, student response, reinforcement) and for frequency percentage of patterns and pattern components. In addition, these videotaped lessons were evaluated by a master teacher for overall teacher effectiveness with scores ranging from 0 to 10. Teacher effectiveness scores were correlated to sequential pattern data (time spent in pattern components and frequency of patterns and components) to examine the relationship between overall teacher effectiveness and teaching patterns. The performance of both Experimental Groups was also compared to determine the effect of instructional approach.;Comparisons of teacher effectiveness scores and 11 variables related to sequential patterns yielded correlations too low to serve as predictors of effective teaching, though significant correlations occurred with four variables associated with reinforcement and accurate task presentation. Group comparisons showed significant differences between the Control Group and Experimental Group 1 regarding time spent in task presentation, time spent in student response, and in frequency of patterns using nonspecific reinforcement.;No differences were evident between the two Experimental Groups, which perhaps indicates that variation of instructional method during sequential patterns training is not consequential to student achievement. The approach used for Experimental Group 1 required less class time than the procedure used for Experimental Group 2."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Judy Kay Bowers.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: A, page: 8370."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 89-100).</note>
+   <subject authority="lcsh">
+      <topic>Music</topic>
+      <topic>Instruction and study</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Music</topic>
+      <topic>Instruction and study</topic>
+      <genre>Juvenile</genre>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123179</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28461005</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930716</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199093</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 BOWE</identifier>
+   <identifier type="dewey">9123179</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 BOWE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Attitudes of teachers of Spanish as a foreign language toward teaching Spanish to Hispanic students in urban schools</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Boyd, Rossana Ramirez</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum and Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 251 leaves : ill. ; 29 cm.</extent>
+      <extent>252 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Many Hispanic students do not have opportunities to develop their native language in efforts to adapt to an all English curriculum at the schools they attend. This is particularly evident among high school Hispanic students who usually possess oral fluency in Spanish but lack reading and writing skills in Spanish.;The purpose of this research was to explore the attitudes of teachers of Spanish as a foreign language toward teaching Spanish to Hispanic students. This research was guided by four questions, What are the attitudes of teachers of Spanish as a foreign language toward (1) the use of Spanish? (2) teaching Spanish as a heritage language to Hispanic students? (3) the role of English in the United States? and (4) the use of English at home and at school in the United States?;The research methodology was qualitative and quantitative in design. Quantitative data was gathered from 48 teachers of Spanish of 3 Louisiana school districts by using the Attitudes of Teachers of Spanish as a Foreign Language Survey and the Language Attitudes of Teachers Scale (LATS). Qualitative data was gathered by conducting one group interview and 9 individual interviews. Quantitative data was analyzed using percentages, means, and standard deviations and qualitative data was analyzed based on emerging issues to develop an understanding of the problem. Findings indicated that Spanish heritage courses should be taught separate from Spanish foreign language courses because of the linguistic and cultural needs of Hispanic students. Participants identified several obstacles to the implementation of heritage programs. They also felt that the barriers they fired can be overcome by a supportive school administration, motivating Hispanic students to enroll in the courses, training teachers, acquiring financial resources for materials, curriculum, and assessment, working with guidance counselors for proper identification and placement. They provided suggestions for accommodating Hispanic students in foreign language courses. Teachers felt that this would be possible if they are prepared to meet their needs."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rossana Ramirez Boyd.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 8550."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963937</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43687070</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000322</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921209</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BOYD</identifier>
+   <identifier type="dewey">9963937</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BOYD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

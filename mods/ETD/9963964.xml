@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Slain in the spirit</title>
+      <subTitle>a Vodun aesthetic in selected works of Simone Schwarz-Bart, Zora Neale Hurston, and Paule Marshall</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Smith, Maria Thecla.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 206 leaves ; 29 cm.</extent>
+      <extent>207 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study, focusing on select novels by women writers of the African diaspora, discovers a surprising commonality among works with obvious geographical, cultural and linguistic differences---an affirmation of the philosophical essence of the Vodun religion as an antidote to Western spiritual and cultural moribundity.;Each of the novels---Zora Neale Hurston's Their Eyes Were Watching God, Simone Schwarz-Bart's Pluie et Vent sur Telumee Miracle, and Paule Marshall's Praisesong for the Widow---alludes to the Vodun pantheon, ancestor veneration and/or rituals in order to valorize the holistic Vodun worldview that recognizes the interconnectedness of all living things and the fluidity of boundaries between the visible and invisible worlds. This essential holistic philosophy gives a subtle but powerful unity to each novel and accounts for the novels' overt emphases on community and black folklife. In all three works, the writers employ their Vodun aesthetic to underscore the necessity of an alternative, life-affirming philosophy as a means of triumphing over material circumstances or the internalization of sterile Western materialistic values.;Chapter One sets up the parameters for this study by locating each novel within its socio-historical context. Additionally, the selected novels are situated within a developing African diasporic literary tradition in which African-derived beliefs have become sources of cultural resistance.;In Chapter Two, I argue that Hurston's novel, analyzed as a Vodun text, shows that the author drew heavily on her previous anthropological research into Vodun. Understanding Hurston's Vodun aesthetic adds to the appreciation of her literary artistry and allows for a new understanding of the protagonist's spiritual quest.;In Chapter Three, I explore Schwarz-Bart's celebration of black Guadeloupan women whose acceptance of adversity as part of their holistic Vodun philosophy enables them to endure the harsh conditions of colonial oppression.;In Chapter Four, I show how Marshall focuses on Vodun rituals as a means of reconnecting a divided self and a divided diasporic community. Marshall underscores the urgency of answering the call to service of the gods through rendering service to the entire community."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Maria Thecla Smith.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 9780."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963964</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43684644</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000322</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921205</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 SMIT</identifier>
+   <identifier type="dewey">9963964</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 SMIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

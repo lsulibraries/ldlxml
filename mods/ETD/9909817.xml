@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Origins of black Catholic parishes in the archdiocese of New Orleans</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Alberts, John Bernard.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 410 leaves ; 29 cm.</extent>
+      <extent>411 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"During the early eighteenth century, Capuchin missionaries as well as Ursuline nuns built and maintained churches and schools for all people in south Louisiana, no matter their race or social status. Under French and Spanish colonial rule, black Catholics supported all efforts towards interracial worship. After 1803, the diocese's inclusive practices continued. By 1861 proselytization of large numbers of free people of color and slaves resulted in Catholic congregations with roughly equal numbers of blacks and whites. When parishes were officially created in 1861, they had an integrated membership.;Interracial parishes survived the traumas of the Civil War and persisted until 1920 because the Catholic Church ministered to all races while other denominations excluded blacks. The use of the French language united congregations at a time when the use of English prevailed in society. The rough balance between blacks and whites also prevented racial supremacy. But the system had problems. Irish and German Catholics built exclusive ""national"" parishes and did not participate in the archdiocese's interracial ""territorial"" parishes. All parishes maintained segregated schools. In addition, national church authorities tried to link the availability of money to the creation of racially segregated parishes.;In 1895, an archbishop built the diocese's first exclusively black church. After 1900, as the interracial congregations divided along racial lines, dark-skinned Sicilians replaced the former free people of color as the ""inbetween"" group in Louisiana's racial system. Blacks and whites struggled for resources to fund schools, and the common bond provided by the French language disappeared as almost all church services were conducted in English. The racial balance within congregations also changed as African Americans migrated out of Louisiana. By 1915, black Catholics had been forced out of parish churches and schools for blacks were closed. Only in these desperate years, faced with white supremacy and loss of their religion, did black Catholics support exclusive black parishes and, in particular, parochial schools. By 1920, resistance to separate racial parishes ended."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">John Bernard Alberts.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: A, page: 3936."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909817</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39903686</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980921</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919761</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 ALBE</identifier>
+   <identifier type="dewey">9909817</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 ALBE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

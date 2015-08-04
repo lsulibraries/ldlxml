@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Quantitative FTIR analysis of gas phase cigarette smoke</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cueto, Rafael</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 87 leaves : ill. ; 29 cm.</extent>
+      <extent>103 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A new method, using Fourier transform infrared spectroscopy (FTIR), was developed for the simultaneous determination of nitrogen dioxide and nitric oxide in gas phase cigarette smoke and in model systems. The FTIR method also allows the simultaneous determination of other components.;The method uses multivariate least-squares regression analysis, that allows simultaneous quantitation of several components even in the presence of overlapping peaks, and fast data acquisition for kinetic analysis. For the preparation of the gas mixtures an apparatus that uses mass flow controllers, check-valves, and ground glass joints was constructed. This apparatus gives very exact metering, allowing the preparation of mixtures of precise concentrations, reducing the variations in the results between replications of experiments.;Using the developed method, model systems containing mixtures of nitric oxide/air with isoprene, methanol, acrolein, and acetaldehyde were studied using concentrations similar to those found in gas phase cigarette smoke. The ""steady state"" mechanism for the production of free radicals in gas phase cigarette smoke was substantiated, and a more realistic model for the continuous formation of free radicals in gas phase cigarette smoke was proposed. The concentrations of nitric oxide and nitrogen dioxide in the new proposed model (a mixture of nitric oxide, air, methanol, and isoprene) follow time courses that duplicate very closely those found for the same components in gas phase cigarette smoke."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rafael Cueto.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1390."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 69-86).</note>
+   <subject authority="lcsh">
+      <topic>Cigarette smoke</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tobacco smoke</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Free radicals (Chemistry)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123185</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28444160</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930713</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198672</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 CUET</identifier>
+   <identifier type="dewey">9123185</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 CUET</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

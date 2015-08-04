@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Characterization of alkylation repair and comparison to other stress-inducible phenomenon in Drosophila</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Guzder, Sami N.</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biochemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 87 leaves : ill. ; 29 cm.</extent>
+      <extent>97 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Drosophila melanogaster employs methyltransferase protein(s) to repair lesions in alkylated DNA in vitro (Green and Deutsch, 1983). This investigation deals with the characterization of the methyltransferase protein(s), and their inducibility in the organism upon exposure to alkylating agents. Ammonium sulfate fractionation of crude extracts from pupae resulted in the enrichment (approximately 15-fold in both the 50% and 30% ammonium sulfate supernatants) of the methyltransferase activity(s). Proteins with molecular weights of 30 Kd and 19 Kd were evident by SDS-PAGE analysis of crude extracts; the 30 Kd and 19 Kd could be separated in the 50% ammonium sulfate supernatant and 30% ammonium sulfate supernatant fractions, respectively. Attempts to purify the protein(s) by a variety of procedures was unsuccessful, and procedures to induce the activity were initiated. Ovaries exposed to alkylating, and other DNA-damaging agents, resulted in the induction of new proteins, with an overall decrease in the number of constitutively expressed proteins. The alklator N-methyl-N$\sp\prime$-nitro-N-nitrosoguanidine induced three new proteins which overlap with the 70 Kd heat shock proteins, and others at 26 Kd and 24 Kd which overlap with the small molecular weight heat shock proteins. Hydrogen peroxide, 4-NQO, and sodium bisulfite also induce a set of similar proteins. Other differences between alkylating agents and other DNA-damaging agents are discussed.;The Drosophila methyltransferase protein(s) transfer the methyl group to a cysteine residue, which is demonstrated by the generation of S-methylcysteine as the end product of a methyltransferase reaction. Crude extracts from control, 0.6 pM, and 6.0 pM MNNG-exposed samples showed cross-reacting material at 30 Kd and 17 Kd, using an antibody directed toward the MT 19 Kd protein of Escherichia coli, thus demonstrating that the protein is highly conserved through evolution. These observations indicate that Drosophila repairs alkyl base modifications from DNA by employing methyltransferase proteins with a mechanism similar to that in Escherichia coli. However, the Drosophila methyltransferase protein scavenges N$\sp7$mG and N$\sp3$mA in addition to O$\sp6$mG. The induction of a common set of proteins by DNA-damaging agents or stress suggests that Drosophila, and perhaps other eucaryotes, possess a DNA damage-inducible regulon which encodes proteins to counter cell damage."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Sami N. Guzder.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: B, page: 3449."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 77-83).</note>
+   <subject authority="lcsh">
+      <topic>Methyltransferases</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>DNA repair</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Drosophila melanogaster</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002145</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24559646</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911014</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067745</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 GUZD</identifier>
+   <identifier type="dewey">9002145</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 GUZD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

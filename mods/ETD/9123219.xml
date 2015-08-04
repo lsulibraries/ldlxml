@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Speciation and redox chemistry of selenium and arsenic in wetland soils and sediments</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Masscheleyn, Patrick H.</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 156 leaves : ill. ; 29 cm.</extent>
+      <extent>167 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Studies dealing with the speciation, species transformations, and solubility of selenium and arsenic as affected by soil or sediment redox potential and pH were initiated because of a lack on information and the need for a better understanding of selenium and arsenic chemistry in wetland soils and sediments. Analytical techniques were developed that permitted the determination of selenium and arsenic species commonly encountered in soils and sediments. The speciation and redox chemistry of selenium and arsenic was studied in selected soils and sediments.;Under reduced conditions ($-$200 mV), selenium solubility in sediments from Kesterson Reservoir (CA) and Hyco Reservoir (NC) was low and (elemental selenium + selenides) comprised 80-100% of the total soluble selenium. Experimental data and equilibrium thermodynamic calculations suggest that insoluble metal selenides, particularly FeSe, controlled selenium solubility under reduced conditions. Upon oxidation form $-$200 to 500 mV selenium solubility increased approximately 20 times in both the Kesterson and Hyco Reservoir sediments. Under moderately reduced conditions (0-200 mV), selenite was the dominant (45 to 100%) soluble selenium species. At redox levels above 200 mV, selenite was further oxidized to selenate and selenium solubility reached a maximum. An alkaline pH resulted in greater dissolved selenium concentrations. The experimental data also illustrated the importance of biomethylation in selenium chemistry. Under oxidized conditions, dimethyl selenide constituted 15 to 36% of the total soluble selenium.;Redox potential and pH were also shown to exhibit a major impact on arsenic speciation, and solubility in Hyco Reservoir (NC) sediments and in an arsenic contaminated soil from Kolin (La). In contrast to selenium, arsenic solubility increased with decreasing redox. In both studies, arsenate was the major ($&gt;$80%) arsenic species present under oxidized conditions. Upon reduction, arsenite became the major dissolved arsenic species, and arsenic solubility increased. Upon reduction from 500 to $-$200 mV, total arsenic in solution increased 25 and 13 times in the Hyco Reservoir and Kolin soil, respectively. The importance of adsorption-desorption and precipitation-dissolution reactions in controlling arsenic chemistry was illustrated in the Kolin soil."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Patrick H. Masscheleyn.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1325."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Soil chemistry</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soils</topic>
+      <topic>Arsenic content</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soils</topic>
+      <topic>Selenium content</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123219</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28436959</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930712</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198455</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MASS</identifier>
+   <identifier type="dewey">9123219</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MASS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

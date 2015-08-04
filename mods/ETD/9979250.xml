@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Linking postsecondary sub-baccalaureate institutional experience to the career planning needs of future workforce</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Brunswick, Joycelyn H. (Joycelyn Harrison)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Vocational Education.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 147 leaves ; 29 cm.</extent>
+      <extent>148 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Recent changes in the labor market and predictions by the Bureau of Labor Statistics indicate that many of the jobs available in the 21st century will not require a four-year college degree, in contrast to what many high school students perceive will provide their entree to a successful career. Jobs which will be in demand necessitate highly specialized skills which can be developed at post-secondary sub-baccalaureate (PSSB) institutions. High school graduates who do not have the ability, time, money or inclination to earn a bachelor's degree may well obtain economic security by acquiring those skills in great demand, enabling them to earn wages comparable to those of college graduates.;This study was designed to investigate factors which help to explain how students made their decisions to attend PSSB institutions. The findings may better enable counselors to link potential PSSB students and institutions.;The Counseling for High Skills Survey was administered to 12,106 students attending PSSB institutions in five states. Gender differences existed with regard to which high school program of study respondents would recommend to those who are considering attending a PSSB institution. Females more often recommended college prep and business education, whereas males more often recommended vocational education and tech prep. Nearly 17 in 20 of the respondents were white. When asked who most strongly encouraged them to select the educational program in which they were enrolled, nearly three-fifths of the students reported that they made the decision alone. Less than one student in 20 indicated that either a school counselor or teacher exerted a strong influence in the decision. Responses indicated that PSSB students were optimistic with regard to future employment in their chosen fields. More than 17 in 20 reported that they felt their chances of obtaining employment in their chosen fields upon graduation were excellent or good. They rated both the institutions and programs in which they were enrolled positively. Nearly 17 in 20 indicated that their chances were excellent or good. Four in five respondents reported that they would recommend their educational programs to others.;Recommendations for career guidance and for further study were addressed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Joycelyn H. Brunswick.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2677."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979250</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44179072</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921305</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BRUN</identifier>
+   <identifier type="dewey">9979250</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BRUN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

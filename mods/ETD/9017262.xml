@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>experiment to study the effects of changing format and scaling characteristics of financial statement data</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Goldwater, Paul M.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 183 leaves ; 29 cm.</extent>
+      <extent>194 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Current financial statements present single numbers, the result of a measurement process embracing many estimates and arbitrary classifications, summarizations, judgments, and allocations. These point-estimates and the ensuing uncertainty for decisionmakers has been cause for concern to both academics and practitioners, evoking various recommendations to change the format and scaling of financial statement data. The most significant acknowledgment of this problem came from the Financial Accounting Standards Board in 1978, when it released Objectives of Financial Reporting by Business Enterprises (SFAC No. 1). The primary interest of this research was to study the impact on decisionmaking about prospective cash flows by changing the format and scaling of financial statement data.;Subjects from six of the ""Big 8"" accounting firms took part in an experiment to manipulate the format (tabular versus graphical) and scaling (point-estimate versus probabilistic) of financial statement data. The subjects were required to estimate the net cash flow from operations for a hypothetical case based on the Robert Morris Associates annual statement studies for a physician's office. The subjects had numerous cues to utilize in order to make judgments about the cash flow. One hundred and seventeen subjects took part in a self-administered computerized experiment. Each subject received a diskette containing the experiment, the instructions, the case material, and the data instrument. The subjects completed the experiment in their own time and their responses were automatically recorded on the diskette.;The results of a split-plot analysis of variance disclosed that there was no significant interaction between the format, scaling and supplemental information. However, the decisionmakers were cognizant of the content of the supplemental financial data. The decisionmakers were very mindful of the distribution skewness (although not statistically significant) and adjusted their estimates of cash flow in the correct direction. Assessing the chances of cash flows is improved if the decisionmaker is presented with both graphical and probabilistic financial data and the decisionmaker is able to assimilate the probabilistic data."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Paul M. Goldwater.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 5490."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 123-127).</note>
+   <subject authority="lcsh">
+      <topic>Financial statements</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017262</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25584809</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920403</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094241</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 GOLD</identifier>
+   <identifier type="dewey">9017262</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 GOLD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

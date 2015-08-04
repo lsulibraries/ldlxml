@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Evaluation of the crawfish chitin--carotenoid complex and its nutritional/pigmentation effect in poultry diets</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lee, Keun Soo</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 139 leaves : ill. ; 29 cm.</extent>
+      <extent>152 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The present investigation involved utilization of the chitin-carotenoid complex and the whole meal derived from crayfish (Procambarus clarkii) composite byproduct, in controlled broiler diets to determine the biological value of these substrates as potential sources of growth promoters, red intensifying agents, and protein supplements. Included are basic studies of the unique characteristics of the chitin-protein and chitin-carotenoid complexes.;The crawfish chitin-carotenoid substrate did not exhibit any deleterious effects on broiler growth performance in terms of animal weight gain and feed efficiency at levels up to 5% of the total diet. Controlled chitin addition to the diet indicated no apparent relationship with the degree of chitinoclastic activity in the gizzard and intestine of broilers. Similar results were observed between specific chitinase activity and overall broiler growth rates. Astaxanthin pigment in the chitin-carotenoid substrate was demonstrated to impart significant red intensifying effects to broiler skin and shank pigmentation, even at levels as low as 0.52 mg/kg feed.;Compared with whole crawfish meal, sieved meal gave a 170% increase in corrected protein, and decreases of 23% in calcium, 24% in ash, and 27% in chitin. The protein quality of whole crawfish meal was comparable to that of soybean meal based on broiler weight gain, feed conversion, and protein efficiency ratio, using a non-protein nitrogen corrected value. The biological availability of the crawfish astaxanthin pigment in the meal was confirmed with practical broiler skin and shank coloration analysis.;The protein in the crawfish chitin-protein complex was demonstrated to be associated with chitin by covalent bonding. The ratio of chitin to covalently bound protein was 33.6 to 1, contrasting significantly with data from other crustacean meal studies. Higher astaxanthin stability in the chitin-carotenoid complex was observed compared with earlier studies on pigment stability in crawfish meal, with and without antioxidant treatment. Data suggest this may be attributed to the firmly bound carotenoid/chitin compared with the bonding strength of pigment to calcium and protein in the composite complex. The research confirms the significant physiological availability of astaxanthin from the crawfish chitin-carotenoid complex."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Keun Soo Lee.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1155."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 105-113).</note>
+   <subject authority="lcsh">
+      <topic>Poultry</topic>
+      <topic>Feeding and feeds</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Crayfish</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Chickens</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123214</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28454647</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198971</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 LEE</identifier>
+   <identifier type="dewey">9123214</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 LEE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

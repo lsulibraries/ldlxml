@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>dismantling of de jure segregation in Louisiana, 1954-1974</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Dugas, Carroll Joseph</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (x, 416 leaves) ; 29 cm.</extent>
+      <extent>429 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In the two decades between 1954 and 1974, the State of Louisiana progressed from a closed, white-dominated society to an open, multi-racial society with legal safeguards in place to assure equal protection and equal opportunity for all residents regardless of race or color. Prior to 1960, the vast majority of blacks were unable to vote, serve on juries, buy homes in decent neighborhoods, use publicly-owned facilities or frequent hotels, restaurants and other public accommodations. In addition to these humiliations, they were required to utilize inadequate ""separate but equal"" public parks, playgrounds, swimming pools, schools, waiting areas and correctional facilities until the mid-1960's.;Most of the state's segregated institutions were desegregated between 1964 and 1969. The major desegregation battle was fought in public elementary and secondary schools. As the 1960's came to a close, the foundations had been laid for the creation of unitary school systems, desegregation of correctional facilities and prohibition of racial discrimination in housing and employment.;With the dawn of the 1970's, a more conservative mood swept the nation, but a more progressive decade began in Louisiana. Although the enigma of a dual system of higher education continued to escape resolution and discrimination continued in employment and housing, the political arena was brighter for blacks. They were voting in large numbers and thus were able to secure the election of local and state candidates who were less hostile to black aspirations. In 1971, a coalition of black and Cajun votes was able to elect a liberal, populist governor. Once the new administration assumed office in 1972, existing segregation statutes were repealed, and in the following year, a new constitution was written with guarantees of equality and equal protection for all citizens of the state.;By 1974, de jure segregation was dead and blacks had the means to assure that its demise was permanent. Although the thornier issue of de facto segregation remained unresolved, there was hope and promise that it, too, would be eradicated one day."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Carroll Joseph Dugas.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2612."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 411-415).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Legal status, laws, etc</topic>
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>African Americans</topic>
+      <topic>Civil rights</topic>
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Segregation</topic>
+      <topic>Law and legislation</topic>
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Race discrimination</topic>
+      <topic>Law and legislation</topic>
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002138</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24561473</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911015</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067701</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 DUGA</identifier>
+   <identifier type="dewey">9002138</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 DUGA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

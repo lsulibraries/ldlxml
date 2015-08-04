@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Suspended sediment and nutrient flux dynamics in Fourleague Bay, Louisiana</title>
+      <subTitle>the role of winter cold fronts and Atchafalaya River discharge</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Perez, Brian Christopher</namePart>
+      <namePart type="date">1970-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and Coastal Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 159 leaves : ill., maps ; 29 cm.</extent>
+      <extent>161 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Material concentrations and fluxes in Oyster Bayou, a tidal channel connecting Fourleague Bay, Louisiana and the northern Gulf of Mexico, were sampled every three hours for 3-months, to examine the importance of atmospheric cold fronts and riverine forcing on the functioning of this estuarine system. The Atchafalaya River was the primary source of nitrate+nitrite (NO2+NO3), total nitrogen (TN), and total phosphorus (TP) to the estuary with greater influence associated with northerly post-frontal winds. Riverine influence coupled with wind-forced resuspension events led to the greatest concentrations of total suspended sediment (TSS) and particulate organic carbon (POC). Ammonium (NH4) concentrations were highly variable with decreased concentrations associated with riverine influence, suggesting the importance of biological processes, while phosphate (PO4)concentrations remained relatively stable throughout the study suggesting riverine, Gulf, and biological sources. High concentrations of sediment and nutrients entering the northern bay from the Atchafalaya River coupled with wind-forced transport led to large net exports of water (138.4 m3 s--1) TSS (24.1 kg s--1), POC (1.2 kg s--1), NO 2+NO3 (43.5 g s--1), NH4 (10.6 g s--1) TN (98.5 g s--1) PO4  (3.1 g s--1), and TP (13.6 g s--1), to the Gulf of Mexico. Increased instances of material imports occurred in the latter part of April as a result of tidally-dominated hydrodynamics and lack of high-energy wind events. Ratios of DIN:DIP in Oyster Bayou averaged 37:1 suggesting a potential P-limitation for the majority of the study with brief periods of potential N-limitation during April. High rates of N retention/loss, approximately 50% of each NO2+NO3 and TN inputs, within the estuary and surrounding wetlands were calculated with retention rates inversely related to loading rates and estuarine flushing time. The results indicate that the high energy subsidy provided by natural pulsing events such as atmospheric cold fronts and seasonal river discharge are efficient mechanisms of sediment and nutrient delivery to adjacent wetlands and are important in maintaining coastal sustainability. If managed properly, the use of shallow estuarine and wetland systems in coastal restoration initiatives (for example, river diversions) may increase productivity and reduce excess water column nutrient concentrations prior to reaching offshore waters."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Brian Christopher Perez.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3382."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979285</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">omc44388623</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000612</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921351</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 PERE</identifier>
+   <identifier type="dewey">9979285</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 PERE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

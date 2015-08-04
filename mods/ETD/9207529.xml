@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Conceptus-derived immunosuppressive factors and their role in fetal allograft protection</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Roth, Terri Lynn</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Animal Science Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 151 leaves : ill. ; 29 cm.</extent>
+      <extent>165 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The role of conceptus-derived immunosuppressive factors in protecting the fetal allograft was investigated by first examining the immunosuppressive activity derived from ovine, caprine and hybrid conceptus trophoblast tissue. Medium conditioned by 20 day-old conceptus trophoblast tissue from each species suppressed sheep and goat lymphocyte proliferation (P $$.05) between the immunosuppressive effects of the three media on either sheep or goat lymphocytes. In subsequent studies, horse conceptus-conditioned medium (HCCM) derived from embryos at days 9, 15 and 26 of gestation, suppressed mitogen-stimulated horse lymphocytes (P $&lt;$.001). HCCM maintained its suppressive activity following heating and repeated freeze-thawing. Using microconcentrator centrifugation, it was determined that the suppressor factor(s) was $&gt;$100,000 MW. HCCM was tested in donkey and goat lymphocyte cultures and proved capable of suppressing proliferation of xenogeneic lymphocytes (P $&lt;$.01). However, the suppressive capacity of HCCM in caprine lymphocyte cultures was less (P $&lt;$.05) than that in equine cultures. Trophoblast tissue of 21 day-old horse conceptuses was cultured in the presence and absence of indomethacin. Both immunosuppressive activity and the concentration of prostaglandin E$\sb2$ (PGE$\sb2$) in the medium of each culture were measured. While PGE$\sb2$ production was greatly reduced in cultures containing indomethacin, trophoblast-derived immunosuppressive activity was not affected (P $&gt;$.05). The final study involved partial characterization of the HCCM suppressor factor's (HCCM-SF) mechanism of action. By testing HCCM-SF in cultures stimulated with mitogens that selectively activate B and/or T lymphocytes, and by sorting HCCM-SF-treated and non-treated cells labeled with fluorescent antibodies, it was determined that HCCM-SF acts on T lymphocytes. The temporal effect of HCCM-SF was also investigated and, compared to lymphocytes treated at time 0, proliferation was greater (P $&lt;$.01) in cultures treated with HCCM-SF 24 or 48 hours after the start of stimulation. Furthermore, the removal of HCCM-SF from lymphocyte cultures resulted in complete recovery of cell responsiveness. The addition of recombinant human IL-2 to the lymphocyte cultures did not overcome the suppressive effect of HCCM-SF (P $$.05). HCCM-SF may be one factor responsible for inhibiting cell-mediated fetal allograft rejection during pregnancy."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Terri Lynn Roth.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: B, page: 4620."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 123-147).</note>
+   <subject authority="lcsh">
+      <topic>Fetus</topic>
+      <topic>Immunolgy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Placenta</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Maternal-fetal exchange</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207529</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28564515</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1203393</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 ROTH</identifier>
+   <identifier type="dewey">9207529</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 ROTH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

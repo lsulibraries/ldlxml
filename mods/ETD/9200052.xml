@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>investigation of the determinants of the municipal decision to privatize residential sanitation collection</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Brooks, Richard C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 162 leaves : ill. ; 29 cm.</extent>
+      <extent>171 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The Governmental Accounting Standards Board (GASB) Concepts Statement No. 1, Objectives of Financial Reporting states that (GASB 1987, 27) ""Financial reporting should assist in fulfilling government's duty to be publicly accountable and should enable users to assess that accountability."" Government accountability requires that public officials answer to the citizenry. Further, accountability rests on the notion that the citizenry has a ""right to know"" (GASB 1987, 21). Therefore, according to GASB Concepts Statement No. 1, municipal accounting data should reflect public resource allocation decisions made by government officials. This study investigates the usefulness of municipal accounting data for modeling a particular public resource allocation decision: the decision to privatize residential sanitation collection (RSC).;Data from Louisiana municipalities are used in this study. Inferential statistics are used to characterize the two groups of municipalities (those that privatize RSC and those that do not privatize RSC) in terms of demographic and financial variables. Public choice theory and the theory of bureaucracy are used to suggest municipal accounting information that is useful for modeling the municipal decision to privatize RSC. Logistic regression (logit) analysis is employed to test whether municipal accounting data is useful for modeling the municipal decision to privatize RSC. The explanatory value of the overall model is evaluated using a chi-square statistic. Chi-square tests of the individual coefficients in the logit model are used to test the individual hypotheses. Five of the nine independent variables are statistically significant at the.10 level.;The major conclusion of this study is that public resource allocation decisions are impounded in the municipal accounting numbers. This finding makes it possible to assess the accountability of public officials by using municipal accounting data. Furthermore, public choice theory and the theory of bureaucracy provide the theoretical underpinnings necessary to develop models of public resource allocation decisions using municipal accounting data."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Richard C. Brooks.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: A, page: 2615."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 151-155).</note>
+   <subject authority="lcsh">
+      <topic>Refuse and refuse disposal</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sewage disposal</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Privatization</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200052</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28532214</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930728</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200494</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 BROO</identifier>
+   <identifier type="dewey">9200052</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 BROO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

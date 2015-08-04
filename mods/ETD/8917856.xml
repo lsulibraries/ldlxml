@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Production and evaluation of rapid serological detection methods for identification of Vibrio vulnificus and Vibrio cholerae</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Simonson, Janet G. (Janet Gibson)</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Microbiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 57 leaves ; 29 cm.</extent>
+      <extent>66 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Species within the genus Vibrio can be identified serologically through detection of species specific H antigens expressed in the core protein of the polar flagella. Cholera vibrios also exhibit a specific cell wall polysaccharide antigen (A). Antibody reactive with these specific antigens can be employed for the rapid serological identification of Vibrio isolates. Species-specific anti-H sera were produced in rabbits immunized with flagellar core protein prepared from V. vulnificus. A coagglutination reagent was constructed by arming S. aureus Cowan I cells with the anti-V. vulnificus flagellar antibody. The reagent coagglutinated 99.3% of isolates identified bacteriologically as V. vulnificus and, other than V. pelagius, did not agglutinate 19 heterologous Vibrio species tested. In addition, monoclonal antibodies (Mabs) reactive with the flagellar core protein of either V. cholerae or V. vulnificus were produced and used to make coagglutination reagents. Staphylococcus aureus cells armed with Mab specific for V. cholerae flagellar core protein coagglutinated V. cholerae and V. mimicus isolates exclusively and did not react with 30 heterologous Vibrio species tested. These results suggest that V. cholerae and V. mimicus express similar H determinants. Latex beads armed with Mab reactive with V. vulnificus flagellar cores coagglutinated only V. vulnificus among 32 Vibrio species tested. The anti-H coagglutination tests represent a rapid, serologically specific, and inexpensive method for identifying V. cholerae, V. mimicus and V. vulnificus one step beyond primary isolation.;Antibodies reactive with the A antigen of the cholera vibrios were employed in a membrane enzyme-linked immunosorbant assay (ELISA) to detect V. cholerae O1 isolates in enrichment cultures. The membrane ELISA detected V. cholerae Ogawa cells in 6 hour alkaline peptone (AP) enrichment cultures initially inoculated with approximately 10$\sp2$ colony forming units per ml. The detection system did not produce false positive results when overnight AP broth cultures inoculated with five heterologous Vibrio species were assayed. The membrane ELISA is a rapid and specific assay for the identification of O1 vibrios directly from enrichment cultures."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Janet G. Simonson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1842."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Vibrio</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Pathogenic bacteria</topic>
+      <topic>Identification</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917856</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307646</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062565</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 SIMO</identifier>
+   <identifier type="dewey">8917856</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 SIMO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

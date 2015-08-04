@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Civic engagement, local capitalism and poverty</title>
+      <subTitle>the effects of the Black belt, single female household headship, and metropolitan status</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Livermore, Michelle Marie.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Sociology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 128 leaves : ill. ; 29 cm.</extent>
+      <extent>129 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Recent research on the relationship between civic community and poverty concludes that high levels of civic involvement are associated with low poverty levels. I revisit the relationship between civic community and poverty by asking whether it differs across counties with different social structural characteristics. I test for interactions between the presence of civically engaged denominations and area racial composition, single female household headship, and metropolitan status.;The association between the percent of a county's population in civically engaged denominations and poverty differs according to certain county social structural characteristics. First, areas with a critical percentage of African Americans demonstrate a stronger association between a church-based measure of civic engagement and poverty than other areas. Given the historic reliance of African Americans on the church and the higher poverty rates associated with African American composition, civically engaged religious denominations have a greater potential to mediate the effects of poverty in areas with a high percent of African Americans. Secondly, I find that the negative relationship between the percent of the population in civically engaged religious denominations and poverty differs according to single female household headship. Since women participate in religious organizations more than men and since women's social networks involve more women than men, civically engaged religious denominations are more valuable to women than men in escaping poverty. Thus, poverty rates in areas with a large percent of households headed by single females are more sensitive to the percent of the population in civically engaged religious denominations than those with fewer of these households. Finally, the negative association between the percent of the population in civically engaged denominations and poverty is stronger in metropolitan counties than in nonmetropolitan counties. Formal civic mechanisms are more important in mediating poverty in metropolitan areas because they lack the dense, informal relationship that foster embeddedness in nonmetropolitan areas. All of my findings support my proposition that the relationship between civic engagement and poverty is conditional on structural characteristics of a county."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Michelle Marie Livermore.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2924."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979272</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44391152</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000612</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921361</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 LIVE</identifier>
+   <identifier type="dewey">9979272</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 LIVE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Characterization and modeling of advanced modified surfaces</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Palshin, Vadim G.</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Engineering Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 99 leaves : ill. ; 29 cm.</extent>
+      <extent>100 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A promising approach to surface modification involves diamondlike carbon (DLC) coatings with ""functionally-graded surfaces"" (FGS) as substrates. Titanium nitride substrates have a great potential as a FGS for the DLC coating, since titanium and titanium alloy surfaces processed by enhanced glow discharge nitriding develop a nitrogen concentration profile that results in gradual increase in the material hardness in the surface region.;An investigation of the atomic structure of DLC films and the surface layer structure produced in the enhanced glow discharge nitriding was conducted in the course of this work.;DLC and Si-DLC films were found to be mainly amorphous, dense and of high hardness, with featureless and very smooth surfaces. For the DLC films, the sp$\rm\sp3/sp\sp2$ ratio varied between 3.2 and 4.1. A microstructure that can be described as small graphitelike clusters interconnected by a network of sp$\sp3$-bonded carbon was suggested for these films. Characterization of the Si-DLC films revealed a wide variation in the $\rm sp\sp3/sp\sp2$ ratio, between 1.5 and 5.4. The effect of Si atoms incorporated in the DLC structure seems to be the prevention of aromatic clustering and promotion of the formation of sp$\sp3$ bonds. A structural model consisting of a mixed $\rm sp\sp2$-sp$\sp3$ carbon network with the C(sp$\sp2$) atoms present in olefinic rather than aromatic form was suggested.;X-ray absorption examination of the nitrided surfaces demonstrated an increase of the nearest-neighbor N coordination numbers and higher phase fractions of $\delta$-TiN as the particle energy and current density were increased. Processing conditions corresponding to the energies of the bombarding particles around 1 keV resulted in relatively thick and continuous TiN layers with a structure virtually identical to that of the TiN standard.;A two-phase model of the outer layer, describing the structure as a mixture of $\delta$-TiN and $\alpha$-Ti, was proposed. This model was found to be in excellent agreement with experimental data for samples processed at the particle energies of approximately 1 keV and above.;The present results clearly show that the bombarding flux energy plays the key role in the formation of the outer layer structure and thus, the migration of nitrogen into the substrate."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Vadim G Palshin.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 4394."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902656</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980805</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919617</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 PALS</identifier>
+   <identifier type="dewey">9902656</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 PALS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

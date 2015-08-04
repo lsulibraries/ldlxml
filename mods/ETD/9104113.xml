@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Assessing the potential impact of sugarcane varieties and predation on Diatraea saccharalis (F.) populations in southern Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bessin, Ricardo Tomás</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Entomology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 136 leaves ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"To facilitate a better understanding of how varietal resistance and predation affect area-wide sugarcane borer populations, several studies were undertaken before the development of a simulation model. The first study was a 3-year investigation into the compatibility and contributions of varietal resistance, arthropod predation and insecticide toward sugarcane borer control. Insecticides were shown to be the predominant management factor preventing plant injury, but varietal resistance appeared nearly as important in terms of sugarcane borer population regulation in sugarcane. The next study assessed a moth production index in addition to the percentage of bored internodes as a tool for quantifying varietal resistance to the sugarcane borer. Resistance ratings based on the percentage of bored internodes were proven to be inadequate estimators of moth emergence due to differences in sugarcane borer survival after entry into the stalk. The third study investigated the fecundity of the sugarcane borer with larval development on four gramineous hosts. A single linear regression on female pupal weight was obtained to predict fecundity regardless of the host for larval development. The simulation model included processes of immature development, oviposition, host-dependent mortality and mortality due to arthropod predation. Varietal parameters in the model were obtained from small-plot varietal evaluations. Percentages of bored internodes were used to compare survival of sugarcane borer eggs until establishment in the stalk among sugarcane cultivars with and without predator suppression. To estimate survival among cultivars, from establishment in the stalk until pupation, a relative survival index was utilized. Simulations showed that differences in moth emergence and total emergence were greatest when there was no exchange of adults among varieties. Simulations indicated that the impact of susceptible varieties on sugarcane borer populations can be mitigated if these varieties are properly dispersed among varieties with greater resistance. Relatively small differences observed in small plot varietal evaluations were magnified during the simulations when amount of adult redistribution among varieties was reduced (i.e. grown in larger continuous plantings). Thus, results obtained from small plot varietal resistance evaluations alone do not adequately address the potential role that varieties may have on pest populations when grown on larger acreages."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ricardo Tomás Bessin.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4162."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 106-115).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sugarcane borer</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sugarcane</topic>
+      <topic>Diseases and pests</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sugarcane</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104113</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27248425</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930113</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160353</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 BESS</identifier>
+   <identifier type="dewey">9104113</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 BESS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Survival, behavior, and movements of captive-reared mallards released in Dorchester County, Maryland</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Smith, David Benjamin</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 125 leaves : ill. ; 29 cm.</extent>
+      <extent>126 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Private landowners with regulated shooting areas (RSA) and the Maryland Department of Natural Resources (DNR) have released up to 120,000 hand-reared mallards (Anas platyrhynchos) a year. Duck harvest on Wildlife Management Areas (WMAs) included 30, 18, and 6 percent state mallards and 6, 10, and 4 percent RSA mallards in 1991, 1992, and 1993, respectively. Kaplan-Meier survival estimates for radio-marked mallards released on RSAs were 81--85% for mid-August to mid-October, but declined to 32.5% +/- 13.7 (95% C.I.) by the end of the hunting season in 1992 and 54.3% +/- 22.8% in 1993. Hunting accounted for 71% of all mortalities of RSA mallards in 1992 and 45% in 1993. Survival of DNR mallards at 7 weeks post-release was 23.0 10.6% and 28.4% +/- 17.8% for 1992 and 1993. Supplemental feeding of mallards released by DNR appeared to increase (P &lt; 0.001) their survival to 7 weeks post-release (survival = 0.915 +/- 0.10). This result suggests that the low survival of mallards released by DNR was the result of energetic and/or nutritional deficiency. RSA mallards preferentially use the habitat on the RSA where they were released (P &lt; 0.01). Characteristics of the source RSA affected the choice of property types used, although the source RSA was always among the most preferred types. Home range sizes and maximum distances moved from the release site were positively related to the size of the source RSA (P &lt; 0.05). Mallards released on RSAs composed primarily of marsh habitats moved farther and had larger home ranges than those released on upland properties (P &lt; 0.05). I recorded pair status and origin of 772 American black ducks (Anas rubripes) and 4,960 mallards in 1992 and 1993. Black ducks paired earlier than mallards, and wild mallards paired earlier than released captive-reared mallards. Pairing was highly assortative, only 3 of 229 female black ducks (1.3%) were paired with drake mallards. Three of 492 paired female mallards were paired with hybrid black duck x mallard males. In contrast, there were 8.4% hybrids among the black duck population based on hunter bag checks at WMAs. There was also assortative mating between wild and captive-reared mallards."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by David Benjamin Smith.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 6130."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960097</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43369333</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921036</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 SMIT</identifier>
+   <identifier type="dewey">9960097</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 SMIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

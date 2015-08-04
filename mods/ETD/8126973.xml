@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>origins and development of the gentlemanly ideal in the South, 1607-1865</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rainard, Robert Lynn</namePart>
+      <namePart type="date">1950-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 270 leaves ; 29 cm.</extent>
+      <extent>278 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study is to examine the origins and development of the gentleman in the South. It begins with an examination of Castiglione's The Courtier. Castiglione provided a discussion of the ideal man of Renaissance Italy. His ideal man, the courtier, possessed cultivation, character, and class. Together, these attributes made up the complete, or universal man. The Renaissance idea of the complete man profoundly influenced all later thought concerning the nature of the gentleman.;The English embraced Castiglione's idea of a complete man, but they immediately adapted it to suit their own needs. The English placed much greater emphasis upon the gentleman's duty to his nation and to his fellow man. In addition, the English stressed Christian morality, expecting the gentleman to be both charitable and humble, and they also stressed the importance of the bourgeois virtures of frugality and industry.;The influence of the English ideal on the colonial South is clearly identifiable. Colonists read the English advice literature which recommended the development of gentlemanly attributes, and they recommended that others follow the English ideal. Although southerners embraced the basic elements of the ideal of the English gentleman, they also adapted it to suit colonial conditions. Colonists believed that the gentleman had to possess a natural simplicity which reflected their rural life. They celebrated simplicity as one of the required virtues.;Ante-bellum southerners were indebted to Castiglione, the English, and their own colonial forebearers for their gentlemanly ideal. According to their letters, diaries, commencement addresses, and novels, southerners believed that the gentleman ought to be a complete man, possessing the requisite elements of class, character, and cultivation. He should possess a noble obligation to serve his nation and his fellow man; he should possess the Christian virtues of humility and charity; he should possess the bourgeois virtues of industry and frugality; and he should possess a rural simplicity. The ideal of the gentleman in the South evolved out of the European tradition, but it also began to develop distinctive characteristics during the ante-bellum period. Morality and honor, which had always played a role in the gentlemanly ideal, became the two most distinctive characteristics of the gentleman of the South. Those two attributes were eventually to become the most striking features of the southern gentlemen."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Robert Lynn Rainard.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2823."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-usu--</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Manners and customs</topic>
+      <geographic>Southern States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Etiquette</topic>
+      <geographic>Southern States</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126973</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8236165</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820311</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14681</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 RAIN</identifier>
+   <identifier type="dewey">8126973</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 RAIN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

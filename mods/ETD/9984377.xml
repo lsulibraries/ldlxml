@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Boron-uptake mechanisms and boron nutrition of rice</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yu, Xiaohe</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Agronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 146 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"There are very few studies on B deficiency in rice (Oryza sativa  L.). Reported critical values of B deficiency in rice are contradictory and mechanisms of B uptake by plant are not understood. Objectives of this study were to determine B effects on rice grown in hydroponics and soil; to determine critical values of B deficiency in rice tissues, hydroponic solution and soil; and to explore B-uptake mechanisms in both monocots (rice) and dicots (soybean (Glycine max L.)).;Rice was grown to maturity in an acid Caddo silt loam at 0 and 1 kg B ha--1 in a greenhouse study, which provided the first report of B deficiency in rice grown on a soil from the USA. Boron increased B concentrations in new leaves, pollen vitality, and grain yields by 11%. Critical value of B deficiency in new rice leaves at tillering or booting is likely 6.0 +/- 1.0 mg B kg--1. A Ca/B ratio above 550 in rice leaves at booting would also indicate B deficiency. Retarded panicle development and delayed heading were observed at tillering and booting. Hydroponic studies indicated that B deficiency occurred when there was &lt;7.3 mg B kg --1 in new leaves and &lt;0.2 muM in solutions. Whitish and twisted new leaf tips occurred at &amp;le;0.05 muM B, and pale bands 2--3 mm wide exhibited on leaves of moderately B-deficient plants. The membrane permeability coefficient of H3BO3 was determined to be 0.488 x 10--6 cm s--1 for rice roots and 1.81 x 10--1 cm s--1  for soybean roots.;Estimating boron diffusion during the six-hour assay is a novel and accurate technique for determining the importance of diffusion, transpirational flow, and active uptake mechanisms. It was estimated that 59% of total B uptake for rice and 39% for soybean were due to active uptake for B-deficient plants. Significant effects were found from respiration inhibitors (0.05 mM DNP) on B uptake by B-deficient rice grown in solutions at four levels of B (0.2, 0.5, 2.5 and 10 muM) during a six-hour assay."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yu,Xiaohe.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-08, Section: B, page: 3927."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9984377</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44791163</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000815</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921518</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 YU</identifier>
+   <identifier type="dewey">9984377</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 YU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

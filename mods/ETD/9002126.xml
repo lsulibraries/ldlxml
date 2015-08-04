@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>interaction of accountants' involvement and basis of accounting on loan officers' judgment when evaluating a loan to a small business</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bushong, Joe Gregory.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 148 leaves ; 29 cm.</extent>
+      <extent>158 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Small/private business is an important sector of the economy of the United States; however, the needs of small business are often overlooked when accounting standards are established. This has led to concerns that small businesses are required to report financial information that is not needed by the users of their financial statements, and that they are precluded from reporting information that may be more useful.;The purpose of this study was to determine whether loan decisions made using financial statements prepared on a modified basis of accounting affected decisions made by bank loan officers, the primary external users of small business financial statements. The study also examined whether different levels of external certified public accountants' (CPAs) association with the statements affected the decision and whether the interaction of the basis of accounting and the external CPAs' involvement affected the decision.;Participants in the study, bank loan officers, received financial statements prepared in conformance with generally accepted accounting principles (GAAP) or financial statements prepared with departures from GAAP in four areas that have been criticized as not being applicable to small businesses. The statements were accompanied by either an audit, review, or compilation report.;The study found no differences in the participants' decisions whether they received financial statements prepared in conformance with GAAP or modified GAAP basis financial statements. The results also indicate that the different levels of external CPAs' involvement with the statements did not affect the decision nor did the interaction of the two.;The participants were also asked to indicate their need for additional information. The six items most requested are not normally included with financial statements. Only one participant who received the modified GAAP basis financial statements requested any of the GAAP basis information that was omitted."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Joe Gregory Bushong.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2556."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Small business</topic>
+      <geographic>United States</geographic>
+      <topic>Accounting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Accounting</topic>
+      <topic>Standards</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Commercial loans</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002126</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24556294</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911014</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067633</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 BUSH</identifier>
+   <identifier type="dewey">9002126</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 BUSH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

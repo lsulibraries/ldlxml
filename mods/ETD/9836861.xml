@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dietary nitrogen and energy metabolism in the ruminant</title>
+      <subTitle>effect of source of nitrogen</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chapa, Angelica Maris</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Animal Science Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 110 leaves : ill. ; 29 cm.</extent>
+      <extent>110 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Three experiments were conducted to determine the effects of dietary nitrogen on the energy status of ruminants and the feasibility of using L-carnitine to prevent the negative effects associated with overfeeding nitrogen. The objectives of the first experiment were to monitor the nitrogen and energy status of cows grazing ryegrass pastures through the measurement of key blood metabolites and insulin and to determine the protein supplementation scheme which would maximize milk yield and maintain plasma urea nitrogen levels below dangerous levels. In the first experiment, the protein supplement that supplied excess total protein exerted negative effects on body condition and plasma nitrogen metabolites but had a minimal effect on plasma energy metabolites and insulin. The nutritional status of the cows post-partum and prior to grazing seemed to have a greater effect compared with the dietary protein supplements on the ability of the cow to maintain condition during early lactation. The second experiment was conducted to investigate the effects of intravenous administration of L-carnitine in sheep, and to determine its ability to ameliorate subclinical hyperammonemia experimentally-induced using an oral urea load test. Results indicated that intravenous administration of L-carnitine (12.72 mmol/kg$\sp{.75}$ BW) increased plasma L-carnitine, glucose and nonesterified fatty acid concentrations in sheep. Additionally, when L-carnitine (6.36 mmol/kg$\sp{.75}$ BW) was administered intravenously 30 min preceding an oral urea load test, the development of hyperammonemia was prevented. The last experiment was conducted to determine the influence of supplemental L-carnitine on growth and metabolic criteria of growing lambs fed a diet high in nonprotein nitrogen (compromising 50% of total dietary nitrogen). Supplementation of L-carnitine increased plasma total L-carnitine concentrations and lowered plasma ammonia nitrogen concentrations during an oral urea load test but had minimal effects on ruminal and blood characteristics. Nonprotein nitrogen negatively affected both production and metabolic parameters and exerted a greater influence on the energy status of sheep compared with L-carnitine. Although L-carnitine had minimal effects, the prevention of hyperammonemia during two of the oral urea load tests suggests that further research is warranted into the feasibility of using L-carnitine to ameliorate hyperammonemia."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Angelica Maris Chapa.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2498."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836861</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919305</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CHAP</identifier>
+   <identifier type="dewey">9836861</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CHAP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

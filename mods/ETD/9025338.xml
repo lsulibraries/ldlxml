@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Influence of carriers on rhizosphere colonization by inoculant Bradyrhizobium japonicum</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Savoy, Marcelle Mary</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Agronomy Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 81 leaves ; 29 cm.</extent>
+      <extent>87 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Organic and inorganic materials are used extensively as carriers in the preparation of commercial soybean inocula. These carriers facilitate application of inocula and promote survival of soybean rhizobia (Bradyrhizobium japonicum) during storage, but little is known of their effects on the ability of inoculant rhizobia to survive after addition to the plant rhizosphere. Laboratory and environmental growth chamber studies were performed to determine the influence of finely milled peat, granular peat, or vermiculite carriers on survival of B. japonicum An-6a (rifampicin- and streptomycin-resistant) in samples of three Louisiana soils. Laboratory studies showed that the numbers of viable cells recovered from soils incubated for 3 and 10 days (25$\sp\circ$C; 100 kPa H$\sb2$O) after addition of granular peat inocula averaged 92-94% of the cells initially added. The corresponding numbers recovered from soils receiving fine peat inocula or aqueous suspensions averaged 31-33% and 0.1-4% respectively. Incubation for 30 days led to a marked decrease in the number of viable cells (0.04-2.0% of cells added) in all treatments. When soils were subjected to air-drying for 48-96 h after inoculation, recovery was 39-79 times greater in samples receiving peat-based inoculum than in those receiving vermiculite-based inoculum or aqueous suspensions.;Experiments to assess the influence of peat carriers on predation of inoculant rhizobia in the soybean (Glycine max (L.) Merr.) rhizosphere showed that use of fine peat in inoculum preparations markedly reduced recovery of inoculant cells 10-30 days after their addition to sterilized soil moistened with a suspension of predatory protozoa. Recovery of the inoculant from root nodules of 30-day old plants was significantly greater when cells were added with vermiculite carriers than when added with peat-based or aqueous carriers to a loamy sand (Crevasse) or a silty clay loam (Sharkey) soil.;These findings suggest that granular peat carriers promote survival of inoculant B. japonicum in moist soils or soils subjected to desiccation but, vermiculite carriers enhance the ability of the cells to occupy nodules when plants are grown under favorable moisture conditions."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Marcelle Mary Savoy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1560."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Rhizobium</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soybean</topic>
+      <topic>Soils</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025338</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186644</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111991</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 SAVO</identifier>
+   <identifier type="dewey">9025338</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 SAVO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

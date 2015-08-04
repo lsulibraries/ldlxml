@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>relation between depression scores and social skills scores in children</title>
+      <subTitle>a cross-sectional study of self-report and parent-report measures</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Friedt, Larry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 209 leaves : ill. ; 29 cm.</extent>
+      <extent>189 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The relationship between depressive symptoms and social skills in children was examined. Three depression measures (Children's Depression Inventory, Reynolds' Child/Adolescent Depression Scale, Depression Self-Rating Scale) and two social skills measures (Matson Evaluation of Social Skills with Youngsters, Social Skills Rating System) were used to obtain parent-report and self-report data. One hundred fifty-eight children in six different grades (3rd, 4th, 6th, 7th, 9th, 10th) were the subjects of the study.;Reliability of each measure was examined using internal consistency reliability coefficients (Cronbach's alpha) which indicated all the measures except the Depression Self-Rating Scale parent-report yielded coefficients of.80 or greater. The validity of depression and social skills as separate constructs was examined using a multitrait-multimethod matrix (Campbell &amp; Fiske, 1959) and an extension of the model. The results indicated the constructs are separate and valid, although a significant effect for informant was found. The significance of this finding is discussed.;Further analyses were conducted using canonical correlation which yielded a significant correlation between an overall depression and social skills scores. Additionally, analyses from examining each of three grade-groups separately indicated a significant relationship between depression and social skills regardless of the group studied. This result was also found when examining separate groups based on gender. Although the significant relationship between social skills and depression were found, further examination yielded specific measure effects for the various grade-groups and gender-groups. Several future studies are suggested and the strengths and weaknesses of the study are presented."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Larry R. Friedt.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: B, page: 1715."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 136-163).</note>
+   <subject authority="lcsh">
+      <topic>Depression in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Social skills in children</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Child psychology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123188</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28446523</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930714</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198684</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 FRIE</identifier>
+   <identifier type="dewey">9123188</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 FRIE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

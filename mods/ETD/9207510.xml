@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>School administration as brinkmanship</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Haynes, Eddy A.</namePart>
+      <namePart type="date">1944-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Administrative and Foundational Services.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 127 leaves ; 29 cm.</extent>
+      <extent>137 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Students, teachers, and principals sometimes test the boundaries set by the system in which they work, often with the goal of adapting to their circumstances while avoiding punishment. This type of behavior, called brinkmanship, was defined by Licata and Willower (1975) in terms of subordinate challenges to an educational organization's authority system that avoid negative sanctions. Principal brinkmanship can also be defined in terms of discretionary decision making (Morris, et al. 1984) which is the implementation of policies and programs at the school level in a way that fits the principal's values, philosophy, and goals.;This research focused on school principals' use of brinkmanship behavior in relationships with superiors in the central office, their professional beliefs about discretion, perceptions of role conflict, and their locus of control.;Three hypotheses were tested as follows: (H1) There is a positive relationship between principals' perceptions of role conflict and the frequency of principal brinkmanship. (H2) There is a positive relationship between principals' beliefs favoring professional discretion and the frequency of principal brinkmanship. (H3) There is a positive relationship between principals' internal locus of control and frequency of principal brinkmanship.;The research method was a case study. The sample was a purposefully selected single school district and included 50 elementary school principals. The data were analyzed using regression analysis.;Five conclusions were drawn as follows: (1) There is no relationship between principal perceptions of role conflict and the frequency of brinkmanship. (2) Principals with professional beliefs favoring their own professional discretion over the discretionary power of others tend to exhibit similar brinkmanship frequency as those with less confidence in their professional discretion. (3) There is no relationship between principals' internal locus of control and the frequency of principal brinkmanship. (4) There is a significant positive relationship between years of principal experience and the frequency of brinkmanship. (5) The best model for predicting the frequency of principal brinkmanship with this data set includes total years of experience as a principal, the supervisor rating of instructional leadership, and principal beliefs about professionalism."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Eddy A. Haynes.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: A, page: 3140."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ed. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 109-115).</note>
+   <subject authority="lcsh">
+      <topic>School management and organization</topic>
+      <topic>Decision making</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>School principals</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207510</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28560344</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930803</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1201112</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 HAYN</identifier>
+   <identifier type="dewey">9207510</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 HAYN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

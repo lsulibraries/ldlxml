@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>nature and extent of species interactions with the U. S. Gulf menhaden fishery</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>De Silva, Janaka Anthony</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and Coastal Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 148 leaves : ill. ; 29 cm.</extent>
+      <extent>149 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"I employed categorical techniques to explain patchy data on the releasable bycatch in the U.S. Gulf of Mexico menhaden fishery looking for species and areas of potential concern and potential solutions. For fishing grounds east of the Mississippi River, the odds of observing sets with high bycatch in spring and summer were greater than in the fall. Furthermore, spring bycatch rates were higher east of 89&amp;deg;W than in areas west of 93&amp;deg;W. Correspondence analysis indicated that the fate of the releasable bycatch could be classified into three major species-fate groupings. Two distinct bycatch species assemblages from April through August that separated the fishery at a longitude of 91&amp;deg;W were observed. From September through October there was a shift in the species assemblage. The assemblage west of 93&amp;deg;W appeared distinct from the rest of the fishery. From these analyses, bull sharks emerged as a species for potential concern.;A shark-specific analysis of the bycatch revealed an annual take of approximately 30,000 sharks. Logit analysis indicated that the odds of observing shark bycatch were significantly greater in June--August than September--October. The odds of observing shark bycatch during April--May were also significantly different from September--October, however, these differences were only apparent east of 93&amp;deg;W. Stomach analyses of sharks and a consideration of size at age suggests that the fishery is impacting an important nursery ground for a complex assemblage of sharks, for which menhaden is an important forage base. I describe the spatial and temporal patterns of bottlenose dolphins and brown pelicans associated with the fishery. Dolphins were observed around 19% of fishing sets and diving and circling pelicans were observed in 23% of sets. These associations are described by a loglinear model with pelican-season-dolphin, dolphin-season-area, and prelican-season-area terms. Results suggest that while the incidental capture of dolphins in the fishery is extremely low, they are far more frequently observed in the immediate vicinity of the fishing operation. This suggests dolphins may have learned to avoid being captured. However, the extremely low rates of incidental capture may be biologically important given the low population estimates."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Janaka Anthony de Silva.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 8870."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922070</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40652051</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919967</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 DE SI</identifier>
+   <identifier type="dewey">9922070</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 DE SI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>welfare and distribution impacts of international agricultural trade policies</title>
+      <subTitle>an analysis of Turkey's integration into the European Union</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Atici, Cemal</namePart>
+      <namePart type="date">1971-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana Agricultural Experiment Station</namePart>
+      <namePart>Dept. of Agricultural Economics and Agribusiness.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 159 leaves : ill. ; 29 cm.</extent>
+      <extent>160 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The objective of this dissertation is to examine the agricultural trade policies of Turkey and determine the impact of various relevant policy scenarios on the welfare and distribution of income within the agricultural sector as well as between producers and consumer groups. The main goal of this research is to quantify the impact of trade liberalization resulting from multilateral agricultural trade agreements and the formation of regional trading blocs on Turkish agriculture and, consequently, the income distribution effects in the various producer and consumer groups.;The study utilizes a partial equilibrium framework Modele Internationale Simplifie de Simulation (MISS) to analyze the impacts of various policy decisions and scenarios on the welfare of producers, consumers, and the budget. In this study, ten agricultural products that each play significant roles in terms of production, consumption, and trade are examined. These products are; lamb, dairy milk, corn, wheat, rice, oilseeds, cotton, sugar, tobacco, and poultry. Producer and Consumer subsidy equivalents which show overall protection in these sectors, are used to represent the weights perceived by the policy makers. Results show that Turkish Political Preference Function (PPF) values are higher in integration but decreases in free trade. The Nash equilibrium occurred at the point where Turkey chooses integration with the EU while the EU chooses the Agenda 2000 reform provisions. Results also show that distribution of income estimated by the Gini coefficient does not change significantly with freer trade but deteriorates with the integration."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Cemal Atici.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: A, page: 1092."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963934</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43678361</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000321</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921195</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 ATIC</identifier>
+   <identifier type="dewey">9963934</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 ATIC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

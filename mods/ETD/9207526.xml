@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>adaptive differencing scheme for elliptic flows</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rhodes, Therese E.</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Mechanical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 198 leaves : ill. ; 29 cm.</extent>
+      <extent>216 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This thesis deals with the formulation of a computationally efficient multiple-grid adaptive differencing (MAD) scheme for two-dimensional elliptic flow and heat transfer problems. This algorithm equidistributes a measure of the error by using higher order differencing schemes locally in adaptively determined high error-estimate regions. The third-order accurate QUICK scheme is used in regions of high error estimate which are dynamically flagged on the basis of a preliminary first order upwind solution. Boundary conditions for the flagged regions are taken from the preliminary upwind solution. Multigrid type calculations are performed.;Three multiple-grid schemes are developed. In the first scheme, MAD1-WFDS, the entire domain and flagged subdomains are solved at each multiple-grid iteration. The second scheme, MAD2-WDS, solves the entire domain at each iteration, employing the QUICK form of the discretized equations in the flagged regions and the original upwind formulation elsewhere. The third algorithm, MAD3-FDS, is similar to the first, except the entire domain is not solved after the subdomain solution. Instead, only the unflagged portion of the problem domain is solved, using the improved values obtained in the flagged regions as boundary conditions.;The three MAD algorithms are applied to two convection-diffusion and two flow problems. The results are compared to the exact solution (if available), the upwind and QUICK solutions, and to each other. MAD1-WFDS shows the best improvement to the upwind scheme but requires the most additional computing time. MAD2-WDS requires the least additional computing time, but shows the least improvement over the upwind solution.;The code for MAD1-WFDS is parallelized to reduce the real computation time required for problem solutions. The upwind and QUICK schemes are also parallelized for comparison. Several program levels or granularities were parallelized to determine an optimal level of parallelization. Parallelizing on the subdomain level and parallelizing the solution of the general variable equation yielded good results. A real time savings of 26.4% was achieved in one case (in spite of the fact that the solution was not computed on a dedicated machine) at a cost of a 7.8% increase in cpu time required by the parallel run over the serial run."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Therese E. Rhodes.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: B, page: 4941."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 181-187).</note>
+   <subject authority="lcsh">
+      <topic>Heat</topic>
+      <topic>Transmission</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fluid dynamics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Multigrid methods (numerial analysis)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207526</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28540210</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930730</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200594</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 RHOD</identifier>
+   <identifier type="dewey">9207526</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 RHOD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

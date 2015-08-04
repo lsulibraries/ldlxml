@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Granular activated carbon from agricultural by-products</title>
+      <subTitle>carbon properties and their relationship to sugar decolorization potential</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Ahmedna, Mohamed.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 115 leaves : ill. ; 29 cm.</extent>
+      <extent>116 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Representative samples of soft, low density, group 1 (rice straw, rice hulls, sugarcane bagasse) and hard, high density, group 2 agricultural by-products (pecan shells) were converted into granular activated carbons (GACs). Prior to pyrolysis, group 1 by-products were mixed with four binders, sugarcane molasses, sugar beet molasses, corn syrup and coal tar. GACs were produced from group 1 and 2 materials by physical activation (carbon dioxide, steam) or from group 2 materials by chemical activation (phosphoric acid). Carbons were evaluated for their physical (hardness, bulk density), chemical (ash, pH), surface (total surface area, pore size distribution, surface oxides) and adsorption properties (molasses color removal, sugar decolorization). Principal component and cluster analyses were used to compare agricultural by-product-based GACs to two commercial reference carbons. The results show that the type of by-product, binder and activation method determine the properties of activated carbons, with surface properties being the most influential on the decolorizing capacity of GACs. Combination of sugarcane or sugar beet molasses with group 1 materials, for instance, was unsatisfactory because it yielded GACs that were brittle and possessed low surface area, low bulk density, high pH and excessive ash content. The use of coal tar yielded GACs with good physical, chemical and surface properties, but with very limited surface area and, thus poor adsorption efficiency. Regardless of the binder, sugarcane bagasse showed a better potential than rice straw or rice hulls as precursor of GACs with the desirable properties of a sugar decolorizing carbon. Pecan shells produced GACs that were closest to the reference carbons. Steam and phosphoric acid activation showed promise in producing GACs with characteristics similar to the commercial carbons. Steam activation of pecan shells produced the best carbon among the agricultural by-product-based GACs and produced GAC with high surface area, good pore size distribution and weakly charged surface, which are good characteristics for sugar decolorizers. This study demonstrated that agricultural by-products can be used to produce GACs that are as effective as the commercial carbons in removing sugar colorants, offering a potential low cost alternative to the existing coal-based commercial carbons used in the sugar refining industry."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mohamed Ahmedna.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 8890.;Directors: Wayne E. Marshall; Ramu M. Rao."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922045</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40650278</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990113</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919901</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 AHME</identifier>
+   <identifier type="dewey">9922045</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 AHME</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

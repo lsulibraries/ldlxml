@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>effects of fiscal structure, leviathan, and interdependent demands on local public spending behavior</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Campbell, Rebecca J.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Economics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 256 leaves ; 29 cm.</extent>
+      <extent>256 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Understanding the fiscal behavior of subnational governments is increasingly important as fiscal responsibilities are devolved. In order to get a clearer picture of subnational government behavior, we employ a median voter model and local government data to perform tests of the fragmentation, decentralization, fiscal illusion, and overlapping jurisdictions hypotheses. A key theoretical result is that estimating horizontal effects of the leviathan and fiscal illusion models without accounting for the interdependent demands for the services of overlapping jurisdictions will result in upwardly biased estimates. We find that controlling for the overlapping jurisdictions relationship is important. This dissertation estimates each model using corresponding municipalities and counties. Our data set includes the both metropolitan and nonmetropolitan local governments in the West, Midwest, and South.;We find support for both the decentralization and fragmentation hypotheses in each municipal region. We find more evidence of behavior consistent with a leviathan at the county layer rather than at the municipal layer. Our main fiscal illusion finding is th e difference in the extent of the flypaper effects across municipal and county samples. Municipal samples display a flypaper effect while the flypaper effect is much less prevalent at the county layer. In all but one case, we find symmetry in the overlapping jurisdictions relationships, i. e., changes in county expenditures affect municipal expenditures in the same way that changes in municipal expenditures affect county expenditures. We find a symmetric, complementary strategic relationship in nonmetropolitan West, Metropolitan Midwest, and metropolitan Southern samples.;A related line of literature posits that the specific type of organizational form that a government takes affects the level of public expenditures. Our results support the existing public finance literature that the organizational form of government has no effect on expenditures. Our analysis, however, does find differences across types of governments with respect to the leviathan, fiscal illusion, and overlapping jurisdictions variables."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rebecca J. Campbell.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: A, page: 2110.;Adviser: Geoffrey K. Turnbull."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836859</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919303</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CAMP</identifier>
+   <identifier type="dewey">9836859</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CAMP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Behavioral and physiological adaptations of largemouth bass (Micropterus salmoides) to low-salinity environments</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Meador, Michael Rogers</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Forestry, Wildlife, and Fisheries.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 109 leaves : ill. ; 29 cm.</extent>
+      <extent>128 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A study of the biology, movements, behavior, and physiology of largemouth bass (Micropterus salmoides) from a low-salinity marsh in Lafourche Parish, Louisiana was conducted from March 1985 to December 1987. Comparative data were also collected for freshwater largemouth bass from Ben Hur Lake and False River, Louisiana.;Marsh largemouth bass were small compared to freshwater bass of similar age, although growth rates of older marsh bass equaled or exceeded those of freshwater fish. Marsh bass relative weight indicated excellent condition during all seasons, while freshwater bass exhibited reduced condition in early spring and fall. Characteristic body morphology and growth of marsh bass suggest an adaptation to low-salinity environments.;Salinity did not influence daily movements of ultrasonically-tagged largemouth bass, although salinity increases in late summer may have induced large-scale seasonal movements. Though tagged fish could not be located after salinities reached 8 parts per thousand (ppt), largemouth bass smaller than tagged individuals were collected in the study area. The presence of large predators combined with potential stressful physicochemical conditions may influence movements of largemouth bass in low-salinity environments.;Salinity preferences of adult and young-of-the-year (YOY) largemouth bass indicated YOY marsh and freshwater bass preferred 0 ppt. Although adult marsh and freshwater bass preferred 3 ppt, mean number of observations at 0 ppt was significantly greater for freshwater bass, while mean number of observations at 3 ppt was significantly greater for marsh bass. Differences in salinity selection by adult largemouth bass between collection sites may be the result of long-term exposure to salinity.;Experiments in which marsh and freshwater largemouth bass were exposed to 0, 4, 8, and 12 ppt salinity indicated no significant differences in plasma osmolalities, electrolyte concentrations, or gill ATPase activities between marsh and freshwater fish exposed to 0, 4, or 12 ppt. Exposure to 12 ppt resulted in osmotic stress in largemouth bass from both collection sites. At 8 ppt, marsh bass had significantly higher plasma chemistry values and lower gill ATPase activities than freshwater fish. Marsh bass appear to have adapted to environments of variable salinity by reducing energetic expenditures related to osmoregulation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Michael Rogers Meador.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1718."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 77-83).</note>
+   <subject authority="lcsh">
+      <topic>Largemouth bass</topic>
+      <topic>Effect of salt on</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Largemouth bass</topic>
+      <topic>Behavior</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Largemouth bass</topic>
+      <topic>Physiology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917837</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307699</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062576</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 MEAD</identifier>
+   <identifier type="dewey">8917837</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 MEAD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

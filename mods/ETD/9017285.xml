@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nitrogen fixation in Beggiatoa, Vitreoscilla, and Thiothrix</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Polman, James Kevin</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Microbiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 172 leaves : ill. ; 29 cm.</extent>
+      <extent>183 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Many strains of Beggiatoa, Vitreoscilla, and Thiothrix were found to be capable of nitrogen fixation and to harbor plasmid DNA of various sizes, including large plasmids, and several plasmids in the 12 to 15 Mdal size range.;Nitrogenase induction and activity in Beggiatoa alba were studied with respect to the effects of oxygen, pH, temperature, and nitrogenous compounds. Induction required microaerobic conditions. Nitrate and nitrite repressed induction, but glutamine did not. A pH optimum of 6.5 to 8.0 and a temperature optimum of 29$\sp\circ$C were observed. Nitrogenase activity was immediately and incompletely inhibited by ammonium, but was not inhibited by nitrate, nitrite, and amino acids. The effects of different concentrations of methionine sulfoximine, an inhibitor of bacterial ammonium assimilation and transport, on ammonium inhibition of nitrogenase suggested that ammonium transport rather than assimilation was involved. Thallium inhibited activity similarly to ammonium, which, along with other experimental observations, implies that inhibition by ammonium is caused by the ionic effect that ammonium transport may have on the proton motive force.;An effort was made to clone Beggiatoa alba nif genes. Recombinant DNA molecules containing B. alba DNA and pBR322 were used to transform E. coli. However, the Klebsiella pneumoniae nifHDK probe that was to be used for screening recombinants showed weak hybridization with B. alba DNA. Unsuccessful attempts were made to optimize hybridization. During this portion of the investigation, it was found that B. alba B18LD DNA is resistant to digestion by several restriction endonucleases, which suggests that the DNA contains modified bases.;A technique was developed for purifying DNA from agarose gels. The procedure is an improvement over others because it is rapid, easily reproducible, and gives good yields of DNA."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by James Kevin Polman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 5780."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 160-170).</note>
+   <subject authority="lcsh">
+      <topic>Nitrogen-fixing microorganisms</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Nitrogen</topic>
+      <topic>Fixation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bacterial genetics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017285</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25595285</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094342</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 POLM</identifier>
+   <identifier type="dewey">9017285</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 POLM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

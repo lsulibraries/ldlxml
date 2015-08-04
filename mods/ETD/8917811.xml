@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Circulation and sediment dispersal on the Louisiana-Mississippi- Alabama continental shelf</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Dinnel, Scott Page</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 173 leaves : ill. ; 29 cm.</extent>
+      <extent>187 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The circulation on the LMAS and adjacent regions has been characterized using historical hydrographic data and current meter data. Generalized seasonal circulation patterns have been proposed based on objective data over the inner shelf, outer shelf, and upper slope.;Hydrographic data, acquired from the National Oceanographic Data Center, covering the Louisiana-Mississippi-Alabama shelf (LMAS) and slope was analyzed. Seasonal maps of dynamic heights, relative to 500 db, were computed.;Inner shelf current data, acquired from the U.S. Army Corps of Engineers, was analyzed. Three current meter deployments (winter 1980, spring 1981, summer 1981) with up to eight mooring locations, along with coastal winds, were subject to complex spectral analyses, complex empirical orthogonal function analyses, and momentum balance analyses.;Westward flows on the inner shelf, outer shelf and upper slope in the spring and summer are interpreted as the northern and southern portions of closed cyclonic and anticyclonic circulation cells, respectively. Spring and summer midshelf flow is eastward, with offshelf flow over the eastern LMAS shelf break. Upper slope flow continues on westward in front of the Mississippi Delta, while outer shelf flow turns northward onto the shelf just east of the Delta. These two circulating cells are assumed to continue in the fall. Flow in front of the Delta is to east in fall and winter. Winter shelf circulation appears to consist of a single cyclonic cell. There is weak offshelf flow all along the shelf-break in winter.;Wave-induced sediment resuspension and advection by subtidal bottom currents are both necessary for net sediment transport on the inner shelf. Long-term hindcast wave statistics for the LMAS, acquired from the U.S Army Corps of Engineers, were analyzed. Sediment resuspension during high wave conditions can occur in water depths of 40 m or less. Highest wave conditions, with durations on the order of hours per year, may resuspension sediment in up to 80 m water depth. Sediment transport occurs primarily during prefrontal winds conducive to long waves and cyclonic inner shelf flow in the winter and spring. Outer shelf and upper slope sediments are most likely to be resuspended only by hurricane condition waves or, possibly, by direct influence of the Loop Current."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Scott Page Dinnel.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1825."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 146-154).</note>
+   <subject>
+      <geographicCode authority="marcgac">nm----</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ocean circulation</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Continental shelf</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Suspended sediments</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sediment transport</topic>
+      <geographic>Mexico, Gulf of</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917811</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24325001</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910903</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1063167</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 DINN 378.76 L930D 1988 DINN</identifier>
+   <identifier type="dewey">8917811</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 DINN 378.76 L930D 1988 DINN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

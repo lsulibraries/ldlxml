@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nanostructure modeling in oxide ceramics using large scale parallel molecular-dynamics simulations</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Campbell, Timothy J.</namePart>
+      <namePart type="date">1965-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 97 leaves : ill. ; 29 cm.</extent>
+      <extent>98 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this dissertation is to investigate the properties and processes in nanostructured oxide ceramics using molecular-dynamics (MD) simulations. These simulations are based on realistic interatomic potentials and require scalable and portable multiresolution algorithms implemented on parallel computers.;The dynamics of oxidation of aluminum nanoclusters is studied with a MD scheme that can simultaneously treat metallic and oxide systems. Dynamic charge transfer between anions and cations which gives rise to a compute-intensive Coulomb interaction, is treated by the O(N) Fast Multipole Method. Structural and dynamical correlations and local stresses reveal significant charge transfer and stress variations which cause rapid diffusion of Al and O on the nanocluster surface. At a constant temperature, the formation of an amorphous surface-oxide layer is observed during the first 100 picoseconds. Subsequent sharp decrease in O diffusion normal to the cluster surface arrests the growth of the oxide layer with a saturation thickness of 4 nanometers; this is in excellent agreement with experiments. Analyses of the oxide scale reveal significant charge transfer and variations in local structure. When the heat is not extracted from the cluster, the oxidizing reaction becomes explosive.;Sintering, structural correlations, vibrational properties, and mechanical behavior of nanophase silica glasses are also studied using the MD approach based on an empirical interatomic potential that consists of both two and three-body interactions. Nanophase silica glasses with densities ranging from 76 to 93% of the bulk glass density are obtained using an isothermal-isobaric MD approach. During the sintering process, the pore sizes and distribution change without any discernable change in the pore morphology. The height and position of the first sharp diffraction peak (the signature of intermediate-range order) in the neutron static structure factor shows significant differences in the nanophase glasses relative to the bulk silica glass. Enhancement of the low-energy vibrational modes is observed. The effect of densification on mechanical properties is also examined."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Timothy J. Campbell.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1131."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922060</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40651324</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919932</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CAMP</identifier>
+   <identifier type="dewey">9922060</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CAMP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

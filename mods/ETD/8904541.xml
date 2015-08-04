@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>"You are about to begin reading"</title>
+      <subTitle>the nature and function of second person point of view in narrative</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Hantzis, Darlene Marie.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication, Theatre, and Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 152 leaves ; 29 cm.</extent>
+      <extent>158 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study asserts that second person point of view functions as a distinct category of point of view, which has been discounted by critical theorists. Second person point of view is defined in this study as a particular use of the second person pronoun. The ""you"" in second person point of view texts generates an alternating pattern of identification and displacement that constructs an intersubjectivity among narrative elements--narrator, actant, and narratee(s). Therefore, common uses of the ""you"" to refer only to the reader (narratee) of a text or to the actant in a text do not constitute second person point of view texts.;The theory of second person point of view developed in this study argues that second person point of view issues challenges to traditional concepts of narrative subjectivity and authority. The rejection of the traditional sign of subjectivity and authority--the stated or implied ""I""--combined with the proposition of an alternative--the multiple ""you""--expresses the particular challenges of second person point of view.;The challenges to narrative subjectivity and authority issued by second person point of view indicate the postmodern impulse of second person point of view. By exposing, undermining, and revising traditional concepts of narrative, second person point of view texts participate in the postmodern culture, which seeks to disabuse notions of truth invested in form. The unique challenge of second person point of view to subjectivity participates in contemporary feminist practice as well. Because women have been consigned to the role of nonsubjective ""other,"" ""otherness"" is of particular interest to feminist theorists and critics. Second person point of view, as defined in this study, constructs a ""discourse of others"" in the voice of the multiple ""you."" In this way, second person point of view invests ""others"" with the subjectivity denied them by the traditional ""first person singular fiction of selfhood."".;This study proposes continued research of the implications for contemporary literary theory and practice and performance theory and practice offered by second person point of view."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Darlene Marie Hantzis.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: A, page: 3550."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 143-151).</note>
+   <subject authority="lcsh">
+      <topic>Point of view (Literature)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Narration (Rhetoric)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904541</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22868602</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901218</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1013276</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 HANT</identifier>
+   <identifier type="dewey">8904541</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 HANT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

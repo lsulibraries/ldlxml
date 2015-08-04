@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Immobilization of enzymes on porous silica for the micro-digestion of oligonucleotides with analysis by CE</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Davidson, Yolanda Yvette</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 125 leaves : ill. ; 29 cm.</extent>
+      <extent>126 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The research in this dissertation has focused on the immobilization of enzymes on silica to perform digestions with DNA and RNA with subsequent analysis by capillary electrophoresis. Solid-phase DNA restriction digest reactors were developed consisting of silica particles modified with a covalently tethered restriction enzyme. This solid-phase restriction reactor enables digestion and separation of minute quantities of DNA with minimal reagent consumption. The restriction enzymes, HaeIII, PstI and  HindIII, were successfully immobilized via glutaraldehyde linkages to porous silica micro-particles. Studies were done to examine the impact of immobilization on enzymatic activity. Digestions of &amp;phis;X174-RF  DNA phage and SV40 Viral DNA were performed with the immobilized enzymes by placing the silica particles in solution with the target DNA. The digests were analyzed off-line using capillary electrophoresis (CE) with laser-induced fluorescence (LIF) detection. Timed studies were performed to establish optimal conditions for complete digestion. Digests utilizing immobilized  HaeIII and HindIII were similar in composition to homogeneous, free solution digests. PstI showed no evidence of activity upon immobilization. The immobilized restriction enzymes could also be used for multiple rounds of digestion; however, longer incubation times were required for successive runs probably due to partial heat denaturation of the restriction enzyme. Digests were prepared and isolated by use of a simple micro-spin column consisting of a layer of immobilized enzyme-coated silica on a molecular weight cut-off filter.;A method was developed for the digestion of RNA using silica-immobilized enzymes. Additionally, a capillary electrophoresis (CE) method was evaluated for the separation of the resulting oligonucleotides. Ribonuclease A (RNase A) and Ribonuclease T1 (RNase T1) enzymes were successfully immobilized via glutaraldehyde linkages to porous silica particles. Studies were performed to establish the minimum time necessary to achieve complete digestion using immobilized enzymes and were compared to similar studies of free solution enzyme digests. Experiments were performed to determine conditions to achieve the best separation and resolution of RNA oligonucleotide digestion products. The quality of the separation in the electrophoresis buffer was pH dependent with the most efficient separation occurring at lower pH. Multiple digests could be performed over several days."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yolanda Yvette Davidson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1375."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963943</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43689502</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000322</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921224</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 DAVI</identifier>
+   <identifier type="dewey">9963943</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 DAVI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

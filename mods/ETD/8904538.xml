@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Root and top growth response of five woody ornamental species to in-field fabric containers, bed height, trickle irrigation, fertilizer source and fertilizer rate in Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Fuller, Donald L. (Donald Lee)</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Horticulture.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 112 leaves ; 29 cm.</extent>
+      <extent>123 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Fabric field container studies were initiated in April, 1985, and continued for two years. The following four treatment combinations were evaluated: (1) production methods and trickle irrigation; (2) fertilizer sources and trickle irrigation; (3) fabric field container size, trickle irrigation, and fertilizer application methods; and (4) rate of slow-release fertilizer. Uniform 3.8 liter container-grown liners of Acer rubrum (red maple), Betula nigra (river birch), Pinus Elliotti (slash pine), Quercus virginiana (live oak), and Taxodium distichum (bald cypress) were transplanted in each of the studies, and Liriodendron tulipifera (tulip tree) was also included in study four. Production methods included balled and burlap (B&amp;B) trees grown in flat and raised beds and 46-cm-diameter fabric field container trees grown in flat beds.;Plant production method did not influence first or second year plant height and trunk caliper of Acer, Pinus, Quercus and Taxodium, whereas, Betula plant height was reduced by the fabric container. Fabric containers resulted in 65-76% (Acer), 32-39% (Betula), 97-110% (Pinus), and 25-80% (Taxodium) increase in root mass density compared with B&amp;B treatments after 2 years. Root dry weights were 28% higher for irrigated trees compared with nonirrigated trees. Fabric container root balls of Acer and Quercus were sensitive to postharvest handling. The increased root mass density of Taxodium trees grown in fabric containers resulted in an increase in root growth potential compared with B&amp;B trees.;Fertilizer sources had no effect on first and second year plant heights and trunk caliper of trees grown in 46-cm-diameter fabric containers. Species varied in response to trickle irrigation in study 3. Betula, Quercus, and Taxodium responded in a positive manner to trickle irrigation. Top growth and harvested root systems of Acer and Pinus were negatively affected by trickle irrigation.;N rates greater than 84 kg/ha/yr were not beneficial to top growth for Betula, Liriodendron and Quercus trees grown in 46-cm-diameter fabric containers. Acer and Pinus did not benefit from N rates higher than 168 kg/ha/yr, and Taxodium produced best growth at a N rate of 252 kg/ha/yr."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Donald L. Fuller.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5089."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 63-75).</note>
+   <subject authority="lcsh">
+      <topic>Ornamental trees</topic>
+      <topic>Growth</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ornamental trees</topic>
+      <topic>Roots</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ornamental trees</topic>
+      <topic>Roots</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ornamental trees</topic>
+      <topic>Transplanting</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904538</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22992842</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910121</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1017383</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 FULL</identifier>
+   <identifier type="dewey">8904538</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 FULL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>method to discriminate species from hydroacoustic fish sampling systems</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Silva, Rui de Paula e.</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Oceanography and  Coastal Studies.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 116 leaves : ill. ; 29 cm.</extent>
+      <extent>117 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Samples of species and size composition obtained by trawling were matched with the corresponding echo-distributions from two hydroacoustic and trawl surveys in the western Indian Ocean, off Mozambique, and in two surveys in the northern Gulf of Mexico. In the Mozambique surveys, a Simrad EY-M echosounder was used and the data was analyzed by applying the Craig &amp; Forbes algorithm. In the Gulf of Mexico surveys, a BioSonics Dual-beam System (Model 102 echosounder, ESP echo-integrator, and ESP dual-beam processor) was used.;The results obtained show that, provided that a particular hydroacoustic and trawl sample yielded a stable size-distribution of the fish species present in the area and a stable TS-distribution of individual echoes, the match of the mean values of normal components of each distribution is achieved. The match was sought by calculating the beta coefficient from the ""simplified Love's equation"" (TS = 20 x log10 Length -- beta) and comparing the obtained value with published results for similar species.;A number of individual matches for the same species was then used to estimate the equations relating fish size and target strength for individual species in these multispecies ecosystems. This was achieved by testing the fit of the individual data pairs to linear regression models, both in the form of the simplified Love's equation, through a restricted regression with slope = 20, and on its generalized form (TS = m x log10 Length -- beta.) The models produced for the different species were also tested for differences among them and were found to be significantly different.;Equations relating target strength and fish size were adopted as representative for three species from the northern Gulf of Mexico, the round herring,  Etrumeus teres, the Gulf butterfish, Peprilus burti, and the chub mackerel, Scomber japonicus, and for one species from the western Indian Ocean, the Indian pellona, Pellona ditchella . In addition, one observation on the relationship between target strength and length of the round herring from Mozambique was found to fit the model adopted for the same species in the Gulf of Mexico."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rui de Paula E Silva.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3337.;Directors:  Charles A. Wilson; Donald Baltz."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979292</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44261194</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000608</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921338</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 SILV</identifier>
+   <identifier type="dewey">9979292</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 SILV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

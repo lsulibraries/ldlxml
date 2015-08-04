@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Application of Barton Esters in polymer modification</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Evenson, Timothy S.</namePart>
+      <namePart type="date">1972-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 111 leaves : ill. ; 29 cm.</extent>
+      <extent>111 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Esters of N-hydroxypyridine-2-thione, known as Barton esters, dissociate homolytically upon exposure to heat or light generating chain initiating acyloxy radicals and pyridine sulfide radicals that lead to 2,2'-dipyridyl disulfide. The dominant mode of Barton ester consumption is chain transfer, yielding pyridinesulfide end groups and acyloxy radicals. Thermolysis (80&amp;deg;C) or photolysis (25&amp;deg;C) of Barton esters initiated polymerization of styrene. The polymerization rate was found to be independent of Barton ester concentration. Chain transfer to initiator controls molecular weight; the chain transfer constants for phenyl Barton ester in styrene and acrylamide are 0.96 and 0.08 respectively. Polymer end-groups were identified as an ester group and a pyridinesulfide group, which was quaternized with iodomethane (88% yield).;Incorporation of Barton esters into the side groups of polymer chains facilitated the synthesis of graft copolymers; the asymmetric dissociation of the initiating moiety limits concomitant homopolymerization to under 8%. Grafting to Barton esterified poly(methacylate) backbones was accompanied by chain cleavage. Introduction of a phenyl linkage via poly(4-vinyl benzoate) eliminated this side reaction. Poly(arylene ether sulfone) elaborated by carboxylation (0.15 to 1.0 carboxyl groups per repeat unit) was Barton esterified in 95% yield, and styrene was grafted using photolytic conditions. Intramolecular chain transfer limited graft length from 10 to a maximum of 180 repeat units. Grafting of styrene to Barton esterified carboxymethyl cellulose was accompanied by backbone chain cleavage. Elaboration of hydroxypropyl cellulose with 1-oxa-2-oxo-3-thiaindolizinium chloride yielded a polymeric initiator on a stable cellulosic backbone. Graft copolymers to each of the polymeric initiators were formed from the following monomers: styrene, methyl methacrylate, 4-vinylpyridine, and acrylamide.;Homolytic cleavage of phenyl Barton ester in the presence of styrene and the tetramethylpiperidinyloxy (TEMPO) radical yields a TEMPO adduct (23%), which effects controlled radical polymerization of styrene. Extension of this synthesis to Barton esterified polymers yields substrates, which allow controlled graft copolymerization. The resultant ester linkage between backbone and graft allows the selective removal of the grafts for independent analysis. Depending upon polymerization times, grafts of polystyrene to both poly(arylene ether sulfone) and hydroxypropyl cellulose with number average molecular weights ranging from 28,000 to 89,000 can be achieved."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Timothy S. Evenson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: B, page: 1629."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925528</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40885289</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990302</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920152</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 EVEN</identifier>
+   <identifier type="dewey">9925528</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 EVEN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

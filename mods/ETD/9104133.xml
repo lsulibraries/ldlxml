@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Spectroscopy of hexamethyldipyrromethene anion</title>
+      <subTitle>interactions with metal ions</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Franco, Cristian O.</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xxii, 208 leaves ; 29 cm.</extent>
+      <extent>231 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This work includes: (1) a search for charge transfer interaction involving hexamethyldipyrromethene (HL) as a donor; (2) a spectroscopic study of hexamethyldipyrromethene anion (L$\sp-$), and, (3) an investigation of the spectroscopic characteristic of the copper chelate CuL$\sb2$.;There are presented reactions in which HL may react with some electron acceptors. It is reported that TCNE interacts with HL to form a 1:1 complex that has an equilibrium constant of (2.5 0.9) $\times$ 10$\sp $. Spectroscopic results indicate that haloacetones also interact with HL.;Hexamethyldipyrromethene is a molecule that consists of two methyl substituted pyrrole rings joined by means of a vinyl bridge. Its anion has been obtained by means of different reagents in various solvents and has been studied by using several instrumental techniques. Spectroscopic features such as visible absorption band maxima and $\sp1$H NMR chemical shifts depend on the counter ion (an alkali metal ion, Y$\sp{+}$). A study of the novel Y$\sp{+}$L$\sp{-}$ species allows a characterization of the L$\sp{-}$ moiety free from interligand peturbation or other orbitals that are present in the transition metal complexes (ML$\sb2$). In this study; characterization of the Y$\sp{+}\rm L\sp{-}$ species by means of visible absorption, FT-IR, luminescence, and high resolution NMR techniques is presented. It is concluded that the Y$\sp{+}$L$\sp{-}$ species constitute bridged complexes. In particular, a $\sp7$Li NMR downfield chemical shift of 1.66 ppm showed that the cation in Li $\sp{+}$L$\sp{-}$ is indeed coordinated to the nitrogens. An equilibrium between two Y$\sp{+}$L$\sp{-}$ species has been clearly demonstrated by means of NMR and visible absorption spectra.;A spectroscopic study of the CuL$\sb2$ complex is also included. This species may display a unique visible absorption band or two bands; the absorption depends on the method of synthesis. Qualitative experiments which seem to indicate that both spectra arise from a single molecule in two different geometries are presented."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Cristian O. Franco.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4360."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 193-199).</note>
+   <subject authority="lcsh">
+      <topic>Molecular spectroscopy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Charge transfer</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104133</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27211306</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930108</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1159996</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 FRAN</identifier>
+   <identifier type="dewey">9104133</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 FRAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

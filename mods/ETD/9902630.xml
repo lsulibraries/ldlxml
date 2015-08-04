@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>effects of PAH-contaminated sediments on benthic-feeding fishes and their associated prey</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Biological Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 177 leaves : ill. ; 29 cm.</extent>
+      <extent>178 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Subtidal sediments near Port Fourchon, Louisiana, USA, have been contaminated with produced water, as indicated by the levels of polycyclic aromatic hydrocarbons (PAH) for over four decades. Studies were undertaken to examine the effect of produced water/PAH on the potential for trophic transfer (from meiofauna and small macrofauna to benthic-feeding fishes) of sediment-bound contaminants. A survey of meiofaunal communities along a putative pollution gradient from the produced water outfall to a distance of 1 km found that meiofauna densities were significantly higher at the most contaminated sites ($\sim$10,000 ng PAH g$\sp{-1}$ dry sediment). The community at the most contaminated sites, however, exhibited significantly decreased diversity values, due primarily to a reduction in meiofaunal taxa and copepod species. In laboratory experiments, juvenile spot (Leiostomus xanthurus) did not avoid sediments contaminated with a putative PAH concentration of 22,000 ng PAH g$\sp{-1}$ dry sediment in preference/avoidance experiments, although PAH $&gt;$ 100,000 ng PAH g$\sp{-1}$ dry sediment greatly inhibited predation.;There was a strong indication of altered prey behavior at 22,000 ng PAH g$\sp{-1}$ dry sediment. Spot made more feeding strikes on contaminated sediment than on control sediment, consumed significantly more harpacticoid and chironomid prey, and exhibited a reduced per-strike processing (manipulation) time. Subsequent preference/avoidance experiments with the chironomid Chironomus decorus elicited a significant avoidance response, and tube construction was inhibited in diesel-contaminated sediments with putative PAH concentrations of 25,000, 50,000, and 100,000 ng PAH g$\sp{-1}$ dry sediment. Nevertheless, predation by bluegill (Lepomis macrochirus) was not enhanced on C. decorus in contaminated compared to uncontaminated sediments because uncontaminated sediment did not offer C. decorus a predation refuge.;These results suggest that meiofauna will be attractive to benthic-feeding fishes in produced water/PAH-contaminated sediment at sediment-PAH concentrations known from previous research to cause biological effects, at least in spot. It is possible that fish may feed preferentially in PAH-contaminated sediments because prey are more available and thereby increase contact with contaminated sediment. The result could lead to an increase in bioaccumulation of hydrophobic contaminants in benthic-feeding fishes."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Candace Hinkle-Conn.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 3952."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902630</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39650726</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980805</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919600</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 HINK</identifier>
+   <identifier type="dewey">9902630</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 HINK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

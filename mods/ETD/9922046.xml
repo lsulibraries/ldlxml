@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Tobacco farming in the age of the Surgeon General's warning</title>
+      <subTitle>the cultural ecology and structuration of burley tobacco production in Madison County, North Carolina</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Algeo, Catherine Marie</namePart>
+      <namePart type="date">1962-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 232 leaves : ill. ; 29 cm.</extent>
+      <extent>233 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study analyzes the transformation of burley tobacco farming underway in the late twentieth century in light of social, political, and economic forces that make tobacco a contested crop. It focuses on one county in southern Appalachia, Madison County, North Carolina, where tobacco has been a cash crop for over a hundred years. A synthesis of the theoretical and methodological approaches of cultural ecology and structuration is proposed as a means of exploring the components of agricultural change within Appalachia at a continuum of scales from the local to the national, while contextualizing farming within its environmental and social settings.;The study traces the development of Madison County's farm system from the late eighteenth century to the close of the twentieth century, highlighting the development and transition between two distinct eras of commercial tobacco production. For the contemporary agricultural scene, it details the mix of production systems, including burley tobacco, beef cattle and hay, that farmers combine in flexible and frequently changing livelihood strategies. While tobacco is central to both the agricultural economy and to cultural identity, off-farm work and forest resources such as timber and ginseng are important components of the farm economy. Farmers routinely incorporate forest resources from private and public lands into their livelihood strategies. Processes of negotiation are analyzed through which individuals and community groups mediate the institutionalized mechanisms of resource allocation and control framed by the U.S. Forest Service.;Agricultural change arises from a complex interplay of technological change, farmer adaptation and innovation, institutional forces, and sociocultural trends that reflect Appalachia's connections to distant places. The role of the federal tobacco program in structuring the local farm system is illustrated by the effects of changes in program formulation on land use and production practices. Farmers have responded to program uncertainty and a tight labor market in a variety of ways, including altering the traditional form of curing structures, adopting hydroponic seedling production, and hiring Mexican migrant laborers during harvest. The goal throughout the study is to contribute to a more fully articulated understanding of the contemporary Appalachian experience and the mechanisms of agricultural change."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Catherine Marie Algeo.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: A, page: 8420.;Directors: William V. Davidson; Stanley F. Stevens."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922046</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40650326</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990113</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919902</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 ALGE</identifier>
+   <identifier type="dewey">9922046</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 ALGE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

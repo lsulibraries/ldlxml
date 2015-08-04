@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Clarinet concertos by post World War II generation Norwegian composers</title>
+      <subTitle>Bjørn Kruse, Olav Berg, and Rolf Wallin</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Gibson, Beverly H. (Beverly Hird)</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 110 leaves : ill., music ; 29 cm.</extent>
+      <extent>111 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A substantial body of Norwegian clarinet literature exists that is infrequently performed outside of the Scandinavian countries and Europe. A new generation of composers emerged in the 1980s who have made visible their own individual approaches to composition. This monograph focuses on a selection of clarinet concertos composed by Bjorn Kruse (b. 1946), Olav Berg (b. 1949), and Rolf Wallin (b. 1957) which represent the most extensive pieces for clarinet in the respective composers' outputs to date and have been awarded prizes in composition contests. The composers have distinguished themselves as leading figures in the contemporary music scene in Norway, and have been influential forces in the growth in Norway's musical life over the last twenty-five years.;This monograph is designed to provide clarinetists with an interpretive guide to three significant clarinet concertos written by contemporary Norwegian composers whose works are available through the Norwegian Music Information Centre and Norsk Musikforlag but not yet distributed on a world-wide scale. Recognition of this repertoire will enlarge the scope of materials currently known and available to clarinet teachers and performers outside of Scandinavia.;Each of the three chapters on the clarinet concertos begins with a biographical sketch of the composer followed by a bibliographic description of the piece, including title, date of composition, premiere performance, publication, dedication, and timing; and a discussion of the compositional devices, formal design, special techniques and orchestration. An overview of the trends and developments in the twentieth-century Norwegian music provides the proper perspective for this generation of composers. Appendices include a list of each composer's works with a discography and an address list of Norwegian music institutions, libraries, performing organizations, and resource centers.;Information was collected through interviews with Norwegian composers and clarinetists, study of scores and recordings, and articles and books available through the Norwegian Music Information Centre, the University of Oslo and the Norwegian Composer's Society. Contemporary music in Norway has developed a distinct profile during the course of the last twenty-five years. Bjorn Kruse, Olav Berg, and Rolf Wallin aptly represent this generation of composers in the genre of the clarinet concerto."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Beverly Gibson.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: A, page: 3192."</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945717</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42077139</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990813</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920662</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 GIBS</identifier>
+   <identifier type="dewey">9945717</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 GIBS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

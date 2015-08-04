@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>examination of the effect of financial risk on the manager's choice of accounting methods</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Nichols, Linda Marie</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 122 leaves ; 29 cm.</extent>
+      <extent>131 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study examines the effect of the firm's level of financial risk on management's preference for full-cost or successful-efforts accounting in the oil and gas industry. Agency theory predicts that firms with increasing levels of financial risk have an incentive to switch to an accounting method which tends to increase net tangible assets and which creates more stable earnings in order to avoid technical default on loan covenants. Therefore, it is expected that successful-efforts firms with increasing levels of financial risk will tend to switch to use the full-cost accounting method.;Past studies have used leverage as a surrogate for financial risk, but it is argued in this study that leverage is not necessarily a good surrogate in the oil and gas industry. Instead, a variable, debt beta, is developed which represents a market assessment of financial risk. An informationally efficient market considers other factors besides leverage in assessing financial risk, and these factors are reflected in the debt beta.;The empirical results indicate that firms switching to the full-cost accounting method experience an increase in financial risk prior to the change, while firms changing to the successful-efforts method have stable financial risk. Unlike previous studies that used leverage variables as surrogates for financial risk level of full-cost firms is greater than that of successful-efforts firms. Nor can it be generally concluded that the financial risk level of nonchange firms change over time.;More importantly, the results of this study indicate that the debt beta does not always behave in the same manner as leverage variables. These results provide evidence that leverage may not be a good surrogate for financial risk in the oil and gas industry."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Linda Marie Nichols.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 5500."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 94-97).</note>
+   <subject authority="lcsh">
+      <topic>Petroleum industry and trade</topic>
+      <topic>Accounting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gas industry</topic>
+      <topic>Accounting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Risk</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017281</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25584933</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920403</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094260</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 NICH</identifier>
+   <identifier type="dewey">9017281</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 NICH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

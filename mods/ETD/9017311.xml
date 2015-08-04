@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>New learning and control algorithms for neural networks</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Youn, Chung Hwa</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Computer Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 147 leaves ; 29 cm.</extent>
+      <extent>155 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Neural networks offer distributed processing power, error correcting capability and structural simplicity of the basic computing element. Neural networks have been found to be attractive for applications such as associative memory, robotics, image processing, speech understanding and optimization. Neural networks are self-adaptive systems that try to configure themselves to store new information. This dissertation investigates two approaches to improve performance: better learning and supervisory control. A new learning algorithm called the Correlation Continuous Unlearning (CCU) algorithm is presented. It is based on the idea of removing undesirable information that is encountered during the learning period. The control methods proposed in the dissertation improve the convergence by affecting the order of updates using a controller.;Most previous studies have focused on monolithic structures. But it is known that the human brain has a ""bicameral"" nature at the gross level and it also has several specialized structures. In this dissertation, we investigate the computing characteristics of neural networks that are not monolithic being enhanced by a controller that can run algorithms that take advantage of the known global characteristics of the stored information. Such networks have been called bicameral neural networks. Stinson and Kak considered elementary bicameral models that used asynchronous control. New control methods, the method of iteration and bicameral classifier, are now proposed. The method of iteration uses the Hamming distance between the probe and the answer to control the convergence to a correct answer, whereas the bicameral classifier takes advantage of global characteristics using a clustering algorithm. The bicameral classifier is applied to two different models of equiprobable patterns as well as the more realistic situation where patterns can have different probabilities.;The CCU algorithm has also been applied to a bidirectional associative memory with greatly improved performance. For multilayered networks, indexing of patterns to enhance system performance has been studied."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Chung Hwa Youn.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: B, page: 8520."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 140-146).</note>
+   <subject authority="lcsh">
+      <topic>Neural networks (Computer science)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Algorithms</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017311</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25600949</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920407</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094674</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 YOUN</identifier>
+   <identifier type="dewey">9017311</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 YOUN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

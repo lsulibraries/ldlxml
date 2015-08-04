@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Evaluation of chemical treatments and intrinsic factors that affect the mutagenic potential of aflatoxin B₁-contaminated corn</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xviii, 202 leaves : ill. ; 29 cm.</extent>
+      <extent>203 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In the present project the use of ammoniation and fermentation as an integrated process was studied in order to give aflatoxin-contaminated corn an alternative use. Aflatoxin-contaminated corn can be fermented to obtain fuel alcohol and decontaminated distiller's dried solid grains (DDSG) can be used for animal feed.;The efficacy of a fermentation process, with the inclusion of ammonium persulfate, for the decontamination of aflatoxin B$\sb1$-contaminated yellow corn was studied, as well as the effect of peroxides on the ethanol production. Addition of 2.0% ammonium persulfate decreased the aflatoxin B$\sb1$ levels by 87%. Peroxides did not have an effect on ethanol production. This process was not mutagenic in the Ames test using Salmonella tester strains TA98 and TA100 with metabolic activation.;An isolation procedure based on thin layer chromatography technique was used to isolate factors that interfered with the mutagenic potential of AFB$\sb1.$ A dose-response type of relationship between a constant dose of AFB$\sb1$ and different concentrations of corn and corn fraction extracts were found in the Ames test. The corn fractions were found not to be toxic to either, Salmonella tester strain TA98 or TA100.;Anti-mutagenic fractions isolated from corn were tested against 1-methyl-3-nitro-1-nitrosoguanidine (MNNG) to determine their activity on a direct acting mutagen. All corn fractions tested positive against MNNG in the Ames test using Salmonella tester strain TA100. Anti-mutagenic activity was tested in five different varieties of corn fractions. A dose-response effect was observed for all the corn fractions tested using two tester strains with S9. Four anti-mutagenic isolates were analyzed by MALDI-MS and GC-MS. MALDI-MS showed the presence of two groups of molecules or molecular fragments. The molecular mass of one group ranged from 250 to 370 m/z, the other ranged from 540 to 640 m/z. GC-MS showed the presence of a linoleic acid-like compound.;The use of ammonium persulfate was shown to efficiently decontaminate AFB$\sb1$-contaminated corn during fermentation without affecting ethanol production. This research also found that corn has a number of compounds that may offer a protective effect against mutagenic events. One of these compounds may be linoleic acid or a linoleic acid-like compound."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Armando Burgos-Hernandez.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 3793."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902625</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39645451</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919573</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 BURG</identifier>
+   <identifier type="dewey">9902625</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 BURG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

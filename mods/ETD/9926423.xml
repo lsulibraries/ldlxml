@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Holding back the waters</title>
+      <subTitle>land development and the origins of levees on the Mississippi, 1720-1845</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Owens, Jeffrey Alan.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>3 v. (xvii, 949 leaves) : ill. ; 29 cm.</extent>
+      <extent>949 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Man's efforts to control flooding on the Mississippi began about 280 years ago, but the first 130 years has been neglected in scholarly literature. In spite of abundant primary sources, most histories of flood control on the Mississippi revolve around hydraulic engineering and the contributions of state and federal levee bureaucracies---factors which had almost no impact on the creation of the levee system. Engineers did install the first levee at New Orleans and levees on their own plantations in the 1720s, but the extension of the levee line thereafter was almost entirely the work of private land developers supervised at the local level, first by commandants, then by parish and county governments.;The soil of the floodplain accumulated over centuries as sediment deposited by overflows. Its fertility laid the basis for plantation agriculture, with the Mississippi as a means of transport, but overflows destroyed farmers' improvements. Native American ""hunting farmers"" who moved in concert with overflows were able to coexist with flooding, but did not conceive of land as property. When European kings began to convert swampland into property by means of grants, the prevention of flooding through levees was made a condition of title. Persons who wanted swampland as property built levees to acquire it. People who did not value land, or lacked the means to levee it, moved on and did not become part of the levee-building community. Since levees must be continuous to be effective, developers of the riverside had to submit to regimentation, coercion, and continuous oversight. Liberty was tempered by the demands of the environment.;The records of the era 1720 to 1845 tell a story of levee history quite different from that of the engineers' and post-bellum levee bureaucracies. Sources which reveal the levees' origins are various: letters of commandants, parish police jury and county board of police minutes, state levee laws for local bodies, newspaper accounts of floods, travel journals, tax and census records, and private papers. They tell of a vibrant community of land developers who domesticated the swamps with levees in the interest of survival and prosperity."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jeffrey Alan Owens.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: A, page: 1296.;Chair: Paul F. Paskoff."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9926423</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41381310</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990517</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920264</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 OWEN V.1 378.76 L930D 1999 OWEN V.2 378.76 L930D 1999 OWEN V.3</identifier>
+   <identifier type="dewey">9926423</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 OWEN V.1 378.76 L930D 1999 OWEN V.2 378.76 L930D 1999 OWEN V.3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

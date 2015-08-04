@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of chronic administration of phenylbutazone on reproduction in the mare</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Ellsworth, Mareth.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 197 leaves : ill. ; 29 cm.</extent>
+      <extent>212 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Phenylbutazone is a non-steroidal anti-inflammatory drug that acts by inhibiting prostaglandin synthesis. Prostaglandins are associated with crucial aspects of reproduction. In 5 experiments, mares were used to test the effects of phenylbutazone on reproduction. In all experiments, treatment was 2 g phenylbutazone or 10 ml physiological saline intravenously(control).;In Experiment I, 9 mares were phenylbutazone-treated for 180 consecutive days and teased. Ovaries were palpated and cyclicity was verified by circulating progesterone concentrations. Thirty-six cycles were evaluated. Mares were then divided into treatment and control groups. Estrous mares were artificially inseminated. Non-surgical embryo collection was performed 7 to 8 days post-ovulation. Three fertilized ova were collected from control mares and 1 from a treated mare. Results suggested that phenylbutazone had no effect on estrual behavior, cyclicity or ovulation.;In Experiment II, 8 mares were phenylbutazone-treated daily for 33 days. Blood samples and corresponding uterine secretions were obtained daily. Only purulent samples of uterine secretion were positive for phenylbutazone.;In Experiment III, 7 mares were placed on a switchback experimental design, teased daily and cyclicity was verified by circulating progesterone concentrations. On day 4 post-ovulation, mares were subjected to uterine biopsy and subsequent estrous behavior was determined by teasing. Days from biopsy to induced estrus for controls and treatment were significantly different (P $&lt;$ 0.025). Results of Experiments II and III suggested that phenylbutazone accumulated in inflamed uterine tissue and inhibited prostaglandin synthesis.;In Experiments IV &amp; V, 14 mares were teased daily. Estrous mares were mated. Treatment started on the first day of estrus and continued daily until embryo collection on day 10 post-ovulation. Embryos (blastocysts) were photographed to evaluate morphological development, incubated in Dulbecco's phosphate-buffered saline and then homogenized to determine total protein concentrations. Culture medium was assayed for prostaglandin synthesis. There was no significant difference between embryos recovered from treated or control mares for total prostaglandin synthesis. There was, however, a reduced concentration of PGF$\sb2\alpha$, PGE$\sb2$ and PGI$\sb2$ in embryos from treated mares compared with controls. Embryos from treated mares were significantly smaller (P $&lt;$ 0.05), but contained more total protein than control embryos. Treatment did not affect ovulation, fertilization or embryo viability."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mareth Ellsworth.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3473."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.) -- Louisiana State University, 1991.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Phenylbutazone</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Nonsteroidal anti-inflammatory agents</topic>
+   </subject>
+   <subject authority="mesh">
+      <topic>Horses</topic>
+      <topic>Reproduction</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200059</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25864623</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">920522</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200391</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 ELLS</identifier>
+   <identifier type="dewey">9200059</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 ELLS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

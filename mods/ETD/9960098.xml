@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>performance of prekindergarten children on representational tasks across levels of displacement</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Smith, Emily Flake.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 229 leaves : ill. ; 29 cm.</extent>
+      <extent>230 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This investigation was guided by Nelson's (1996) experiential theory and the Situational-Discourse-Semantic (SDS) model of Norris and Hoffman (1993, 1997, in press) which was used to establish predictions regarding the representational difficulty of each of the task conditions. Subjects were 32 four-year-old children enrolled in four prekindergarten programs located within a small city in southern Louisiana and represented both lower and middle SES populations. The tasks required subjects to represent knowledge of the bedtime routine, ranging from personal enactments with props through generation of stories and event scripts for hypothetical situations. Performances were analyzed for content in terms of event structure or story structure. The linguistic forms of the performances were analyzed for MLU, completeness, and complexity. Subjects were predicted to perform higher on lower level tasks. The view of representational abilities as existing along a continuum of displacement levels as proposed by the SDS model was largely supported by the analysis of content scores. Partial support resulted for the prediction that children would produce utterances with more completeness and complexity for tasks rated as lower levels of the SDS model.;Experiential theory and the SDS model propose that the ability to represent information displaced from the self and the present time and space is mediated by language experience with caretakers in direct and indirect literacy experiences. Subjects having higher levels of home literacy experience, as measured by a caretaker questionnaire, were predicted to perform higher on higher level tasks. Subgroups were formed according to caretaker reports for higher and lower amounts of home literacy experience. Performance scores for the two groups were compared. Results largely supported this prediction as the higher literacy experience group scored higher on all tasks with significant differences for 5 of the 7 tasks on content and for only the highest level task on form. Content and form scores for all subjects on the 7 representational tasks were also correlated with the home literacy experience scores. Correlations for individual performances and home literacy experience generally supported predictions made by the SDS model as high correlations were found for the highest level tasks."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Emily Flake Smith.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: A, page: 4900.;Directors:  Janet A. Norris; Robert C. Lafayette."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960098</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43369471</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921037</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 SMIT</identifier>
+   <identifier type="dewey">9960098</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 SMIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

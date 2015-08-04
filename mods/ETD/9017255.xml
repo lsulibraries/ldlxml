@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>treatment of Thomas Hobbes in twentieth-century political thought</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cole, David Randolph</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Political Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 360 leaves ; 29 cm.</extent>
+      <extent>369 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In the wake of the political upheavals of the twentieth century, political theorists have rediscovered the unsentimental teachings of Thomas Hobbes. Hobbes was a philosopher of order during a period of disorder--the English Civil War. He taught that sovereignty ought to be absolute and unchallengeable, so that order might be preserved. In particular, the sovereign ought to have the power to approve or disapprove political and religious teachings--in effect, to establish an unchallengeable ""civil theology."" Hobbesian sovereignty might preserve order, but it would also cut off political discussion and debate in summary fashion. In the twentieth century, political theorists have suspected that ideologies such as those of free-market capitalism, secularism, or the liberal-democratic welfare state might be among the components of a contemporary ""civil theology."" This dissertation will examine the thought of Hobbes, but will focus special attention on those political theorists for whom he has held the most fascination in the twentieth century. The interpretations offered by Leo Strauss, Michael Oakeshott, and C. B. Macpherson, all of whom have written extensively on Hobbes, will be examined in detail. The brief but perceptive contributions offered by Hannah Arendt and Eric Voegelin will be considered, as will the interpretation of Thomas Spragens, a political theorist of the postwar generation who has attempted to synthesize some of the main currents in the twentieth-century philosophical and political thought.;To an extent, the thought of all six of the thinkers considered here bears upon the question of which doctrine--that of laissez-faire capitalism or of the liberal-democratic welfare state--most closely resembles a sinister ""neo-Hobbesian"" dogma which threatens to circumscribe political debate. This issue will be the subject of some concluding remarks, which will draw upon the contributions of the six twentieth-century thinkers while invoking the contrast between Hobbes and Aristotle as a central theme."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by David Randolph Cole.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 6230."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 350-357).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Hobbes, Thomas</namePart>
+         <namePart type="date">1588-1679</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Political science</topic>
+      <topic>Philosophy</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017255</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25582163</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920402</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094234</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 COLE</identifier>
+   <identifier type="dewey">9017255</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 COLE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ecology and loss assessment of selected homopteran pests on sugarcane</title>
+      <subTitle>interactions with fire ant, Solenopsis wagneri Santschi</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Woolwine, Andrew Evans</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Entomology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 231 leaves : ill. ; 29 cm.</extent>
+      <extent>231 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Field studies in 1995, 1996, and 1997, using insecticides to alter population densities of yellow sugarcane aphid, Sipha flava (Forbes), West Indian canefly, Saccharosydne saccharivora (Westwood) and the pink sugarcane mealybug, Saccharicoccus sacchari (Cockerell), indicated that sugarcane infested by these insects did not suffer sugar quality loss (as measured by brix, polarity, sucrose, purity, and theoretical recoverable sugar (TRS)). There was no apparent indication that Homoptera stressed sugarcane (indicated by concentrations of free amino acids in extracted sugarcane juice). A very slight, but significant increase in the percent brix was observed in sugarcane juice extracted from stalks washed free of mealybug-related contamination. Theoretical recoverable sugar calculations in the aphid and canefly infested plots in 1995 indicated a potential for $3.32 to \$33.76 increase in profits per hectare in cane averaging 67.25 metric tons per hectare and suggested that Homopteran feeding actually increased yields. Given that Homoptera were a source of carbohydrates for ants and did not appear to cause yield loss, the pest status of sugarcane Homoptera is being reconsidered.;In weekly surveys of all nodes of 30 plants, red imported fire ants, Solenopsis wagneri Santschi were more commonly observed foraging near the upper nodes of sugarcane having mealybugs, than on lower nodes devoid of mealybugs. Ants were associated with mealybugs in 1996 and 1997 in plots subjected to insecticidal treatments. Following the 4 Sep 1996 insecticide treatments, there was no detectable relationship between ants and mealybugs, suggesting that these 'soft' insecticides disrupted the relationship. In 1997, canefly honeydew on the leaf surfaces also appeared to disrupt the mealybug-ant relationship. Ants less frequently associated with mealybugs as mealybug densities declined near the end of the season. Observations indicated that ants did not tend caneflies and rarely yellow sugarcane aphids for honeydew.;Data collected following the use of four different winter cover crops in sugarcane suggested that neither cover crop cultivar nor biomass substantially influenced arthropod densities or cane stand densities. Although positive impacts of winter cover crops were not detected for the variables measured, these data do not suggest that cover crops provide no agronomic benefit to farmers."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Andrew Evans Woolwine.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2555."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836917</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980525</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919363</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 WOOL</identifier>
+   <identifier type="dewey">9836917</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 WOOL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

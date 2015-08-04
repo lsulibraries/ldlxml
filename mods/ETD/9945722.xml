@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of substituent substitution on a bimetallic hydroformylation catalyst based on a tetraphosphine ligand</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 93 leaves : ill. ; 29 cm.</extent>
+      <extent>94 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The main concentration of this work was to further study the unusual catalytic activity and selectivity of the bimetallic hydroformylation catalyst based on the tetraphosphine ligand, et,ph-P4. This activity and selectivity are a product of both the rigid steric environment and the cooperativity between the two Rh metal centers. This project focused on probing both the mechanism employed by this system, and studying the effect of manipulation on the steric environment at the binding site.;In situ spectroscopic methods have led to the formulation of a dicationic catalytic system. This is highly unusual in that all monometallic rhodium or cobalt hydroformylation catalysts operate via neutral hydrido-carbonyl metal complexes. However, a neutral catalyst precursor based on this ligand is a terrible hydroformylation catalyst. Spectroscopic studies have shown that the two systems are very different under hydroformylation conditions. Assignment of various catalytic species present in both systems are discussed.;Variations to the tetraphosphine ligand have allowed for study of the importance of the rigid steric environment present in this catalyst. In particular, the relative size and shape of the substituents on the terminal phosphines have been shown to play an important role in determining both the activity and selectivity of the catalyst. Three new catalyst systems were synthesized and tested for catalytic activity. All three new systems negatively effected both the activity and regioselectivity of the catalyst for hydroformylation of alpha-olefins. Initial studies on the catalyst based on me,ph-P4, however, have shown it to be effective for the asymmetric hydroformylation of vinyl esters. Initial results with chiral 1-[Rh2(nbd)2(me,ph-P4)] 2+ are reported here."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Donna Kae Howell.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4601."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945722</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42083544</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990816</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920667</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HOWE</identifier>
+   <identifier type="dewey">9945722</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HOWE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>dark side of paradise</title>
+      <subTitle>race and ethnicity in the novels of F. Scott Fitzgerald</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Smith, Felipe</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 319 leaves ; 29 cm.</extent>
+      <extent>326 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"According to author and scholar Ralph Ellison, the writers of the early twentieth century (with the exception of Faulkner) adopted Mark Twain's stylistic innovations in pursuit of their personal myth instead of ""recreating and extending the national myth"" by continuing Twain's development of ""the Negro as the symbol of man."" To Ellison, these writers had capitulated to a strong current prevalent in American thought: American self-definition in racially exclusive terms. They presented as reality stereotyped portrayals of blacks and other ethnic minorities which served as ""key figure (s) in a magic rite by which the white American seeks to resolve the dilemma arising between his democratic beliefs and certain antidemocratic practices."" Using the terminology first proposed by Martiniquan psychologist Frantz Fanon, Abdul JanMohamed has attributed this systematic negative figuration of blacks and other dark-skinned people to a ""Manichean aesthetic."" When they are consistently the recipients of negative valuation, these dark figures become themselves symbols of negation, lowering the value of that which they influence or are associated with. On the other hand, that which resists or opposes them gains in value. By close reading of the novels of F. Scott Fitzgerald, I will demonstrate the persistence throughout his writing career of this ""Manichean aesthetic"" and use it to identify a cluster of beliefs concerning race and ethnicity which heavily influence his numerous considerations of the American identity and ethos. This cluster of beliefs forms an ideological core or subtext which is an essential element in Fitzgerald's despairing vision of American society in the postwar era. In This Side of Paradise, Fitzgerald uses race and ethnicity to classify the various experiences which shape the moral sensibilities of his hero. In The Beautiful and Damned, he is openly nativistic, while in The Great Gatsby, he renders his vision of a racial apocalypse in largely symbolic terms. The dissertation will focus on Tender Is the Night, which contains Fitzgerald's most ambitious attempt to comprehend the impact of race on the American identity, and will conclude with an assessment of his unfinished The Last Tycoon, which breaks the pattern in its characterization of Jewish movie producer Monroe Stahr."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Felipe Smith.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: A, page: 1307."</note>
+   <note>Vita.</note>
+   <note>Includes bibliographical references (leaves 307-318).</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Fitzgerald, F. Scott (Francis Scott)</namePart>
+         <namePart type="date">1896-1940</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Criticism and interpretation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Fitzgerald, F. Scott (Francis Scott)</namePart>
+         <namePart type="date">1896-1940</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Political and social views</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Race in literature</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Ethnicity in literature</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917858</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307641</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062563</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 SMIT</identifier>
+   <identifier type="dewey">8917858</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 SMIT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

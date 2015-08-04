@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>impact of alternative presentations of cash flows from operations on the relevance of funds flow information</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cornell, David W.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 146 leaves ; 29 cm.</extent>
+      <extent>155 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Generally accepted accounting procedures allow the use of either the direct or indirect presentation of cash flow from operations in the statement of cash flows. A behavioral study is employed to examine the impact of these alternative presentations on the relevance of the information provided by the statement. Bank loan officers make line of credit and interest rate decisions, and projected cash flow from operations based on a set of financial statements presented in either the direct or indirect format. The study also examines the feedback value of the alternative presentations, which is operationalized as the change in accuracy of projections made before and after feedback. The experiment is performed twice, once for a company with increasing cash flows, and again for a company with decreasing cash flows. Data analysis is performed using a priori contrasts and the Mann-Whitney test with the Bonferroni multiple comparison technique.;The results of the study indicate that the alternative presentation formats do not result in significant differences for the line of credit, the interest rate premium, or the feedback variables. Some evidence is found that the alternative presentations of cash flow from operations differ in terms of predictive ability. Two of the four cash flow projections are significantly different at the family level of significance of.10. The results also indicate that neither presentation format is always superior to the other in terms of predictive accuracy. While the results of the study are not strong, the primary implication is that the FASB should reevaluate the optional disclosure of the direct format. The direct method may provide additional, relevant information to investors and creditors in certain situations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by David W. Cornell.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2557."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 107-112).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cash flow</topic>
+      <topic>Accounting</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Funds-flow statements</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Accounting</topic>
+      <topic>Standards</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002132</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24556256</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911014</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067590</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 CORN</identifier>
+   <identifier type="dewey">9002132</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 CORN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

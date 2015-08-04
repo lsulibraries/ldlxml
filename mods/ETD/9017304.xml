@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Three essays on the determinants and effects of public sector bargaining laws</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Waters, Melissa S. (Melissa Suzanne)</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Economics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 244 leaves ; 29 cm.</extent>
+      <extent>252 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The theoretical foundation of this model is the economic theory of regulation as developed by Stigler; in addition, modifications of the economic or special interest theory implied by the Public Choice school of thought are employed. A synthesis of these two theories of regulation, then, provides the framework upon which to develop a general model of the causes and consequences of laws regulating the bargaining rights of state employees.;Topic One is devoted exclusively to the determinants of state-wide bargaining rights laws. The data are pooled over two years, and state laws are classified into one of three possible categories: bargaining prohibition (or nonexistence of a law), mandatory meet and confer, and mandatory bargaining. The dependent variable, then, is ordinal. Each observation is a discrete realization of the underlying, unobservable variable, sentiment toward public unionism. Estimation proceeds by the technique of McKelvey and Zavonia (1976). The independent variables are divided into two categories: economic/demographic, and political. Inclusion of variables in the former category is motivated by the Chicago School's interest group theory, while the Public Choice School and Economics of Legislatures School suggest variables proxying characteristics of the political process.;Topic Two, employing the basic model developed in Topic One, estimates the determinants and effects of bargaining laws simultaneously. The dependent variable in the ""effects"" equation is union density. Single equation estimation of either process is assumed to suffer from simultaneous equations bias, the consequences of which are biased and inconsistent parameter estimates. An econometric technique developed by Heckman (1978) is employed in order to account for the estimation of an ordinally measured endogenous variable within a simultaneous equations system.;Topic Three applies the simultaneously estimated general model developed in Topic Two to three separate employee groups: teachers, firefighters, and police officers. By doing this, comparisons may be made among individual sub-groups, and the applicability of the general model tested."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Melissa S. Waters.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 5980."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 236-242).</note>
+   <subject authority="lcsh">
+      <topic>Labor unions</topic>
+      <topic>Government employees</topic>
+      <topic>Law and legislation</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Collective bargaining</topic>
+      <topic>Government employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Collective labor agreements</topic>
+      <topic>Government employees</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Labor economics</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017304</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25600929</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920407</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094671</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 WATE</identifier>
+   <identifier type="dewey">9017304</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 WATE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

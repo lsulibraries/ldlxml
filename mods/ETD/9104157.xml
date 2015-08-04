@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Toward an expert system for terrain analysis</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Narasimhan, Ravi</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 252 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>269 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Terrain analysis is the systematic study of image patterns relating to the origin, and composition of distinct terrain units called landforms. It takes into account and provides information about physical site factors which are used by civil engineers for evaluating the suitability of a site for a terrain related engineering application. Terrain analysis is a time consuming labor intensive process and requires a significant degree of expertise. In this dissertation, an expert system paradigm has been adopted, for developing a computational approach to terrain analysis problem solving. A methodology was developed for the representation and management of uncertain terrain knowledge. The ""vagueness"" that is inherent in the descriptions of terrain analysis terms was represented using fuzzy models. The Dempster-Shafer theory of evidence was adopted to establish hypotheses about the type of terrain based on observed evidences. A goal directed backward form of reasoning was employed for evaluating the suitability of a site for a terrain related engineering application. The reasoning strategy was formalized in production rules, and the fuzzy models of terrain terms were formalized in frames. Procedural computations were formalized in LISP code. The methodology was implemented in the Terrain Analysis eXpert (TAX) system. TAX was developed by employing the expert system shell KEE (Knowledge Engineering Environment) and the image processing package ELAS (Earth resources Laboratory Application Software). TAX was tested with a real data set consisting of a digitized color infra-red photograph and digital elevation data. The conclusions arrived at by TAX compared favorably to those reached by an expert who analyzed the same site using traditional photointerpretation techniques."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ravi Naraimhan.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4501."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 246-251).</note>
+   <subject authority="lcsh">
+      <topic>Geomorphology</topic>
+      <topic>Computer programs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Landforms</topic>
+      <topic>Computer programs</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Topographical surveying</topic>
+      <topic>Computer programs</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104157</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27257534</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160515</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 NARA</identifier>
+   <identifier type="dewey">9104157</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 NARA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

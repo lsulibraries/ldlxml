@@ -8,7 +8,7 @@
    <titleInfo>
       <title>Production and nitrogen dynamics of a Vallisneria americana grass bed in Lake Pontchartrain, Louisiana</title>
    </titleInfo>
-   <name type="personal" usage="primary">
+   <name type="personal" usage="primary" nameTitleGroup="1">
       <namePart>Steller, Diana Lee</namePart>
       <namePart type="date">1950-</namePart>
       <role>
@@ -76,4 +76,29 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
    </recordInfo>
    <identifier type="dewey">378.76 L930D 1985 STEL 378.76 L930D 1985 STEL</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1985 STEL 378.76 L930D 1985 STEL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
 </mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Utilizing a network program representation to support production system program development and execution</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cunningham, Sally Jo</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Computer Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 150 leaves : ill. ; 29 cm.</extent>
+      <extent>157 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation discusses modifications of the internal architecture of production systems that could significantly increase the execution performance of production system programs. This increased efficiency is achieved in part by modifications to the matching step of the execution cycle. Rather than checking all possible instantiations, we propose to consider only a small subset of the potential instantiations which are the ""best candidates"" for firing (according to the conflict resolution scheme). The increased execution efficiency provided by this matching strategy is compounded by modifying the OPS5 conflict resolution strategies. We propose a goal-directed (look-ahead) conflict resolution strategy which will still retain the responsiveness emphasized by OPS5.;Execution efficiency may be further enhanced by dividing a program knowledge base into procedures, such that each procedure represents a logical unit of processing. As a procedure executes, only the productions forming the procedure are matched against the program database. This strategy reduces the matching overhead for the program. Modularization also enables the programmer to avoid unwanted rule interactions and permits data abstraction and information hiding in the procedures.;Program development is supported by our algorithms to diagnose errors in both the program knowledge base and database. Many of these algorithms are based on a network representation of a program's potential rule and procedure interactions. These tests may be administered at compile time and during program execution. The network program representation also forms the basis of techniques for program testing: the network forms the infrastructure for a graphical program trace, provides a means of measuring the comprehensiveness of program testing, and is utilized in determining the possible input and output data of a program's potential execution paths.;While we present our methods in the context of OPS5, a popular forward-chaining production system, these techniques may be applied to many other productions systems."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Sally Jo Cunningham.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4442."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 116-124).</note>
+   <subject authority="lcsh">
+      <topic>OPS5 (Computer program language)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Expert systems (Computer science)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Debugging in computer science</topic>
+      <topic>Computer programs</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104122</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27211409</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930108</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160013</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 CUNN</identifier>
+   <identifier type="dewey">9104122</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 CUNN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

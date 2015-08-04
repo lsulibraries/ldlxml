@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>catalyst for change</title>
+      <subTitle>the libretti of Jean-Philippe Rameau's tragedies en musique (1733-1764)</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Radvan, Jonathan Philip Joseph</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Speech Communication, Theatre, and Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 152 leaves ; 29 cm.</extent>
+      <extent>159 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Jean-Philippe Rameau was the most celebrated composer of opera and the foremost music theorist in eighteenth century France and great attention has justly been given to his musical and theoretical works, but there has been no corresponding study, such as this one, of the libretti of his operas, which depart from the precepts of neo-classical drama and reflect a new sentimental age.;The librettists of the tragic operas of Rameau introduced many innovations to the tragic genre, hitherto forbidden by the rigid canons of neo-classicism. They were free to do so because opera was a relatively new genre which could not readily be defined through a code of rules dating from classical antiquity.;The libretti of the tragedies en musique of Rameau depart not only from neo-classical conventions, such as the unities of time, place and manner, but they also introduce elements from other dramatic forms, such as classical comedy and eighteenth century sentimental drama, and adapt them to the purposes of tragic opera.;These libretti reflect a sentimental, romantic and essentially Christian sensibility, new not only to opera, but also to tragedy. The librettists treat classical material from Ancient Greece and Rome, not with the awe and reverence of the neo-classicists, but as one of many sources which contributes to the creation of an eclectic and modern form of drama. These operas no longer serve as pure entertainment, but seek to impart an idealistic belief in humanity, in which love is the strongest power for good, having the potential to vanquish all human evil and suffering."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jonathan Philip Joseph Radvan.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-03, Section: A, page: 6850."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 139-142).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Rameau, Jean-Philippe</namePart>
+         <namePart type="date">1683-1764</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <titleInfo>
+         <title>Operas</title>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Libretto</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017287</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25595213</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094331</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 RADV</identifier>
+   <identifier type="dewey">9017287</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 RADV</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

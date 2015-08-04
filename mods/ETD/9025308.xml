@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Etudes pour piano - premier livre by Gyorgy Ligeti ; and, The song of glory, an original opera in one act</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Guthrie, James Martin</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart>Guthrie, James Martin</namePart>
+      <namePart type="date">1953-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Music.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 282 leaves : music ; 29 cm.</extent>
+      <extent>294 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation consists of two parts. Part I is an analytical survey of a composition entitled Etudes pour piano - premier livre, (1985) by Gyorgy Ligeti. Part II is an original composition entitled The Song of Glory, An Original Opera in One Act.;Etudes pour piano - premier livre, by Gyorgy Ligeti is a collection of six pieces for piano. The etudes won the 1986 University of Louisville Grawemeyer Award--the largest cash award for composition. The etudes feature continuous motion and cross-accentuation which creates polyrhythmic effects. The purpose of part I is to survey the compositional techniques and materials used in the music. The survey will illustrate the interrelationships among the pieces by comparing the elements and procedures of composition. The analysis is descriptive in nature dealing objectively with the elements of melody, harmony, rhythm, form, and counterpoint. The structures employed in the etudes are often of such a nature as to elude the terminology and concepts of a singular common practice period. Therefore, the methods of analysis incorporate a diversity of heuristic procedures. The analysis is not intended to present an exhaustive investigation of the music, but an overview of the compositional techniques.;The Song of Glory, An Original Opera in One Act, is scored for chamber orchestra and soloists. The libretto, written by the composer, depicts the pathos of Scott's South Polar Party of 1912. The instrumentation calls for woodwinds, horn, trombone, one percussionist, and strings. The vocal requirements are two tenors, two baritones, and one bass. The instrumentation reflects a concern for economy. It is calculated to be effective, offering timbral variety and strength, yet economical enough for typical university new-music performance resources. The action takes place in three scenes separated by orchestral interludes. In scene I, the scenario is established as the characters reflect on their situation. In scene II, the ghost of a former sojourner who died earlier in the expedition appears to all but the captain. One character dies after leaving the tent to meet the specter. In scene III, the captain continues journal entries while the remaining characters perish."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by James Martin Guthrie.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: A, page: 1038."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 262-266).</note>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Ligeti, Gyorgy</namePart>
+         <namePart type="date">1923-2006</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <titleInfo>
+         <title>Etudes</title>
+         <partNumber>book 1</partNumber>
+      </titleInfo>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Scott, Robert Falcon</namePart>
+         <namePart type="date">1868-1912</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+      <topic>Drama</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="conference">
+         <namePart>British Antarctic ("Terra Nova") Expedition (1910-1913)</namePart>
+      </name>
+      <topic>Drama</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Operas</topic>
+      <topic>Scores</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025308</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Song of glory</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Guthrie, James Martin,</namePart>
+         <namePart type="date">1953-</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator"/>
+            <roleTerm type="code" authority="marcrelator"/>
+         </role>
+      </name>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186496</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111967</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 GUTH 378.76 L930D 1989 GUTH</identifier>
+   <identifier type="dewey">9025308</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 GUTH 378.76 L930D 1989 GUTH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

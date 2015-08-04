@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>influence of Calonectria crotalariae on population development of Heterodera glycines on resistant and susceptible soybeans</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Overstreet, Charles</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Plant Pathology and Crop Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 75 leaves ; 29 cm.</extent>
+      <extent>86 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Calonectria crotalariae enhanced root penetration of Lee 74 (susceptible) and Centennial (resistant) soybeans by juveniles of race 3 of Heterodera glycines. The presence of the fungus resulted in greater numbers of females and both soil and root cysts on Lee 74 during the first 30 days. Greater numbers of soil cysts were recovered from Lee 74 at 80 and 120 days and from Centennial at 120 days after inoculation with both pathogens. Root colonization by the fungus increased from 19% to 57% at 40 days on Lee 74 and from 58% to 86% on Centennial at 120 days in the presence of the nematode. Root injury ratings increased significantly when both organisms were present suggesting a synergistic nematode x fungus interaction on Lee 74 at 40 days. An inoculation timing study in which Lee 74 was infested with the nematode and fungus individually, sequentially, and in combination at days 0 and 35 indicated that enhanced nematode reproduction was related more to early plant-fungus interactions than early plant fungus-nematode interactions. Inoculum density studies with eggs of the nematode revealed augmented nematode reproduction in coinoculated plants from a 10,000 egg/pot inoculum level but not from either 100 or 1,000 egg/pot levels. Enhanced nematode reproduction paralleled increases in microsclerotia densities from 500 to 5,000 per pot, but not at a 50,000 microsclerotia per pot density. The effects of H. glycines and C. crotalariae on 60 day root injury were antagonistic; the sum of the root weight reductions caused by coinoculation with both pathogens was less than the sum of that caused by each alone."</abstract>
+   <note type="statement of responsibility" altRepGroup="00"> by Charles Overstreet.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1722."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Soybean</topic>
+      <topic>Diseases and pests</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Phytopathogenic fungi</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Soybean cyst nematode</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917843</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24307665</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910829</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1062569</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 OVER</identifier>
+   <identifier type="dewey">8917843</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 OVER</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

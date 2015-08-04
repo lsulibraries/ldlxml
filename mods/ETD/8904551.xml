@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of quantity of epicuticular wax on leaves and nitrogen fertilization rates on resistance of rice (Oryza sativa L.) to sheath blight (Rhizoctonia solani Kuhn Thanatephorus cucumeris (Frank) Donk)</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Massaquoi, Roland Chris Yarkpah</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Plant Pathology and Crop Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 165 leaves ; ill. ; 29 cm.</extent>
+      <extent>181 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Nine rice cultivars with different levels of resistance to sheath blight, caused by Rhizoctonia solani, were evaluated in the field and greenhouse for quantity of epicuticular wax (EW) from leaves, infection cushion (IC) formation by the pathogen on leaves, and the relationship of these factors to disease resistance. Comparisons among resistant and susceptible cultivars using scanning electron microscopy suggested that more EW was found on the leaf blade and sheath surfaces of resistant cultivars. Gravimetric analysis of EW from rice leaves supported these observations. EW production at different growth stages increased until the boot stage and then dropped. Correlation coefficients for EW and percent disease, EW and IC number, and IC number and percentage of tissue diseased were highly significant and ranged from r = $-$0.88 to $-$0.93; r = $-$0.82 to $-$0.88 and r = 0.95 to 0.97, respectively. The susceptible cultivar Labelle produced significantly less EW when compared to more resistant cultivars grown under the same cultural conditions.;Tetep, the most resistant cultivar evaluated, had average IC numbers of 2.0 and 9.2 per cm$\sp2$ compared to 66.0 and 73.4/cm$\sp2$ for the susceptible cultivar Labelle in the field and greenhouse evaluations, respectively. IC production on Labelle was twice as high or more than on the moderately resistant cultivars Mars and Saturn. Highly significant positive correlation coefficients, ranging from r = 0.56 to 0.92, were shown for the relationship of IC number and disease rating. Significant negative coefficients ranging from r = $-$0.57 to $-$0.94 resulted from the correlation of EW quantity and IC numbers. Significant correlation coefficients ranging from r = $-$0.52 to $-$0.90 resulted from the correlation of disease rating and EW quantity suggesting that surface wax may be functional in resistance.;Biomass production measured as plant weight, tiller number, and leaf area was significantly increased with increasing nitrogen. Associated with this increase in biomass production, was a concomitant increase in disease incidence, disease progress, and lesion size resulting in significant decreases in yield. However, relative changes in disease with increasing nitrogen were cultivar dependent with susceptible cultivars showing greater increases in disease."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Roland Chris Yarkpah Messaquoi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5093."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Rice</topic>
+      <topic>Disease and pest resistance</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Rice sheath blight</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904551</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22867256</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901217</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1013271</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 MASS</identifier>
+   <identifier type="dewey">8904551</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 MASS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

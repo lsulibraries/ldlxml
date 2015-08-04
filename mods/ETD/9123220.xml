@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>uneasiest state</title>
+      <subTitle>art, culture, and society in New Deal Louisiana</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Megraw, Rich.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. : ill. ; 29 cm.</extent>
+      <extent>456 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"During the Great Depression artists working in programs funded by the federal government roamed the nation wielding brushes, jotting notes, and pointing cameras in an attempt to define and characterize American society. Never before and not since has this country conducted so intensive a survey of itself, or one so controversial. Federal patronage of the arts occurred during an anxious period of political and cultural turmoil, a turmoil inherent in the story of the Arts Projects themselves. The very structure, organization, composition, execution, and objectives of the arts agencies mirror the tensions of the age. The artists' selection or avoidance of subjects, even the manner by which the fruits of their labors were disseminated among the American people, reflects the turbulence of the 1930s. Nowhere is this more evident than in Huey Long's Louisiana, where the government art program recorded some of its greatest achievements and most bitter disappointments. This dissertation is an interdisciplinary analysis of four federal programs in Louisiana, a state then undergoing rapid political and social transformation. Each of the projects, individually and collectively, not only provides a valuable glimpse into the character of American society in crisis, but also addresses many of the enduring questions of this Republic."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rich Megraw.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-03, Section: A, page: 1053."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 426-443).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>New Deal</topic>
+      <temporal>1933-1939</temporal>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Art and state</topic>
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+      <temporal>1933-1945</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Louisiana</geographic>
+      <topic>History</topic>
+      <temporal>1933-1945</temporal>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Louisiana</geographic>
+      <topic>Social conditions</topic>
+      <temporal>1933-1945</temporal>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123220</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28460905</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930716</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1199079</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MEGR</identifier>
+   <identifier type="dewey">9123220</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MEGR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>effects of community-building group-process intervention technique on reading performance among inmates in a medium security prison</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Roberts, Robert E.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 148 leaves ; 29 cm.</extent>
+      <extent>162 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A substantial body of research has shown that when students work together in groups and are rewarded based on the learning of all the groups members, they achieve consistently more than students who are in traditionally taught classes. The goal of this project was to test the effects of an innovative group process intervention technique on reading performance among a population of incarcerated adult males in a medium security prison in Louisiana. This model, referred to as ""Community Building"" (CBGP), has been utilized among other ways as an intervention technique to resolve organizational/personnel problems in private, business, university, and government settings. It can involve groups or 40-60 participants. The research goal was to test its efficacy as an educational tool in teaching reading in an adult education program.;The research design, which can be classified as a pretest-posttest comparison-group experimental design, called for three groups of inmates randomly assigned to the following conditions: (a) Experimental group--CBGP and SRA Reading Program; (b) Control group #1--SRA Reading Program only; (c) Control Group #2--untreated.;The dependent variable was reading performance according to three sets of scores on the Gates-MacGinitie (GM) reading test. The independent variables consisted of the CBGP intervention and the reading program as outlined above.;Analysis-of-variance statistical technique was used to test the hypothesis (at.05 level of statistical significance) that mean GM-gain scores would be significantly greater for the experimental group than the two control groups. Analyses of the data supported the effectiveness of the community-building intervention technique on the reading program."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Robert E. Roberts.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: A, page: 2483."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 135-147).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Team learning approach in education</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Group work in education</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Reading</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Prisoners</topic>
+      <topic>Education</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200087</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28524643</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930727</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200386</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 ROBE</identifier>
+   <identifier type="dewey">9200087</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 ROBE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

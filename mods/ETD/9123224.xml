@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Stress and headache</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Mosley, Thomas Hamilton</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 191 leaves ; 29 cm.</extent>
+      <extent>194 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Stress is the most frequently cited precipitant of both migraine and muscle-contraction headache. Although stress is thought to play a causal role in the etiology of headache, past research has relied solely on cross-sectional designs and between-subjects data analytic techniques, thus severely restricting conclusions regarding causality and obscuring potentially meaningful individual variability. The present investigation provided a partial replication and extension of prior research on the relation between minor stress and headache and attempted to redress a number of prior methodological shortcomings.;A longitudinal design and within subject, lagged, time-series regression analyses were employed. Migraine (n = 26) and muscle-contraction (n = 20) headache sufferers recorded their stress, headache activity, and medication intake daily for 31 days. Both frequency and subjective ratings of stressful events were found to be significantly predictive of headache intensity, headache duration, and headache index for many muscle-contraction (55 to 70%) and migraine (39 to 46%) headache sufferers. However, subjective ratings of stressful events correlated more strongly with headache activity than frequency.;The magnitude of stress-headache associations varied broadly across individuals. Social support appeared to account for at least some of this variability; patients reporting the lowest levels of support evidenced the highest stress-headache associations and patients reporting the highest levels of support evidenced the lowest stress-headache associations, suggesting that social support may provide some protection against the negative effects of stress.;Diagnostic group differences were observed with respect to the predominant temporal relation between stress and headache. For muscle-contraction headache sufferers, headache activity was best predicted by stress occurring concurrently with headache, but for migraineurs, headache activity was best predicted by stress that occurred one to three days earlier. Muscle-contraction headache sufferers also obtained larger stress-headache correlations than migraineurs.;Finally, no differences were found between the headache diagnostic groups or between headache sufferers and headache-free controls in the number or subjective ratings of stressful events. The findings of the present study appear to support either a model of stress causing exacerbation of headache or a model of reciprocal causality. Implications for treatment and directions for future research were discussed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas Hamilton Mosley.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-05, Section: B, page: 2780."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 120-140).</note>
+   <subject authority="lcsh">
+      <topic>Headache</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Tension headache</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Stress (Psychology)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9123224</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28437085</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930712</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1198461</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MOSL</identifier>
+   <identifier type="dewey">9123224</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MOSL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

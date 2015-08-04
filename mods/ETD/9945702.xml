@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Single and combined effects of nematode communities and Pythium arrhenomanes on the growth and yield of sugarcane in Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Bond, Jason P. (Jason Payton)</namePart>
+      <namePart type="date">1972-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Plant Pathology and Crop Physiology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 69 leaves : ill., map ; 29 cm.</extent>
+      <extent>70 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A survey conducted from May 1995 through August 1998 revealed diverse nematode communities in sugarcane fields in Louisiana. High populations of Mesocriconema, Paratrichodorus, Pratylenchus, and  Tylenchorhynchus were widespread in nine sugarcane production parishes. Comparisons of plant cane and ratoon sugarcane crops indicated that nematode community levels increase significantly in successive ratoon crops.;Greenhouse experiments evaluated the susceptibility of sugarcane cultivars to a nematode community comprised of Mesocriconema xenolax, Paratrichodorus minor, and Tylenchorhynchus annulatus. Across years (1995 and 1996) and cultivars (CP 65--357, CP 70--321, LCP 82--89, HoCP 85--845, and LCP 86--454), plant height, shoot length, top and root dry weight, and the number of tillers per plant were reduced by nematodes. Growth parameters of the LCP cultivars were most affected by the nematodes, and those of cultivars HoCP 85--845 and CP 65--357 were least affected.;The susceptibility of cultivars to nematodes also was evaluated in microplot experiments. Across years (1995, 1996, and 1997) and cultivars (CP 70--321 and LCP 82--89), nematodes reduced top and root dry weight and number of tillers per plant. LCP 82--89 supported higher nematode community levels and sustained the greatest amount of root damage.;Nematicide trials evaluated the efficacy of aldicarb, ethoprop, and phorate against indigenous nematode populations. Aldicarb consistently increased the number of millable stalks, cane tonnage, and the yield of sucrose in soils with a high sand content. Yield increases were concomitant with reductions in the density of the nematode community shortly after planting and at harvest. In soils with a higher clay content, the chemicals were less effective in controlling nematode populations, and as a result, yield increases were minimal.;Greenhouse experiments conducted in 1996, 1997, and 1998 evaluated the single and combined effects of nematodes and the sugarcane root-rot pathogen,  Pythium arrhenomanes. Individually, P. arrhenomanes and nematodes reduced top and root dry weight. Temperature had a significant influence on nematode reproduction and Pythium colonization. Interactions between P. arrhenomanes and nematodes were antagonistic with regard to root dry weight and nematode reproduction."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jason P. Bond.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4332."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945702</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42062304</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990812</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920647</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BOND</identifier>
+   <identifier type="dewey">9945702</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BOND</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

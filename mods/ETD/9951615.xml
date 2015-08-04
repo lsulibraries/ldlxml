@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Land-cover change detection for the tropics using remote sensing and geographic information systems</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Read, Jane M.</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 190 leaves : ill. (some col.), maps (some col.) ; 29 cm.</extent>
+      <extent>191 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Changing land-cover in the tropics is a central issue in global change research. This dissertation used Landsat-TM data to examine processes of land-use and land-cover changes for a lowland tropical site in Sarapiqui, Costa Rica. Performances of selected image-processing methods to detect and identify land-cover changes were evaluated.;A land-cover time-series from 1960 to 1996 for the site was generated using maps derived from aerial photographs and Landsat-TM classifications. Changes in land-cover from 1986 to 1996 were evaluated using standard landscape indices, and interpreted in terms of their historical context. Dominant changes in the site during this decade included the breakup of extensive cattle ranches for large-scale plantation enterprises and small-scale farming. Colonization processes, improvements in access, and changes in export markets were identified as the major driving forces of change.;Evaluation of change-detection methods revealed that postclassification comparison performed significantly better than image differencing algorithms. Image differencing using mid- infrared bonds performed the best of the differencing algorithms tested. Selection of a suitable change-detection method can be aided through examination of the individual bond statistics for the specific area and problem in question. The univariate bond differencing technique has potential for identification of 'hot spots' of change using Landsat-TM data.;Spatial pattern-recognition techniques to characterize complexity of Landsat-TM data were evaluated. Fractal dimension calculated using the triangular prism surface area method, and Moran's I index of spatial autocorrelation, clearly distinguished different land-cover types. Shannon's diversity index and the contagion metric were not found to be useful in characterizing the images. The use of fractal dimension, in conjunction with standard non-spatial descriptive band statistics, are seen as having great potential in characterizing unclassified remotely sensed data based on differences in land-cover types. These statistics could be further developed for rapid environmental monitoring."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Jane M. Read.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-11, Section: B, page: 5407."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9951615</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42685599</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">991022</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920873</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 READ</identifier>
+   <identifier type="dewey">9951615</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 READ</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

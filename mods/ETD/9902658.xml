@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title> "Power . . .to alter and amend"</title>
+      <subTitle>textual production and editorial actions in Samuel Richardson's Clarissa</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Price, Steven Robert.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 355 leaves :  music ; 29 cm.</extent>
+      <extent>356 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation is a study of texts, focusing on how texts are constructed (through both words as well as physical attributes) and how they are edited after their initial composition. The scope of this dissertation is limited to Samuel Richardson (1689-1761) and his rare 1750 third edition of Clarissa and to the characters in Clarissa and their familiar letters. I argue that the altering of a text is a negotiation of power between the editor and the author, and that editors advance their personal agendas by undermining the intentions of the author.;In Chapter 1, I explain the relevancy of textual studies to literary criticism. In Chapter 2, I examine how Richardson, master printer as well as author, constructs Clarissa as a ""material text,"" meaning that he builds plot, characterization, and his didactic message through the text's linguistic as well as physical features. In Chapter 3, I address the familiar letters constructed by characters within Clarissa. Although the material details of these fictional letters--including handwriting and seals--cannot be seen by readers of the novel, they can still be conceptualized in the mind and interpreted for their visual meaning. In Chapter 4, as a transition to the editing of texts, I summarize the eighteenth- and twentieth-century editorial theories most relevant to Clarissa. In Chapter 5, I evaluate Richardson's role as editor of Clarissa, focusing on the textual apparatus he constructs around his novel. Richardson exploits the editorial role in a manner not seen in other eighteenth-century novels, using the apparatus to control readers' interpretations. In Chapter 6, I discuss the characters in Clarissa as editors, showing how they frequently alter and even forge/rewrite letters after their initial composition. These editorial actions, which I refer to as ""fictional editing,"" expand the narrative beyond the initial act of writing and complicate the issues of characterization, gender, and subjectivity inherent in the familiar letter. In Chapter 7, I conclude by suggesting additional concerns for textual/literary critics, including the implications of lost physical details in electronic texts."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Steven Robert Price.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: A, page: 3004."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902658</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980805</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919619</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 PRIC</identifier>
+   <identifier type="dewey">9902658</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 PRIC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

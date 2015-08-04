@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Sustainable forest resources utilization and implications for economic development in Sub-Saharan Africa</title>
+      <subTitle>a case study of C ︢ote d Ivoire</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Koudou, Ahile Nicolas</namePart>
+      <namePart type="date">1958-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Forestry, Wildlife, of Fisheries, School of.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xxiii, 258 leaves : ill. ; 29 cm.</extent>
+      <extent>258 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"In the 1960's, sub-Saharan Africa had one of the world's largest rain forests. Today, however, Africa accounts for only 27 percent of the world's forest area. Expansion of agricultural lands at the expense of forests remains the fundamental contributor to deforestation in Cote d'Ivoire. Other factors include a high natural rate of population growth (3.9 percent annually) and flexible immigration policies that create land use pressures. Consequently, Cote d'Ivoire has lost almost 83 percent of its 16 million hectares (39.5 million acres) of tropical forests. Some corrective actions, such as halting illicit harvesting, reforestation and reforming logging activities, have been taken by the government, but such corrective actions have not addressed the fundamental factors leading to forest depletion. Harvesting operations are managed by granting licenses to logging companies to operate in classified forests. The total logging area in classified forests is currently estimated to be 2.9 million hectares (7.2 million acres), of which 1.6 million hectares (3.9 million acres) are in the south and 1.3 hectares (3.2 million acres) are in the savannah area in northern Cote d'Ivoire. The major forest stands are located in the south, the west and the southwest. Research results support the proposition that forestlands have been depleted and much needs to be done to improve the situation. Study results indicate that forestlands play a vital role in human welfare and that private landownership should be a determinant factor in controlling deforestation and promoting sustainable forest utilization and management in Cote d'Ivoire. This study also rejects the idea of attracting new primary and value-added industries in the short-run. Instead, the existing industries should be improved to encourage sound forest utilization and management practices. Research results also show that there is lack of an adequate and effective communication among stakeholder groups. This lack of communication has contributed to forest depletion. Accordingly, it is recommended that communication gaps among stakeholder groups be reduced to promote sustainable forest utilization and management practices in Cote d'Ivoire."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ahile Nicolas Koudou.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2507."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836885</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39175252</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980525</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919384</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 KOUD</identifier>
+   <identifier type="dewey">9836885</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 KOUD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

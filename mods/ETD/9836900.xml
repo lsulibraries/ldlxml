@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dynamic modeling of export demand</title>
+      <subTitle>the case of U.S. unmilled wheat</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Piedra, Mario Alberto.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana Agricultural Experiment Station</namePart>
+      <namePart>Dept. of Agricultural Economics and Agribusiness</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 201 leaves : ill. ; 29 cm.</extent>
+      <extent>201 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation explores the steady-state relationship between foreign income and expenditures, import prices, and U.S. exports for unmilled wheat. Specifically, the study estimates implicit dynamic import-export demand schedules based on a two-stage utility maximization framework to quantify the short-run and long-run effects of foreign income and foreign total expenditures on U.S. unmilled wheat export demand. Dynamic econometric models are based on Vector Autoregressive (VAR) and Error Correction Models (ECMs). The appropriateness of the theoretical model, empirical specifications, and forecasting performance are thoroughly tested.;Annual data collected from the United Nations from 1962-1995 is used. The equilibrium model is estimated in logarithmic form using the Constant Elasticity of Substitution (CES) functional form. However, the CES formulation should test whether weak-separability and homotheticity hold at both stages. If the variables are stationary, dynamics are incorporated through VARs; if the variables are non-stationary, then a system of ECMs is specified.;Six countries are included in the analysis: Colombia, Venezuela, Japan, Korea, the Philippines, and Morocco. The stochastic properties of each series is determined using the Phillips-Perron and the KPSS tests for units roots. At the first stage, for all countries except Morocco, no steady-state relationship between foreign income and total imports of unmilled wheat is found. The import demand in VAR form satisfies weak-separability, but homotheticity is assumed. For Morocco one cointegration vector is found, indicating a dynamic effect of income and prices on import demand; furthermore, long-run separability and homotheticity are satisfied.;At the second stage, no cointegration relationship is found for Colombia, Venezuela, Japan, and Morocco. Once again the restriction of weak-separability among exporting sources is satisfied when the export demand function is estimated in VAR form, however, homotheticity is assumed. For Korea and the Philippines one cointegration vector is found, indicating a dynamic effect of relative prices and total imports on U.S. export demand. For both countries the theoretical long-run restrictions of weak-separability and homotheticity are satisfied. For all countries, at both stages, the test for parameter constancy, model specification, and forecasting performance support the appropriateness of dynamic specifications."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Mario Alberto Piedra.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: A, page: 2121."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836900</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980522</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919340</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 PIED</identifier>
+   <identifier type="dewey">9836900</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 PIED</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

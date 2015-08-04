@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Toward the inclusion of environmental factors in the concept and measure of national income</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Foy, George E. (George Edward)</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Economics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 162 leaves ; 29 cm.</extent>
+      <extent>170 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation uses Sir John Hicks' concept of income as a guide to integrate environmental factors into the concept and measure of national income.;Chapter 1 introduces Hicks' concept of income as the maximum amount which one can consume in a given period and still be as well off at the end of the period as he was at the beginning. This basic idea of sustainability requires accounting for the net depletion of all capital consumed in current production.;Chapter 2 documents recent trends in natural resource use to demonstrate that exclusion of the depreciation of environmental capital from NNP is a pressing practical issue. Chapter 3 provides a general framework for the analysis of production functions with natural capital service flows, Hicksian income and wealth, and income measurement in the case of natural capital service flows. Chapter 4 critiques the present treatment of environmental factors in income and wealth measures from the perspective of Hicksian income.;Chapter 5 and 6 critique proposals for modification of the economic accounts to more fully reflect environmental factors. Chapter 5 considers aggregation methods which value the depreciation of environmental capital in monetary terms. Chapter 6 considers disaggregated methods which require physical measures of changes in marketable natural resource stocks and nonmarketable environmental capacity linked to the economic accounts.;Chapter 7 provides an empirical example of environmental accounting by estimating several capital consumption allowances for loss of Louisiana wetlands in 1986 due to oil and gas activity. Two different methods are used to estimate physical damage functions of wetlands due to oil and gas activity. The first method relies on ecologists' consensus estimates of oil and gas induced wetland loss over a 24 year period. The second method uses a time series statistical model of annual wetland loss and oil and gas activity over 32 year period. These physical damage functions are then combined with measures of wetland values from other studies to form estimates of the capitalized environmental loss to Louisiana and the United States of 1986 oil and gas activity in the Louisiana wetlands.;Chapter 8 is the summary of the dissertation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by George E. Foy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 5700."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 154-161).</note>
+   <subject authority="lcsh">
+      <topic>National income</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Natural resources</topic>
+      <topic>Accounting</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017261</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25584799</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920403</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094240</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 FOY</identifier>
+   <identifier type="dewey">9017261</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 FOY</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

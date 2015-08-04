@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Synthesis and physical characterization of solid state materials</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kolniak, Patrick Allen</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 193 leaves : ill. ; 29 cm.</extent>
+      <extent>193 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Two quantitative X-ray powder diffraction methods were used to analyze Phosphogypsum, a currently underutilized solid by-product of phosphoric acid production. Three kinds of synthetic mixtures were prepared to reflect the variable composition of phosphogypsum: AG (anhydrite and gypsum), QCD (quartz, calcite, and dolomite), and AGQCD.;Compositions derived from the Whole Pattern fitting method for the binary and ternary mixtures agreed reasonably well with known values, with residuals $\rm\langle R\sp2\rangle = 0.10$ for eleven AG samples, and $\rm\langle R\sp2\rangle = 0.018$ for thirteen QCD samples. However, in the five-component mixtures, overlap of anhydrite, dolomite and gypsum peaks prevented quantitation.;Compositions derived from the Matrix Flushing method were generally superior, with $\rm\langle R\sp2\rangle = 0.009$ for eleven AG mixtures, $\rm\langle R\sp2\rangle = 0.0004$ for thirteen QCD mixtures, and $\rm\langle R\sp2\rangle = 0.0197$ for nine AGQCD mixtures. The most notable exception in the determination of AG mixtures with 0-10% gypsum. The measured compositions were distorted in favor of gypsum, apparently due to the affinity of gypsum for water.;Two single crystal structures, one organometallic and the other inorganic, were determined. $\rm\lbrack (phen)\sb2Cu\rbrack \sp{+}(hfacac)\sp{-}$ crystallizes in triclinic space group P1 with: a = 10.284(0)A, b = 11.685(0)A, c = 12.519(0)A and $\rm\alpha = 114.97(0)\sp\circ ,\ \beta = 90.77(0)\sp\circ ,\ \chi = 105.78(0)\sp\circ .\ Ba\sb{1-x}K\sb{x}BiO\sb3,\ x = 0.419(0),$ a superconductor with $\rm Tc = 29.5\sp\circ K.$ It crystallizes in cubic space group with Pm3m symmetry and a cell constant of a = 4.2948(0)A.;The diffraction-quality crystal of $\rm Ba\sb{1-x}K\sb{x}BiO\sb3$ was synthesized by electrosynthesis in a molten KOH flux at $\rm 225\sp\circ C.$ The synthesis required ultra-pure KOH (99.99%), $\rm Ba(OH)\sb2{\cdot}8H\sb2O$ (99.8%), $\rm Bi\sb2O\sb3$ (99.9998%), and a cover gas of water-saturated ultra-pure Ar. The melt composition was based on weight ratios K/Ba = 17.2 and K/Bi = 12.5. The electrode deposition potential was 0.677 volts, starting current $\rm I\cong 20\ \mu A.$ Every attempt was made to maintain a current density of less than $\rm 0.5mA/cm\sp2,$ to ensure slow crystal growth."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Patrick Allen Kolniak.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2772."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836884</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980525</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919383</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 KOLN</identifier>
+   <identifier type="dewey">9836884</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 KOLN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

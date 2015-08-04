@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>pattern and process of land loss in coastal Louisiana</title>
+      <subTitle>a landscape ecological analysis</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Leibowitz, Scott G. (Scott Greg)</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvii, 298 leaves : ill. ; 29 cm.</extent>
+      <extent>316 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The goals of this research were: to develop a methodology for the study of landscape process and pattern; to determine the spatial pattern of land loss in coastal Louisiana and relate it to causal processes; and to assess the relative importance of natural versus human-induced processes in causing land loss. Land loss was analyzed for a 22 year period at three sites, using a Geographic Information System composed of digital habitat maps.;The most significant finding of this research was that land loss is not a simple, spatially homogeneous phenomenon, that occurs uniformly. Instead, large clumps of high loss, or ""hot spots,"" were observed. Hot spots comprised 9-18% of the original study area, but contained 50-73% of all loss. There is evidence that hot spots occur coastwide, and are not limited to these three study sites.;The cause of the hot spots could not be determined from the current study. Simple models containing factors such as site, habitat type, salinity change, and proximity to canal and spoil or natural channel could not account for all the land loss in these areas, although higher order interactions were not included. Mechanisms with a short response time may be responsible, since those areas examined were not enlarging.;Analyses were also performed to assess the impact of saltwater intrusion and canals and associated spoil banks on land loss. The conclusion of this study is that saltwater intrusion is not a major cause of loss at the three sites, although this could not be discounted for some of the loss at the Cameron site.;Dredging of new canals accounts for a significant percentage of loss at the Terrebonne and Lafourche study sites (14 and 15%, respectively), but is not a major factor at Cameron (3%). More difficult to assess are indirect effects, due to possible impacts on hydrology and sedimentation. Analyses of patch size, patch abundance, and results from statistical models indicate that the indirect effects of canal and spoil may be less than has been suggested by previous research, possibly because these studies were too spatially aggregated."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Scott G. Leibowitz.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: B, page: 3283."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 248-257).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Coast changes</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Wetland ecology</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Geographic information systems</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002156</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24561426</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">911015</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067694</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 LEIB</identifier>
+   <identifier type="dewey">9002156</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 LEIB</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

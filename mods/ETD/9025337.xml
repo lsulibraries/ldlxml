@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Optimal design and control of distribution system capacitors</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Santoso, Nugroho Iwan</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Electrical and Computer Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 96 leaves : ill. ; 29 cm.</extent>
+      <extent>107 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The rapidly escalating costs of generation and transmission facilities as well as energy production have focussed attention on the need to optimize system capacity release and energy losses. The problem is generally solved by controlling the voltage or reactive power which also has a pivotal role within the distribution automatization schemes.;A review of reactive power compensators and methodologies in designing and controlling distribution capacitors is given. In the presence of voltage source harmonics, a local load reactive power compensation method, cost-constrained power factor optimization using an LC compensator, is discussed.;A new methodology based on a piecewise method for designing switchable capacitors installed on large distribution systems is described. Considered is the Var compensation problem concerning the optimal sizing and tap settings of capacitors installed on a radial distribution system such that for a given set of conforming load profiles, the energy and maximum power losses are minimized while the capacitor cost is taken into account. The algorithm is based on tearing the system into smaller subsystems, optimizing the individual subsystems and coordinating the subsystem solutions to yield the overall system optimization. Studies on a test system show the piecewise method to have satisfactory results as well as the significance of using appropriate load models.;The extent of benefit of shunt compensator application can be further maximized by providing an appropriate integrated control strategy for the compensators. An expert system using a two-stage artificial neural control network is proposed to control in real time the multitap capacitors installed on a distribution system for a nonconforming load profile such that the system losses are minimized. The first stage of this control network has to predict the load profile from a set of prevailing input data obtained from direct measurements at certain buses as well as from the current tap positions of the capacitors. The second stage of the control network will select the optimal capacitor tap positions based on the load profile obtained in the first stage. The implementation of the control method to the test system shows the expert system to be computationally very efficient while having satisfactory results."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Nugroho Iwan Santoso.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1995."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 80-86).</note>
+   <subject authority="lcsh">
+      <topic>Electric power distribution</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Electric power systems</topic>
+      <topic>Control</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Mathematical optimization</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Expert systems (Computer science)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025337</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186636</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111990</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 SANT</identifier>
+   <identifier type="dewey">9025337</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 SANT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

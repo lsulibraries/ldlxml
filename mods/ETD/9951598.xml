@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>critical edition of the Passion and Advent chapters of the Pre- Caxtonian Gilte Legende</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Crain, Rosary Jackman</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Comparative Literature.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 201 : ill. ; 29 cm.</extent>
+      <extent>202 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation is a critical edition of the Passion and Advent chapters of the Middle English Gilte Legende based an MS Lambeth Palace 72 in collation with other manuscripts. Editions of the Legenda aurea, the original Latin text, and of the Legende doree, an intermediate French text, were also consulted.;The introduction begins by reviewing the complete research on the  Gilte Legende, describing the manuscripts, their handwritings and orthographies, presenting their affiliations in a stemma, and detailing the editorial process. The transmission of the text is traced from the  Legenda aurea (c.1266), the Latin legendary of James Varagine, through the Legende doree (c.1334), the French translation by Jean de Vignay, to the Gilte Legende (1438), the English translation made anonymously by someone who identified himself as the Synfulle Wrecche. There is also a brief account of the Legenda aurea's immediate and unprecedented popularity, and its equally swift and complete plummet into obscurity. Finally, the edited chapters, the Passion and Advent, are summarized and critiqued.;Because no prior study had been done on these non-hagiographic chapters of the legendary, they have been called treatises. However, the editorial process revealed that these chapters are not prose treatises; instead, they are detailed outlines, complete with sequentially numbered points and sub-points. Therefore, the edited texts are presented in outline form with the modern outline conventions supplied. Emendations are noted in the text; variant readings, as well as the minimum amount of information necessary for sensible readings, are given at the bottom of the pages. More thorough textual notes and detailed commentary follow each of the edited chapters.;This edition has contributed to scholarship by making accessible two previously unedited chapters of the Gilte Legende in outline format. It also offers evidence to corroborate the theories that the  Legenda aurea was intended as a handbook for the educated clergy and presents a remote and wrathful image of God. Finally, it suggests that the indeterminacy of the edited texts and the relationship between the theology of the Legenda and the attitude of the Inquisition are areas for further study."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Rosary Jackman Crain.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-11, Section: A, page: 4003."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9951598</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42665157</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">991015</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920831</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 CRAI</identifier>
+   <identifier type="dewey">9951598</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 CRAI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

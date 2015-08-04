@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Vertebrate paleontology and magnetostratigraphy of the upper Aguja Formation (late Campanian), Talley Mountain area, Big Bend National Park, Texas</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Sankey, Julia T.</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 251 leaves : ill., maps, mounted photos ; 29 cm.</extent>
+      <extent>232 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Considerable north-south latitudinal diversification existed among vertebrate faunas along the Western Interior Seaway during the late Campanian; this has caused difficulty correlating isolated faunas, especially southern ones, which contained endemic taxa and often lack non-paleontologic age control. The Talley Mt. local fauna is a late Campanian vertebrate fauna from the upper Aguja Formation, Big Bend National Park, Texas. It is one of the southernmost late Campanian vertebrate faunas, and is one of the few associated with magnetostratigraphy. The fauna is from five channel deposits, spanning 20 meters of section, from the lower portion of the upper shale member of the Aguja Formation. Deposition occurred within a coastal floodplain during the final marine regression from the area. Fossils were recovered by bulk sampling ($\sim$1630 kg) and acid-disaggregating pedogenic nodule-rich, carbonate-cemented, conglomeratic rocks. The fauna contains 35 terrestrial and aquatic taxa, including 8 chondrichthyans, 2 actinopterygians, 3 amphibians, 1 trionychid turtle, 4 squamates (including Chamops and Peneteius sp. nov., new records for the Aguja), 5 crocodylomorphs, 6 dinosaurs, and 6 mammals (Cimolomys sp., Meniscoessus sp., cf. Cimexomys, Paracimexomys sp., Alphadon cf. A. halleyi, and A. cf. A. sahnii). Aquatic taxa decrease in abundance upsection, reflecting the marine regression from the area and the beginning of drier, more seasonable climates. The fauna is taxonomically similar to the nearby Terlingua local fauna, but with significant taphonomic and sampling differences. The 52 meter paleomagnetic polarity sequence contains two reversed polarity zones, and is correlated to the base of Chronozone 32 based on the Tudithian taxa in the fauna and on the ages of underlying and overlying Aguja deposits. On the basis of this correlation and on average sedimentation rates of 29 meters/million years (My), the Talley Mt. local fauna is approximately 73.6 to 74.3 Ma."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Julia T. Sankey.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: B, page: 3981."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-tx</geographicCode>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902664</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980806</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919622</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 SANK</identifier>
+   <identifier type="dewey">9902664</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 SANK</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

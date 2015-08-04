@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of genetic traits on non-lint trash and nep content of cotton, Gossypium hirsutum L</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Novick, Ricardo Gabriel</namePart>
+      <namePart type="date">1956-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Agronomy Dept.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 164 leaves ; 29 cm.</extent>
+      <extent>179 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Gin induced lint quality problems (neps, short fiber content, seed-coat fragments and reductions in lint turnout) need the consideration of the entire cotton production system. Genetic traits could help reduce seed-cotton trash and/or improve cleanability at the gin.;Twelve near-isolines involving four leaf shapes (okra, semi-okra, super-okra and normal), two bract types (frego and normal), two leaf-pubescence levels (semi-smoothness and hairy) and certain trait combinations were grown during 1985, 1986, and 1987 at three locations in Louisiana (Alexandria, Bossier City, and St. Joseph), and harvested with a spindle-picker. Seedcotton samples were ginned on a cut-down version of a commercial gin under a controlled environment, constant feeding rates, and with zero, one, and two lint cleaners. An inclined sieve inside the trash chamber of the Shirley Analyzer allowed the separation of motes and leafy material. Nep content was determined by the U.S.D.A. method.;The use of the inclined sieve inside the Shirley Analyzer helped clarify the behavior of the traits by separating the leafy material and motes components in the non-lint visible fraction.;Semi-smooth isolines (t$\sb3$) were associated with reduced number of motes at the wagon (22% reduction compared with the normal pubescent counterpart) and with improved seed-cotton small-leaf cleanability (+12%). In addition to decreasing the small-leaf percentage in the feeder apron by 20%, super-okra leaf shape reduced the number of motes (15%); both traits (semi-smoothness and super-okra) ended with the same level of leafy material and grade index after one lint cleaner as did the check after two lint cleaners. The open-canopy and frego bract cottons had more small-leaf wagon trash than the check (21 and 12%, respectively), but the differences disappeared at the gin stand. Frego bract isolines had lower levels of leafy material in the lint than their normal bract counterparts at any level of lint cleaning.;None of the traits affected the number of neps at zero, one, or two stages of lint cleaning; micronaire and fiber length had the highest direct effects on the nep counts according to the path analysis, but did not explain the majority of the variability found in the data."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ricardo Gabriel Novick.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-04, Section: B, page: 1627."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 145-161).</note>
+   <subject authority="lcsh">
+      <topic>Cotton</topic>
+      <topic>Genetics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cotton</topic>
+      <topic>Quality</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9025328</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">26186586</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920715</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1111983</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 NOVI</identifier>
+   <identifier type="dewey">9025328</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 NOVI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

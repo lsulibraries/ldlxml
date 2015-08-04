@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Factors influencing the retention of adult volunteers leaders in the Louisiana Cooperative Extension Service 4-H Program</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Boz, Ismet</namePart>
+      <namePart type="date">1966-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Vocational Education.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 169 leaves ; 29 cm.</extent>
+      <extent>170 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The main purpose of this study was to determine contributions adult volunteer leaders make for 4-H and to identify factors influencing the retention of adult volunteer 4-H leaders in the Louisiana Cooperative Extension 4-H Program. A random sample of 196 adult volunteer 4-H leaders from 10 Louisiana parishes were the participants of this study. The data collection instrument was pre-tested for reliability and yielded a .96 Cronbach's Alpha internal consistency coefficient for its 84 scale items. Anticipating approximately a 50% response rate, 400 surveys were mailed out in September, 1999. After two attempts were made for follow-up 218 usable surveys were available to the researcher in November, 1999.;The study showed that a profile of the Louisiana 4-H volunteer leader is a married woman, 31--50 years of age, a school teacher, with an average of 1.29 children in 4-H. The study found that the majority of volunteer 4-H leaders in Louisiana were first asked to serve as volunteer leaders by school administrators and the method they were first asked was school meeting. The study found that the initial and continuing motivators that influenced volunteer leaders to initially become a 4-H leader and to continue serving in the same position were mainly concentrated on affiliation, achievement, and altruistic reasons. Respondents of the study agreed with the benefits of an orientation training program before initiating volunteer work with 4-H. They basically do not volunteer for the sake of recognition but for youth. They receive adequate support for their volunteer service. The study found significant differences in the mean underlying factors of initial motivators, continuing motivators, support and negative motivators by age, level of education, number of children in 4-H, and geographic location. The length of volunteer service was found to be associated with selected demographics. Continuing motivators were also associated with the feedback received by 4-H agents and with the performance of an ongoing training program."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ismet Boz.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: A, page: 2677."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979249</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44178878</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000605</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921304</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 BOZ</identifier>
+   <identifier type="dewey">9979249</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 BOZ</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

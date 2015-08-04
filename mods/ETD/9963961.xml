@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Using a behavioral economic assessment to evaluate stimulus preferences and to predict treatment outcomes for aberrant behavior</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Roane, Henry S.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 80 leaves : ill. ; 29 cm.</extent>
+      <extent>81 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Problem behavior (e.g., self-injury, aggression, and disruption) may impede the development of many individuals with disabilities. These behaviors may occur for many reasons (Iwata et al., 1994). Most problem behaviors are controlled by social stimuli; however, for some individuals, problem behavior occurs independent of the social environment (i.e., by automatic reinforcement). That is, an individual may engage in these behaviors regardless of what is occurring around them. Presumably the behavior persists because the behavior produces (or alleviates) some type of stimulation. As such, the reinforcer for the behavior can not be controlled directly, making behaviors maintained by automatic reinforcement difficult to treat. One treatment for automatically reinforced behavior involves the presentation of alternative stimuli (e.g., preferred toys). Preferred items are typically determined using one of several different preference assessment procedures in which participants select (i.e., orient toward) the items that they prefer. However, recent research has suggested that existing preference assessments may not be the optimal method for identifying stimuli to be incorporated into behavioral interventions.;In this investigation, individuals with developmental disabilities were presented with one of two preferred items (as identified in a commonly used preference assessment) contingent upon completion of a predetermined number of responses. The number of responses required to access the preferred items progressively increased within the course of each session, such that the total response requirement increased as the session progressed. The stimulus that resulted in more responding was deemed the high preference stimulus, whereas the stimulus that resulted in fewer responses was deemed the low preference stimulus. Subsequent treatment evaluations were conducted to compare the treatment efficacy of these two stimuli as components of various reinforcement-based interventions for problem behavior maintained by automatic reinforcement. Results showed that when an effective treatment was identified, the high preference stimulus was associated with greater treatment success. Results are discussed in terms of the application of these procedures to the further treatment of problem behavior maintained by automatic reinforcement, and directions for future research are presented."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Henry S. Roane.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1621."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9963961</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43679820</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000321</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921202</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 ROAN</identifier>
+   <identifier type="dewey">9963961</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 ROAN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

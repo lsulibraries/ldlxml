@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Modeling and optimal design of spiral-wound membrane systems for gas separations</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Qi, Runhong</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 201 leaves : ill. ; 29 cm.</extent>
+      <extent>202 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Membrane system economics can be significantly affected by process modeling and design. Available spiral-wound permeator models are difficult to use for process design because of their mathematical complexity and high computational demands. Existing sequential design methods yield suboptimal flowsheets when multiple permeation stages are required. In this dissertation, more effective modeling and design techniques for spiral-wound systems separating binary and multicomponent gas mixtures are developed.;An approximate modeling approach based on the assumption that the residue flow rate is constant in the direction of bulk permeate flow is proposed. This assumption allows a significant simplification of basic transport models which are derived from material balances and permeation relations. The approach reduces the solution of mixed-boundary nonlinear differential equations to a more computationally tractable problem involving a small number of nonlinear algebraic equations. Approximate models for both binary and multicomponent mixtures are developed.;Case studies for separating CO2 from natural gas mixtures show that the approximate models yield accurate predictions over a wide range of operating conditions with considerably less computing time than the basic transport models. An estimation technique for determining uncertain/unknown model parameters from experimental data also is proposed.;A nonlinear programming (NLP) design technique is proposed for optimizing operating conditions and analyzing parameter sensitivities for prespecified permeator configurations. The NLP method is extended to develop a mixed-integer nonlinear programming (MINLP) strategy which utilizes a permeator system superstructure to simultaneously optimize the permeator configuration and operating conditions which minimize the total process cost. Case studies for CO2/CH 4 separations in natural gas treatment and enhanced oil recovery demonstrate that the design methodologies are sufficiently robust to handle gas separations with very demanding requirements. Optimal designs are derived for different number of separation stages for both continuous and discrete membrane areas. The proposed approach provides an efficient tool for preliminary design of multi-stage membrane systems for binary and multicomponent gas separations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Runhong Qi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1198."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922108</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40658119</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990119</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919961</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 QI</identifier>
+   <identifier type="dewey">9922108</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 QI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

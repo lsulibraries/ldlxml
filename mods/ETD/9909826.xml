@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Down upon the fold</title>
+      <subTitle>mercenaries in  the twelfth century</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Isaac, Steven Wayne</namePart>
+      <namePart type="date">1967-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 347 leaves ; 29 cm.</extent>
+      <extent>348 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Despite the trend in recent medieval historiography which has accepted the presence of paid warriors as no longer an aberration, the role of the mercenary within and outside twelfth-century society has still escaped in-depth analysis. Such an approach, however, has the dual merit of building an understanding of the mercenary phenomenon itself and of highlighting the often overlooked social and cultural relations, structures, and breakdowns that produce men willing to fight for profit. The period 1187-1218 provides one of the earliest, richest backgrounds against which to examine the mercenary. The accelerating return of a money economy, hardening of feudal structures, developing of a chivalric ethos, and opening (and closing) vistas of urban life all played a role in who constituted a mercenary or who fought in an acceptable manner for pay. Moreover, conditions at the start and finish of this long twelfth century had changed dramatically, creating markedly different groups of marginalized combatants.;After a narrative of the century's paid military activity, the analysis examines the conditions that dictated whether a salaried warrior somehow qualified to contemporaries as contemptible. A survey of the Latin vocabulary shows not only a wide variety of combatants, but also a lack of consistent disparagement in the terms themselves (save for routiers and Brabancons). A look at the business side of warfare further reveals an array of men engaged in profitable violence: from magnates seeking new realms to low-born infantrymen earning the wages of skilled laborers. With money so prevalent in military affairs, the real question of mercenary status lies in the nature of an individual's identification with a group. In the 1100s such identification could prove simultaneously regional, familial, national, and religious. The real crime of many low-born mercenaries was in shedding these associations. In the end, this outsider status was confirmed in contemporary eyes by the many hired soldiers kept by the Cathar heretics of the early 1200s. The condemnation of paid warriors derived ultimately from their position as intruders and not solely from a rejection of profit-making within wartime."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">Steven Wayne Isaac.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-10, Section: A, page: 3923."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9909826</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39909819</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980922</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919769</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 ISAA</identifier>
+   <identifier type="dewey">9909826</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 ISAA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

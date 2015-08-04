@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ostertagia ostertagi</title>
+      <subTitle>population dynamics under pasture and confinement conditions with particular reference to the inhibition phenomenon</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Eddi, Carlos S.</namePart>
+      <namePart type="date">1945-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1989</dateIssued>
+      <dateIssued encoding="marc">1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 204 leaves : ill. ; 29 cm.</extent>
+      <extent>218 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This experiment was conducted to further define epidemiological events involved in the induction, duration and maturation phases of inhibited development of Ostertagia ostertagi in naturally infected calves and to characterize some aspects of the immune response associated with the inhibition phenomenon.;During March, April and May 1988, 3 groups of 18 calves were grazed on the same experimental pasture for 3 weeks. At the end of each grazing period, 2 calves of each group were slaughtered for analysis of worm population; the remaining calves were divided into 2 subgroups of 8 calves. One subgroup was returned to pasture while the other was placed in confinement. At 2-week intervals herbage samples were collected for larval recovery.;Large numbers of O. ostertagi early 4th-stage larvae (EL4) were observed in calves placed on pasture in March and April, while calves introduced in May had smaller numbers of parasites and lower percentages of EL4. Ostertagia ostertagi larval inhibition was attributed to seasonal factors. Similar level of EL4 in grazed and confined calves, suggested that inhibition was not induced by a density-dependent phenomenon. Maturation occurred in September, i.e., as spontaneous and marked qualitative changes in the worm population. This supported the theory of a similarity of nematode larval inhibition and diapause in insects as a means of survival during periods of environmental adversity. No differences were observed in plasma pepsinogen values among the 3 groups at the time of maturation.;Numbers of O. ostertagi and the total number of worms in grazed calves and those in confinement were not different. Lengths of adult worms and numbers of eggs in utero were significantly smaller (P $&lt;$ 0.05) in grazed calves through September. However, differences in vulval flap, lengths of EL4 and lengths of spicules were not significant. Grazed calves exhibited higher IgG titers. No response of lymphocytes stimulated with O. ostertagi L3 antigen was observed until the end of July, but a significant lymphocyte proliferation occurred in August. Abomasal lymph node lymphocytes displayed higher levels of proliferation than those from internal iliac lymph nodes and peripheral blood."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Carlos S. Eddi.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-08, Section: B, page: 3230."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Bibliography: leaves 163-185.</note>
+   <subject authority="lcsh">
+      <topic>Cattle</topic>
+      <topic>Parasites</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gastroenteritis in cattle</topic>
+      <topic>Epidemiology</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Veterinary helminthology</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002139</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">19696499</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">890511</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1067467</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 EDDI</identifier>
+   <identifier type="dewey">9002139</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 EDDI</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

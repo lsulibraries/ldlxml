@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Inhomogeneous relativistic electron systems</title>
+      <subTitle>a density functional formalism</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Ramana, Munagala V. (Munagala Venkata)</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Physics and Astronomy.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 134 leaves : ill. ; 29 cm.</extent>
+      <extent>144 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The correlation energy of an unpolarized relativistic electron gas is numerically calculated by summing ring diagrams due to both the longitudinal and transverse photon contributions. From this a local relativistic correlation potential is deduced which appears in the density functional theory of inhomogeneous systems where relativistic effects make important contributions. The non-relativistic gas results are found to be significant underestimates.;A fitted form of the correlation energy and potential were used in a self-consistent calculation of energies of atoms of large Z. Trends of the correlation contribution across the periodic table are evaluated and discussed. Correlation contributions to the K(alpha)(,1) and K(alpha)(,2) lines are compared to the differences between accurate computations, without correlation, and experimental values.;The role of the Breit interaction in a local approximation is evaluated through self-consistent atomic calculations. It is found that the full transverse interaction is underestimated by about an atomic unit in the systems investigated. Comparison with previous non-local Dirac-Fock calculations indicate that non-local effects may be important.;The problem of the relativistic spin polarized electron gas is considered. The Green function is deduced and used to calculate the particle density, magnetization, exchange energy and potentials. In the ultrarelativistic limit the magnetization is found to be one-third its non-relativistic value. States of uniform magnetization do not appear as ground states in the Hartree-Fock approximation. The exchange energy is found to change sign over a range of values of the relativistic parameter (beta)(=(H/2PI)k(,F)/mc) and magnetization. Effective one particle equations for the inhomogeneous polarized gas are given. The effective one particle potentials that appear in this equation are calculated in a local density scheme and their significance discussed."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Munagala V. Ramana.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: B, page: 2434."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 16-119.</note>
+   <subject authority="lcsh">
+      <topic>Electrons</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126974</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8238849</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820312</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14731</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 RAMA</identifier>
+   <identifier type="dewey">8126974</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 RAMA</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

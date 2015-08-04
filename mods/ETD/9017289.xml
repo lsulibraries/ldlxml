@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>macroeconomic effects of fiscal and monetary impulses and of financial crisis in the United States during the interwar period</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Raynold, Prosper</namePart>
+      <namePart type="date">1960-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Economics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 201 leaves ; 29 cm.</extent>
+      <extent>213 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation employs vector autoregressive techniques to improve our empirical understanding of fiscal and monetary policy and the effects of financial crisis in the interwar period. The issues investigated include: (a) the validity of the Ricardian equivalence and debt monetization hypotheses; (b) the effect of changes in the money supply on output, prices, and interest rates; (c) the impact of changes in average marginal tax rates and government expenditures on the macroeconomy; and (d) the effects of disruptions in financial intermediation and deterioration in the quality of private balance sheets on the macroeconomy.;Two vector autoregressive models are estimated and variance decompositions (VDCs) and impulse response functions (IRFs) are calculated. In addition, a Monte Carlo integration procedure is used to calculate standard errors for these parameters. Deficits, government expenditures, average marginal tax rates, M2, the 4-6 month rate on prime commercial paper, the wholesale price index and industrial production entered the first VAR while the other is comprised of the aforementioned variables plus the yield differential between Baa corporate and long-term U.S. government bonds. The choice of these variables reflect theoretical considerations and the necessity to avoid omitted variables bias. In particular, the inclusion of average marginal tax rates is intended to control for the distortionary effects of taxes. Additionally, the inclusion of the yield differential is intended to capture the effects of financial crisis. It is important to note that these latter variables have not previously been included in a model of the type used here.;The results generated are supportive of those studies that have found no significant role for deficits. Average marginal tax rates are found to have substantial effects on output, interest, and prices while the effects of the proxy for financial crisis on output, interest, prices, and money, are substantial. These results are supportive of the hypothesis that macroeconomic models which do not include measures of marginal tax rates and of the degree of financial crisis may be misspecified. More generally, the empirical regularities generated provide more support for Barro's market clearing approach when bonds are not net wealth than for any other theoretical framework."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Prosper Raynold.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-02, Section: A, page: 5750.;Directors: Thomas R. Beard; W. Douglas McMillin."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 188-198).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Macroeconomics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fiscal policy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Monetary policy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>United States</geographic>
+      <topic>Economic conditions</topic>
+      <temporal>1918-1945</temporal>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017289</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25595225</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920406</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094333</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 RAYN</identifier>
+   <identifier type="dewey">9017289</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 RAYN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>Miskito settlement landscape of eastern Honduras, with emphasis on the Moravian contribution</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Tillman, Benjamin Farr</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geography and Anthropology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 273 leaves : ill., maps ; 29 cm.</extent>
+      <extent>274 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation documents the influence of Moravian missionary activities on the Miskito settlement landscape in eastern Honduras---particularly in the areas of settlement morphology, housing, agriculture, and cemeteries. Upon their arrival to the Mosquito Coast in 1849, the missionaries employed a three pronged approach consisting of proselyting, medical treatment, and education to convert the majority of the indigenous population. The missionaries' resulting influence was a significant component and major cultural force in the development of a distinctive Protestant region within Catholic Central America.;Moravian contributions to the settlement landscape in sixty-four Miskito villages of eastern Honduras were documented through field observations of material culture, interviews, photographs, and document research in the Moravian Church archives. This information was used to map a hierarchy of Moravian centers illustrating spatially varying degrees of Moravian influence on the Miskito settlement landscape.;Principal findings included: (1) Missionaries' modified Miskito settlement morphology by implementing a distinctive settlement type based on the Hurrnhut model whereby church buildings were located on a central square that was bisected by the village road; (2) Moravian church architecture in Honduras passed through three stages beginning with local forms and materials, continuing with European forms and both local and manufactured materials, and concluding with only imported, manufactured materials; (3) Moravian alterations to Miskito housing consisted of changes to form and materials including such the installation of outside walls and inside partitions, frame construction raised above the ground on posts, and the addition of an external kitchen and gallery; (4) Moravian influence on Miskito agriculture included the introduction of new seed crops, increased fruit tree cultivation, and the expansion of traditional dooryard gardens; (5) Missionaries modified Miskito burial practices by discouraging both the isingni ceremony and property destruction, and by instituting the Moravian Easter Dawn Service. Through the analysis of cultural landscapes this dissertation builds a greater understanding of (1) the role of religion in creating ethnic landscapes; (2) the historical and cultural processes involved in the development of a Protestant cultural region within Catholic Central America; and (3) how cultural landscapes may be used by indigenous, peoples to document claims to ancestral lands."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Benjamin Farr Tillman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: A, page: 7240."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960102</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43370177</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000131</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921043</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 TILL</identifier>
+   <identifier type="dewey">9960102</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 TILL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

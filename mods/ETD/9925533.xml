@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>How the villanelle's form got fixed</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kane, Julie Ellen.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>v, 318 leaves ; 29 cm.</extent>
+      <extent>318 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This work debunks the myth of the villanelle as a ""fixed poetic form"" dating back to the sixteenth century or earlier and replaces it with a new-historical account of how a semi-improvisatory musico-poetic genre, the choral-dance lyric, was ""translated"" across ruptures in lyric technology between oral, manuscript, and print cultures. The ""fixity"" of the villanelle's written form is shown to be not a matter of long-standing ""heritage"" or ""tradition,"" but the result of deliberate actions taken by one eighteenth- and one nineteenth-century individual who inserted less-than-truthful passages into otherwise ""authoritative"" prosodic treatises.;Chapter 1 identifies the literary sources responsible for the construction of a false villanelle ""history"" and ""tradition"" and discusses how belief in such a tradition influences and empowers both poets and critics. Beginning with medieval verse forms, Chapter 2 discusses the musical and poetic features that distinguish semi-improvised choral-dance lyrics from text-based vocal lyrics, with particular attention to the role of women in the generation and transmission of choral-dance lyrics. The third chapter describes the musical and poetic styles of the sixteenth-century Italian musical villanella, representing a conscious imitation by courtly composers of semi-improvised refrain songs from the oral tradition; it also contrasts the villanella with the more ""literary"" madrigal. In Chapter 4, all known ""poetic"" villanelles and allusions to the villanelle are examined for evidence of a ""poetic"" or ""fixed poetic"" form in sixteenth-century France. The fifth chapter examines the influence of the musical villanella upon sixteenth-century English poets, particularly Philip Sidney. Chapter 6 traces the step-by-step process by which the villanelle's poetic form came to be ""fixed"" between the seventeenth and nineteenth centuries. In conclusion, Chapter 7 examines the paradox by which a ""genuine"" hundred-fifty-year-old fixed-form villanelle tradition that is still generating exciting poems has come to be erected upon the foundations of a false five-hundred-year-old one, and demonstrates how twentieth-century villanelles that are said to ""rebel against"" traditional villanelle constraints are actually consistent with the villanelle's semi-improvised, multiform origins."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Julie Ellen Kane.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: A, page: 1117."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925533</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40884781</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990226</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920131</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 KANE</identifier>
+   <identifier type="dewey">9925533</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 KANE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

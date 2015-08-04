@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>relation of cognition, emotion and behavior to the prediction of depressive symptomatology in referred and nonreferred adolescents</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Cole, Tracy L.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1989</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 110 leaves ; 29 cm.</extent>
+      <extent>101 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Researchers have shown an increased interest in depression in children and adolescents in the last few years. As a result, a body of research exists which has focused on the cognitive and behavioral aspects of depression in children and adolescents. Few studies, however, have examined the relation of emotion to depression. Therefore, the purpose of this investigation was to examine the relation of cognition, emotion and behavior to depression. Eighty adolescents (nonreferred) from public schools in a southern city and seventy-three adolescents (emotionally disturbed) from a psychiatric facility in the same area participated in the study. Each adolescent completed self-report measures tapping the areas of emotion, cognition and behavior. In addition, 32 of the emotionally disturbed adolescents were rated on the Hamilton Depression Rating Scale to provide an external criterion of depression. Preliminary analyses revealed no significant differences between groups on age, gender and race. Differences did emerge when examined at a multivariate level. Discriminant analyses conducted to determine whether the dependent measures could correctly identify members of the emotionally disturbed and normal groups indicated that the groups were able to be significantly differentiated. Emotions, negative self-statements and conflict with the mother were the best discriminators. Additionally, regression analyses were conducted in both the nonreferred and emotionally disturbed groups predicting RADS scores from the various self-report measures tapping emotion, cognition and behavior. In the nonreferred group, RADS scores were significantly predicted by emotions, negative self-statements and unpleasant activities; whereas in the emotionally disturbed population RADS scores were predicted by emotions, locus of control and unpleasant events.;Despite the promising findings of this study, there are some limitations. The study relied solely on self-report measures, whereas future studies should employ alternative methods of assessment and informants. Additionally, the emotionally disturbed group consisted of adolescents with different diagnoses so it was uncertain as to whether the findings would hold in a diagnosed depressed population."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Tracy L. Cole.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-03, Section: B, page: 1489."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1989.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 62-71).</note>
+   <subject authority="lcsh">
+      <topic>Depression in adolescence</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Depression in children</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9017256</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1989</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">25582176</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">920402</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1094235</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1989 COLE</identifier>
+   <identifier type="dewey">9017256</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1989 COLE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>investigation of internal auditor judgment on the importance of indicators of potential financial fraud</title>
+      <subTitle>an analytic hierarchy process approach</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Internal auditor judgment on the importance of indicators of potential financial fraud</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Apostolou, Barbara.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>E.J. Ourso College of Business</namePart>
+      <namePart>Department of Accounting</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 125 leaves ; 29 cm.</extent>
+      <extent>134 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Financial fraud has become a serious problem to the business community. As a result, regulators and financial statement users have looked to the auditing profession for answers to the problem. The role of the internal auditor has received significant attention due to the unique position they fill. That is, they are positioned to observe and test financial and operational activities of the firm on a continuous basis. In addition, internal auditors are able to devote more time to the deterrence and detection of financial fraud than their external counterparts.;The National Commission on Fraudulent Financial Reporting (Treadway Commission) issued its final report in October 1987 following a two-year investigation into the problem of financial fraud. An effective internal audit function was mentioned as a chief variable in the detection and deterrence of financial fraud. Both the Treadway Commission and the American Institute of Certified Public Accountants (Statement on Auditing Standards No. 53, The Auditor's Responsibility to Detect and Report Errors and Irregularities, May 1988) published lists of indicators or red flags of financial fraud.;This study focused on the internal auditor's ability to identify red flags and rank their importance to the overall assessment of the potential for financial fraud. The Analytic Hierarchy Process was used to model the judgment of each subject who participated in this study. In addition, measures of consensus were computed to evaluate the overall level of agreement between the subjects on the importance rankings of the red flags.;In general, internal auditors ranked management red flags as most important to the overall evaluation of the potential for financial fraud, followed by firm then industry red flags. Conclusions as to the rankings within each of the three principal groupings of red flags were not so clear."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Barbara Ann Apostolou.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: A, page: 3779."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 101-103).</note>
+   <subject authority="lcsh">
+      <topic>Auditing, Internal</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Fraud</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904524</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22832392</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901128</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1012225</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 APOS</identifier>
+   <identifier type="dewey">8904524</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 APOS</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

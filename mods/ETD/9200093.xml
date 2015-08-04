@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Acquiring vocabulary in a foreign language</title>
+      <subTitle>some effects of the nature of instruction on the knowledge and use of words</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 124 leaves : ill. ; 29 cm.</extent>
+      <extent>134 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of this study was to examine the effect that the nature of instruction of French vocabulary words has on student knowledge and use of the words on five different measures: a definition recognition test, a cloze plus word bank test, a comprehension of a text containing the words, a writing assignment designed to elicit free use of these words and a test of overall reading proficiency. Eighty-one high school students in the second year course of French constituted three treatment groups: (1) traditional instruction where students were required to learn a list of 12 words paired with their English equivalents; (2) rich instruction where students were required to learn the list of words paired with a French definition which also encompassed such things as words families, synonyms and antonyms; and (3) extended/rich instruction where students received the same instruction as the rich group plus read magazine articles of choice daily for 20 minutes looking for the words. Materials included two sets of 12 vocabulary words, their definitions, games played with the words and the definitions for all three groups, songs with several of the words by Jean-Jacques Goldman for the rich and extended/rich instruction groups and 46 recent Francophone magazines for the extended/rich instruction group. Results indicated that on the definition recognition test traditional and extended/rich instruction were statistically superior to rich instruction. On the free use of words in writing, no student used any of the vocabulary words during the course of the study. On text comprehension all groups performed equally. On all other measures extended/rich instruction was statistically superior to both traditional and rich instruction. These findings provide support for the inclusion of periods of free reading of print materials chosen by the student according to his interests."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Louise Stowell-Ruzicka.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: A, page: 2446."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 93-100).</note>
+   <subject authority="lcsh">
+      <topic>Language acquisition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>French language</topic>
+      <topic>Vocabulary</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Language and languages</topic>
+      <topic>Study and teaching</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200093</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28554271</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930802</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200815</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 STOW</identifier>
+   <identifier type="dewey">9200093</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 STOW</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

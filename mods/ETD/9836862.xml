@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>optimal implementation of on-line optimization for chemical and and refinery processes</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chen, Xueyu</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (xvii, 519) leaves : ill. ; 29 cm.</extent>
+      <extent>519 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"On-line optimization is an effective approach for process operation and economic improvement and source reduction in chemical and refinery processes. On-line optimization involves three steps of work as: data validation, parameter estimation, and economic optimization. This research evaluated statistical algorithms for gross error detection, data reconciliation, and parameter estimation, and developed an open-form steady state process model for the Monsanto designed sulfuric acid process of IMC Agrico Company. The plant model was used to demonstrate improved economics and reduced emissions from on-line optimization and to test the methodology of on-line optimization. Also, a modified compensation strategy was proposed to improve the misrectification of data reconciliation algorithms and it was compared with measurement test method. In addition, two ways to conduct on-line optimization were studied. One required two separated optimization problems to update parameters, and the other combined data validation and parameter estimation into one optimization problem. Two-step estimation demonstrated a better performance in estimation accuracy than one-step estimation for sulfuric acid process, while one-step estimation required less computation time.;The measurement test method, Tjoa-Biegler' contaminated Gaussian distribution method, and robust method were evaluated theoretically and numerically to compare the performance of these methods. Results from these evaluation were used to recommend the best way to conduct on-line optimization. The optimal procedure is to conduct combined gross error detection and data reconciliation to detect and rectify gross errors in plant data from DCS using Tjoa-Biegler's method or robust method. This step generates a set of measurements containing only random errors which is used for simultaneous data reconciliation and parameter estimation using the least squares method (the normal distribution). Updated parameters are used in the plant model for economic optimization that generates optimal set points for DCS.;Applying this procedure to the Monsanto sulfuric acid plant had an increased profit of 3% over current operating condition and an emission reduction of 10% which is consistent with other reported applications. Also, this optimal procedure to conduct on-line optimization has been incorporated into an interactive on-line optimization program which used a window interface developed with Visual Basic and GAMS to solve the nonlinear optimization problems. This program is to be available through the EPA Technology Tool Program."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Xueyu Chen.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: B, page: 2892."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836862</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919306</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CHEN V.1 378.76 L930D 1998 CHEN V.2</identifier>
+   <identifier type="dewey">9836862</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CHEN V.1 378.76 L930D 1998 CHEN V.2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

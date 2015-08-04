@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>investigation of the contribution of auditory-grouping to the comodulation masking release effect</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Rappold, Patrick W.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Communication Disorders.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 91 leaves : ill. ; 29 cm.</extent>
+      <extent>104 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The comodulation masking release (CMR) effect involves improved detection of a pure-tone signal in an amplitude-modulated (AM) masker by an addition of AM noise spectrally distant from the signal (i.e, outside the critical-band of the signal). The underpinning of CMR has been elusive, and despite many previous investigations of this phenomenon it remains unexplained.;A plausible explanation of CMR involves perceptual, auditory-grouping of acoustic signals. The purpose of this project was to investigate an hypothesis based on auditory-grouping to explain the CMR effect. A series of three experiments was completed towards this purpose. In the first, signal detection thresholds were obtained for a 2000-Hz pure-tone centered in narrow-band, AM maskers. Narrow-band, AM ""flankers"" centered at 1700-Hz were presented concurrently with the masker-band. The AM of the flanker-band was either identical to (correlated condition), or independent of (uncorrelated condition) the AM of the masker-band. Thresholds for the tone were about 3 dB better (lower) in the correlated condition, overall--a CMR effect of about 3 dB. In comparisons of specific correlated/uncorrelated noise-band pairs the magnitude of the CMR effect was found to vary substantially. CMR magnitude appeared to be related to the degree of envelope correlation of the ""uncorrelated"" noise-band pairs. In experiment two, strength of vertical-fusion of correlated and uncorrelated noiseband pairs was inferred from the interstimulus-interval (ISI) necessary to ""capture"" the flanker-band into a horizontal-stream. Shorter ISIs were needed to capture the flanker-band in correlated noise-band pairs than in uncorrelated noise-band pairs. This suggested that the strength of vertical-fusion of noise-band pairs was greater in correlated conditions than in uncorrelated conditions. In addition, the ISIs needed to capture the flanker-band were shorter for the ""uncorrelated"" noise-band pairs where the absolute value of the correlation coefficient was largest. In the third experiment, thresholds for the pure-tone were obtained in correlated noisebands. Two conditions were created, and denoted ""weakly-fused"" condition and ""strongly-fused"" condition. According to the auditory-grouping hypothesis of CMR, thresholds should have been better in the strongly-fused condition than in the weakly-fused condition. A significant difference for threshold was not found, however, between the two conditions. This finding suggests that auditory-grouping does not play a dominant role in CMR. Alternative explanations of why a difference for threshold was not found between the two conditions are offered."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Patrick W. Rappold.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: A, page: 3126."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 82-84).</note>
+   <subject authority="lcsh">
+      <topic>Sound</topic>
+      <topic>Measurement</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Auditory perception</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Noise</topic>
+      <topic>Measurement</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207525</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28564568</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1203394</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 RAPP</identifier>
+   <identifier type="dewey">9207525</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 RAPP</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

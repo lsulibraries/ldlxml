@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>variable learning effects of two types of intervention on L2 communication skills using interactive tasks</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Powers, Margaret Ann.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 181 leaves : ill. ; 29 cm.</extent>
+      <extent>191 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study evaluated the benefits of a task-based procedure used to develop L2 communicative effectiveness in spoken English among a group of advanced proficiency learners. Using two interactive information-exchange map tasks, one diagram task, and two intervening discussion sessions, the study attempted to investigate the actual communicative outcomes of interaction prompted by the tasks and by the interventions.;Subjects in three conditions first performed a map task designed with four referential problems which had to be solved to successfully complete the task. Immediately following the map task, the subjects in the first condition participated in a discussion session in which the nature of the referential problems was the focus. Subjects in the second condition took part in an intervening discussion whose focus was the linguistic features of the language used to perform the task. The third condition contained no intervention and served as the experimental control group.;After the intervention events, subjects performed another map task designed with referential problems similar to those in the first map. Following the second map task, the subjects were given a diagram task to perform. The diagram was analogous to the map tasks and contained the same types of referential problems.;A fourth condition provided baseline data for the diagram task by having subjects perform only that task, without benefit of practice on either of the map tasks.;It was found that, when the intervening discussion focused on linguistic aspects of task performance, speakers tended to adopt a noticeably more speaker-centered perspective in a subsequent communicative task. When referential aspects of the task were discussed, subsequent communicative performance was characterized by a more listener-oriented perspective. The findings suggested that L2 communicative effectiveness in an information-exchange task is enhanced when the speaker is led to take the listener's needs into account rather than focusing primarily on the form of the speaker's message."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Margaret Ann Powers.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-09, Section: A, page: 3265."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 151-163).</note>
+   <subject authority="lcsh">
+      <topic>Language acquisition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Second language acquisition</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Linguistics</topic>
+      <topic>Study and teaching</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9207523</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28564339</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1203389</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 POWE</identifier>
+   <identifier type="dewey">9207523</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 POWE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

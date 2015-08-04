@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Autobiographical memory in mild and moderate dementia of the alzheimer's type</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Levy, Judith Parks</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 111 leaves : ill. ; 29 cm.</extent>
+      <extent>112 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Alzheimer's disease (AD) is a progressive disease that particularly affects memory with difficulties starting insidiously and gradually progressing. Anterograde amnesia for semantic and episodic types of declarative knowledge becomes the most prominent and disproportionately impaired cognitive symptom. By the middle stages of the disease, this memory loss progresses to severe impairment. The neuropathology of early AD involves the hippocampal complex, which is involved in new learning and storage of recent experiences. As the disease progresses, it involves neocortical areas, which are involved in the storage of more remote memories.;Participants, including minimal stage AD, mild stage AD, moderate stage AD, and normal controls were interviewed using the Autobiographical Memory Interview (AMI), which consists of an autobiographical incidents component and a personal semantic component. They were also administered a brief mental status exam and tests of remote memory, anterograde memory, semantic category word fluency, and reading. Autobiographical memory was impaired in all three groups of AD patients. There was a temporally graded loss (poorer recall of recent than childhood memories) for the minimal and mild AD groups on the autobiographical incidents schedule of the AMI. The moderate group showed equal impairment across life periods. On the personal semantic memory schedule of the AMI, the mild and moderate AD groups showed a temporal gradient. Remote public memory was also impaired in all three groups of AD patients. All AD groups performed worse on the recent life period than on earlier time periods.;Overall, there were low correlations between remote public memory and autobiographical memory for the AD groups, supporting the separability of these subcomponents. Deficits in autobiographical memory were significantly correlated with anterograde memory deficits when AD patients reached the moderate stage of disease. There was an increasing correlation between category fluency and autobiographical memory across groups from the minimal to the moderate AD group, lending support to concurrent deterioration of both semantic and autobiographical memory as the disease progresses. This pattern also fit the correlation between the two schedules of the AMI, autobiographical incidents and personal semantic memory."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Judith Parks Levy.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-03, Section: B, page: 1305."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9922094</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40656542</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919941</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 LEVY</identifier>
+   <identifier type="dewey">9922094</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 LEVY</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

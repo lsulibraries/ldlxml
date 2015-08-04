@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Factors involved in immune modulation of bovine leukemia virus infection</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Pool, Wanda V.</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Veterinary Medicine.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 172 leaves : ill.(some col.) ; 29 cm.</extent>
+      <extent>184 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Bovine Leukemia Virus (BLV) is an exogenous type-C retrovirus which can induce an aleukemic (AL) stage, a persistent lymphocytotic (PL) stage, or a lymphosarcomatous (LS) stage in infected animals. After experimental infection with BLV, whole blood and serum samples were obtained from 12 holstein heifers for 103 weeks and used to correlate clinical signs (visual observation and white blood cell counts) with changes in humoral immune response (Agar gel immunodiffusion using envelope gp50 as primary antigen, and ELISA and Western immunoblots using whole BLV as antigen). Monoclonal antibodies against BLV envelope gp50 and gag p24 were produced to confirm reactivity to specific proteins for the various assays. To confirm reactivity of monoclonals and produce large amounts of selected proteins for later studies of BLV, the genes for env, gag, and pX were cloned into eucaryotic expression vectors. After transfection of appropriate plasmids, correct expression of cloned genes was confirmed using monoclonals and indirect immunofluorescence for gp50 and p24 and CAT assay for px. Total lymphocyte counts indicated 6 cattle reached the PL stage during the 103 weeks post infection (PI). Cows progressed through three transient disease stages in the first 3 months PI: transient eosinophilia, lymph node enlargement and lymphocytosis. Of the 6 cattle demonstrating early transient lymph node enlargement, 5/6 were AL. Changes in the humoral immune response to BLV were best detected using Western immunoassays. AL cattle were more likely to have an increased antibody response to the gag protein p24 early PI as compared to PL cattle. PL animals usually reached their highest p24 antibody responses after conversion to the PL stage. Antibody response to env gp50 increased as a function of time PI regardless of disease stage. PL cattle tended to recognize a greater number of the lesser gag proteins, p15, p12 and p10 in the first year PI than AL cattle. All cattle decreased markedly in their reactivity to any of these lesser proteins after 51 weeks PI."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Wanda V. Pool.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-09, Section: B, page: 4223."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, 1990.</note>
+   <note type="bibliography">Includes bibliographical records (leaves 128-148).</note>
+   <subject authority="lcsh">
+      <topic>Bovine leukemia virus</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cattle</topic>
+      <topic>Diseases</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Leukemia in animals</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bovine leukosis</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104163</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>[Dissertation / Louisiana State University] ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)); 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22194422</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">900808</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160634</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 POOL</identifier>
+   <identifier type="dewey">9104163</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 POOL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

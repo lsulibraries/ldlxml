@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Daniel Defoe's An essay on the history and reality of apparitions</title>
+      <subTitle>a critical edition</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Kincade, Kathleen Louise.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of English.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>2 v. (vii-714 leaves) : ill. ; 29 cm.</extent>
+      <extent>714 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation is a scholarly edition of Daniel Defoe's An Essay on the History and Reality of Apparitions, which was published in 1727 and has never been re-edited since his death in 1731. It poses several interesting problems for both the literary critic and bibliographer.;This edition is challenging for the bibliographer because, initially, this work was published anonymously. The second edition appeared with the addition of ""by Andrew Moreton, Esq."" as author. A section of my introduction attributes this work to Defoe by using contemporary theory and methods. Defoe scholars have had a problem attributing works to Defoe. Instead estimating conservatively, they have had a tendency to identify almost any Eighteenth Century anonymous publication as by Defoe. The amount of works attributed to Defoe is staggering. Recent scholarship focuses on discarding all works formerly identified as Defoe's that are clearly not and organizes guidelines on how these materials should be reviewed. I work to establish this book as by Defoe as definitively as possible through strict bibliographic research, both internal and external.;The supernatural interests the literary critic. Defoe published four non-fiction works on the occult. Part of my introduction is targeted at establishing how Defoe situated himself in the raging debate concerning apparitions, and why he felt compelled to enter the discussion. He was undermining superstition while attempting to legitimize the existence of apparitions to the sensible, sober, and religious faction of the reading public. He was caught between Hobbesian philosophy and the Cambridge Platonists trying to establish a reasonable, thoughtful explanation for the existence of apparitions and while maintaining his strong belief in God and providence. Defoe centers himself firmly in Eighteenth Century philosophy by his discussions on how guilt can effect the mind, which is a new facet to the existing arguments.;Overall, my dissertation is an editorial piece. I have done substantial research for the endnotes to bring modern readers as close to the knowledge that contemporary readers of this work would have had."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kathleen Louise Kincade.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-06, Section: A, page: 2036.;Directors: Jim Springer Borck; John I. Fischer."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9836883</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980522</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919337</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 KINC V.1 378.76 L930D 1998 KINC V.2</identifier>
+   <identifier type="dewey">9836883</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 KINC V.1 378.76 L930D 1998 KINC V.2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

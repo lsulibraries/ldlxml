@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Purification and antioxidant properties of rice bran γ-oryzanol components</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Xu, Zhimin</namePart>
+      <namePart type="date">1964-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Food Science.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>x, 96 leaves : ill. ; 29 cm.</extent>
+      <extent>98 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"A high purity $\gamma$-oryzanol was obtained from crude rice bran oil using a normal phase preparative scale HPLC. It was used in implementing a reverse phase HPLC method for separating each individual component of $\gamma$-oryzanol present in rice bran oil. Ten fractions were isolated in the reverse phase HPLC method. The ten components of $\gamma$-oryzanol were identified. Three of these, cycloartenyl ferulate, 24-methylene cycloartanyl ferulate, and campesteryl ferulate, were major components of $\gamma$-oryzanol.;The yield of $\gamma$-oryzanol without saponification was significantly higher than that with saponification in solvent extraction. The solvent mixture with 50% hexane and 50% isopropanol (v/v.) at an temperature of 60$\sp\circ$C for 60 min produced the highest yield of $\gamma$-oryzanol among test solvents and conditions. However, the yield of $\gamma$-oryzanol in supercritical fluid extraction under temperature 50$\sp\circ$C, pressure 680 atm, and time 25 min was approximately four times higher than the highest yield of solvent extraction. Also, high concentration of $\gamma$-oryzanol in extract (50-80%) was obtained by collecting the extract between 15-20 min of extraction under this optimized condition.;A quantitative method for determining four hydroperoxide isomers of linoleic acid, 9HPODE(t,c), 9HPODE(t,t), 13HPODE(c,t), and 13HPODE(t,t), using a normal phase HPLC with a UV detector was developed. The sensitivity and specificity of the HPLC method were sufficient to measure the production of the four hydroperoxide isomers when linoleic acid was incubated at 37$\sp\circ$C with constant air flow. $\alpha$-Tocopherol and ferulic acid showed significant antioxidant activity via low productions of hydroperoxides, compared to control. Based on the relative production of each hydroperoxide, the mechanisms of antioxidants, scavenging singlet oxygen or scavenging peroxyl free radicals, were also determined. Different profiles of production of each hydroperoxide in the linoleic acid model with $\alpha$-tocopherol and ferulic acid indicated that they possess different mechanisms of antioxidation.;The three components of $\gamma$-oryzanol evidenced significant antioxidant activity when they were mixed with linoleic acid in a molar ratio of 1:100 and 1:250 but not in a molar ratio of 1:500. The antioxidant mechanisms of the three major components of $\gamma$-oryzanol were similar to that of ferulic acid."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Zhimin Xu.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-02, Section: B, page: 6090."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9824499</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38572295</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">980309</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919119</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 XU</identifier>
+   <identifier type="dewey">9824499</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 XU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

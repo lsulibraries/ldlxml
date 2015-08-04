@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Selected Virginia cooperative extension services' professional personnel's perceptions of concepts and competences in extension program development</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Little, Bruce A.</namePart>
+      <namePart type="date">1944-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Extension and International Education.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1981</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xvi, 365 leaves : ill. ; 29 cm.</extent>
+      <extent>382 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The purpose of the study was to determine the perceptions of Extension Agents, Unit Chairmen and District Staff relative to selected concepts and competences dealing with Extension Program development in the local unit. A conceptual model of Extension Program development that was developed in 1974 was used as the basis for this study. These six concepts were further used as categories for the 120 items identified for the questionnaire. The instrument was pretested prior to submitting to the population of 423 personnel of the Virginia Cooperative Extension Service. Two-hundred and ninety five, or 70 percent, who responded indicated their perceptions via a 5 point Likert-scale. Each concept and competence was responded to twice, (1) the perceived importance of the concept (or competence) to Extension Agents in Extension Program development; and (2) the perceived degree of understanding needed of the concept (or competence) by those local individuals formally involved in developing the local unit's Extension Program.;The major findings were described in Chapters 4, 5 and 6. Some of the major conclusions and implications are presented in the following statements. Based upon the perceptions of Extension Agents, Unit Chairmen and District Staff relative to the importance of the concepts and competences, it is concluded that there was a consensus of agreement as to the importance of the concepts to Extension Agents in Extension Program Development. Ironically, the relationship of the Extension Agents' or Unit Chairmen's indicated time spent in a given program emphasis area increases, the more likely they are to perceive similar concepts and competences to be of less importance to Extension Agents in Extension program development. Based upon the perceptions of Extension Agents and Unit Chairmen from urban and rural units relative to the importance of the concept categories, it is concluded that there was a consensus of agreement that the concept categories are important to Extension Agents located in urban and rural units.;The findings based on the perception of the respondents relative to these concepts and competences as to the degree of understanding needed of each by local (non-Extension) individuals formally involved in developing the local unit's Extension program were reported in Chapter 6. Based upon the perceptions of Extension Agents, Unit Chairmen and District Staff relative to the degree of understanding of the concepts and competences needed by local (non-Extension) individuals formally involved in developing the local unit's Extension program, it was concluded that there was not a consensus between the respondents by position groups."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Bruce A. Little.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 42-06, Section: A, page: 2409."</note>
+   <note>Vita.</note>
+   <note type="thesis">Thesis (Ed. D.)--Louisiana State University, Baton Rouge, 1981.</note>
+   <note type="bibliography">Bibliography: leaves 329-336.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-va</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Correspondence schools and courses</topic>
+      <geographic>Virginia</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8126964</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1981</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">8228186</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">820309</recordCreationDate>
+      <recordIdentifier source="SIRSI">u14529</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1981 LITT</identifier>
+   <identifier type="dewey">8126964</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1981 LITT</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

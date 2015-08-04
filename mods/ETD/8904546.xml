@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Free radical chemistry in smoke from household and cellulosic materials, automobile fuel, and perfluoropolymers</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Lachocki, Thomas M. (Thomas Mark)</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xix, 207 leaves : ill. ; 29 cm.</extent>
+      <extent>227 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Free radicals have been detected in smoke resulting from the combustion of household and cellulosic materials, automobile fuel, and perfluoropolymers. Materials were pyrolyzed by a variety of methods, but the most reproducible results were obtained by heating the materials in a heated quartz tube. The smoke was reacted with $\alpha$-phenyl-N-t-butylnitrone (PBN), and the resulting nitroxide spin adducts were detected by electron spin resonance.;Oxygen-centered radical spin adducts predominate, lesser amounts of carbon-centered radical spin adducts and an oxidation product of PBN were also observed when smoke from several cellulosic materials, dried exterior paint, polyethylene, rubber, and automobile exhaust was allowed to react with the spin trap. When cellulose smoke is dissolved in solution, radicals are produced for at least 20 min, suggesting that metastable species in the gas-phase smoke decompose to form radicals in solution. No radicals were spin trapped polyvinyl chloride or nylon smoke.;Fluorine- and chlorine-atoms were spin trapped, and the spin trap was oxidized when smoke from perfluoropolymers (PFP) was allowed to react with PBN in aromatic solvents. In addition, a radical was trapped, whose structure has been tentatively assigned as a perfluoroalkoxyl radical. The spin adducts in PFP smoke result from the thermal initiated polymerization of tetrafluoroethylene in the spin trapping solution. Several low molecular weight perfluorocompounds have been ruled out as the source of the spin adducts in PFP smoke. These results imply that free radicals may contribute to PFP smoke toxicity."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas M. Lachocki.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-01, Section: B, page: 1820."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Free radicals (Chemistry)</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Smoke</topic>
+      <topic>Analysis</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Electron paramagnetic resonance</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904546</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22868688</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901218</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1013287</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 LACH</identifier>
+   <identifier type="dewey">8904546</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 LACH</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

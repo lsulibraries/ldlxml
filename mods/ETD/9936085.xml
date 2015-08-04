@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Barium in water and foraminiferal shells</title>
+      <subTitle>indicator of oceanographic conditions in the Gulf of Mexico since the Late Pleistocene</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Buerkert,  Thomas P.</namePart>
+      <namePart type="date">1967-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xv, 200 leaves : ill. ; 29 cm. + 3 plates</extent>
+      <extent>201 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The Gulf of Mexico offers an appropriate setting for studying the chemical dynamics at the continent-ocean interface. In addition, its sediments preserve the climatic records of the past. This study employs Ba as a tracer to examine several aspects of modern Gulf oceanographic processes and seeks to unravel Gulf paleoceanography using Ba/Ca ratios from fossil foraminiferal shells.;Comparison of dissolved Ba in the Mississippi and Atchafalaya River mixing zones suggests different Ba distributions can occur as a result of hydrodynamic and morphologic variability. Rapid Ba desorption from suspended material occurs near the Mississippi River, while Ba input from the shallow shelf sediments is possible near the Atchafalaya River.;Dissolved Ba measured in the southern Gulf of Mexico from the Yucatan entrance to the western Gulf reveals modern controls on the distribution of the trace element. Gulf surface waters contain elevated Ba, relative to the surface waters of the open Atlantic, due to river input and shelf-derived coastal inputs. Deep Gulf waters are largely homogeneous with respect to Ba and are rapidly flushed by waters from middle depths in the Atlantic.;A Ba/Ca record for planktonic foraminifera indicates high Ba during the   s 18O meltwater signal of the last deglaciation. This Ba/Ca anomaly is consistent with surface water freshening of 6 to 7%.;Ba/Ca ratios decrease by 30% with water depth for Recent benthic foraminifera from deep basin waters having nearly uniform Ba concentration, salinity, and temperature. This decrease points to pressure as a probable control on metal contents in foraminifera.;The downcore variation in Ba/Ca seen in Cibicides wuellerstorfi  sampled from a core in the deep waters of the southern Gulf indicates the presence of the nutrient-depleted Glacial North Atlantic Intermediate Water in the Gulf of Mexico during the Last Glacial Maximum. During deglaciation low   s 18C and high Ba/Ca suggest that the Gulf received a dominant contribution from Southern Ocean Water that was residing at intermediate depths. An ensuing Ba/Ca decrease through the deglaciation occurs coincident with the production of the North Atlantic Deep Water and represents the transition to an interglacial mode of ocean circulation."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Thomas P. Buerkert.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2571."</note>
+   <note>Plates in tube [1] 45 x 126 cm. + [1] 46 x 126 cm. + [1] 51 x 126 cm.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936085</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41398934</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990517</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920261</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BUER 378.76 L930D 1999 BUER TUBE</identifier>
+   <identifier type="dewey">9936085</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BUER 378.76 L930D 1999 BUER TUBE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

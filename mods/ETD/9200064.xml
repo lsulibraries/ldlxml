@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Taxonomy and biostratigraphy of sabinian palynomorphs from the wilcox group (paleocene - eocene epochs) of Southwestern Louisiana</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Gregory, William Andrew</namePart>
+      <namePart type="date">1959-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept.of Geology and Geophysics.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 234 leaves : ill. (some fold.), photos ; 29 cm.</extent>
+      <extent>246 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Fifty conventional core samples from the Ragley Lumber #D1 well located in Allen Parish Louisiana (Sec 29, T5S, R7w) were analyzed for palynomorphs. The sediment was deposited during the Sabinian Provincial Stage (upper Paleocene-lower Eocene) in a marine environment as evidenced by the presence of in situ dinocysts and acritarchs in every sample.;Terrigenous diversity of 129 taxa is comparable with marine palynomorph diversity of 46 taxa. Single sample diversity among the terrigenous palynomorph component (23-56 taxa) is comparable with single sample marine palynomorph diversity of 7-25 taxa. High terrigenous diversity intervals possibly indicate sourcing from multiple onshore environments or a single onshore environment with a very diverse flora. Four new combinations are proposed: Sterisporites bujargiensis Bolkhovitina 1956 comb. nov., Ephedrapites voluta Stanley 1965 comb. nov., Caryapollenites annulatus Elsik 1968 comb. nov., and Alnipollenites trina Stanley 1965 comb. nov.;Because the terrigenous component is reworked from the onshore environments to the offshore ones, high frequency intervals are interpreted to indicate deltaic progradation associated with changes in sediment supply or sea-level.;One marine and 4 terrigenous dominated palynofacies were identified and indicate 6 marine-terrigenous cycles.;The Sabinian-Claibornian stage boundary is placed at 10,890 feet based on the first appearance of Ilexpollenites spp., Aerosphaeridium diktyoplokus (Klumpp 1953) Eaton 1971, and Homotryblium spp. in the section and a tentative assignment of the Paleocene-Eocene epochal boundary in a sample gap between 13,382 feet and 14,007 feet based on the first appearance of Platycaryapollenites platycaryoides (Roche 1969) Frederiksen and Christopher 1978, Spinidinium sagittula (Drugg 1970) Lentin and Williams 1976. The absence of diagnostic middle Paleocene indicator pollen such as Momipites flexus Nichols 1973 s.l. and Holkopollenites chemardensis (Fairchild) Stover et al. 1966 along with other characteristic palynomorphs, suggests that the entire Sabinian Stage is not present in the core as was previously believed based on lithostratigraphic studies (Lowery, 1987). Due to the lack of regionally significant taxa with restricted temporal distributions, a biozonation for the Ragley Lumber #D1 well is proposed based on the total palynoflora.;The formulation and testing of a predictive model of the response of the palynoflora to sea-level changes indicates that the lowstand systems tract has a terrigenous dominated palynoflora and is likely to display high numbers of recycled palynomorphs. The transgressive systems tract has a marine dominated to strongly marine influenced palynoflora and low numbers of recycled palynomorphs as does the early portion of the highstand systems tract. The later portion of the highstand systems tract is characterized by terrigenous dominance and greater numbers of recycled palynomorphs."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by William Andrew Gregory Jr.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 52-07, Section: B, page: 3504."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1991.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 80-93).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-la</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Palynology</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Palynotaxonomy</topic>
+      <geographic>Louisiana</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9200064</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1991</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">28532165</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930728</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1200493</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1991 GREG</identifier>
+   <identifier type="dewey">9200064</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1991 GREG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

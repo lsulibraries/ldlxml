@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Cerium oxide as a highly effective and durable high temperature desulfurization sorbent</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Zeng, Yiding</namePart>
+      <namePart type="date">1963-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemical Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 139 leaves : ill. ; 29 cm.</extent>
+      <extent>140 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"High temperature desulfurization of highly reducing coal-derived gases using cerium oxide sorbents is the primary object of this dissertation research. Such a process may be used with the Integrated Gasification Combined Cycle (IGCC) if H2S concentration may be controlled under 20 ppmv or with the Molten Carbonate Fuel Cell (MCFC) if H2S concentration is less than 1 ppmv. The primary advantage of cerium oxide over the first generation zinc-based high temperature desulfurization sorbents which have been investigated for decades, is the potential to produce elemental sulfur directly during the regeneration phase of the process. Although CeO2  will react with H2S, the reaction thermodynamics do not permit H2S target level of 20 ppmv to be reached. However, at high temperatures in a highly reducing gas, CeO2 is reduced to a non-stoichiometric oxide, which is superior to CeO2 in removing H2S. In addition, the use of CeO2 will eliminate many of the problems associated with zinc sorbents during the regeneration phase.;Experimental results were very promising. Rapid and complete regeneration using over the temperature range of 500 to 700&amp;deg;C was observed. Elemental sulfur concentrations as large as 20 mol% (considered as S2) in the regeneration product gas have been achieved. With feed rates corresponding to about 1.4 second reactor residence time, the H2S concentration was reduced to less than 10 ppmv at temperature as high as 850&amp;deg;C and to near 1 ppmv at 700&amp;deg;C.;The key to the economics of any high temperature desulfurization process is sorbent durability in multicycle operation. No deterioration in performance was observed in both 10- and 25-cycle tests. Effective complete sulfidation of CeO2 to Ce2O2S and subsequent regeneration back to CeO2 was achieved in each cycle. Sulfur material balance closure during both the sulfidation and regeneration phases in both multicycle tests was quite good. The preliminary experimental results were used for process simulation and economic analysis in Zhang's thesis. The two-stage process using cerium-based sorbent was found to be economically competitive with a single-stage process using zinc-based sorbent followed by a direct sulfur recovery process, if the cerium-based sorbent is sufficiently durable."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Yiding Zeng.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: B, page: 4756."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945757</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42191350</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990818</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920708</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 ZENG</identifier>
+   <identifier type="dewey">9945757</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 ZENG</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

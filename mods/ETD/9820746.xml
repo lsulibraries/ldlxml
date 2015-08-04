@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nursing fathers</title>
+      <subTitle>American colonists' conception of English Protestant kingship</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Price, Benjamin Lewis</namePart>
+      <namePart type="date">1951-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of History.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1997</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 362 leaves ; 29 cm.</extent>
+      <extent>363 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This dissertation traces the development of the concept of English Protestant kingship within the political culture of colonial America from the Glorious Revolution of 1688 to the beginning of the American Revolution. It is meant to illustrate the place of British kings within the structure and ideology of American colonial politics and society during that period. It illustrates Americans' understanding of the protection-allegiance relationship between English Protestant kings, especially the first two Hanoverian monarchs, and their subjects in the provinces of North America.;This study also explores the language of Whig political discourse with its two primary ""dialects"" of Court and Country as each was employed in the American colonies. To understand more fully the Whig discourse of the eighteenth century, the first chapter of the study focuses on the development of English Whig politics from the Glorious Revolution into the Augustan Age.;The study concludes that the bond between English kings and their American subjects linked the colonies with the mother country, and that the Whig language of Protestant English kingship promoted loyalty and obedience to good English kings as successfully in America as it did in England. Americans felt a special relationship between themselves and their rulers. The king was also a substantive part of their own individual colonial constitutions. Americans' concept of their king as the protector of their liberties remained the last tie to English political culture that had to be severed before Americans could declare their independence.;From the accession of William III until 1776, American colonists viewed their kings as protectors of their lives, liberties, and property, and preservers of their Protestant faith. Colonists characterized their rulers as ""nursing fathers,"" benevolent and just, who employed their authority to protect and defend their subjects. This notion of English Protestant kingship was the wellspring of a powerful bond of allegiance between colonists and their kings that was not broken until the summer of 1776 when Americans perceived that King George III had forsaken them, had severed the connection between king and people, and had thus, in effect, separated the American colonies from the British Empire."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Benjamin Lewis Price.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-01, Section: A, page: 2950."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, 1997.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9820746</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1997</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">38208939</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980114</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1918960</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1997 PRIC</identifier>
+   <identifier type="dewey">9820746</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1997 PRIC</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

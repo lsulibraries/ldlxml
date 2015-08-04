@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Characterization and application of monoclonal antibody and bovine neutrophil reactivity to Pasteurella haemolytica antigens</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Austin, Frank William</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Interdepartmental Program in Veterinary Medical Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>ix, 125 leaves : ill. ; 29 cm.</extent>
+      <extent>136 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Monoclonal antibodies (McAbs) were prepared against Pasteurella haemolytica serotype 1 (Ph-1) capsular material to identify, quantitate and purify antigens. McAbs were selected by ELISA and characterized according to their isotype, cross-reactivity with P. haemolytica and P. multocida serotypes in ELISA, antigen formalin sensitivity and ability to cause bacterial agglutination. Four groups of McAbs were established each recognizing a different epitope. Various P. haemolytica and P. multocida serotypes were found to share several epitopes demonstrating their antigenic relatedness.;A colorimetric assay, based on tetrazolium dye reduction by bovine neutrophils, was adapted for the measurement and characterization of Ph-1 cytotoxin activity. Using different cytotoxin preparations which varied in cytolytic activity, cytotoxin activity was identified as the inhibition of dye reduction. Stimulation of dye reduction by neutrophils in response to the cytotoxin preparations was also detected in the assay suggesting neutrophil activation involving the respiratory burst. McAbs and chemical methods were used to identify and quantitate cytotoxin preparation antigens.;The colorimetric assay was further applied to select and characterize a cytotoxin-neutralizing monoclonal antibody (nMcAb). The nMcAb was not reactive in ELISA, but produced substantial neutralization in the colorimetric assay. The nMcAb was identified as an IgM. McAbs selected ELISA against capsular material did not affect neutrophil dye reduction in response to cytotoxin.;Ultrastructural changes in bovine neutrophils exposed to cytotoxin were examined over different time intervals and concentrations to characterize its effects at the cellular level. Identical time and concentration dependent changes involving cell polarization with uropod formation, plasma membrane defects, and differential intracellular degranulation progressing to complete lysis were observed. Polarization with uropod formation suggested the presence of a chemotactic factor and corresponded with activation observed in the colorimetric assay.;A McAb was applied in immunoaffinity to purify the Ph-1 specific epitope from capsular material. The immunoaffinity product contained no detectable protein and at least one half the original hexosamine content. McAbs were used in ELISA to identify and quantitate the product antigens. Lipopolysaccharide and pan-pasteurella carbohydrate were selectively retained in addition to Ph-1 specific capsular polysaccharide suggesting epitope sharing among polysaccharide antigens."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Frank William Austin.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5180."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Bibliography: leaves 116-119.</note>
+   <subject authority="lcsh">
+      <topic>Pasteurella</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Neutrophils</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bovine pneumonic pasteurellosis</topic>
+      <topic>Immunological aspects</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904525</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">18849560</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LBD</recordContentSource>
+      <recordCreationDate encoding="marc">881206</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1015557</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 AUST</identifier>
+   <identifier type="dewey">8904525</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 AUST</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

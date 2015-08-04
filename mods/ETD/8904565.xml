@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Synthesis and characterization of gold, silver, and copper cluster compounds</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Schuerman, Judith Ann</namePart>
+      <namePart type="date">1955-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 332 leaves ; 29 cm.</extent>
+      <extent>345 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Seven new coinage metal cluster compounds were synthesized and their single-crystal X-ray structures were determined. The novel gold cluster, hexakis(o-methyldithiobenzoato)hexagold(I), (Au$\sb6$ (o-CH$\sb3$C$\sb6$H$\sb4$CS$\sb2$)$\sb6$), has six gold atoms that are coplanar to within 0.14A. Each gold(I) forms two nearly linear bonds to bridging ligands alternately above and below the cluster plane. In addition to the multitude of Au-Au interactions within the hexameric cluster, a close intermolecular contact exists, thereby forming chains of these hexamers. The other gold cluster is a dimer, bis(2,4,6-trimethyldithiobenzoato)digold(I), (Au$\sb2\{$2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2\}\sb2$). However, there are three crystallographically independent dimers in the unit cell which are positioned such that a gold atom from each dimer lies at the vertices of a triangle that connects the three dimers. Of the three silver cluster compounds, one (n-Pr$\sb4$N)$\sb2$ (Ag$\sb4\{$2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2$ $\}\sb6$) $\cdot$1/2DMF$\cdot$H$\sb2$O, has a square-planar array of silver atoms, whereas the other two, (Ag$\sb4\{$2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2\}\sb4$(py)$\sb3$) $\cdot$1/2py and (Ag$\sb4$(o-CH$\sb3$C$\sb6$H$\sb4$CS$\sb2$)$\sb4$(py)$\sb4$), have distorted tetrahedral structures. The two trithioperoxybenzoate copper clusters, (Cu$\sb4\{$2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2$S$\}\sb4$) and Cu$\sb4$ (o-CH$\sb3$C$\sb6$H$\sb4$CS$\sb2$S)$\sb4$), exhibit distorted tetrahedral coordination.;Triphenylphosphine was reacted with these clusters and resulted in seven monomeric derivatives with the formula (M(L)(PPh$\sb3$)$\sb{\rm x}$) where M = Au, L = o-CH$\sb3$C$\sb6$H$\sb4$CS$\sb2$, x = 1; M = Au, L = 2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2$, x = 1 or 2; M = Ag or Cu, L = o-CH$\sb3$C$\sb6$H$\sb4$CS$\sb2$ or 2,4,6-(CH$\sb3$)$\sb3$C$\sb6$H$\sb2$CS$\sb2$, x = 2. When x = 1, the gold compounds are linearly coordinated and the ligands are monodentate. When x = 2, the metals are all tetrahedrally coordinated and the ligands are bidentate.;In addition to the above, seven other gold(I) complexes were synthesized using similar ligands, but solubility problems prevented single crystal growth and structural determinations. These ligands originated from tetraalkylammonium salts of the following substituted dithiobenzoates: p-methoxy-, p-fluoro-, p-phenyl-, p-benzoyl-, p-formyl-, p-acetyldithiobenzoate, and 1-dithionaphthoate. In order to further characterize some of these compounds, solid-state $\sp $C CP-MAS NMR spectra were obtained for the o-methyl-, 2,4,6-trimethyl-, p-methoxy-, and p-fluorodithiobenzoatogold(I) complexes. All the gold(I) dithiobenzoate compounds were characterized by infrared and visible-ultraviolet spectroscopy.;A discussion of the anomalous behavior of the p-phenyldithiobenzoate ligand in reactions with gold(III) and copper(II) is presented. No new light is shed on a continuing controversy regarding metal-metal bonding, its relative strength or even existence, in coinage metal clusters."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Judith Ann Schuerman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5300."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 158-170).</note>
+   <subject authority="lcsh">
+      <topic>Transition metal compounds</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904565</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22971734</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910116</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1015429</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 SCHU</identifier>
+   <identifier type="dewey">8904565</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 SCHU</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

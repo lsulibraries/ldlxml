@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plasma enhanced chemical vapor deposition of silicon nitride and oxynitride films using disilane as silicon source</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Nallapati, Giridhar</namePart>
+      <namePart type="date">1969-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Electrical and Computer Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiii, 108 leaves : ill. ; 29 cm.</extent>
+      <extent>108 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Process characterization details along with the electrical properties of plasma enhanced chemical vapor deposited silicon nitride and oxynitride films are reported, for the first time, using disilane as the silicon source.;Two regimes of deposition, namely excess-disilane regime and excess-ammonia regime, were observed for deposition of silicon nitride films using disilane, ammonia and helium. Films deposited under process conditions falling at the boundary of these two regimes had deposition rates that were mostly dependent on rf power and gas flow ratio resulting in highly repeatable film qualities.;Silicon nitride films deposited on Si wafers at 250&amp;deg;C and post-metallization annealed in N2 ambient at 420&amp;deg;C exhibited fixed effective interface charge density of &amp;sim;3 x 1011 cm-2 and minimum interface state density of 2--3 x 1011cm -2 eV-1. The net bulk and interface charge density, charge trap density, interface trap density in the midbandgap region, and leakage current through the films were all lower for films that received a post-metallization anneal in both N2 and forming gas ambients compared to the values for films annealed in either N2 or forming gas ambients alone. All films exhibited higher instability due to hole trapping under negative gate bias stressing than due to electron trapping under positive gate bias stressing.;Silicon oxynitride films were deposited by introducing N2O gas into the disilane/ammonia/helium gas system. Films deposited using higher N2O flow rates exhibited higher net effective fixed interface charge densities. The charge trapping in the films decreased with increasing N 2O flow rates employed in deposition except at the highest N2O flow rate investigated. In general, a turn-around behavior was observed in the trend for several electrical properties of the oxynitride films with increasing N2O flow rates. All the oxynitride films examined exhibited fewer occurrences of extrinsic breakdown compared to silicon nitride films, indicating reduction of pinhole density in the oxynitride films.;Reviewing the overall properties of these films, it was deduced that the silicon oxynitride films deposited using NH3 to N2O flow rate of 20 in the present system would be the most practical choice for their use as gate dielectric films in thin film transistor applications."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Giridhar Nallapati.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: B, page: 1772."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925540</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40879265</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990301</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920140</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 NALL</identifier>
+   <identifier type="dewey">9925540</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 NALL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

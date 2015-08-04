@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>An </nonSort>
+      <title>environmental challenge of body image disturbance in bulimia nervosa</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>McKenzie, Sandra Jean.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Psychology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1990</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vii, 81 leaves : ill. ; 29 cm.</extent>
+      <extent>80 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"An environmental challenge of body image disturbance in bulimia nervosa was investigated. A new theoretical model was proposed to define the construct of body image disturbance in terms of body image distortion, drive for thinness, and body size dissatisfaction. The purpose of this study was to investigate the reactivity effects of an environmental challenge on body image disturbance in a 2 x 2 factorial design. Thirty-six females participated. Eighteen subjects had been diagnosed with bulimia nervosa and 18 subjects were selected as controls. Subjects were matched on height and weight and compared on a variety of measures related to body image disturbance prior to and following being weighed and eating a high-calorie snack. Body image assessment utilized the Body Image Assessment Instrument (BIA) and the Body Image Testing System (BITS). Other measures included the Goldfarb Fear of Fat Scale (GFFS), two subscales of the Eating Disorder Inventory (Body Dissatisfaction and Drive for Thinness), and subjective ratings of distress (SUDS). The GFFS score was proposed as a covariate to investigate the effects of this variable on the reactivity of body image disturbance. Analysis of covariance was determined to be inappropriate because the assumption of treatment and covariate independence was not met. The covariate was highly correlated with other dependent measures in the bulimic sample but not in the control group. Thus, the effects of the covariate were limited to between group differences. Results showed that bulimia nervosa subjects evidenced more body image disturbance on all measures at pre-assessment indicating that body image disturbance is a stable characteristic. Following the environmental challenge, bulimic subjects reported greater subjective distress and perceived themselves to be larger than they had at pre-assessment. Ideal body size estimates were not affected by the challenge. The theoretical model was revised to indicate that environmental events affect body image disturbance via an increase in current body size estimates in bulimic subjects. Control subjects did not show this effect. This study was the first to conceptualize body image disturbance as a multi-factor phenomenon within a theoretical model. Future studies should continue to investigate the reactivity of body image distortion using the BITS as this measure was found to be sensitive to the effects of an environmental challenge."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Sandra Jean McKenzie.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 51-10, Section: B, page: 5035."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1990.</note>
+   <note type="bibliography">Includes bibliographical references (leaves 50-57).</note>
+   <subject authority="lcsh">
+      <topic>Body image</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Bulimia</topic>
+      <topic>Psychological aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Eating disorders</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9104154</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1990</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">27257519</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">930115</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1160509</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1990 MCKE</identifier>
+   <identifier type="dewey">9104154</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1990 MCKE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

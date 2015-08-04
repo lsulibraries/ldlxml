@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Effects of dietary L-carnitine on female retired breeder rats fed high protein and high fat</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Zablah-Bendeck, Erika Maria</namePart>
+      <namePart type="date">1972-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>School of Human Ecology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>2000</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 198 leaves : ill. ; 29 cm.</extent>
+      <extent>199 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Carnitine supplementation has been shown to protect animals from ammonia toxicity following an ammonium acetate infusion and to alter body composition (i.e. increase lean mass and decrease body fat) in younger animals. The aims of this study were to address the questions of whether: (1) carnitine lowers blood ammonia levels of rats fed high protein; (2) carnitine decreases the weight gain and body fat of older animals fed high fat; (3) carnitine decreases glucose-induced insulin secretion; and (4) consumption of a high fat diet increases total serum carnitine content. Sprague Dawley retired female breeder rats (n = 64) were stratified by weight and randomly assigned to one of the following 8 treatment groups for an 8 week study: carnitine (0%, 0.1%), protein (14%, 35%) and fat (4%, 35%). The study was analyzed as a 2 x 2 x 2 factorial with repeated measures and ANOVA. At 2 and 8 weeks, serum levels of ammonia, urea, glucose, insulin, carnitine, and nonesterified fatty acids were obtained. An oral glucose tolerance test was performed on week 5 and insulin and glucose were measured. Body composition measurements were obtained for all rats at the end of the study. Inclusion of dietary carnitine to rats fed high protein resulted in a trend for lower serum ammonia and significantly lower glucose at 2 but not 8 weeks, with no effect on urea nitrogen levels. Insulin levels for these rats were lower at 2 week, but by 8 week had become higher. Before and after the glucose load was administered insulin levels were significantly higher for these rats. Carnitine did not enhance fatty acid oxidation or increase lean tissue, instead there was a tendency for greater abdominal fat as percent of body weight. We conclude that carnitine's effect on blood ammonia and glucose levels was short-lived and that with time carnitine may lead to weight gain and thus to a loss of insulin sensitivity. Consumption of a high fat diet does not seem to lead to an increase in total serum carnitine content. In addition the benefits of carnitine on body composition are not present in older non-growing animals."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Erika Zablah-Bendeck.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-07, Section: B, page: 3517.;Directors:  Michael Keenan; Maren Hegsted."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2000.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9979305</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2000</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">44190112</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000606</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921315</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 2000 ZABL</identifier>
+   <identifier type="dewey">9979305</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 2000 ZABL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

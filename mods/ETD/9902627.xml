@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Multi-institutional collaborations in science</title>
+      <subTitle> structure, types, and outcomes</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Chompalov, Ivan (Ivan Mihailov)</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Sociology.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1998</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 309 leaves : ill. ; 29 cm.</extent>
+      <extent>310 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The advent of modern ""big science"" brings about a new kind of research formation: multi-institutional collaborations involving teams of researchers from several organizations. Despite their recent proliferation and visibility, no general classification of these ""virtual organizations"" exists. This study adopts a macrosociological, comparative perspective to develop a variety of classification schemes that capture the systematic variation of interorganizational collaborations in science along basic structural dimensions and to examine the relationships of these classifications with important sociological outcomes.;Qualitative, historical analysis of collaborations in high-energy physics, space science, and geophysics showed that, when we set aside field-specific differences, seven general dimensions emerge as fundamental in describing the structural variety of collaborations in science: project formation, magnitude, organization and management, interdependence, participation, communication, and technological practice. Cluster analysis was then employed using interview data from 23 recent collaborations in five new areas of physics and allied sciences to build classification schemes along these structural dimensions. Next, analysis of variance models and qualitative comparative analysis were used to explore how the classifications relate to valued sociological outcomes such as success, trust, conflict, stress, and documentary routines.;The empirical results strongly supported the central argument that a typology based on a broad conception of technological practice is superior to others in its ability to predict the patterned consequences of multi-institutional collaborations in science. In fact, it is the only clustering that is capable of explaining perceived success, trust, and stress. The major findings of the dissertation research suggest that it is necessary to move away from the narrow focus on the laboratory and the disciplinary organization of R&amp;D in order to capture the structure and process of emergent forms of social organization in contemporary science."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Ivan Chompalov.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 59-08, Section: A, page: 3228."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1998.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9902627</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1998</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">39645608</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">980804</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1919576</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1998 CHOM</identifier>
+   <identifier type="dewey">9902627</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1998 CHOM</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

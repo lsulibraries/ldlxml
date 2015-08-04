@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>American career of Maria Ouspenskaya (1887-1949)</title>
+      <subTitle>actress and teacher</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Heilman, Pamela Sue.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Theatre.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>vi, 264 leaves ; 29 cm.</extent>
+      <extent>264 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"This study examines the career of Maria Ouspenskaya (1887--1949) in American theatre from 1923--1949, and it assesses her significance in American theatre history. The primary sources for this study were newspapers, the Maria Ouspenskaya Collection in the University Library at UCLA, and the Ouspenskaya clipping file in the Billy Rose Collection at the New York Public Library for the Performing Arts.;Prior to moving to the United States, Ouspenskaya acted and taught at the Moscow Art Theatre, where she studied with Konstantin Stanislavsky, who had developed a new form of actor training known as the ""System."" In America, Ouspenskaya first taught System techniques to students at the American Laboratory Theatre in New York, working with Richard Boleslavsky. She later taught at the Neighborhood Playhouse and her own schools in New York and Hollywood. She also acted in six Broadway plays and twenty movies. Admired as a character actress, she received two Academy Award nominations.;The findings of this study reveal that Ouspenskaya was a highly respected and influential theatre artist during her years in America. Her acting consistently received praise from both critics and colleagues, and her stage and film roles provided a rare opportunity for the general public to view performance by a former student of Stanislavsky. More important, Ouspenskaya taught the System to hundreds of students, who, in turn, carried the new technique to the stage, film, radio, and television. Former Lab students Stella Adler, Harold Clurman, and Lee Strasberg brought their new knowledge to Broadway via the Group Theatre in the 1930's. Strasberg later taught his own version of Ouspenskaya's teachings, the controversial ""Method,"" at the Actor's Studio in the 1950's and 1960's, thereby introducing Stanislavsky's System to a new generation of actors.;Ouspenskaya's work as both an actress and a teacher significantly influenced and reformed American acting technique. She deserves recognition in theatre history for her important contributions to performance and actor training in the United States."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Pamela Sue Heilman.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-04, Section: A, page: 9410."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9925531</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">40884732</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990226</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920128</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 HEIL</identifier>
+   <identifier type="dewey">9925531</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 HEIL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

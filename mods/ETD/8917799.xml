@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>relationship between root anatomic and metabolic responses to soil waterlogging in the coastal grass Spartina patens</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Burdick, David Maaloe</namePart>
+      <namePart type="date">1954-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Marine Sciences.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued> 1988</dateIssued>
+      <dateIssued encoding="marc">1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xi, 135 leaves ; 29 cm.</extent>
+      <extent>147 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Spartina patens is a perennial grass that dominates dune, swale and marsh habitats in coastal Louisiana. Plant roots require oxygen for respiration and normal root function, and one of the most serious problems wetland plants encounter is the development of anaerobic conditions in the soil. The remarkable success of S. patens in habitats that occupy distant positions on a soil waterlogging gradient suggests either genetic differentiation or phenotypic adaptation among these populations. Field and greenhouse investigations were conducted to: (1) identify anatomic and metabolic soil waterlogging responses in Spartina patens, (2) examine the relationship between these responses, and finally (3) compare differences among dune, swale, and marsh populations with respect to soil waterlogging responses.;In the field, root aerenchyma (an internal gas-space system that allows for root aeration) increased with increasing soil waterlogging from dune to marsh habitats. Although aerenchyma volume was greatest in roots of marsh plants (50%), it supplied insufficient oxygen to fully support aerobic respiration, as indicated by relatively high alcohol dehydrogenase (ADH) activities in these roots. Roots from dune, swale, and marsh habitats responded to episodes of relatively greater soil waterlogging with changes in metabolism that resulted in increased malate and lactate concentrations and was accompanied by decreases in the adenylate energy charge ratio (AEC; energy status).;In the greenhouse, aerenchyma development in new and preexisting roots was stimulated by flooding. Increases in soil waterlogging led to increased root ADH activities and malate concentrations, while AEC ratio decreased. Time course measurements showed that development of aerenchyma in flooded roots was followed by a decline in ADH activity, indicating aerenchyma reduced capacity for anaerobic fermentation. The relationship between anatomic and metabolic responses indicated that aerenchyma is important, but of limited utility in relieving hypoxic conditions in roots. In Spartina patens, metabolic adaptations may be essential for root survival under conditions of either severe or rapidly increasing soil waterlogging.;An experiment using plants repropagated four years in a common environment showed genetic differences in flooding responses among population sources. However, these differences may not have been physiologically significant since no differences in flooding tolerance were found among populations."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by David Maaloe Burdick.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 50-05, Section: B, page: 1752."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph. D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Spartina</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Waterlogging (Soils)</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8917799</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">24187011</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">910807</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1063661</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 BURD 378.76 L930D 1988 BURD</identifier>
+   <identifier type="dewey">8917799</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 BURD 378.76 L930D 1988 BURD</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>laser optogalvanic effect in radio frequency plasma</title>
+      <subTitle>applications in analytical chemistry</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Yao, Xuan</namePart>
+      <namePart type="date">1957-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 116 leaves : ill. ; 29 cm.</extent>
+      <extent>117 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The laser optogalvanic effect (LOGE) is the change of electrical impedance of a plasma produced by resonant absorption of laser radiation. Selected excitations can be used to detect specific species by tuning the laser to an appropriate wavelength.;For optimum utilization of LOGE as a detection tool, one must understand the temporal profile of the LOGE signal in terms of the various processes occurring in the plasma. In this work, the characteristics of the LOGE signal and the potential applications of laser optogalvanic spectroscopy (LOGS) have been investigated.;First, by analyzing the LOGE signal profiles of the neon excitations   1s2,4&amp;rarr;2p1,3,  we studied the effect of radiation trapping and collisional energy transfer on the generation of LOGE signals. The kinetics of the signal generation has been discussed quantitatively. The ionization rate change (IRC) signal profile has been modeled qualitatively. The dominant transient features were found to be associated with trapping of the   1s2  state. The temperature of the radio frequency (RF) plasma is   &amp;sim; 1000K.;Second, the influence of the distance traveled by the acoustic pulse on the signal profiles has been investigated. It was found that the acoustic wave launched by non-radiative   2pk&amp;rarr;1sj   and   1s3,5&amp;rarr;S01   deexcitations travels at the speed of sound. On the other hand, the acoustic wave launched by non-radiative   1s2,4&amp;rarr;S01   deexcitations of trapped   1s2,4  states produces an instantaneous LOGE signal. A model of the photoacoustic (PA) signal formation has been constructed and used to predict the PA signal profiles successfully.;Third, we have studied the capability of LOGS to detect and analyze iodine in an RF plasma. It is shown, by careful selection of the operating conditions, that the signals of iodine atoms and molecules can be distinguished by separating the IRC/PA components. Both air and nitrogen can be used as the filler/carrier gas in the plasma. The detection limit of iodine in nitrogen is approximately one order of magnitude better than that in air. The  response of signal intensity to sample concentration is linear in the range of 0.1mug/cm3--2.5mug/cm 3. The detection limit achieved in our experiments is   &amp;sim; 10-7mug/cm3 for both iodine atoms and molecules."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Xuan Yao.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2665."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936120</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41394915</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990519</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920305</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 YAO</identifier>
+   <identifier type="dewey">9936120</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 YAO</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

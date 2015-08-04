@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Metals release from freshwater and estuarine sediments in thin-disk leaching columns</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Myers, Tommy E.</namePart>
+      <namePart type="date">1948-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Civil and Environmental Engineering.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xiv, 277 leaves : ill. ; 29 cm.</extent>
+      <extent>278 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Column leaching tests were conducted on two freshwater sediments and two estuarine sediments. Leachate samples were analyzed for total organic carbon (TOC), cadmium, chromium, copper, iron, manganese, lead, nickel, and zinc. Metal and TOC elution curves for freshwater sediments were fundamentally different from estuarine sediment elution curves. The difference was due to colloid-facilitated transport of metals and TOC in estuarine sediments that was caused by salt washout during leaching with distilled-deionized water.;Metals and TOC concentrations in freshwater sediment leachates tended to monotonically decrease from initial pore water concentrations. Leaching of metals and TOC from freshwater sediments was modeled with a retardation model and a retardation model that included diffusion from immobile water regions. Comparison of modeled and measured metals concentrations showed that long-term metals leaching from freshwater sediments was governed by diffusion from immobile water regions. Equilibrium-controlled desorption of metals from freshwater sediments was minimal except for manganese. TOC leaching, however, was described by equilibrium-controlled desorption.;Estuarine sediments showed a complicated elution history involving an increase in metal and TOC concentrations in leachate following washout of the sediment salt. This phenomenon qualitatively agreed with the Gouy-Chapman double-layer model for the functional dependence of spacing between charged plates on ionic strength. The elution of salt reduced ionic strength and increased the double-layer thickness between sediment colloids. As the double-layer thickness increased, the tendency for colloids and the contaminants bound to colloids to become entrained in flow during column leaching increased. A leaching model based on Gouy-Chapman theory for the effects of salt washout on contaminant leachate concentrations simulated the elution curves for one estuarine sediment but was less effective in simulating the elution curves for the other estuarine sediment."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Tommy E. Myers.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-06, Section: B, page: 2834."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9936104</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">41376110</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990517</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920254</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 MYER</identifier>
+   <identifier type="dewey">9936104</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 MYER</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

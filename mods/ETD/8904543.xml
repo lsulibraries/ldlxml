@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Applications of solid-state deuterium NMR spectroscopy</title>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Jarrett, William Lawrence</namePart>
+      <namePart type="date">1961-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1988</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>xii, 251 leaves : ill. ; 29 cm.</extent>
+      <extent>264 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Solid-state deuterium NMR spectroscopic techniques have been applied to a series of organic and organometallic systems. The construction and operation of an ADLF (adiabatic demagnetization in the laboratory frame) spectrometer is described in detail. The instrument has been used to obtain high-field solid-state deuterium NMR spectra for a series of para-substituted phenyl acetic acids which have been deuteriated at the methylene site, as well as $d\sb1$-napthalene, triphenylphosphonium-(methyl-$d\sb3$) bromide, and barium chlorate monohydrate (25% deuteriated). The data for the para-substituted phenyl acetic acids show that the two methylene deuterons are inequivalent. This inequivalency is due to the difference in the $\sp2$H-C$\sb1$-C$\sb2$-O torsion angle for the deuterium sites; here C$\sb1$ refers to the methylene carbon, C$\sb2$ refers to the carboxylic acid carbon, and O refers to the hydroxyl oxygen. In addition, static values of the deuterium quadrupolar coupling constant and asymmetry parameter have been obtained for (C$\sp2$H$\sb3$)(C$\sb6$H$\sb5$)$\sb3$PBr and Ba(ClO$\sb3$)${\cdot}\sp1$H$\sp2$HO, two systems where motional averaging of these two parameter have been previously observed.;Conventional high-field solid-state deuterium NMR spectroscopy has been applied to three organometallic hydride systems. The spectrum of (($\eta\sp5$-C$\sb5$H$\sb5$)$\sb2$Zr($\sp2$H)$\sb2$) $\sb{\rm x}$ is reported; both the terminal and bridging site are observed and have been identified. Variable temperature solid-state deuterium NMR spectra have been acquired for (PPN) $\sp+$ ($\sp2$HFe(CO)$\sb4$) $\sp-$. The data have been analyzed by lineshape simulations and interpreted in terms of a libration of the Fe-$\sp2$H bond about the C$\sb3$ molecular axis of the anion. From an Arrhenius plot, the activation energy of the process is calculated to be 18(2) kJoules/mole. Preliminary results of a solid-state deuterium NMR spectroscopic study of two bridging chromium carbonyl complexes and one terminally bonded chromium carbonyl complex are also reported."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by William Lawrence Jarrett.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 49-12, Section: B, page: 5297."</note>
+   <note>Vita.</note>
+   <note>Abstract.</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1988.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject authority="lcsh">
+      <topic>Deuteron magnetic resonance spectroscopy</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Organometallic compounds</topic>
+      <topic>Spectra</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:8904543</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1988</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">22867241</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">LUU</recordContentSource>
+      <recordCreationDate encoding="marc">901217</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1013269</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1988 JARR</identifier>
+   <identifier type="dewey">8904543</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 JARR</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

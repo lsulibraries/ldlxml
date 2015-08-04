@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Looking for leadership</title>
+      <subTitle>searching in a middle school for reactions to stimuli in social environments</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Begnaud, Lucy G. (Lucy Gremillion)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Curriculum &amp; Instruction.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <internetMediaType>application/pdf</internetMediaType>
+      <extent>viii, 162 leaves : ill. ; 29 cm.</extent>
+      <extent>163 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"Leadership development lies at the heart of establishing a meaningful legacy for students. More important than subject matter and curriculum content, the affective traits we instill in our students will guide them. Such traits are at the core of leadership development, the focus of this qualitative research case study. An eight-month immersion in a fifth grade gifted enrichment program addressed the following questions: (a) What leadership opportunities do students have in a gifted enrichment program at the fifth grade level? (b) What could enrichment programs do to foster leadership development in their gifted students?;Four themes emerged during this study: knowing self, planning, building relationships, and evaluating. Teachers facilitated students' experiencing of self-knowledge by helping them identify and value their personal gifts. Students and teachers sought leaders that were mature, patient, confident, intelligent, and responsible. The best leaders were risk-takers, independent thinkers who were motivated and set good examples for others.;Teachers and students constantly planned, setting priorities, meeting goals, and establishing new goals. Leaders envisioned a project from beginning to end; remained task committed, organized and punctual.;Students were encouraged to make commitments and build relationships; it was this theme that emerged as the foundation for instilling affective traits in the students. Listening was the primary characteristic for building relationships. Students valued someone who cares, shares, cooperates, is helpful, considerate, diplomatic, influential, decisive, and fair to all parties.;Finally, ongoing evaluation was evident through self-evaluation, peer and teacher evaluation; immediate feedback was an important part of the evaluation cycle. Evaluation was most effective when it was impartial and allowed for improvement.;Implicit in the findings is the need for further study. Additional research is needed concerning the ways youth value and establish leadership. Although this research primarily focused on gifted students, the findings of this study could be applicable to students in other situations. Leadership development can serve as a powerful tool that individuals can utilize in everyday situations. Students develop leadership abilities by learning from experience, learning from people, and learning from successes and failures. A student's character is formed in reactions to stimuli in social environments."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Lucy G. Begnaud.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 60-09, Section: A, page: 3252."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9945701</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">42061833</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">990812</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1920646</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 BEGN</identifier>
+   <identifier type="dewey">9945701</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 BEGN</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>
