@@ -25,11 +25,9 @@
       </role>
    </name>
    <typeOfResource manuscript="yes">text</typeOfResource>
-   <genre authority="marcgt">theses</genre>
-   <genre authority="marcgt">government publication</genre>
    <originInfo>
       <place>
-         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
       </place>
       <dateCreated>1999</dateCreated>
       <issuance>monographic</issuance>
@@ -38,13 +36,11 @@
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
    </language>
    <physicalDescription>
-      <form authority="marcform">electronic</form>
-      <reformattingQuality>access</reformattingQuality>
-      <internetMediaType>application/pdf</internetMediaType>
+      <form authority="marcform">print</form>
       <extent>xvi, 211 leaves : ill. ; 29 cm.</extent>
       <extent>212 p.</extent>
    </physicalDescription>
-   <abstract type="Abstract">"This research focuses on the effects of cone penetration rate and anisotropy on the results of piezocone penetration and subsequent dissipation tests. Finite element analyses, and miniature piezocone penetration and dissipation tests in a calibration chamber were performed, then the results were compared.;The anisotropic elastoplastic-viscoplastic; bounding surface model was chosen as a soil model and it was implemented into a computer program, ANCALBR8. The isotropic/anisotropic triaxial compression, creep tests, and oedometer tests were performed to determine the model parameter values and verify the model. The model showed very good agreement with the triaxial test results.;The theoretical formulation was based on the theory of mixtures with the soil model in the Updated Lagrangian frame, and it was implemented into a computer program, EPVPCS-S. EPVPCS-S was used for the finite element analyses of piezocone penetration and dissipation tests.;Ten piezocone penetration and dissipation tests were conducted under Ko condition using LSU/CALCHAS (Louisiana State University Calibration Chamber System). The K33 (the mixture of 33% kaolin, 67% fine sand) was used for the laboratory tests and the chamber tests as the soil sample. The chamber tests were conducted for normally consolidated and heavily overconsolidated cases at the penetration rates of 0.3 cm/sec and 0.6 cm/sec. The U1 (filter element at the cone tip) and U2 (filter element above the cone base) configurations of miniature piezocone penetrometers were used.;The results of the finite element analyses showed good agreement with the experimental results with regard to cone resistance, excess pore water pressure, and dissipation.;It was observed that cone resistance, excess pore water pressure, and sleeve friction increased with the increase in penetration rate, but decreased with the increase of OCR for both U1 and U2 configurations. The excess pore water pressures at the cone tip (U1) were larger than those above the cone base (U2). The initial immediate drop of excess pore water pressure was clearly identified. Its magnitude increased with the increase in penetration rate, but decreased with the increase of OCR."</abstract>
+   <abstract type="Summary">"This research focuses on the effects of cone penetration rate and anisotropy on the results of piezocone penetration and subsequent dissipation tests. Finite element analyses, and miniature piezocone penetration and dissipation tests in a calibration chamber were performed, then the results were compared.;The anisotropic elastoplastic-viscoplastic; bounding surface model was chosen as a soil model and it was implemented into a computer program, ANCALBR8. The isotropic/anisotropic triaxial compression, creep tests, and oedometer tests were performed to determine the model parameter values and verify the model. The model showed very good agreement with the triaxial test results.;The theoretical formulation was based on the theory of mixtures with the soil model in the Updated Lagrangian frame, and it was implemented into a computer program, EPVPCS-S. EPVPCS-S was used for the finite element analyses of piezocone penetration and dissipation tests.;Ten piezocone penetration and dissipation tests were conducted under Ko condition using LSU/CALCHAS (Louisiana State University Calibration Chamber System). The K33 (the mixture of 33% kaolin, 67% fine sand) was used for the laboratory tests and the chamber tests as the soil sample. The chamber tests were conducted for normally consolidated and heavily overconsolidated cases at the penetration rates of 0.3 cm/sec and 0.6 cm/sec. The U1 (filter element at the cone tip) and U2 (filter element above the cone base) configurations of miniature piezocone penetrometers were used.;The results of the finite element analyses showed good agreement with the experimental results with regard to cone resistance, excess pore water pressure, and dissipation.;It was observed that cone resistance, excess pore water pressure, and sleeve friction increased with the increase in penetration rate, but decreased with the increase of OCR for both U1 and U2 configurations. The excess pore water pressures at the cone tip (U1) were larger than those above the cone base (U2). The initial immediate drop of excess pore water pressure was clearly identified. Its magnitude increased with the increase in penetration rate, but decreased with the increase of OCR."</abstract>
    <note type="statement of responsibility" altRepGroup="00">by Daekyu Kim.</note>
    <note>"Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1537.;Directors:  Mehmet T. Tumay; George Z. Voyiadjis."</note>
    <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
@@ -65,7 +61,6 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
    </recordInfo>
    <identifier type="dewey">378.76 L930D 1999 KIM</identifier>
-   <identifier type="dewey">9960071</identifier>
    <location>
       <physicalLocation>LUU</physicalLocation>
       <physicalLocation>LSU Libraries</physicalLocation>
@@ -77,18 +72,4 @@
          </copyInformation>
       </holdingSimple>
    </location>
-   <note type="ownership">
-            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
-        </note>
-   <accessCondition type="restriction on access">
-            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
-            The user must assume full responsibility for any use of the materials, including but not limited to,
-            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
-            research or otherwise should be fully credited with the source.
-        </accessCondition>
-   <accessCondition type="use and reproduction">
-            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
-            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
-            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
-        </accessCondition>
 </mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Mass spectrometry of biomolecules. Part A</title>
+      <subTitle>gas-phase thermochemical and structure determinations of mononucleotides Part B : analysis of hydrophobic peptides and proteins by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary" nameTitleGroup="1">
+      <namePart>Green-Church, Kari B. (Kari Beth)</namePart>
+      <namePart type="date">1972-</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Chemistry.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"/>
+         <roleTerm type="code" authority="marcrelator"/>
+      </role>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateCreated>1999</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">electronic</form>
+      <reformattingQuality>access</reformattingQuality>
+      <extent>xix, 202 leaves : ill. (some col.) ; 29 cm.</extent>
+      <extent>203 p.</extent>
+   </physicalDescription>
+   <abstract type="Abstract">"The use of mass spectrometry for thermochemical and structural determinations of mononucleotides is presented in Part A of this work, and the analysis of hydrophobic peptides and proteins are presented in Part B of this work. The goal of Part A is to examine thermochemical and structural properties of (deoxy)nucleoside 5'- and 3'-monophosphates. Part A consists of three groups of experiments. The first set of experiments utilized the kinetic method with a fast-atom bombardment source and a double focusing sector mass analyzer. Conformational analysis and semi-empirical calculations of mononucleotides were performed for the second set of experiments. The third set of experiments employed hydrogen/deuterium exchange reactions with an electrospray ionization source and a Fourier transform ion cyclotron resonance mass spectrometer. These data are significant because knowledge of the gas-phase thermochemical properties and structures of nucleobases, nucleosides and nucleotides is crucial in understanding gas-phase reactions of oligonucleotides and DNA observed in current mass spectrometric techniques.;The goal of Part B was to develop techniques for the mass spectral analysis of hydrophobic peptides and proteins using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS). Hydrophobic peptides are difficult to characterize using mass spectrometric methods because they are often insoluble in aqueous solutions, which are typically required for mass spectral analysis. Two approaches were demonstrated. The first approach used organic solvents to dissolve the analyte and matrix to generate signal from a model hydrophobic peptide. The second approach allows for the simultaneous analysis of both hydrophobic and hydrophilic components of the sample mixture by using surfactants to solubilize the hydrophobic components aqueous solutions. Mixtures of hydrophobic and hydrophilic peptides were characterized using surfactant-aided (SA) MALDI-MS, and it is demonstrated that all components are detectable once the surfactant is included in the sample solution. The applicability of SA-MALDI-MS in peptide mapping experiments is demonstrated on a tryptic digest of myoglobin and cytochrome c (two proteins), and on a tryptic digest of CP 43 and CP 47, two hydrophobic polypeptides from the Photosytem II membrane complex of spinach."</abstract>
+   <note type="statement of responsibility" altRepGroup="00">by Kari Beth Green-Church.</note>
+   <note>"Source: Dissertation Abstracts International, Volume: 61-02, Section: B, page: 8270."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</note>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">#VALUE!</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1999</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="oclc">43355262</identifier>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">000127</recordCreationDate>
+      <recordIdentifier source="SIRSI">u1921000</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+   </recordInfo>
+   <identifier type="dewey">378.76 L930D 1999 GREE</identifier>
+   <identifier type="dewey">LUE!</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1999 GREE</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <note type="ownership">
+            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
+        </note>
+   <accessCondition type="restriction on access">
+            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
+            The user must assume full responsibility for any use of the materials, including but not limited to,
+            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
+            research or otherwise should be fully credited with the source.
+        </accessCondition>
+   <accessCondition type="use and reproduction">
+            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
+            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
+            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+        </accessCondition>
+</mods>

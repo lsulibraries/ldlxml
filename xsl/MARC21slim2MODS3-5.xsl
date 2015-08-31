@@ -1309,495 +1309,12 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 		</xsl:for-each>
 
 		<!-- physicalDescription -->
-
-		<xsl:variable name="physicalDescription">
-			<!--3.2 change tmee 007/11 -->
-			<xsl:if test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='a']">
-				<digitalOrigin>reformatted digital</digitalOrigin>
-			</xsl:if>
-			<xsl:if test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='b']">
-				<digitalOrigin>digitized microfilm</digitalOrigin>
-			</xsl:if>
-			<xsl:if test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='d']">
-				<digitalOrigin>digitized other analog</digitalOrigin>
-			</xsl:if>
-			<xsl:variable name="controlField008-23" select="substring($controlField008,24,1)"/>
-			<xsl:variable name="controlField008-29" select="substring($controlField008,30,1)"/>
-			<xsl:variable name="check008-23">
-				<xsl:if test="$typeOf008='BK' or $typeOf008='MU' or $typeOf008='SE' or $typeOf008='MM'">
-					<xsl:value-of select="true()"/>
-				</xsl:if>
-			</xsl:variable>
-			<xsl:variable name="check008-29">
-				<xsl:if test="$typeOf008='MP' or $typeOf008='VM'">
-					<xsl:value-of select="true()"/>
-				</xsl:if>
-			</xsl:variable>
-			<xsl:choose>
-				<xsl:when test="($check008-23 and $controlField008-23='f') or ($check008-29 and $controlField008-29='f')">
-					<form authority="marcform">braille</form>
-				</xsl:when>
-				<xsl:when test="($controlField008-23=' ' and ($leader6='c' or $leader6='d')) or (($typeOf008='BK' or $typeOf008='SE') and ($controlField008-23=' ' or $controlField008='r'))">
-					<form authority="marcform">print</form>
-				</xsl:when>
-				<xsl:when test="$leader6 = 'm' or ($check008-23 and $controlField008-23='s') or ($check008-29 and $controlField008-29='s')">
-					<form authority="marcform">electronic</form>
-				</xsl:when>
-				<!-- 1.33 -->
-				<xsl:when test="$leader6 = 'o'">
-					<form authority="marcform">kit</form>
-				</xsl:when>
-				<xsl:when test="($check008-23 and $controlField008-23='b') or ($check008-29 and $controlField008-29='b')">
-					<form authority="marcform">microfiche</form>
-				</xsl:when>
-				<xsl:when test="($check008-23 and $controlField008-23='a') or ($check008-29 and $controlField008-29='a')">
-					<form authority="marcform">microfilm</form>
-				</xsl:when>
-			</xsl:choose>
-
-			<!-- 1/04 fix -->
-			<xsl:if test="marc:datafield[@tag=130]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=130]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:if test="marc:datafield[@tag=240]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=240]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:if test="marc:datafield[@tag=242]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=242]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:if test="marc:datafield[@tag=245]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=245]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:if test="marc:datafield[@tag=246]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=246]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:if test="marc:datafield[@tag=730]/marc:subfield[@code='h']">
-				<form authority="gmd">
-					<xsl:call-template name="chopBrackets">
-						<xsl:with-param name="chopString">
-							<xsl:value-of select="marc:datafield[@tag=730]/marc:subfield[@code='h']"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:if>
-			<xsl:for-each select="marc:datafield[@tag=256]/marc:subfield[@code='a']">
-				<form>
-					<xsl:value-of select="."/>
-				</form>
-			</xsl:for-each>
-			<xsl:for-each select="marc:controlfield[@tag=007][substring(text(),1,1)='c']">
-				<xsl:choose>
-					<xsl:when test="substring(text(),14,1)='a'">
-						<reformattingQuality>access</reformattingQuality>
-					</xsl:when>
-					<xsl:when test="substring(text(),14,1)='p'">
-						<reformattingQuality>preservation</reformattingQuality>
-					</xsl:when>
-					<xsl:when test="substring(text(),14,1)='r'">
-						<reformattingQuality>replacement</reformattingQuality>
-					</xsl:when>
-				</xsl:choose>
-			</xsl:for-each>
-			<!--3.2 change tmee 007/01 -->
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='b']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">chip cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='c']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">computer optical disc cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='j']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">magnetic disc</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='m']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">magneto-optical disc</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='o']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">optical disc</form>
-			</xsl:if>
-
-			<!-- 1.38 AQ 1.29 tmee 	1.66 added marccategory and marcsmd as part of 3.4 -->
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='r']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">remote</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='a']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">tape cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='f']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">tape cassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='h']">
-				<form authority="marccategory">electronic resource</form>
-				<form authority="marcsmd">tape reel</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='a']">
-				<form authority="marccategory">globe</form>
-				<form authority="marcsmd">celestial globe</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='e']">
-				<form authority="marccategory">globe</form>
-				<form authority="marcsmd">earth moon globe</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='b']">
-				<form authority="marccategory">globe</form>
-				<form authority="marcsmd">planetary or lunar globe</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='c']">
-				<form authority="marccategory">globe</form>
-				<form authority="marcsmd">terrestrial globe</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='o'][substring(text(),2,1)='o']">
-				<form authority="marccategory">kit</form>
-				<form authority="marcsmd">kit</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='d']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">atlas</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='g']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">diagram</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='j']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">map</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='q']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">model</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='k']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">profile</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='r']">
-				<form authority="marcsmd">remote-sensing image</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='s']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">section</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='y']">
-				<form authority="marccategory">map</form>
-				<form authority="marcsmd">view</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='a']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">aperture card</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='e']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microfiche</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='f']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microfiche cassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='b']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microfilm cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='c']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microfilm cassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='d']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microfilm reel</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='g']">
-				<form authority="marccategory">microform</form>
-				<form authority="marcsmd">microopaque</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='c']">
-				<form authority="marccategory">motion picture</form>
-				<form authority="marcsmd">film cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='f']">
-				<form authority="marccategory">motion picture</form>
-				<form authority="marcsmd">film cassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='r']">
-				<form authority="marccategory">motion picture</form>
-				<form authority="marcsmd">film reel</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='n']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">chart</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='c']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">collage</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='d']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">drawing</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='o']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">flash card</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='e']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">painting</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='f']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">photomechanical print</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='g']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">photonegative</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='h']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">photoprint</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='i']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">picture</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='j']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">print</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='l']">
-				<form authority="marccategory">nonprojected graphic</form>
-				<form authority="marcsmd">technical drawing</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='q'][substring(text(),2,1)='q']">
-				<form authority="marccategory">notated music</form>
-				<form authority="marcsmd">notated music</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='d']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">filmslip</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='c']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">filmstrip cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='o']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">filmstrip roll</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='f']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">other filmstrip type</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='s']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">slide</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='t']">
-				<form authority="marccategory">projected graphic</form>
-				<form authority="marcsmd">transparency</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='r'][substring(text(),2,1)='r']">
-				<form authority="marccategory">remote-sensing image</form>
-				<form authority="marcsmd">remote-sensing image</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='e']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">cylinder</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='q']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">roll</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='g']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">sound cartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='s']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">sound cassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='d']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">sound disc</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='t']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">sound-tape reel</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='i']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">sound-track film</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='w']">
-				<form authority="marccategory">sound recording</form>
-				<form authority="marcsmd">wire recording</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='c']">
-				<form authority="marccategory">tactile material</form>
-				<form authority="marcsmd">braille</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='b']">
-				<form authority="marccategory">tactile material</form>
-				<form authority="marcsmd">combination</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='a']">
-				<form authority="marccategory">tactile material</form>
-				<form authority="marcsmd">moon</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='d']">
-				<form authority="marccategory">tactile material</form>
-				<form authority="marcsmd">tactile, with no writing system</form>
-			</xsl:if>
-
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='c']">
-				<form authority="marccategory">text</form>
-				<form authority="marcsmd">braille</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='b']">
-				<form authority="marccategory">text</form>
-				<form authority="marcsmd">large print</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='a']">
-				<form authority="marccategory">text</form>
-				<form authority="marcsmd">regular print</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='d']">
-				<form authority="marccategory">text</form>
-				<form authority="marcsmd">text in looseleaf binder</form>
-			</xsl:if>
-
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='c']">
-				<form authority="marccategory">videorecording</form>
-				<form authority="marcsmd">videocartridge</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='f']">
-				<form authority="marccategory">videorecording</form>
-				<form authority="marcsmd">videocassette</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='d']">
-				<form authority="marccategory">videorecording</form>
-				<form authority="marcsmd">videodisc</form>
-			</xsl:if>
-			<xsl:if test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='r']">
-				<form authority="marccategory">videorecording</form>
-				<form authority="marcsmd">videoreel</form>
-			</xsl:if>
-
-			<xsl:for-each select="marc:datafield[@tag=856]/marc:subfield[@code='q'][string-length(.)&gt;1]">
-				<internetMediaType>
-					<xsl:value-of select="."/>
-				</internetMediaType>
-			</xsl:for-each>
-
-			<xsl:for-each select="marc:datafield[@tag=300]">
-				<extent>
-					<xsl:if test="marc:subfield[@code='f']">
-						<xsl:attribute name="unit">
-							<xsl:call-template name="subfieldSelect">
-								<xsl:with-param name="codes">f</xsl:with-param>
-							</xsl:call-template>
-						</xsl:attribute>
-					</xsl:if>
-					<xsl:call-template name="subfieldSelect">
-						<xsl:with-param name="codes">abce3g</xsl:with-param>
-					</xsl:call-template>
-				</extent>
-			</xsl:for-each>
-
-
-			<xsl:for-each select="marc:datafield[@tag=337]">
-				<form type="media">
-					<xsl:attribute name="authority">
-						<xsl:value-of select="marc:subfield[@code=2]"/>
-					</xsl:attribute>
-					<xsl:call-template name="subfieldSelect">
-						<xsl:with-param name="codes">a</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:for-each>
-
-			<xsl:for-each select="marc:datafield[@tag=338]">
-				<form type="carrier">
-					<xsl:attribute name="authority">
-						<xsl:value-of select="marc:subfield[@code=2]"/>
-					</xsl:attribute>
-					<xsl:call-template name="subfieldSelect">
-						<xsl:with-param name="codes">a</xsl:with-param>
-					</xsl:call-template>
-				</form>
-			</xsl:for-each>
-
-
-			<!-- 1.43 tmee 351 $3$a$b$c-->
-			<xsl:for-each select="marc:datafield[@tag=351]">
-				<note type="arrangement">
-					<xsl:for-each select="marc:subfield[@code='3']">
-						<xsl:value-of select="."/>
-						<xsl:text>: </xsl:text>
-					</xsl:for-each>
-					<xsl:call-template name="subfieldSelect">
-						<xsl:with-param name="codes">abc</xsl:with-param>
-					</xsl:call-template>
-				</note>
-			</xsl:for-each>
-
-		</xsl:variable>
-
-
-		<xsl:if test="string-length(normalize-space($physicalDescription))">
-			<physicalDescription>
-				<xsl:for-each select="marc:datafield[@tag=300]">
-					<!-- Template checks for altRepGroup - 880 $6 -->
-					<xsl:call-template name="z3xx880"/>
-				</xsl:for-each>
-				<xsl:for-each select="marc:datafield[@tag=337]">
-					<!-- Template checks for altRepGroup - 880 $6 -->
-					<xsl:call-template name="xxx880"/>
-				</xsl:for-each>
-				<xsl:for-each select="marc:datafield[@tag=338]">
-					<!-- Template checks for altRepGroup - 880 $6 -->
-					<xsl:call-template name="xxx880"/>
-				</xsl:for-each>
-
-				<xsl:copy-of select="$physicalDescription"/>
-			</physicalDescription>
-		</xsl:if>
-
-
+		
+		<!-- problem: I moved everything (all 2 of them) that is trying to pull the "physicalDescription"
+		variable into the template, but now it has a problem with the template and I don't 
+		know how to solve it.-->
+		<xsl:call-template name="originDescription"/>
+		<!-- moved actual template to bottom -->
 		<xsl:for-each select="marc:datafield[@tag=520]">
 			<xsl:call-template name="createAbstractFrom520"/>
 		</xsl:for-each>
@@ -5553,5 +5070,582 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 			<xsl:apply-templates select="* | @* | text()" mode="global_copy"/>
 		</xsl:copy>
 	</xsl:template>
+<xsl:template name="originDescription">
 
+			<xsl:variable name="physicalDescription">
+				<!--3.2 change tmee 007/11 -->
+				<xsl:if
+					test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='a']">
+					<digitalOrigin>reformatted digital</digitalOrigin>
+				</xsl:if>
+				<xsl:if
+					test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='b']">
+					<digitalOrigin>digitized microfilm</digitalOrigin>
+				</xsl:if>
+				<xsl:if
+					test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='d']">
+					<digitalOrigin>digitized other analog</digitalOrigin>
+				</xsl:if>
+				<xsl:variable name="controlField008-23" select="substring($controlField008,24,1)"/>
+				<xsl:variable name="controlField008-29" select="substring($controlField008,30,1)"/>
+				<xsl:variable name="check008-23">
+					<xsl:if
+						test="$typeOf008='BK' or $typeOf008='MU' or $typeOf008='SE' or $typeOf008='MM'">
+						<xsl:value-of select="true()"/>
+					</xsl:if>
+				</xsl:variable>
+				<xsl:variable name="check008-29">
+					<xsl:if test="$typeOf008='MP' or $typeOf008='VM'">
+						<xsl:value-of select="true()"/>
+					</xsl:if>
+				</xsl:variable>
+				<xsl:choose>
+					<xsl:when
+						test="($check008-23 and $controlField008-23='f') or ($check008-29 and $controlField008-29='f')">
+						<form authority="marcform">braille</form>
+					</xsl:when>
+					<xsl:when
+						test="($controlField008-23=' ' and ($leader6='c' or $leader6='d')) or (($typeOf008='BK' or $typeOf008='SE') and ($controlField008-23=' ' or $controlField008='r'))">
+						<form authority="marcform">print</form>
+					</xsl:when>
+					<xsl:when
+						test="$leader6 = 'm' or ($check008-23 and $controlField008-23='s') or ($check008-29 and $controlField008-29='s')">
+						<form authority="marcform">electronic</form>
+					</xsl:when>
+					<!-- 1.33 -->
+					<xsl:when test="$leader6 = 'o'">
+						<form authority="marcform">kit</form>
+					</xsl:when>
+					<xsl:when
+						test="($check008-23 and $controlField008-23='b') or ($check008-29 and $controlField008-29='b')">
+						<form authority="marcform">microfiche</form>
+					</xsl:when>
+					<xsl:when
+						test="($check008-23 and $controlField008-23='a') or ($check008-29 and $controlField008-29='a')">
+						<form authority="marcform">microfilm</form>
+					</xsl:when>
+				</xsl:choose>
+
+				<!-- 1/04 fix -->
+				<xsl:if test="marc:datafield[@tag=130]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=130]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:if test="marc:datafield[@tag=240]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=240]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:if test="marc:datafield[@tag=242]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=242]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:if test="marc:datafield[@tag=245]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=245]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:if test="marc:datafield[@tag=246]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=246]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:if test="marc:datafield[@tag=730]/marc:subfield[@code='h']">
+					<form authority="gmd">
+						<xsl:call-template name="chopBrackets">
+							<xsl:with-param name="chopString">
+								<xsl:value-of
+									select="marc:datafield[@tag=730]/marc:subfield[@code='h']"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:if>
+				<xsl:for-each select="marc:datafield[@tag=256]/marc:subfield[@code='a']">
+					<form>
+						<xsl:value-of select="."/>
+					</form>
+				</xsl:for-each>
+				<xsl:for-each select="marc:controlfield[@tag=007][substring(text(),1,1)='c']">
+					<xsl:choose>
+						<xsl:when test="substring(text(),14,1)='a'">
+							<reformattingQuality>access</reformattingQuality>
+						</xsl:when>
+						<xsl:when test="substring(text(),14,1)='p'">
+							<reformattingQuality>preservation</reformattingQuality>
+						</xsl:when>
+						<xsl:when test="substring(text(),14,1)='r'">
+							<reformattingQuality>replacement</reformattingQuality>
+						</xsl:when>
+					</xsl:choose>
+				</xsl:for-each>
+				<!--3.2 change tmee 007/01 -->
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='b']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">chip cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='c']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">computer optical disc cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='j']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">magnetic disc</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='m']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">magneto-optical disc</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='o']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">optical disc</form>
+				</xsl:if>
+
+				<!-- 1.38 AQ 1.29 tmee 	1.66 added marccategory and marcsmd as part of 3.4 -->
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='r']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">remote</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='a']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">tape cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='f']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">tape cassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='c'][substring(text(),2,1)='h']">
+					<form authority="marccategory">electronic resource</form>
+					<form authority="marcsmd">tape reel</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='a']">
+					<form authority="marccategory">globe</form>
+					<form authority="marcsmd">celestial globe</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='e']">
+					<form authority="marccategory">globe</form>
+					<form authority="marcsmd">earth moon globe</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='b']">
+					<form authority="marccategory">globe</form>
+					<form authority="marcsmd">planetary or lunar globe</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='d'][substring(text(),2,1)='c']">
+					<form authority="marccategory">globe</form>
+					<form authority="marcsmd">terrestrial globe</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='o'][substring(text(),2,1)='o']">
+					<form authority="marccategory">kit</form>
+					<form authority="marcsmd">kit</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='d']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">atlas</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='g']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">diagram</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='j']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">map</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='q']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">model</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='k']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">profile</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='r']">
+					<form authority="marcsmd">remote-sensing image</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='s']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">section</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='a'][substring(text(),2,1)='y']">
+					<form authority="marccategory">map</form>
+					<form authority="marcsmd">view</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='a']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">aperture card</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='e']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microfiche</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='f']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microfiche cassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='b']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microfilm cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='c']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microfilm cassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='d']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microfilm reel</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='h'][substring(text(),2,1)='g']">
+					<form authority="marccategory">microform</form>
+					<form authority="marcsmd">microopaque</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='c']">
+					<form authority="marccategory">motion picture</form>
+					<form authority="marcsmd">film cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='f']">
+					<form authority="marccategory">motion picture</form>
+					<form authority="marcsmd">film cassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='m'][substring(text(),2,1)='r']">
+					<form authority="marccategory">motion picture</form>
+					<form authority="marcsmd">film reel</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='n']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">chart</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='c']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">collage</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='d']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">drawing</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='o']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">flash card</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='e']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">painting</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='f']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">photomechanical print</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='g']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">photonegative</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='h']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">photoprint</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='i']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">picture</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='j']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">print</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='k'][substring(text(),2,1)='l']">
+					<form authority="marccategory">nonprojected graphic</form>
+					<form authority="marcsmd">technical drawing</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='q'][substring(text(),2,1)='q']">
+					<form authority="marccategory">notated music</form>
+					<form authority="marcsmd">notated music</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='d']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">filmslip</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='c']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">filmstrip cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='o']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">filmstrip roll</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='f']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">other filmstrip type</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='s']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">slide</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='g'][substring(text(),2,1)='t']">
+					<form authority="marccategory">projected graphic</form>
+					<form authority="marcsmd">transparency</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='r'][substring(text(),2,1)='r']">
+					<form authority="marccategory">remote-sensing image</form>
+					<form authority="marcsmd">remote-sensing image</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='e']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">cylinder</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='q']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">roll</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='g']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">sound cartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='s']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">sound cassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='d']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">sound disc</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='t']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">sound-tape reel</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='i']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">sound-track film</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='s'][substring(text(),2,1)='w']">
+					<form authority="marccategory">sound recording</form>
+					<form authority="marcsmd">wire recording</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='c']">
+					<form authority="marccategory">tactile material</form>
+					<form authority="marcsmd">braille</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='b']">
+					<form authority="marccategory">tactile material</form>
+					<form authority="marcsmd">combination</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='a']">
+					<form authority="marccategory">tactile material</form>
+					<form authority="marcsmd">moon</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='f'][substring(text(),2,1)='d']">
+					<form authority="marccategory">tactile material</form>
+					<form authority="marcsmd">tactile, with no writing system</form>
+				</xsl:if>
+
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='c']">
+					<form authority="marccategory">text</form>
+					<form authority="marcsmd">braille</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='b']">
+					<form authority="marccategory">text</form>
+					<form authority="marcsmd">large print</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='a']">
+					<form authority="marccategory">text</form>
+					<form authority="marcsmd">regular print</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='t'][substring(text(),2,1)='d']">
+					<form authority="marccategory">text</form>
+					<form authority="marcsmd">text in looseleaf binder</form>
+				</xsl:if>
+
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='c']">
+					<form authority="marccategory">videorecording</form>
+					<form authority="marcsmd">videocartridge</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='f']">
+					<form authority="marccategory">videorecording</form>
+					<form authority="marcsmd">videocassette</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='d']">
+					<form authority="marccategory">videorecording</form>
+					<form authority="marcsmd">videodisc</form>
+				</xsl:if>
+				<xsl:if
+					test="marc:controlfield[@tag=007][substring(text(),1,1)='v'][substring(text(),2,1)='r']">
+					<form authority="marccategory">videorecording</form>
+					<form authority="marcsmd">videoreel</form>
+				</xsl:if>
+
+				<xsl:for-each
+					select="marc:datafield[@tag=856]/marc:subfield[@code='q'][string-length(.)&gt;1]">
+					<internetMediaType>
+						<xsl:value-of select="."/>
+					</internetMediaType>
+				</xsl:for-each>
+
+				<xsl:for-each select="marc:datafield[@tag=300]">
+					<extent>
+						<xsl:if test="marc:subfield[@code='f']">
+							<xsl:attribute name="unit">
+								<xsl:call-template name="subfieldSelect">
+									<xsl:with-param name="codes">f</xsl:with-param>
+								</xsl:call-template>
+							</xsl:attribute>
+						</xsl:if>
+						<xsl:call-template name="subfieldSelect">
+							<xsl:with-param name="codes">abce3g</xsl:with-param>
+						</xsl:call-template>
+					</extent>
+				</xsl:for-each>
+
+
+				<xsl:for-each select="marc:datafield[@tag=337]">
+					<form type="media">
+						<xsl:attribute name="authority">
+							<xsl:value-of select="marc:subfield[@code=2]"/>
+						</xsl:attribute>
+						<xsl:call-template name="subfieldSelect">
+							<xsl:with-param name="codes">a</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:for-each>
+
+				<xsl:for-each select="marc:datafield[@tag=338]">
+					<form type="carrier">
+						<xsl:attribute name="authority">
+							<xsl:value-of select="marc:subfield[@code=2]"/>
+						</xsl:attribute>
+						<xsl:call-template name="subfieldSelect">
+							<xsl:with-param name="codes">a</xsl:with-param>
+						</xsl:call-template>
+					</form>
+				</xsl:for-each>
+
+
+				<!-- 1.43 tmee 351 $3$a$b$c-->
+				<xsl:for-each select="marc:datafield[@tag=351]">
+					<note type="arrangement">
+						<xsl:for-each select="marc:subfield[@code='3']">
+							<xsl:value-of select="."/>
+							<xsl:text>: </xsl:text>
+						</xsl:for-each>
+						<xsl:call-template name="subfieldSelect">
+							<xsl:with-param name="codes">abc</xsl:with-param>
+						</xsl:call-template>
+					</note>
+				</xsl:for-each>
+
+			</xsl:variable>
+
+
+
+			<xsl:if test="string-length(normalize-space($physicalDescription))">
+				<physicalDescription>
+					<xsl:for-each select="marc:datafield[@tag=300]">
+						<!-- Template checks for altRepGroup - 880 $6 -->
+						<xsl:call-template name="z3xx880"/>
+					</xsl:for-each>
+					<xsl:for-each select="marc:datafield[@tag=337]">
+						<!-- Template checks for altRepGroup - 880 $6 -->
+						<xsl:call-template name="xxx880"/>
+					</xsl:for-each>
+					<xsl:for-each select="marc:datafield[@tag=338]">
+						<!-- Template checks for altRepGroup - 880 $6 -->
+						<xsl:call-template name="xxx880"/>
+					</xsl:for-each>
+
+					<xsl:copy-of select="$physicalDescription"/>
+				</physicalDescription>
+			</xsl:if>
+
+		</xsl:template>
 </xsl:stylesheet>

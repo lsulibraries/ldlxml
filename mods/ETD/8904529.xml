@@ -8,7 +8,7 @@
    <titleInfo>
       <title>Development of techniques for studying interactions of organic compounds with complex solid matrices</title>
    </titleInfo>
-   <name type="personal" usage="primary">
+   <name type="personal" usage="primary" nameTitleGroup="1">
       <namePart>Chalasani, Devi</namePart>
       <namePart type="date">1959-</namePart>
       <role>
@@ -81,4 +81,15 @@
 				(Revision 1.106 2014/12/19)</recordOrigin>
    </recordInfo>
    <identifier type="dewey">378.76 L930D 1988 CHAL</identifier>
+   <location>
+      <physicalLocation>LUU</physicalLocation>
+      <physicalLocation>LSU Libraries</physicalLocation>
+      <url>http://www.lib.lsu.edu</url>
+      <holdingSimple>
+         <copyInformation>
+            <subLocation>Middleton Stacks</subLocation>
+            <shelfLocator>378.76 L930D 1988 CHAL</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
 </mods>

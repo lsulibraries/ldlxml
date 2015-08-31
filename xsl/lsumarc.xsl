@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:marc="http://www.loc.gov/MARC21/slim"
+<xsl:stylesheet 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+    xmlns:marc="http://www.loc.gov/MARC21/slim"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0"
     xmlns="http://www.loc.gov/mods/v3">
-    <xsl:import href="MARC21slim2MODS3-5.xsl"/>
+    <xsl:import href="MARC21slim_MODS3-5_XSLT2-0.xsl"/>
     <xsl:import href="util-date.xsl"/>
     <xsl:import href="util-name.xsl"/>
     <xsl:output indent="yes"/>
@@ -12,12 +14,13 @@
     <!--  <xsl:template match="/marc:record">
         <xsl:apply-templates/>
     </xsl:template>-->
-    
+  
     <xsl:template match="/">
         
         <xsl:choose>
             <xsl:when test="//marc:collection">
-                <modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                <modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
                     <xsl:for-each select="//marc:collection/marc:record">
                         <xsl:variable name="filename-tmp">
                             <xsl:call-template name="filename"/> <!--   Must be overridden by collection-specific template.   -->
@@ -31,7 +34,7 @@
                                 xmlns:xlink="http://www.w3.org/1999/xlink"
                                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 
-                                <xsl:call-template name="marcRecord"/>
+                                <xsl:apply-templates select="marc:record"/>
                                 <xsl:call-template name="DeweycallNumber"/>
                                 <xsl:call-template name="ProQuestID"/>
                                 <xsl:call-template name="location"/>
@@ -53,7 +56,7 @@
                 <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5"
                     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
                     <xsl:for-each select="/marc:record">
-                        <xsl:call-template name="marcRecord"/>
+                        <xsl:apply-templates select="marc:record"/>
                     </xsl:for-each>
                 </mods>
                     </xsl:result-document>
@@ -103,20 +106,27 @@
             <xsl:attribute name="type">ownership</xsl:attribute>
             LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
         </xsl:element>
+         <!-- 
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">restriction on access</xsl:attribute>
-            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
-            The user must assume full responsibility for any use of the materials, including but not limited to,
-            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
-            research or otherwise should be fully credited with the source.
+            LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.
         </xsl:element>
+         -->
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">use and reproduction</xsl:attribute>
-            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
-            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
-            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
+            To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
         </xsl:element>
     </xsl:template>
-
+    <!-- Call physicalDescription template -->
+    <xsl:template name="physicalDescription">
+        <xsl:element name="booboo">delete this test</xsl:element>
+        <!-- Call physicalDescription template -->
+        <xsl:call-template name="physicalDescription">
+            <xsl:with-param name="typeOf008" select="$typeOf008"/>
+            <xsl:with-param name="controlField008" select="$controlField008"/>
+            <xsl:with-param name="leader6" select="$leader6"/>
+        </xsl:call-template>
+        <!--edit this template all params -->
+    </xsl:template>
 </xsl:stylesheet>
 

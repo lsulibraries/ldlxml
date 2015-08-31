@@ -92,18 +92,4 @@
          </copyInformation>
       </holdingSimple>
    </location>
-   <note type="ownership">
-            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
-        </note>
-   <accessCondition type="restriction on access">
-            Physical rights are retained by LSU Libraries. LSU makes no claim to the intellectual property contained within.
-            The user must assume full responsibility for any use of the materials, including but not limited to,
-            infringement of copyright and publication rights of reproduced materials. Any materials used for academic 
-            research or otherwise should be fully credited with the source.
-        </accessCondition>
-   <accessCondition type="use and reproduction">
-            To provide comments about this digital project, email lsudiglib@lsu.edu. To inquire about ordering 
-            copies of these images, email libilb@lsu.edu. Mention the "Identifier" in your request. Providing 
-            reproductions does not constitute permission to publish or reproduce images in print or electronic form.
-        </accessCondition>
 </mods>

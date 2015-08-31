@@ -7,7 +7,7 @@
         <marc:controlfield tag="001">u1012221</marc:controlfield>
         <marc:controlfield tag="003">SIRSI</marc:controlfield>
         <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
-        <marc:controlfield tag="008">901203s1988####-us#####smmmms000 0#eng|d</marc:controlfield>
+        <marc:controlfield tag="008">901203s1988#### us#####smmmms000 0#eng|d</marc:controlfield>
         <marc:datafield tag="035" ind1=" " ind2=" ">
             <marc:subfield code="a">(OCoLC)22771316</marc:subfield>
         </marc:datafield>
@@ -100,7 +100,7 @@
             <marc:subfield code="a">6 8</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="998" ind1=" " ind2=" ">
-            <marc:subfield code="a">AAI8904529</marc:subfield>
+            <marc:subfield code="a">AAI8904529corr</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="999" ind1=" " ind2=" ">
             <marc:subfield code="a">378.76 L930D 1988 CHAL</marc:subfield>
@@ -1252,6 +1252,394 @@
             <marc:subfield code="u">1/8/2003</marc:subfield>
             <marc:subfield code="x">DISS</marc:subfield>
             <marc:subfield code="o">.STAFF. recvd. 1/8/03;omh;</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02527cam a2200421Ka 4500</marc:leader>
+        <marc:controlfield tag="001">u1880661</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="005">20030516105305.0</marc:controlfield>
+        <marc:controlfield tag="006">m        d s      </marc:controlfield>
+        <marc:controlfield tag="007">cr un---------</marc:controlfield>
+        <marc:controlfield tag="008">030516s2001    lau          s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)52260143</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUU</marc:subfield>
+            <marc:subfield code="c">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Somodi, Marius M.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Bounding the wild set (counting the minimum number of wild primes in Hilbert symbol equivalent number fields)</marc:subfield>
+            <marc:subfield code="h">[electronic resource] /</marc:subfield>
+            <marc:subfield code="c">by Marius M. Somodi.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="256" ind1=" " ind2=" ">
+            <marc:subfield code="a">Electronic data.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Baton Rouge, La. :</marc:subfield>
+            <marc:subfield code="b">Louisiana State University,</marc:subfield>
+            <marc:subfield code="c">2001]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">38 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 62-10, Section: B, page: 4582.;Director:  Robert V. Perlis.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;This dissertation makes a contribution to the study of Witt rings of quadratic forms over number fields. To every pair of algebraic number fields with isomorphic Witt rings one can associate a number, called the minimum number of wild primes. The situation is particularly nice when this number is 0; often it is not 0. Earlier investigations have established lower bounds for this number. In this dissertation an analysis is presented that expresses the minimum number of wild primes in terms of the number of wild dyadic primes. This formula not only gives immediate upper bounds, but can be considered to be an exact formula for the minimum number of wild primes.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="538" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mode of access: World Wide Web.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Title from document title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2=" ">
+            <marc:subfield code="a">witt ring</marc:subfield>
+            <marc:subfield code="a">quadratic form</marc:subfield>
+            <marc:subfield code="a">tame prime</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Mathematics.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://etd.lsu.edu/docs/available/etd-0718101-153927/</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3030348</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="994" ind1=" " ind2=" ">
+            <marc:subfield code="a">X0</marc:subfield>
+            <marc:subfield code="b">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI3030348</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">ELECTRONIC DISSERTATION 2001 SOMODI</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1880661-1001</marc:subfield>
+            <marc:subfield code="l">ONLINE</marc:subfield>
+            <marc:subfield code="m">MIDL-MAIN</marc:subfield>
+            <marc:subfield code="r">N</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">ONLINE</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">E-DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.2001-139</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518092166333</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">5/30/2002</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02934ccm a2200421 a 4500</marc:leader>
+        <marc:controlfield tag="001">u1069854</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="008">911022s1989    xx sya   eh    n  0 N/A d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)24600260</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUU</marc:subfield>
+            <marc:subfield code="c">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="045" ind1="0" ind2=" ">
+            <marc:subfield code="b"> d1989</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="048" ind1=" " ind2=" ">
+            <marc:subfield code="a">oa</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="092" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76</marc:subfield>
+            <marc:subfield code="b">L930d, 1989</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Willis, Mickie D.,</marc:subfield>
+            <marc:subfield code="d">1945-</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Symphonies,</marc:subfield>
+            <marc:subfield code="n">no. 1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Symphony no. 1 /</marc:subfield>
+            <marc:subfield code="c">by Mickie D. Willis.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c"> 1989.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 score (161 leaves) ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">164 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University]</marc:subfield>
+            <marc:subfield code="v">1989</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 50-08, Section: A, page: 2299.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1989.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Vita.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Abstract.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;The goal in composing this Symphony was to produce a large scale work which would have the power, impact, and audience appeal of a late Romantic orchestral work but which employed some twentieth-century techniques. The effort was to produce a composition which would not only display accomplished compositional craft but, upon performance, would generate immediate audience enthusiasm.;A great deal of idiomatic diversity was used in the piece to produce a broad and varied sound experience. In much the same way that a film score is composed, this piece was crafted using whatever tonal, orchestral, or stylistic treatment would produce the desired mood. This includes impressionism, contemporary jazz techniques, and pure atonality. The piece is unquestionably dramatic but is in no way programmatic.;The degree of variety in the work is too great to be organized in a continuous single movement. Therefore the piece was cast in five distinct movements, each with specific character and position in the overall form. The movements progress from rhythmic and tonal simplicity towards much more complexity and back to simplicity, with the central movement being the pinnacle of a large arch form.;The composition represents an attempt to create a musical experience that is emotionally stimulating and enjoyable as well as being intellectually satisfying.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Symphonies</marc:subfield>
+            <marc:subfield code="x">Scores.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2="0">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">School of Music.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">D.M.A.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1989</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">1989.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9002182</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">2/21/1995</marc:subfield>
+            <marc:subfield code="c">10/22/1991</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">6 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI9002182wc</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 1989 WILL</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1069854-1001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">SCORE</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">SCORE</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.1989-61</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518097378404</marc:subfield>
+            <marc:subfield code="j">2</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>03941cdm a22003975a 4500</marc:leader>
+        <marc:controlfield tag="001">u1961900</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="008">951102s1994    lau  a         n    eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)33413449</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUU</marc:subfield>
+            <marc:subfield code="c">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="092" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76</marc:subfield>
+            <marc:subfield code="b">L930d,1994</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Benner, George Albert,</marc:subfield>
+            <marc:subfield code="d">1955-</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Continuous variation in Ellen Taaffe Zwilich's Intrada, and Generations, an original composition for soprano, tenor, and orchestra / by George Albert Benner.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">(viii, 390 leaves) :</marc:subfield>
+            <marc:subfield code="b">score ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">390 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 56-03, Section: A, page: 7500.;Director: Dinos Constantinides.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;This dissertation divides into two parts. The first part illustrates certain traits of Ellen Taaffe Zwilich's neo-Romantic style by analyzing a single piece, Intrada (1983) for five players. The analysis is in three main sections. The first section discusses how Zwilich's background might have influenced her post-1979 writing, particularly her interest in continuous variation through the writings of Schoenberg and her studies with Sessions, and Carter. The second section focuses on Intrada and Zwilich's use of continuous variation. This section also analyzes cyclical elements and considers various older principles of melodic and pitch recurrence while determining the form of this piece. The second section divides into three subsections that discuss the work's basic building blocks, its main divisions, and its overall formal properties. The third section briefly reflects on other striking features of the score, especially Zwilich's characteristic use of instrumentation. This last section ends by summarizing some of the ways these techniques follow the goals of neo-Romanticism.;The second part is an original composition by the author for soprano, tenor, and orchestra entitled Generations. Based on a self-written text, the work is in six movements--Daybreak, Grandfather, Father, Son, Child, and Nightfall--that tells the story of four generations. The account is a loose autobiography of the writer's life. The use of individual motives for the various characters in the work forms the underlying thread that connects each movement to one another. The work has many tonal allusions and places great emphasis on emotional and programmatic themes. The thematic material also draws on various folk and hymn sources. Although not limited to one hymn quotation during each of the character movements, there is the realization of a different hymn tune in its entirety for each of these movements. These hymn quotations also serve as a connecting element.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Variations (Music)</marc:subfield>
+            <marc:subfield code="x">Analysis, appreciation.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Zwilich, Ellen Taaffe,</marc:subfield>
+            <marc:subfield code="d">1939-</marc:subfield>
+            <marc:subfield code="t">Intrada.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Benner, George Albert,</marc:subfield>
+            <marc:subfield code="d">1955-</marc:subfield>
+            <marc:subfield code="t">Generations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">School of Music.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">D.M.A.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1994</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9524433</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">12/16/1999</marc:subfield>
+            <marc:subfield code="c">11/2/1995</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">6 7 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI9524433wd</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 1994 BENN</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518009997986</marc:subfield>
+            <marc:subfield code="d">6/11/2012</marc:subfield>
+            <marc:subfield code="e">5/18/2012</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">MUSIC</marc:subfield>
+            <marc:subfield code="n">14</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">12/10/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.1994-170</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518097418333</marc:subfield>
+            <marc:subfield code="j">5</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">12/10/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">LSU DISSERTATION 1994 BENNER</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1961900-4001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">6/11/2015</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 46 (T824755238)</marc:subfield>
         </marc:datafield>
     </marc:record>
 </marc:collection>
