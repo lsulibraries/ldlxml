@@ -16,16 +16,17 @@
     </xsl:template>-->
   
     <xsl:template match="/">
-        
+
         <xsl:choose>
             <xsl:when test="//marc:collection">
-                <modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                <modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
                     <xsl:for-each select="//marc:collection/marc:record">
                         <xsl:variable name="filename-tmp">
-                            <xsl:call-template name="filename"/> <!--   Must be overridden by collection-specific template.   -->
+                            <xsl:call-template name="filename"/>
+                            <!--   Must be overridden by collection-specific template.   -->
                         </xsl:variable>
-                        
+
                         <xsl:result-document method="xml" href="{$filename-tmp}.xml">
 
                             <mods xmlns="http://www.loc.gov/mods/v3"
@@ -40,7 +41,6 @@
                                 <xsl:call-template name="location"/>
                                 <xsl:call-template name="access"/>
                                 
-
                             </mods>
                         </xsl:result-document>
                     </xsl:for-each>
@@ -49,16 +49,17 @@
             <xsl:otherwise>
                 <xsl:for-each select="/marc:record">
                     <xsl:variable name="filename-tmp">
-                        <xsl:call-template name="filename"/> <!--   Must be overridden by collection-specific template.   -->
+                        <xsl:call-template name="filename"/>
+                        <!--   Must be overridden by collection-specific template.   -->
                     </xsl:variable>
-                    
+
                     <xsl:result-document method="xml" href="{$filename-tmp}.xml">
-                <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5"
-                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-                    <xsl:for-each select="/marc:record">
-                        <xsl:apply-templates select="marc:record"/>
-                    </xsl:for-each>
-                </mods>
+                        <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5"
+                            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                            <xsl:for-each select="/marc:record">
+                                <xsl:apply-templates select="marc:record"/>
+                            </xsl:for-each>
+                        </mods>
                     </xsl:result-document>
                 </xsl:for-each>
             </xsl:otherwise>
@@ -119,14 +120,10 @@
     </xsl:template>
     <!-- Call physicalDescription template -->
     <xsl:template name="physicalDescription">
-        <xsl:element name="booboo">delete this test</xsl:element>
-        <!-- Call physicalDescription template -->
-        <xsl:call-template name="physicalDescription">
-            <xsl:with-param name="typeOf008" select="$typeOf008"/>
-            <xsl:with-param name="controlField008" select="$controlField008"/>
-            <xsl:with-param name="leader6" select="$leader6"/>
-        </xsl:call-template>
-        <!--edit this template all params -->
+        <xsl:param name="typeOf008"/>
+        <xsl:param name="controlField008"/>
+        <xsl:param name="leader6"/>
+              <!--edit this template -->
     </xsl:template>
 </xsl:stylesheet>
 

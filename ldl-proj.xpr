@@ -442,10 +442,10 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl/lsumarc.xsl</String>
+                                    <String>file:/G:/Documents/Current%20Projects/ldl/xsl/MARC21slim_MODS3-5_XSLT2-0.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/G:/Documents/Current%20Projects/ldl/xml/test/tenvalidsamples_etds.xml</String>
+                                    <String>${pdu}/xml/test/tenvalidsamples_etds.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
