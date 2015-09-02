@@ -35,11 +35,11 @@
                                 xmlns:xlink="http://www.w3.org/1999/xlink"
                                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 
-                                <xsl:apply-templates select="marc:record"/>
                                 <xsl:call-template name="DeweycallNumber"/>
                                 <xsl:call-template name="ProQuestID"/>
                                 <xsl:call-template name="location"/>
                                 <xsl:call-template name="access"/>
+                                <xsl:apply-templates select="."/>
                                 
                             </mods>
                         </xsl:result-document>
@@ -118,12 +118,15 @@
             To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
         </xsl:element>
     </xsl:template>
-    <!-- Call physicalDescription template -->
+
     <xsl:template name="physicalDescription">
         <xsl:param name="typeOf008"/>
         <xsl:param name="controlField008"/>
         <xsl:param name="leader6"/>
-              <!--edit this template -->
+
+        <physicalDescription>
+            Descriptive information about the thing...
+        </physicalDescription>
     </xsl:template>
 </xsl:stylesheet>
 
