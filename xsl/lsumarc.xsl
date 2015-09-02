@@ -11,10 +11,6 @@
     <xsl:import href="util-name.xsl"/>
     <xsl:output indent="yes"/>
     
-    <!--  <xsl:template match="/marc:record">
-        <xsl:apply-templates/>
-    </xsl:template>-->
-  
     <xsl:template match="/">
 
         <xsl:choose>
@@ -67,7 +63,7 @@
     </xsl:template>
     
     <xsl:template name="filename">
-        <xsl:value-of select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>
+        <!--<xsl:value-of select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>-->
     </xsl:template>
     
     <xsl:template name="DeweycallNumber">
@@ -78,11 +74,11 @@
         </xsl:element>
 </xsl:template>
     <xsl:template name="ProQuestID">
-        <xsl:element name="identifier">
+        <!--<xsl:element name="identifier">
             <xsl:attribute name="type">dewey</xsl:attribute>
             <xsl:value-of
                 select="substring(marc:datafield[@tag='998']/marc:subfield[@code='a'],4)"/>
-        </xsl:element>
+        </xsl:element>-->
     </xsl:template>
     
     <xsl:template name="location">
@@ -107,12 +103,19 @@
             <xsl:attribute name="type">ownership</xsl:attribute>
             LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
         </xsl:element>
-         <!-- 
+          
         <xsl:element name="accessCondition">
-            <xsl:attribute name="type">restriction on access</xsl:attribute>
-            LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.
+            <!--<xsl:attribute name="type">restriction on access</xsl:attribute>
+            LSU claims physical rights of these materials.  As a general statement, 
+            LSU makes no ownership claim to the intellectual property contained within unless the
+            works incorporate or reference other items owned by LSU. The materials in these digital 
+            collections are made available for use in research, teaching, and private study, pursuant
+            to U.S. Copyright law. The user must assume full responsibility for any use of the 
+            materials, including but not limited to, infringement of copyright and publication 
+            rights of reproduced materials. Any materials used for academic research or otherwise 
+            should be fully credited with the source.-->
         </xsl:element>
-         -->
+         
         <xsl:element name="accessCondition">
             <xsl:attribute name="type">use and reproduction</xsl:attribute>
             To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
@@ -124,9 +127,9 @@
         <xsl:param name="controlField008"/>
         <xsl:param name="leader6"/>
 
-        <physicalDescription>
+        <!--<physicalDescription>
             Descriptive information about the thing...
-        </physicalDescription>
+        </physicalDescription>-->
     </xsl:template>
 </xsl:stylesheet>
 

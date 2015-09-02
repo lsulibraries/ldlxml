@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>02242cam a2200361 a 4500</marc:leader>
+        <marc:controlfield tag="001">u910470</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
+        <marc:controlfield tag="008">890214s1963    -usa   #smmm s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lovell, Tom,</marc:subfield>
+            <marc:subfield code="d">1934-</marc:subfield>
+            <marc:subfield code="e">author</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Effect of a highly fortified vitamin-mineral supplement in high concentrate and low concentrate rations for dairy cows.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">1963.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">xv, 102 leaves :</marc:subfield>
+            <marc:subfield code="b">ill. ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">118 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">1963</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 24-03, page: 9150.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1963.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Vita.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="504" ind1=" " ind2=" ">
+            <marc:subfield code="a">Bibliography: leaves 62-69.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="a">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Abstract available.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Dairy cattle</marc:subfield>
+            <marc:subfield code="x">Feeding and feeds.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2="0">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Dairy Science.</marc:subfield>
+            <marc:subfield code="e">Degree granting institution</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1963</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">1963.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:6306221</marc:subfield>
+            <marc:subfield code="q">application/pdf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">2/21/1995</marc:subfield>
+            <marc:subfield code="b">6/20/2000</marc:subfield>
+            <marc:subfield code="c">8/29/1989</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">6 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI6306221</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 1963 LOVE</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">910470-1001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFILM 886 REEL 732D-67</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518101812539</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">11/27/2001</marc:subfield>
+            <marc:subfield code="x">MICROFILM</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>04683ntm a22003497a 4500</marc:leader>
+        <marc:controlfield tag="001">u1920995</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
+        <marc:controlfield tag="008">000126s1999    -usa   #smmm s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)43352081</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kim, Daekyu,</marc:subfield>
+            <marc:subfield code="d">1963-</marc:subfield>
+            <marc:subfield code="e">author</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Numerical simulation and experimental verification of cone penetration rate and anisotrophy in cohesive soils /</marc:subfield>
+            <marc:subfield code="c">by Daekyu Kim.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">1999.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">xvi, 211 leaves :</marc:subfield>
+            <marc:subfield code="b">ill. ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">212 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">1999</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 61-03, Section: B, page: 1537.;Directors:  Mehmet T. Tumay; George Z. Voyiadjis.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1999.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="a">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a">&quot;This research focuses on the effects of cone penetration rate and anisotropy on the results of piezocone penetration and subsequent dissipation tests. Finite element analyses, and miniature piezocone penetration and dissipation tests in a calibration chamber were performed, then the results were compared.;The anisotropic elastoplastic-viscoplastic; bounding surface model was chosen as a soil model and it was implemented into a computer program, ANCALBR8. The isotropic/anisotropic triaxial compression, creep tests, and oedometer tests were performed to determine the model parameter values and verify the model. The model showed very good agreement with the triaxial test results.;The theoretical formulation was based on the theory of mixtures with the soil model in the Updated Lagrangian frame, and it was implemented into a computer program, EPVPCS-S. EPVPCS-S was used for the finite element analyses of piezocone penetration and dissipation tests.;Ten piezocone penetration and dissipation tests were conducted under Ko condition using LSU/CALCHAS (Louisiana State University Calibration Chamber System). The K33 (the mixture of 33% kaolin, 67% fine sand) was used for the laboratory tests and the chamber tests as the soil sample. The chamber tests were conducted for normally consolidated and heavily overconsolidated cases at the penetration rates of 0.3 cm/sec and 0.6 cm/sec. The U1 (filter element at the cone tip) and U2 (filter element above the cone base) configurations of miniature piezocone penetrometers were used.;The results of the finite element analyses showed good agreement with the experimental results with regard to cone resistance, excess pore water pressure, and dissipation.;It was observed that cone resistance, excess pore water pressure, and sleeve friction increased with the increase in penetration rate, but decreased with the increase of OCR for both U1 and U2 configurations. The excess pore water pressures at the cone tip (U1) were larger than those above the cone base (U2). The initial immediate drop of excess pore water pressure was clearly identified. Its magnitude increased with the increase in penetration rate, but decreased with the increase of OCR.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Civil and Environmental Engineering.</marc:subfield>
+            <marc:subfield code="e">Degree granting institution</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1999</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">1999.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9960071</marc:subfield>
+            <marc:subfield code="q">application/pdf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">3/9/2000</marc:subfield>
+            <marc:subfield code="c">1/26/2000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 6 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI9960071</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 1999 KIM</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518089004877</marc:subfield>
+            <marc:subfield code="d">6/10/2010</marc:subfield>
+            <marc:subfield code="e">5/10/2010</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">MIDL-MAIN</marc:subfield>
+            <marc:subfield code="n">13</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF.  ship.129 due 3/15/00;cac;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.1999-218</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518097620821</marc:subfield>
+            <marc:subfield code="j">3</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">LSU DISSERTATION 1999 KIM</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1920995-4001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">6/24/2015</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 154 (T824757346)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>05060ntm a22003617a 4500</marc:leader>
+        <marc:controlfield tag="001">u1922029</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
+        <marc:controlfield tag="008">010606s2001    -usa   #smmm s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)47081713</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Browndyke, Jeffrey Nicholas,</marc:subfield>
+            <marc:subfield code="d">1969-</marc:subfield>
+            <marc:subfield code="e">author</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The Remote Neuropsychological Assessment - Category Test :</marc:subfield>
+            <marc:subfield code="b">development and validation of a computerized, internet-based neuropsychological assessment measure /</marc:subfield>
+            <marc:subfield code="c">by Jeffrey Nicholas Browndyke.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">x, 112 leaves :</marc:subfield>
+            <marc:subfield code="b">ill. ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">113 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 62-06, Section: B, page: 2951.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="a">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a">&quot;In the current investigation, a prototype for the remote assessment of cognitive skills, the &quot;&quot;remote neuropsychological assessment (RNA) model,&quot;&quot; was proposed, and the development and validation of a computerized, Internet-based neuropsychological assessment measure was undertaken to demonstrate the utility and effectiveness of this untapped model of assessment delivery. The Remote Neuropsychological Assessment-Category Test (RNA-CT), a test of abstract concept formation administered via the World Wide Web (WWW), was developed and contrasted with a conventional, non-computerized version of the measure---the Booklet Category Test (BCT). Traditional and novel measurement variables from both measures were compared in a randomized group design of normal college-educated subjects in an attempt to demonstrate equivalence between the conventional assessment and RNA model. Comparison of the equivalence between administration types suggests significant convergence for total error, subtest error variables, and internal factor structure between measures. However, differences in the amount of variance allotted to the factor structures of the subtest error variables suggests that, while equivalent in their outcome variables and internal test structures, the measures tend to differentially weigh their component constructs (i.e., congeneric equivalence). In contrast to the equivalence noted between measures on their primary variables, significant differences between administration types were noted for the majority of the response timing variables (e.g., total test time and total time per subtest). The results of the timing variable comparisons suggest that the RNA-CT may prove to be a more time efficient test. However, a significant positive relationship between timing and error variables was noted for the RNA-CT; a relationship that was not fully supported in the BCT analyses. Future research is needed before the significance or utility of RNA-CT and BCT timing variables can be established.;Overall, the results from the current investigation point toward a high degree of convergent and construct validity between RNA and conventional administrations of a neuropsychological assessment measure in a normal, college-educated population. The theoretical and practical implications of employing a RNA model are discussed and suggestions are provided for the future evaluation and implementation of RNA in modern clinical practice.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a"> William Drew Gouvier.</marc:subfield>
+            <marc:subfield code="e">Thesis advisor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Psychology.</marc:subfield>
+            <marc:subfield code="e">Degree granting institution</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3016530</marc:subfield>
+            <marc:subfield code="q">application/pdf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">9/5/2001</marc:subfield>
+            <marc:subfield code="c">6/6/2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 6 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI3016530</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 2001 BROW</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518087992933</marc:subfield>
+            <marc:subfield code="d">3/17/2003</marc:subfield>
+            <marc:subfield code="e">2/13/2003</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">MIDL-MAIN</marc:subfield>
+            <marc:subfield code="n">2</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF.  ship.01-003 due 8/15/01;omh;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.2001-35</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518092065386</marc:subfield>
+            <marc:subfield code="j">2</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">MICROFICHE</marc:subfield>
+            <marc:subfield code="o">.STAFF.  esp;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">LSU DISSERTATION 2001 BROWNDYKE</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1922029-4001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">6/30/2015</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="0">MISSHELVED</marc:subfield>
+            <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 190 (T824757382)</marc:subfield>
+            <marc:subfield code="o">.STAFF. Missing on 7/1/2015--JS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>04721ntm a22003617a 4500</marc:leader>
+        <marc:controlfield tag="001">u1922082</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
+        <marc:controlfield tag="008">010613s2001    -us    #smmm s000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)47122343</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ellis, Jeffrey M.</marc:subfield>
+            <marc:subfield code="q">(Jeffrey Mark),</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="e">author</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Glyphosate- and glufosinate-resistant technologies :</marc:subfield>
+            <marc:subfield code="b">weed management and off-target crop response /</marc:subfield>
+            <marc:subfield code="c">by Jeffrey M. Ellis.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">vii, 126 leaves ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">127 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 62-06, Section: B, page: 2542.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="a">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a">&quot;Utility of preemergence soil-applied herbicides at full and half label rates were evaluated in glyphosate-resistant soybean. In most instances, differences in early season weed density and height were not noted when rates were reduced. None of the herbicides provided complete weed control, but some delayed weed growth providing an extra 3 to 7 days before the first postemergence glyphosate application was needed. Based on weed control and soybean yield, use of glyphosate alone was as effective as when preemergence herbicides were followed by glyphosate. In another study, barnyardgrass control with glyphosate at 0.84 and 1.12 kg ai/ha was not antagonized when applied with reduced rates of chlorimuron, acifluorfen, fomesafen, lactofen, or CGA-277476. Improved control with the combinations was noted only when pitted morningglory and hemp sesbania were large at application. When weeds were effectively controlled with glyphosate alone, soybean yield was not improved with the herbicide combinations.;Soybean, cotton, rice, and corn response to simulated drift representing 0.125, 0.063, 0.032, 0.016, and 0.008 of the use rates of 1.12 kg ai/ha glyphosate and 0.42 kg ai/ha glufosinate was evaluated using a constant spray volume. Injury and height reductions occurred in most cases only for the two highest rates. Initially, soybean was more sensitive to glyphosate and cotton more sensitive to glufosinate, but both crops rapidly recovered from injury and yields were not affected. In contrast, the highest rate of glyphosate reduced rice yield as much as 99% when applied at 2- to 3-leaf and 54% when applied at panicle differentiation with a 30% reduction for glufosinate. Corn yield was reduced by as much as 78% for glyphosate, but no more than 13% for glufosinate. In subsequent drift studies, corn and soybean were exposed to glyphosate applied in constant carrier volume of 234 L/ha and in proportional carrier volumes to include 29.3 and 14.7 L/ha for the 0.125 and 0.063 respective rates. Corn height reduction 14 days after treatment was 1.6 times greater and visual injury approximately twice as high, and yield reduction 1.6 times greater when glyphosate was applied in proportional spray volume.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a"> James L. Griffin.</marc:subfield>
+            <marc:subfield code="e">Thesis advisor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">Dept. of Plant Pathology and Crop Physiology.</marc:subfield>
+            <marc:subfield code="e">Degree granting institution</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ph.D.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">2001.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3016543</marc:subfield>
+            <marc:subfield code="q">application/pdf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">9/5/2001</marc:subfield>
+            <marc:subfield code="c">6/13/2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 6 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI3016543</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 2001 ELLI</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518087993063</marc:subfield>
+            <marc:subfield code="d">8/16/2001</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">MIDL-MAIN</marc:subfield>
+            <marc:subfield code="n">1</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF.  ship.01-003 due 8/15/01;omh;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.2001-48</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518092065501</marc:subfield>
+            <marc:subfield code="j">2</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">12/7/2001</marc:subfield>
+            <marc:subfield code="x">MICROFICHE</marc:subfield>
+            <marc:subfield code="o">.STAFF.  esp;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">LSU DISSERTATION 2001 ELLIS</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1922082-4001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">6/30/2015</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 192 (T824757384)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>04690ccm a22004335a 4500</marc:leader>
+        <marc:controlfield tag="001">u1961900</marc:controlfield>
+        <marc:controlfield tag="003">SIRSI</marc:controlfield>
+        <marc:controlfield tag="007">cz#bn#nnnaubua</marc:controlfield>
+        <marc:controlfield tag="008">951102s1994    -us  a #smmm s00    eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)33413449</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUU</marc:subfield>
+            <marc:subfield code="c">LUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">LUUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="092" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76</marc:subfield>
+            <marc:subfield code="b">L930d,1994</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Benner, George Albert,</marc:subfield>
+            <marc:subfield code="d">1955-</marc:subfield>
+            <marc:subfield code="e">author</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Continuous variation in Ellen Taaffe Zwilich's Intrada, and Generations, an original composition for soprano, tenor, and orchestra / by George Albert Benner.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">(viii, 390 leaves) :</marc:subfield>
+            <marc:subfield code="b">score ;</marc:subfield>
+            <marc:subfield code="c">29 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">390 p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">[Dissertation / Louisiana State University] ;</marc:subfield>
+            <marc:subfield code="v">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Source: Dissertation Abstracts International, Volume: 56-03, Section: A, page: 7500.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="502" ind1=" " ind2=" ">
+            <marc:subfield code="a">Thesis (D.M.A.)--Louisiana State University, Baton Rouge, 1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="a">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a">&quot;This dissertation divides into two parts. The first part illustrates certain traits of Ellen Taaffe Zwilich's neo-Romantic style by analyzing a single piece, Intrada (1983) for five players. The analysis is in three main sections. The first section discusses how Zwilich's background might have influenced her post-1979 writing, particularly her interest in continuous variation through the writings of Schoenberg and her studies with Sessions, and Carter. The second section focuses on Intrada and Zwilich's use of continuous variation. This section also analyzes cyclical elements and considers various older principles of melodic and pitch recurrence while determining the form of this piece. The second section divides into three subsections that discuss the work's basic building blocks, its main divisions, and its overall formal properties. The third section briefly reflects on other striking features of the score, especially Zwilich's characteristic use of instrumentation. This last section ends by summarizing some of the ways these techniques follow the goals of neo-Romanticism.;The second part is an original composition by the author for soprano, tenor, and orchestra entitled Generations. Based on a self-written text, the work is in six movements--Daybreak, Grandfather, Father, Son, Child, and Nightfall--that tells the story of four generations. The account is a loose autobiography of the writer's life. The use of individual motives for the various characters in the work forms the underlying thread that connects each movement to one another. The work has many tonal allusions and places great emphasis on emotional and programmatic themes. The thematic material also draws on various folk and hymn sources. Although not limited to one hymn quotation during each of the character movements, there is the realization of a different hymn tune in its entirety for each of these movements. These hymn quotations also serve as a connecting element.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Variations (Music)</marc:subfield>
+            <marc:subfield code="x">Analysis, appreciation.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Zwilich, Ellen Taaffe,</marc:subfield>
+            <marc:subfield code="d">1939-</marc:subfield>
+            <marc:subfield code="t">Intrada.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Benner, George Albert,</marc:subfield>
+            <marc:subfield code="d">1955-</marc:subfield>
+            <marc:subfield code="t">Generations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dinos Constantinides.</marc:subfield>
+            <marc:subfield code="e">Thesis advisor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Louisiana State University (Baton Rouge, La.).</marc:subfield>
+            <marc:subfield code="b">School of Music.</marc:subfield>
+            <marc:subfield code="e">Degree granting institution</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="791" ind1=" " ind2=" ">
+            <marc:subfield code="a">D.M.A.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="792" ind1=" " ind2=" ">
+            <marc:subfield code="a">1994</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="793" ind1=" " ind2=" ">
+            <marc:subfield code="a">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Dissertation (Louisiana State University (Baton Rouge, La.)) ;</marc:subfield>
+            <marc:subfield code="v">1994.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:9524433</marc:subfield>
+            <marc:subfield code="q">application/pdf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">12/16/1999</marc:subfield>
+            <marc:subfield code="c">11/2/1995</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">6 7 8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="a">AAI9524433</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">378.76 L930D 1994 BENN</marc:subfield>
+            <marc:subfield code="w">DEWEY</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518009997986</marc:subfield>
+            <marc:subfield code="d">6/11/2012</marc:subfield>
+            <marc:subfield code="e">5/18/2012</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">MUSIC</marc:subfield>
+            <marc:subfield code="n">14</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">12/10/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">MICROFICHE 1900 NO.1994-170</marc:subfield>
+            <marc:subfield code="w">ALPHANUM</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">31518097418333</marc:subfield>
+            <marc:subfield code="j">5</marc:subfield>
+            <marc:subfield code="l">STACKS</marc:subfield>
+            <marc:subfield code="m">DOCS_MICRO</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">MICROFORM</marc:subfield>
+            <marc:subfield code="u">12/10/2001</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">LSU DISSERTATION 1994 BENNER</marc:subfield>
+            <marc:subfield code="w">ASIS</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="i">1961900-4001</marc:subfield>
+            <marc:subfield code="l">UARCHIVES</marc:subfield>
+            <marc:subfield code="m">SPEC_COLL</marc:subfield>
+            <marc:subfield code="r">Y</marc:subfield>
+            <marc:subfield code="s">Y</marc:subfield>
+            <marc:subfield code="t">BOOK</marc:subfield>
+            <marc:subfield code="u">6/11/2015</marc:subfield>
+            <marc:subfield code="x">DISS</marc:subfield>
+            <marc:subfield code="o">.STAFF. Archival Copy. Iron Mountain, LSU Dissertations Box 46 (T824755238)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

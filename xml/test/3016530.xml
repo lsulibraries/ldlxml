@@ -21,7 +21,75 @@
    <note type="ownership">
             LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
         </note>
+   <accessCondition/>
    <accessCondition type="use and reproduction">
             To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
         </accessCondition>
+   <mods xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:local="http://www.loc.org/namespace"
+         version="3.5">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>Remote Neuropsychological Assessment - Category Test </title>
+         <subTitle>development and validation of a computerized, internet-based neuropsychological assessment measure </subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Browndyke, Jeffrey Nicholas</namePart>
+         <namePart type="date">1969-</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart> William Drew Gouvier</namePart>
+         <role>
+            <roleTerm type="text">Thesis advisor</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+         <namePart>Dept. of Psychology</namePart>
+         <role>
+            <roleTerm type="text">Degree granting institution</roleTerm>
+         </role>
+      </name>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="marcgt">theses</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">-us</placeTerm>
+         </place>
+         <dateCreated>2001</dateCreated>
+         <dateIssued encoding="marc">2001</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+            Descriptive information about the thing...
+        </physicalDescription>
+      <abstract displayLabel="Abstract">"In the current investigation, a prototype for the remote assessment of cognitive skills, the ""remote neuropsychological assessment (RNA) model,"" was proposed, and the development and validation of a computerized, Internet-based neuropsychological assessment measure was undertaken to demonstrate the utility and effectiveness of this untapped model of assessment delivery. The Remote Neuropsychological Assessment-Category Test (RNA-CT), a test of abstract concept formation administered via the World Wide Web (WWW), was developed and contrasted with a conventional, non-computerized version of the measure---the Booklet Category Test (BCT). Traditional and novel measurement variables from both measures were compared in a randomized group design of normal college-educated subjects in an attempt to demonstrate equivalence between the conventional assessment and RNA model. Comparison of the equivalence between administration types suggests significant convergence for total error, subtest error variables, and internal factor structure between measures. However, differences in the amount of variance allotted to the factor structures of the subtest error variables suggests that, while equivalent in their outcome variables and internal test structures, the measures tend to differentially weigh their component constructs (i.e., congeneric equivalence). In contrast to the equivalence noted between measures on their primary variables, significant differences between administration types were noted for the majority of the response timing variables (e.g., total test time and total time per subtest). The results of the timing variable comparisons suggest that the RNA-CT may prove to be a more time efficient test. However, a significant positive relationship between timing and error variables was noted for the RNA-CT; a relationship that was not fully supported in the BCT analyses. Future research is needed before the significance or utility of RNA-CT and BCT timing variables can be established.;Overall, the results from the current investigation point toward a high degree of convergent and construct validity between RNA and conventional administrations of a neuropsychological assessment measure in a normal, college-educated population. The theoretical and practical implications of employing a RNA model are discussed and suggestions are provided for the future evaluation and implementation of RNA in modern clinical practice."</abstract>
+      <accessCondition type="restrictionOnAccess">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</accessCondition>
+      <note type="statement of responsibility">by Jeffrey Nicholas Browndyke.</note>
+      <note>"Source: Dissertation Abstracts International, Volume: 62-06, Section: B, page: 2951."</note>
+      <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 2001.</note>
+      <note>1 6 8</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:3016530</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 2001</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">47081713</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordCreationDate encoding="marc">010606</recordCreationDate>
+         <recordIdentifier source="SIRSI">u1922029</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using
+					MARC21slim2MODS3-5_XSL2-0.xsl (Revision 2.23 2014/12/19)</recordOrigin>
+      </recordInfo>
+   </mods>
 </mods>
