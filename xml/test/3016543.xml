@@ -5,26 +5,6 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:marc="http://www.loc.gov/MARC21/slim"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="dewey">378.76 L930D 2001 ELLI</identifier>
-   <identifier type="dewey">3016543</identifier>
-   <location>
-      <physicalLocation>LUU</physicalLocation>
-      <physicalLocation>LSU Libraries</physicalLocation>
-      <url>http://www.lib.lsu.edu</url>
-      <holdingSimple>
-         <copyInformation>
-            <subLocation>Middleton Stacks</subLocation>
-            <shelfLocator>378.76 L930D 2001 ELLI</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <note type="ownership">
-            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
-        </note>
-   <accessCondition/>
-   <accessCondition type="use and reproduction">
-            To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
-        </accessCondition>
    <mods xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:local="http://www.loc.org/namespace"
          version="3.5">
@@ -65,9 +45,6 @@
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
-      <physicalDescription>
-            Descriptive information about the thing...
-        </physicalDescription>
       <abstract displayLabel="Abstract">"Utility of preemergence soil-applied herbicides at full and half label rates were evaluated in glyphosate-resistant soybean. In most instances, differences in early season weed density and height were not noted when rates were reduced. None of the herbicides provided complete weed control, but some delayed weed growth providing an extra 3 to 7 days before the first postemergence glyphosate application was needed. Based on weed control and soybean yield, use of glyphosate alone was as effective as when preemergence herbicides were followed by glyphosate. In another study, barnyardgrass control with glyphosate at 0.84 and 1.12 kg ai/ha was not antagonized when applied with reduced rates of chlorimuron, acifluorfen, fomesafen, lactofen, or CGA-277476. Improved control with the combinations was noted only when pitted morningglory and hemp sesbania were large at application. When weeds were effectively controlled with glyphosate alone, soybean yield was not improved with the herbicide combinations.;Soybean, cotton, rice, and corn response to simulated drift representing 0.125, 0.063, 0.032, 0.016, and 0.008 of the use rates of 1.12 kg ai/ha glyphosate and 0.42 kg ai/ha glufosinate was evaluated using a constant spray volume. Injury and height reductions occurred in most cases only for the two highest rates. Initially, soybean was more sensitive to glyphosate and cotton more sensitive to glufosinate, but both crops rapidly recovered from injury and yields were not affected. In contrast, the highest rate of glyphosate reduced rice yield as much as 99% when applied at 2- to 3-leaf and 54% when applied at panicle differentiation with a 30% reduction for glufosinate. Corn yield was reduced by as much as 78% for glyphosate, but no more than 13% for glufosinate. In subsequent drift studies, corn and soybean were exposed to glyphosate applied in constant carrier volume of 234 L/ha and in proportional carrier volumes to include 29.3 and 14.7 L/ha for the 0.125 and 0.063 respective rates. Corn height reduction 14 days after treatment was 1.6 times greater and visual injury approximately twice as high, and yield reduction 1.6 times greater when glyphosate was applied in proportional spray volume."</abstract>
       <accessCondition type="restrictionOnAccess">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</accessCondition>
       <note type="statement of responsibility">by Jeffrey M. Ellis.</note>

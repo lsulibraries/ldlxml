@@ -5,26 +5,6 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:marc="http://www.loc.gov/MARC21/slim"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="dewey">378.76 L930D 1999 KIM</identifier>
-   <identifier type="dewey">9960071</identifier>
-   <location>
-      <physicalLocation>LUU</physicalLocation>
-      <physicalLocation>LSU Libraries</physicalLocation>
-      <url>http://www.lib.lsu.edu</url>
-      <holdingSimple>
-         <copyInformation>
-            <subLocation>Middleton Stacks</subLocation>
-            <shelfLocator>378.76 L930D 1999 KIM</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <note type="ownership">
-            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
-        </note>
-   <accessCondition/>
-   <accessCondition type="use and reproduction">
-            To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
-        </accessCondition>
    <mods xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:local="http://www.loc.org/namespace"
          version="3.5">
@@ -58,9 +38,6 @@
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
-      <physicalDescription>
-            Descriptive information about the thing...
-        </physicalDescription>
       <abstract displayLabel="Abstract">"This research focuses on the effects of cone penetration rate and anisotropy on the results of piezocone penetration and subsequent dissipation tests. Finite element analyses, and miniature piezocone penetration and dissipation tests in a calibration chamber were performed, then the results were compared.;The anisotropic elastoplastic-viscoplastic; bounding surface model was chosen as a soil model and it was implemented into a computer program, ANCALBR8. The isotropic/anisotropic triaxial compression, creep tests, and oedometer tests were performed to determine the model parameter values and verify the model. The model showed very good agreement with the triaxial test results.;The theoretical formulation was based on the theory of mixtures with the soil model in the Updated Lagrangian frame, and it was implemented into a computer program, EPVPCS-S. EPVPCS-S was used for the finite element analyses of piezocone penetration and dissipation tests.;Ten piezocone penetration and dissipation tests were conducted under Ko condition using LSU/CALCHAS (Louisiana State University Calibration Chamber System). The K33 (the mixture of 33% kaolin, 67% fine sand) was used for the laboratory tests and the chamber tests as the soil sample. The chamber tests were conducted for normally consolidated and heavily overconsolidated cases at the penetration rates of 0.3 cm/sec and 0.6 cm/sec. The U1 (filter element at the cone tip) and U2 (filter element above the cone base) configurations of miniature piezocone penetrometers were used.;The results of the finite element analyses showed good agreement with the experimental results with regard to cone resistance, excess pore water pressure, and dissipation.;It was observed that cone resistance, excess pore water pressure, and sleeve friction increased with the increase in penetration rate, but decreased with the increase of OCR for both U1 and U2 configurations. The excess pore water pressures at the cone tip (U1) were larger than those above the cone base (U2). The initial immediate drop of excess pore water pressure was clearly identified. Its magnitude increased with the increase in penetration rate, but decreased with the increase of OCR."</abstract>
       <accessCondition type="restrictionOnAccess">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</accessCondition>
       <note type="statement of responsibility">by Daekyu Kim.</note>

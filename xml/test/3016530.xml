@@ -5,26 +5,6 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:marc="http://www.loc.gov/MARC21/slim"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="dewey">378.76 L930D 2001 BROW</identifier>
-   <identifier type="dewey">3016530</identifier>
-   <location>
-      <physicalLocation>LUU</physicalLocation>
-      <physicalLocation>LSU Libraries</physicalLocation>
-      <url>http://www.lib.lsu.edu</url>
-      <holdingSimple>
-         <copyInformation>
-            <subLocation>Middleton Stacks</subLocation>
-            <shelfLocator>378.76 L930D 2001 BROW</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <note type="ownership">
-            LSU Libraries, Baton Rouge, La., http://lib.lsu.edu/
-        </note>
-   <accessCondition/>
-   <accessCondition type="use and reproduction">
-            To provide comments about this digital project or inquire about ordering copies of these images, email lsudiglib@lsu.edu. Mention the "Identifier" in your request. Providing reproductions does not constitute permission to publish or reproduce images in print or electronic form.
-        </accessCondition>
    <mods xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:local="http://www.loc.org/namespace"
          version="3.5">
@@ -66,9 +46,6 @@
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
-      <physicalDescription>
-            Descriptive information about the thing...
-        </physicalDescription>
       <abstract displayLabel="Abstract">"In the current investigation, a prototype for the remote assessment of cognitive skills, the ""remote neuropsychological assessment (RNA) model,"" was proposed, and the development and validation of a computerized, Internet-based neuropsychological assessment measure was undertaken to demonstrate the utility and effectiveness of this untapped model of assessment delivery. The Remote Neuropsychological Assessment-Category Test (RNA-CT), a test of abstract concept formation administered via the World Wide Web (WWW), was developed and contrasted with a conventional, non-computerized version of the measure---the Booklet Category Test (BCT). Traditional and novel measurement variables from both measures were compared in a randomized group design of normal college-educated subjects in an attempt to demonstrate equivalence between the conventional assessment and RNA model. Comparison of the equivalence between administration types suggests significant convergence for total error, subtest error variables, and internal factor structure between measures. However, differences in the amount of variance allotted to the factor structures of the subtest error variables suggests that, while equivalent in their outcome variables and internal test structures, the measures tend to differentially weigh their component constructs (i.e., congeneric equivalence). In contrast to the equivalence noted between measures on their primary variables, significant differences between administration types were noted for the majority of the response timing variables (e.g., total test time and total time per subtest). The results of the timing variable comparisons suggest that the RNA-CT may prove to be a more time efficient test. However, a significant positive relationship between timing and error variables was noted for the RNA-CT; a relationship that was not fully supported in the BCT analyses. Future research is needed before the significance or utility of RNA-CT and BCT timing variables can be established.;Overall, the results from the current investigation point toward a high degree of convergent and construct validity between RNA and conventional administrations of a neuropsychological assessment measure in a normal, college-educated population. The theoretical and practical implications of employing a RNA model are discussed and suggestions are provided for the future evaluation and implementation of RNA in modern clinical practice."</abstract>
       <accessCondition type="restrictionOnAccess">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</accessCondition>
       <note type="statement of responsibility">by Jeffrey Nicholas Browndyke.</note>
