@@ -70,9 +70,9 @@
                                     <!--<xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="keyDate">yes</xsl:attribute>-->
                                     <xsl:value-of select="regex-group(1)"/>
-                                    <!--  <xsl:value-of>?-</xsl:value-of> -->
+                                    <xsl:text>?-</xsl:text>
                                     <xsl:value-of select="regex-group(2)"/>
-                                    <!-- <xsl:value-of>?</xsl:value-of> -->
+                                    <xsl:text>?</xsl:text>
                                 </xsl:element>
                             </xsl:matching-substring>
                         </xsl:analyze-string>
@@ -84,9 +84,9 @@
                                     <!--<xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="keyDate">yes</xsl:attribute>-->
                                     <xsl:value-of select="regex-group(1)"/>
-                                    <xsl:value-of>?-</xsl:value-of>
+                                    <xsl:text>?-</xsl:text>
                                     <xsl:value-of select="regex-group(2)"/>
-                                    <xsl:value-of>?</xsl:value-of>
+                                    <xsl:text>?</xsl:text>
                                 </xsl:element>
                             </xsl:matching-substring>
                         </xsl:analyze-string>
