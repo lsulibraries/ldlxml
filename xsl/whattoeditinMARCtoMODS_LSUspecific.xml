@@ -1,104 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:mods="http://www.loc.gov/mods/v3"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:marc="http://www.loc.gov/MARC21/slim"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <titleInfo>
-      <title>Effect of a highly fortified vitamin-mineral supplement in high concentrate and low concentrate rations for dairy cows</title>
-      <!-- <subtitle> should be added when the 100 has a b; will need to check if it gets created if there is only a ; separator -->
-   </titleInfo>
-   <name type="personal" usage="primary">
-      <!-- we may want to divide the namePart into given and family -->
-      <namePart>Lovell, Tom</namePart>
-      <namePart type="date">1934-</namePart>
-      <!-- will all be "author" when Mike is able to edit the base MARC -->
+Skip to content
+This repository  
+Search
+Pull requests
+Issues
+Gist
+ @myqua
+ Unwatch 11
+  Star 0
+ Fork 0 lsulibraries/ldlxml
+Branch: master  ldlxml/mods/ETD/0000418_editingsuggestions.xml
+@rtilla1rtilla1 on Jul 10 added 9 samples of marc to mods with basic loc transformation
+1 contributor
+RawBlameHistory     128 lines (113 sloc)  6.9 KB
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.0">
+    <!-- correct title and author capitalization ?-->
+    <titleInfo>
+      <!-- was <title>MARK TWAIN'S THEORIES OF MORALITY</title>--> 
+      <title>Mark Twain's Theories of Morality</title>
+    </titleInfo>
+    
+    <!-- added usage element, corrected capitalization, and changed role to author -->
+    <name type="personal" usage="primary">
+      <!-- was <namePart>FLOWERS, FRANK C.</namePart> -->
+      <namePart type="given">Frank C.</namePart>
+      <namePart type="family">Flowers</namePart>
+      <!-- optional element: <namePart type="date"></namePart>-->
+      <!-- changed role from creator to author and added a code -->
       <role>
-         <roleTerm type="text" authority="marcrelator"/>
-         <roleTerm type="code" authority="marcrelator"/>
+        <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        <roleTerm authority="marcrelator" type="code">aut</roleTerm>
       </role>
-   </name>
-   <name type="corporate">
-      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
-      <namePart>Dept. of Dairy Science.</namePart>
-      <!-- will hopefully become "degree grantor" when Mike is able to edit the base MARC -->
+    </name>
+    <!-- TDL makes a "Thesis Advisor" mandatory; same rules as name above, but marcrelator="Thesis advisor" -->
+    <!-- TDL recommends names of committee members; same rules as name above, but marcrelator="Committee member"-->
+    
+    <!-- do we want this in the "native" name field, in a publisher field, or in the name type=degree grantor recommended by TDL? -->
+    <name type="corporate">
+      <namePart>Louisiana State University and Agricultural &amp; Mechanical College</namePart>
+      <!-- TDL recommends including a <namePart> with the degree department after the "granting institution" -->
       <role>
-         <roleTerm type="text" authority="marcrelator"/>
-         <roleTerm type="code" authority="marcrelator"/>
+        <roleTerm authority="marcrelator" type="text">Degree grantor</roleTerm>
+        <!-- I think we should also add a type="code" any time we use a type="text" -->
       </role>
-   </name>
-   <typeOfResource>text</typeOfResource>
-   <genre authority="marcgt">bibliography</genre>
-   <originInfo>
-      <!-- will be edited when Mike is able to edit the base MARC -->
-      <place>
-         <placeTerm type="code" authority="marccountry">xx</placeTerm>
-      </place>
-      <dateIssued>1963</dateIssued>
+      
+    </name>
+  <!-- does this meet DPLA requirements; TDL recommends using the DCMI Type vocabulary -->
+    <typeOfResource>text</typeOfResource>
+    
+    <!-- could this become a more "publisher" like field:check the Sheet Music mapping option -->
+    <originInfo>
+      <!-- TDL recommends dateCreated for the date the student graduates or the degree is conferred (if I remember correctly, this is also preferred by DPLA -->
+      <!-- TDL recommends using dateIssued (ie.published) for the date the ETD is released to the public -->
+      <!-- we should use ISO 8601 for our encoding standard -->
+      <dateIssued encoding="marc">1941</dateIssued><!--should we change this to ISL 8601?-->
+      <!-- issuance not recommended by TDL, but "other valid subelements or attributes with the <mods:originInfo> element may be used" -->
       <issuance>monographic</issuance>
-   </originInfo>
-   <language>
+    </originInfo>
+    <language> <!-- meets TDL standard automatically -->
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-   </language>
-   <physicalDescription>
-      <form authority="marcform">print</form>
-      <extent>xv, 102 leaves : ill. ; 29 cm.</extent>
-      <extent>118 p.</extent>
-   </physicalDescription>
-   
-   <!-- Thing to add; may be edited when Mike is able to edit the base MARC  
-   <physicalDescription>
-      <form>electronic</form> comes from 008, can be taken care of
-      <internetMediaType>application/pdf</internetMediaType> comes from 856 delimiter q
-      <digitalOrigin>digitized microfilm</digitalOrigin> see line 1318 <xsl:if test="$typeOf008='CF' and marc:controlfield[@tag=007][substring(.,12,1)='b']">
-				<digitalOrigin>digitized microfilm</digitalOrigin>
-   </physicalDescription>
-    --> 
-   
-   <!-- needs to become <abstract lang="eng">Not available</abstract> if there is no abstract, or become the abstract if there is one -->
-   <abstract type="Summary">Abstract.</abstract>
-   
-   <!-- These field should probably get types so that we can filter them out of OAI-PMH harvesting by DPLA and "Details" -->
-   <note>"Source: Dissertation Abstracts International, Volume: 24-03, page: 9150."</note>
-   <note>Vita.</note>
-   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1963.</note>
-   <note type="bibliography">Bibliography: leaves 62-69.</note>
-   
-   <subject authority="lcsh">
-      <topic>Dairy cattle</topic>
-      <topic>Feeding and feeds</topic>
-   </subject>
-   
-   <!-- we may want to get rid of "Primary Display"; I don't think this will be accurate anymore -->
-   <location>
-      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:6306221</url>
-   </location>
-   
-   <relatedItem type="series">
-      <!-- remove the date from the series so that they will share a series -->
-      <titleInfo>
-         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1963</title>
-      </titleInfo>
-   </relatedItem>
-   <recordInfo>
-      <descriptionStandard>aacr</descriptionStandard>
-      <recordCreationDate encoding="marc">890214</recordCreationDate>
-      <recordIdentifier source="SIRSI">u910470</recordIdentifier>
-      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>
-   </recordInfo>
-   
-   <!-- we said we wanted to add all of the identiers, including a note about which ones are OCLC numbers vs. Proquest vs. Call numbers 
+      <!-- this is the flip side of the ones that include a text, but not a code; do we want to always include both, and add a language text? -->
+    </language>
+    <!-- added form, internetMediaType, and digital origin to physical description (are these correct; I guessed) -->
+    <physicalDescription>
+      <form>electronic</form>
+      <internetMediaType>application/pdf</internetMediaType> <!-- TDL recommends taking this information from www.iana.org/assignments/media‐types/index.html -->
+      <digitalOrigin>digitized microfilm</digitalOrigin>
+      <!-- could also be "born digital", "digitized other analog", or "reformatted digital"-->
+      <!-- TDL does not give instructions for extent, but I think we should at least change the formatting to RDA-compliant 239 pages -->
+      <extent>239 p.</extent>
+    </physicalDescription>
+    <!-- TDL recommends putting the full text of the abstract in <abstract lang="eng"> and putting "Not available" if there is not abstract text -->
+    <abstract lang="eng">Not available</abstract>
+    <!-- can these become a more specific field? -->
+    
+    <!-- should we add a subject genre for theses and dissertations?
+          also, can we run the subjects through OpenRefine and try to cluster and check 
+          against something like LCSH?-->
+    <subject>
+      <topic>Philosophy</topic>
+    </subject>
+    
+    <!-- TDL recommends a locally defined, unique standard number; our "native" MODS use identifier for a second url,
+      so I think we should consider using the recordIdentifier or creating a new Identifier; does anyone
+    know where the recordIdentifier comes from in the MARC and whether it is unique?-->
+    <identifier>AAI0000418</identifier>
   
-  	<identifier type=”oclc”>ocm180187473</identifier>
-   <identifier type=”call number”>378.76L930D 1941 FLOW</identifier>
-   <identifier type=”local”>if the number in 001 does not begin with ocm</identifier>
-   <identifier type=”proquest”>AAI3135312</identifier>
-   
-   -->
-   
-   <!--TDL recommends this, but we don't have this data as such. Can we piece it together?
+  <!-- no changes needed unless we want to add something like AltRepGroup to describe the different urls (ours
+  in the repository, the proquest, and the uri?-->
+    <location>
+      <url>http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:0000418</url>
+    </location>
+    
+    <note>Source: Dissertation Abstracts International, Volume: 04-01, page: 2700.</note>
+    <note>Thesis (Ph.D.)--Louisiana State University and Agricultural &amp; Mechanical College, 1941.</note>
+    
+   <!--TDL recommends this, but we don't have this data as such: It seems, though, that this data is where the "subject" comes from.
      <extension>
       <etd:degree>
         <etd:name>Doctor of Philosophy</etd:name>
@@ -107,10 +105,40 @@
       </etd:degree>
     </extension>
     -->
-
-   <!-- added genre due to TDL recommendation; correcting 008 may fix this as well 
-   <genre authority="marcgt">thesis</genre>-->
-   
-   
-   
-</mods>
+    
+    <!-- added genre due to TDL recommendation -->
+    <genre authority="marcgt">thesis</genre>
+    
+    
+    <!-- Do we want to keep this data? Should it be included in PREMIS/METS once we get that online?
+    TDL recommends using these elements like so:
+    
+    <mods:recordInfo>
+<mods:recordContentSource authority="marcorg">TxCM</mods:recordContentSource>
+<mods:recordCreationDate encoding="iso8601">2005‐08‐26</mods:recordCreationDate>
+<mods: recordChangeDate encoding="iso8601">2005‐08‐26</mods:recordChangeDate>
+<mods:recordIdentifier>12345678</mods:recordIdentifier>
+</mods:recordInfo>
+    -->
+    <recordInfo>
+      <recordContentSource authority="marcorg">MiAaPQ</recordContentSource>
+      <recordCreationDate encoding="marc">140908</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20140908111845.5</recordChangeDate>
+      <recordIdentifier>AAI0000418</recordIdentifier>
+    </recordInfo>
+    
+    <!-- None of the information below is included in TDL's recommendations; Do we want to keep it? Should it be edited? -->
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Dissertation Abstracts International</title>
+      </titleInfo>
+      <part>
+        <text>04-01.</text>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:0000418</identifier>
+    
+  </mods>
+</modsCollection>
+Status API Training Shop Blog About Pricing
+© 2015 GitHub, Inc. Terms Privacy Security Contact Help

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:local="http://www.loc.org/namespace"
+      version="3.5">
+   <titleInfo>
+      <title>Effect of a highly fortified vitamin-mineral supplement in high concentrate and low concentrate rations for dairy cows</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Lovell, Tom</namePart>
+      <namePart type="date">1934-</namePart>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Louisiana State University (Baton Rouge, La.)</namePart>
+      <namePart>Dept. of Dairy Science</namePart>
+      <role>
+         <roleTerm type="text">Degree granting institution</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">-us</placeTerm>
+      </place>
+      <dateIssued>1963</dateIssued>
+      <dateIssued encoding="marc">1963</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <abstract displayLabel="Summary">Abstract available.</abstract>
+   <accessCondition type="restrictionOnAccess">LSU claims physical rights of these materials.  As a general statement, LSU makes no ownership claim to the intellectual property contained within unless the works incorporate or reference other items owned by LSU. The materials in these digital collections are made available for use in research, teaching, and private study, pursuant to U.S. Copyright law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source.</accessCondition>
+   <note>"Source: Dissertation Abstracts International, Volume: 24-03, page: 9150."</note>
+   <note type="thesis">Thesis (Ph.D.)--Louisiana State University, Baton Rouge, 1963.</note>
+   <note>Vita.</note>
+   <note type="bibliography">Bibliography: leaves 62-69.</note>
+   <note>6 8</note>
+   <subject authority="lcsh">
+      <topic>Dairy cattle</topic>
+      <topic>Feeding and feeds</topic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary display">http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&amp;res_dat=xri:pqm&amp;rft_dat=xri:pqdiss:6306221</url>
+   </location>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Dissertation (Louisiana State University (Baton Rouge, La.)) ; 1963</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">890214</recordCreationDate>
+      <recordIdentifier source="SIRSI">u910470</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using
+					MARC21slim2MODS3-5_XSL2-0.xsl (Revision 2.23 2014/12/19)</recordOrigin>
+   </recordInfo>
+</mods>
