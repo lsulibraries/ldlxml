@@ -2,17 +2,17 @@
 <titleInfo><title>Portrait of an unidentified African
 American woman</title></titleInfo>
 
-<name xmlns="http://www.loc.gov/mods/v3" type="personal" usage="primary"><namePart>Lytle, Andrew David</namePart><namePart type="date">1833-1917</namePart><role><roleTerm type="code" authority="marcrelator">pht</roleTerm><roleTerm type="text" authority="marcrelator">Photographer </roleTerm></role></name>
+<name type="personal" usage="primary"><namePart>Lytle, Andrew David</namePart><namePart type="date">1833-1917</namePart><role><roleTerm type="code" authority="marcrelator">pht</roleTerm><roleTerm type="text" authority="marcrelator">Photographer </roleTerm></role></name>
 
 <originInfo><dateCreated>1890-1899</dateCreated></originInfo>
 
-<physical_description>1 photographic print on cabinet card; 10 x 15 cm</physical_description>
+<physicalDescription><note type="content">1 photographic print on cabinet card</note><extent>10 x 15 cm</extent><form>Photograph/Pictorial Works</form></physicalDescription><typeOfResource>still image</typeOfResource>
 
 <notes/>
 
 <type>image</type>
 
-<subjects>African Americans--Photographs.</subjects>
+<subject><topic authority="LoC">African Americans--Photographs.</topic></subject>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 

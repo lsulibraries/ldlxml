@@ -1,17 +1,17 @@
 <mods>
 <titleInfo><title>Portrait of an unidentified African American woman with puppies</title></titleInfo>
 
-<name xmlns="http://www.loc.gov/mods/v3"><namePart>Unknown</namePart></name>
+<name><namePart>Unknown</namePart></name>
 
 <originInfo><dateCreated>1900-1910</dateCreated></originInfo>
 
-<physical_description>1 Real photo postcard</physical_description>
+<physicalDescription><note type="content">1 Real photo postcard</note><form>Photograph/Pictorial Works</form></physicalDescription><typeOfResource>still image</typeOfResource>
 
 <notes/>
 
 <type>image</type>
 
-<subjects>African Americans--Photographs.</subjects>
+<subject><topic authority="LoC">African Americans--Photographs.</topic></subject>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 

@@ -13,7 +13,16 @@
         <p:rename match="xml" new-name="mods"/>
         <!-- title -->
         <p:wrap wrapper="titleInfo" match="mods/title"/>
-        <!-- photographer to mods/name using util-photographer.xsl -->
+        <!-- physicalDescription. note that form and typeOfResource key off photographer - easiest to do it before photographer to mods/name -->
+        <p:xslt>
+            <p:input port="stylesheet">
+                <p:document href="xsl/physical-description.xsl"></p:document>
+            </p:input>
+            <p:input port="parameters">
+                <p:empty/>
+            </p:input>
+        </p:xslt>
+        <!-- photographer to mods/name using util-photographer.xsl (need to make this an if-then for other name types) -->
         <p:xslt>
             <p:input port="stylesheet">
                 <p:document href="xsl/util-photographer.xsl"></p:document>
@@ -25,6 +34,15 @@
         <!-- dateCreated -->
         <p:rename match="mods/date" new-name="dateCreated"/>
         <p:wrap wrapper="originInfo" match="mods/dateCreated" />
+        <!-- subjects -->
+        <p:xslt>
+            <p:input port="stylesheet">
+                <p:document href="xsl/subjects.xsl"></p:document>
+            </p:input>
+            <p:input port="parameters">
+                <p:empty/>
+            </p:input>
+        </p:xslt>
         <!-- accessCondition -->
         <p:add-attribute match="mods/restrictions" attribute-name="type" attribute-value="restriction on access" />
         <p:rename match="mods/restrictions" new-name="accessCondition"/>

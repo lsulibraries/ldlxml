@@ -1,17 +1,17 @@
 <mods>
 <titleInfo><title>Group portrait of seven unidentified African American men</title></titleInfo>
 
-<name xmlns="http://www.loc.gov/mods/v3"><namePart>Porter's News Photos (New Orleans, La.)</namePart></name>
+<name><namePart>Porter's News Photos (New Orleans, La.)</namePart></name>
 
 <originInfo><dateCreated>1945-1955</dateCreated></originInfo>
 
-<physical_description>1 Photograph</physical_description>
+<physicalDescription><note type="content">1 Photograph</note><form>Photograph/Pictorial Works</form></physicalDescription><typeOfResource>still image</typeOfResource>
 
 <notes/>
 
 <type>image</type>
 
-<subjects>African Americans--Photographs.</subjects>
+<subject><topic authority="LoC">African Americans--Photographs.</topic></subject>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 

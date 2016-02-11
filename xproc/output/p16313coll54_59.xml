@@ -1,17 +1,17 @@
 <mods>
 <titleInfo><title>Minstrel show cast on a stage with the band in the orchestra pit</title></titleInfo>
 
-<name xmlns="http://www.loc.gov/mods/v3"><namePart>[Stevenson Studio (Cairo, Ill.)]</namePart></name>
+<name><namePart>[Stevenson Studio (Cairo, Ill.)]</namePart></name>
 
 <originInfo><dateCreated>1905-1915</dateCreated></originInfo>
 
-<physical_description>1 Gelatin silver print</physical_description>
+<physicalDescription><note type="content">1 Gelatin silver print</note><form>Photograph/Pictorial Works</form></physicalDescription><typeOfResource>still image</typeOfResource>
 
 <notes/>
 
 <type>image</type>
 
-<subjects>African Americans--Photographs; Blackface entertainers -- Illinois--Cairo--Photographs; Minstrel shows--Illinois--Cairo--Photographs.</subjects>
+<subject><topic authority="LoC">African Americans--Photographs</topic></subject><subject><topic authority="LoC">Blackface entertainers -- Illinois--Cairo--Photographs</topic></subject><subject><topic authority="LoC">Minstrel shows--Illinois--Cairo--Photographs.</topic></subject>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 

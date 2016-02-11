@@ -1,17 +1,17 @@
 <mods>
 <titleInfo><title>Group portrait of six unidentified African American women and men</title></titleInfo>
 
-<name xmlns="http://www.loc.gov/mods/v3"><namePart>Arlington Studio (Hot Springs, Ark.)</namePart></name>
+<name><namePart>Arlington Studio (Hot Springs, Ark.)</namePart></name>
 
 <originInfo><dateCreated>1905-1915</dateCreated></originInfo>
 
-<physical_description>1 Real photo postcard</physical_description>
+<physicalDescription><note type="content">1 Real photo postcard</note><form>Photograph/Pictorial Works</form></physicalDescription><typeOfResource>still image</typeOfResource>
 
 <notes/>
 
 <type>image</type>
 
-<subjects>African Americans--Photographs.</subjects>
+<subject><topic authority="LoC">African Americans--Photographs.</topic></subject>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 
