@@ -2,9 +2,9 @@
 <titleInfo><title>Portrait of an unidentified African
 American woman</title></titleInfo>
 
-<photographer>Lytle, Andrew David, 1833-1917.</photographer>
+<name xmlns="http://www.loc.gov/mods/v3" type="personal" usage="primary"><namePart>Lytle, Andrew David</namePart><namePart type="date">1833-1917</namePart><role><roleTerm type="code" authority="marcrelator">pht</roleTerm><roleTerm type="text" authority="marcrelator">Photographer </roleTerm></role></name>
 
-<date>1891</date>
+<originInfo><dateCreated>1891</dateCreated></originInfo>
 
 <physical_description>1 photographic print on cabinet card; 10 x 15 cm</physical_description>
 

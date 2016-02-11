@@ -1,9 +1,9 @@
 <mods>
 <titleInfo><title>Portrait of an unidentified African American boy child</title></titleInfo>
 
-<photographer>Unknown</photographer>
+<name xmlns="http://www.loc.gov/mods/v3"><namePart>Unknown</namePart></name>
 
-<date>1890-1899</date>
+<originInfo><dateCreated>1890-1899</dateCreated></originInfo>
 
 <physical_description>1 photographic print on cabinet card; 10 x 15 cm</physical_description>
 

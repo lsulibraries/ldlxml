@@ -1,9 +1,9 @@
 <mods>
 <titleInfo><title>Portrait of three unidentified African American women</title></titleInfo>
 
-<photographer>Unknown</photographer>
+<name xmlns="http://www.loc.gov/mods/v3"><namePart>Unknown</namePart></name>
 
-<date>1890-1899</date>
+<originInfo><dateCreated>1890-1899</dateCreated></originInfo>
 
 <physical_description>Mounted photographic print</physical_description>
 

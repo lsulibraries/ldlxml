@@ -1,9 +1,9 @@
 <mods>
 <titleInfo><title>Portrait of an unidentified African American woman with puppies</title></titleInfo>
 
-<photographer>Unknown</photographer>
+<name xmlns="http://www.loc.gov/mods/v3"><namePart>Unknown</namePart></name>
 
-<date>1900-1910</date>
+<originInfo><dateCreated>1900-1910</dateCreated></originInfo>
 
 <physical_description>1 Real photo postcard</physical_description>
 
