@@ -1,6 +1,6 @@
-<xml>
-<title>Portrait of an unidentified African
-American man</title>
+<mods>
+<titleInfo><title>Portrait of an unidentified African
+American man</title></titleInfo>
 
 <photographer>Unknown</photographer>
 
@@ -58,4 +58,4 @@ American man</title>
 <cdmprintpdf>0</cdmprintpdf>
 <cdmhasocr>0</cdmhasocr>
 <cdmisnewspaper>0</cdmisnewspaper>
-</xml>
+</mods>

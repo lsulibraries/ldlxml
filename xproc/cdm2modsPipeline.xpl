@@ -7,11 +7,15 @@
         <p:load>
             <p:with-option name="href" select="concat('input/', /*/@name)"/>
         </p:load>
-        <!-- access condition -->
-        <p:add-attribute match="xml/restrictions" attribute-name="type" attribute-value="restriction on access" />
-        <p:rename match="xml/restrictions" new-name="accessCondition"/>
-        <p:add-attribute match="xml/contact_and_ordering_information" attribute-name="type" attribute-value="use and reproduction" />
-        <p:rename match="xml/contact_and_ordering_information" new-name="accessCondition"/>
+        <!-- mods -->
+        <p:rename match="xml" new-name="mods"/>
+        <!-- title -->
+        <p:wrap wrapper="titleInfo" match="mods/title"/>
+        <!-- accessCondition -->
+        <p:add-attribute match="mods/restrictions" attribute-name="type" attribute-value="restriction on access" />
+        <p:rename match="mods/restrictions" new-name="accessCondition"/>
+        <p:add-attribute match="mods/contact_and_ordering_information" attribute-name="type" attribute-value="use and reproduction" />
+        <p:rename match="mods/contact_and_ordering_information" new-name="accessCondition"/>
         <p:store>
             <p:with-option name="href" select="concat('output/', /*/@name)">
                 <p:pipe port="current" step="iterate"/>
