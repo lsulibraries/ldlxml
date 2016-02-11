@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p:declare-step xmlns:p="http://www.w3.org/ns/xproc"
+<p:declare-step xmlns:p="http://www.w3.org/ns/xproc" 
     xmlns:c="http://www.w3.org/ns/xproc-step" version="1.0">
-    <!-- Single file input -->
-    <p:input port="source">
-        <p:document href="Input/Mingoexport.xml" />
-    </p:input>
-    <!-- Single file output - need to change to iterate through the records and create filenames -->
-    <p:output port="result" sequence="true">
-        <p:pipe port="result" step="step1"></p:pipe>
-    </p:output>
-    <p:identity/>
-    
-    <p:for-each name="step1">
-        <p:iteration-source select="//record"/>
-        <p:output port="result"/>
-        <p:variable name="fileName" select="record/cite-as/substring-after(., '4700')/>
-        <p:store name="store">
-            <p:with-option name="href" select="concat($fileName, '.xml')"/>
+    <p:directory-list path="Input"/>
+    <p:filter select="//c:file"/>
+    <p:for-each name="iterate">
+        <p:load>
+            <p:with-option name="href" select="concat('input/', /*/@name)"/>
+        </p:load>
+        <!-- access condition -->
+        <p:add-attribute match="xml/restrictions" attribute-name="type" attribute-value="restriction on access" />
+        <p:rename match="xml/restrictions" new-name="accessCondition"/>
+        <p:add-attribute match="xml/contact_and_ordering_information" attribute-name="type" attribute-value="use and reproduction" />
+        <p:rename match="xml/contact_and_ordering_information" new-name="accessCondition"/>
+        <p:store>
+            <p:with-option name="href" select="concat('output/', /*/@name)">
+                <p:pipe port="current" step="iterate"/>
+            </p:with-option>
         </p:store>
-        <p:identity>
-            <p:input port="source">
-                <p:pipe step="store" port="result"/>
-            </p:input>
-        </p:identity>
     </p:for-each>
 </p:declare-step>
+    
