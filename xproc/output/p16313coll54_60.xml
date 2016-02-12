@@ -16,13 +16,13 @@
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 
 <location>
-                    <placeholder xmlns:c="http://www.w3.org/ns/xproc-step">
-                      <physicalLocation>LUU</physicalLocation>
-                      <physicalLocation>LSU Libraries</physicalLocation>
-                      <url>http://lib.lsu.edu</url>
-                    </placeholder>
+                    <physicalLocation>LUU</physicalLocation>
+                
+                    <physicalLocation>LSU Libraries</physicalLocation>                  
+                
+                    <url>http://lib.lsu.edu</url>
                 <holdingSimple><copyInformation>
-                    <subLocation xmlns:c="http://www.w3.org/ns/xproc-step">Hill Memorial Library, Special Collections</subLocation>
+                    <subLocation>Hill Memorial Library, Special Collections</subLocation>
                 <shelfLocator>65:01:00</shelfLocator></copyInformation></holdingSimple></location>
 
 <note type="ownership">Louisiana State University Libraries, Special Collections (http://www.lib.lsu.edu/special).</note>

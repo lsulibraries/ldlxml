@@ -58,7 +58,7 @@
         <p:wrap match="mods/shelfLocator" wrapper="copyInformation"/>
         <p:insert match="mods/copyInformation/shelfLocator" position="before">
             <p:input port="insertion">
-                <p:inline>
+                <p:inline exclude-inline-prefixes="#all">
                     <subLocation>Hill Memorial Library, Special Collections</subLocation>
                 </p:inline>
             </p:input>
@@ -67,12 +67,14 @@
         <p:wrap match="mods/holdingSimple" wrapper="location"/>
         <p:insert match="mods/location/holdingSimple" position="before">
             <p:input port="insertion">
-                <p:inline>
-                    <placeholder>
-                      <physicalLocation>LUU</physicalLocation>
-                      <physicalLocation>LSU Libraries</physicalLocation>
-                      <url>http://lib.lsu.edu</url>
-                    </placeholder>
+                <p:inline exclude-inline-prefixes="#all">
+                    <physicalLocation>LUU</physicalLocation>
+                </p:inline>
+                <p:inline exclude-inline-prefixes="#all" >
+                    <physicalLocation>LSU Libraries</physicalLocation>                  
+                </p:inline>
+                <p:inline exclude-inline-prefixes="#all">
+                    <url>http://lib.lsu.edu</url>
                 </p:inline>
             </p:input>
         </p:insert>
