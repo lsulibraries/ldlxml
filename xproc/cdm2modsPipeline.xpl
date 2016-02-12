@@ -53,6 +53,30 @@
         <p:rename match="mods/restrictions" new-name="accessCondition"/>
         <p:add-attribute match="mods/contact_and_ordering_information" attribute-name="type" attribute-value="use and reproduction" />
         <p:rename match="mods/contact_and_ordering_information" new-name="accessCondition"/>
+        <!-- location needs to be hard-coded? make variables? -->
+        <p:rename match="mods/shelving_location" new-name="shelfLocator"/>
+        <p:wrap match="mods/shelfLocator" wrapper="copyInformation"/>
+        <p:insert match="mods/copyInformation/shelfLocator" position="before">
+            <p:input port="insertion">
+                <p:inline>
+                    <subLocation>Hill Memorial Library, Special Collections</subLocation>
+                </p:inline>
+            </p:input>
+        </p:insert>
+        <p:wrap match="mods/copyInformation" wrapper="holdingSimple"/>
+        <p:wrap match="mods/holdingSimple" wrapper="location"/>
+        <p:insert match="mods/location/holdingSimple" position="before">
+            <p:input port="insertion">
+                <p:inline>
+                    <placeholder>
+                      <physicalLocation>LUU</physicalLocation>
+                      <physicalLocation>LSU Libraries</physicalLocation>
+                      <url>http://lib.lsu.edu</url>
+                    </placeholder>
+                </p:inline>
+            </p:input>
+        </p:insert>
+
         <!--save multiple files in output directory -->
         <p:store>
             <p:with-option name="href" select="concat('output/', /*/@name)">

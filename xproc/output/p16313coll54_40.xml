@@ -16,7 +16,15 @@ American woman</title></titleInfo>
 
 <digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
 
-<shelving_location>65:01:00</shelving_location>
+<location>
+                    <placeholder xmlns:c="http://www.w3.org/ns/xproc-step">
+                      <physicalLocation>LUU</physicalLocation>
+                      <physicalLocation>LSU Libraries</physicalLocation>
+                      <url>http://lib.lsu.edu</url>
+                    </placeholder>
+                <holdingSimple><copyInformation>
+                    <subLocation xmlns:c="http://www.w3.org/ns/xproc-step">Hill Memorial Library, Special Collections</subLocation>
+                <shelfLocator>65:01:00</shelfLocator></copyInformation></holdingSimple></location>
 
 <note type="ownership">Louisiana State University Libraries, Special Collections (http://www.lib.lsu.edu/special).</note>
 
