@@ -17,7 +17,7 @@
 
 <shelving_location>65:01:00</shelving_location>
 
-<repository>Louisiana State University Libraries, Special Collections (http://www.lib.lsu.edu/special).</repository>
+<note type="ownership">Louisiana State University Libraries, Special Collections (http://www.lib.lsu.edu/special).</note>
 
 <repository_collection_guide>Finding Aid: http://www.lib.lsu.edu/sites/default/files/sc/findaid/5113.pdf</repository_collection_guide>
 
@@ -27,7 +27,7 @@
 
 <accessCondition type="use and reproduction">E-mail lsudiglib@lsu.edu with questions or comments. See instructions for ordering reprints of this image here: http://www.lib.lsu.edu/special/services/duplication.html Mention the 'Item number' or 'Item URL' in your request.</accessCondition>
 
-<item_number>511319</item_number>
+<identifier>511319</identifier>
 
 <item_url>See "reference url" on the navigation bar.</item_url>
 

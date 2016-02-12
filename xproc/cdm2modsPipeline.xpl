@@ -43,6 +43,11 @@
                 <p:empty/>
             </p:input>
         </p:xslt>
+        <!-- identifier -->
+        <p:rename match="mods/item_number" new-name="identifier"/>
+        <!-- note ownership -->
+        <p:rename match="mods/repository" new-name="note"/>
+        <p:add-attribute match="mods/note" attribute-name="type" attribute-value="ownership"/>
         <!-- accessCondition -->
         <p:add-attribute match="mods/restrictions" attribute-name="type" attribute-value="restriction on access" />
         <p:rename match="mods/restrictions" new-name="accessCondition"/>
