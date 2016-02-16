@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element name="xml" xmlns="http://relaxng.org/ns/structure/1.0">
+    <oneOrMore>
+        <element name="title">
+            <text/>
+        </element>
+        <element name="photographer">
+            <text/>
+        </element>
+        <element name="date">
+            <text/>
+        </element>
+        <element name="physical_description">
+            <text/>
+        </element>
+        <element name="notes">
+            <text/>
+        </element>
+        <element name="type">
+            <text/>
+        </element>
+        <element name="subjects">
+            <text/>
+        </element>
+        <element name="digital_collection">
+            <text/>
+        </element>
+        <element name="shelving_location">
+            <text/>
+        </element>        
+        <element name="repository">
+            <text/>
+        </element>
+        <element name="repository_collection_guide">
+            <text/>
+        </element>
+        <element name="cite_as">
+            <text/>
+        </element>        
+        <element name="restrictions">
+            <text/>
+        </element>        
+        <element name="contact_and_ordering_information">
+            <text/>
+        </element> 
+        <element name="item_number">
+            <text/>
+        </element>
+        <element name="item_url">
+            <text/>
+        </element>
+        <element name="collection_url">
+            <text/>
+        </element>
+        <element name="file_name">
+            <text/>
+        </element> 
+        <element name="archival_file">
+            <text/>
+        </element> 
+        <element name="contentdm_file_name">
+            <text/>
+        </element>
+        <element name="dmaccess">
+            <text/>
+        </element>        
+        <element name="dmimage">
+            <text/>
+        </element>
+        <element name="date_created">
+            <text/>
+        </element>
+        <element name="date_modified">
+            <text/>
+        </element> 
+        <element name="oclc_number">
+            <text/>
+        </element>
+        <element name="contentdm_number">
+            <text/>
+        </element>
+        <element name="restrictionCode">
+            <text/>
+        </element>
+        <element name="cdmfilesize">
+            <text/>
+        </element>
+        <element name="cdmfilesizeformatted">
+            <text/>
+        </element>
+        <element name="cdmprintpdf">
+            <text/>
+        </element>
+        <element name="cdmhasocr">
+            <text/>
+        </element>
+        <element name="cdmisnewspaper">
+            <text/>
+        </element>
+    </oneOrMore>
+</element>

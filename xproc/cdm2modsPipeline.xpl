@@ -2,12 +2,19 @@
 <p:declare-step xmlns:p="http://www.w3.org/ns/xproc" 
     xmlns:c="http://www.w3.org/ns/xproc-step" version="1.0">
     <!-- load multiple files from input directory -->
-    <p:directory-list path="Input"/>
+    <p:directory-list path="input"/>
     <p:filter select="//c:file"/>
     <p:for-each name="iterate">
         <p:load>
             <p:with-option name="href" select="concat('input/', /*/@name)"/>
         </p:load>
+        <!-- validate with Relax ng -->
+        <p:validate-with-relax-ng assert-valid="true">
+            <p:input port="schema">
+                <p:document href="ValidateCDM.rng" />
+            </p:input>
+        </p:validate-with-relax-ng>
+        
         <!-- mods transform -->
         <!-- mods -->
         <p:rename match="xml" new-name="mods"/>
