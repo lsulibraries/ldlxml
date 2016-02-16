@@ -52,50 +52,80 @@
         <element name="collection_url">
             <text/>
         </element>
+      </oneOrMore>
+    <optional>
         <element name="file_name">
             <text/>
-        </element> 
+        </element>
+    </optional>
+    <optional>
         <element name="archival_file">
             <text/>
-        </element> 
+        </element>
+    </optional> 
+    <optional>
         <element name="contentdm_file_name">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="dmaccess">
             <text/>
-        </element>        
+        </element>
+    </optional>        
+    <optional>
         <element name="dmimage">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="date_created">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="date_modified">
             <text/>
         </element> 
+    </optional>
+    <optional>
         <element name="oclc_number">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="contentdm_number">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="restrictionCode">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="cdmfilesize">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="cdmfilesizeformatted">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="cdmprintpdf">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="cdmhasocr">
             <text/>
         </element>
+    </optional>
+    <optional>
         <element name="cdmisnewspaper">
             <text/>
         </element>
-    </oneOrMore>
+    </optional>
 </element>
