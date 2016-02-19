@@ -85,7 +85,38 @@
                 </p:inline>
             </p:input>
         </p:insert>
-
+        <!-- relatedItem type="host" -->
+        <p:wrap match="mods/digital_collection" wrapper="titleInfo"/>
+        <p:wrap match="mods/titleInfo" wrapper="relatedItem"/>
+        <p:add-attribute match="mods/relatedItem" attribute-name="type" attribute-value="host"/>
+        <p:rename match="mods/relatedItem/titleInfo/digital_collection" new-name="title"/>
+        <p:insert match="mods/relatedItem[@type='host']" position="last-child">
+            <p:input port="insertion">
+                <p:inline exclude-inline-prefixes="#all">
+                    <location>
+                    </location>
+                </p:inline>
+            </p:input>
+        </p:insert>
+        
+        <!-- delete extraneous fields -->
+        <p:delete match="mods/item_url" />
+        <p:delete match="mods/collection_url"/>
+        <p:delete match="mods/file_name"/>
+        <p:delete match="mods/archival_file"/>
+        <p:delete match="mods/contentdm_file_name"/>
+        <p:delete match="mods/dmaccess"/>
+        <p:delete match="mods/dmimage"/>
+        <p:delete match="mods/date_created"/>
+        <p:delete match="mods/date_modified"/>
+        <p:delete match="mods/oclc_number"/>
+        <p:delete match="mods/contentdm_number"/>
+        <p:delete match="mods/restrictionCode"/>
+        <p:delete match="mods/cdmfilesize"/>
+        <p:delete match="mods/cdmfilesizeformatted"/>
+        <p:delete match="mods/cdmprintpdf"/>
+        <p:delete match="mods/cdmhasocr"/>
+        <p:delete match="mods/cdmisnewspaper"/>
         <!--save multiple files in output directory -->
         <p:store>
             <p:with-option name="href" select="concat('output/', /*/@name)">

@@ -1,5 +1,8 @@
 <mods>
-<titleInfo><title>Group portrait of six unidentified African American women and men</title></titleInfo>
+<relatedItem type="host"><titleInfo><title>Group portrait of six unidentified African American women and men</title></titleInfo>
+                    <location>
+                    </location>
+                </relatedItem>
 
 <name><namePart>Arlington Studio (Hot Springs, Ark.)</namePart></name>
 
@@ -13,7 +16,10 @@
 
 <subject><topic authority="LoC">African Americans--Photographs.</topic></subject>
 
-<digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
+<relatedItem type="host"><titleInfo><title>Mingo Family African American Photographs, 1887-1955</title></titleInfo>
+                    <location>
+                    </location>
+                </relatedItem>
 
 <location>
                     <physicalLocation>LUU</physicalLocation>
@@ -37,32 +43,32 @@
 
 <identifier>511324</identifier>
 
-<item_url>See "reference url" on the navigation bar.</item_url>
 
-<collection_url/>
 
-<file_name/>
 
-<archival_file/>
 
-<contentdm_file_name>57.jp2</contentdm_file_name>
 
-<dmaccess/>
 
-<dmimage/>
 
-<date_created>2014-01-13</date_created>
 
-<date_modified>2014-05-13</date_modified>
 
-<oclc_number/>
 
-<contentdm_number>56</contentdm_number>
 
-<restrictionCode>1</restrictionCode>
-<cdmfilesize>1767868</cdmfilesize>
-<cdmfilesizeformatted>1.69 MB</cdmfilesizeformatted>
-<cdmprintpdf>0</cdmprintpdf>
-<cdmhasocr>0</cdmhasocr>
-<cdmisnewspaper>0</cdmisnewspaper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </mods>

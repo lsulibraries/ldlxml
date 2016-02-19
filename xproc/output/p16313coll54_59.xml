@@ -1,5 +1,8 @@
 <mods>
-<titleInfo><title>Minstrel show cast on a stage with the band in the orchestra pit</title></titleInfo>
+<relatedItem type="host"><titleInfo><title>Minstrel show cast on a stage with the band in the orchestra pit</title></titleInfo>
+                    <location>
+                    </location>
+                </relatedItem>
 
 <name><namePart>[Stevenson Studio (Cairo, Ill.)]</namePart></name>
 
@@ -13,7 +16,10 @@
 
 <subject><topic authority="LoC">African Americans--Photographs</topic></subject><subject><topic authority="LoC">Blackface entertainers -- Illinois--Cairo--Photographs</topic></subject><subject><topic authority="LoC">Minstrel shows--Illinois--Cairo--Photographs.</topic></subject>
 
-<digital_collection>Mingo Family African American Photographs, 1887-1955</digital_collection>
+<relatedItem type="host"><titleInfo><title>Mingo Family African American Photographs, 1887-1955</title></titleInfo>
+                    <location>
+                    </location>
+                </relatedItem>
 
 <location>
                     <physicalLocation>LUU</physicalLocation>
@@ -37,32 +43,32 @@
 
 <identifier>551327</identifier>
 
-<item_url>See "reference url" on the navigation bar.</item_url>
 
-<collection_url/>
 
-<file_name/>
 
-<archival_file/>
 
-<contentdm_file_name>60.jp2</contentdm_file_name>
 
-<dmaccess/>
 
-<dmimage/>
 
-<date_created>2014-01-13</date_created>
 
-<date_modified>2014-05-13</date_modified>
 
-<oclc_number/>
 
-<contentdm_number>59</contentdm_number>
 
-<restrictionCode>1</restrictionCode>
-<cdmfilesize>6680422</cdmfilesize>
-<cdmfilesizeformatted>6.37 MB</cdmfilesizeformatted>
-<cdmprintpdf>0</cdmprintpdf>
-<cdmhasocr>0</cdmhasocr>
-<cdmisnewspaper>0</cdmisnewspaper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </mods>
