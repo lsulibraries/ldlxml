@@ -10,14 +10,19 @@
         </xsl:copy>
     </xsl:template>
     
-    
+   
     <xsl:template match="digital_collection">
         <relatedItem type="host">
             <titleInfo>
                 <title>
-                    <xsl:value-of select="digital_collection"/>
+                    <xsl:value-of select="."/>
                 </title>
             </titleInfo>
+            <location>
+                <url note="Finding Aid">
+                    <xsl:value-of select="substring-after(//repository_collection_guide,'Finding Aid: ')"/>
+                </url>
+            </location>
         </relatedItem>
     </xsl:template>
     

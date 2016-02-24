@@ -86,18 +86,14 @@
             </p:input>
         </p:insert>
         <!-- relatedItem type="host" -->
-        <p:wrap match="mods/digital_collection" wrapper="titleInfo"/>
-        <p:wrap match="mods/titleInfo" wrapper="relatedItem"/>
-        <p:add-attribute match="mods/relatedItem" attribute-name="type" attribute-value="host"/>
-        <p:rename match="mods/relatedItem/titleInfo/digital_collection" new-name="title"/>
-        <p:insert match="mods/relatedItem[@type='host']" position="last-child">
-            <p:input port="insertion">
-                <p:inline exclude-inline-prefixes="#all">
-                    <location>
-                    </location>
-                </p:inline>
+        <p:xslt>
+            <p:input port="stylesheet">
+                <p:document href="xsl/relatedItemHost.xsl"></p:document>
             </p:input>
-        </p:insert>
+            <p:input port="parameters">
+                <p:empty/>
+            </p:input>
+        </p:xslt>
         
         <!-- delete extraneous fields -->
         <p:delete match="mods/item_url" />
@@ -117,6 +113,20 @@
         <p:delete match="mods/cdmprintpdf"/>
         <p:delete match="mods/cdmhasocr"/>
         <p:delete match="mods/cdmisnewspaper"/>
+        <p:delete match="mods/repository_collection_guide"/>
+        <p:delete match="mods/cite_as"/>
+        
+        <!-- prettify the printing -->
+        
+        <p:xslt>
+            <p:input port="stylesheet">
+                <p:document href="xsl/prettyPrint.xsl"></p:document>
+            </p:input>
+            <p:input port="parameters">
+                <p:empty/>
+            </p:input>
+        </p:xslt>
+        
         <!--save multiple files in output directory -->
         <p:store>
             <p:with-option name="href" select="concat('output/', /*/@name)">
